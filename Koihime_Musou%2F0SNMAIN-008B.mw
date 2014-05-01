@@ -1,0 +1,46 @@
+[[Koihime Musou/Прогресс перевода/Сюжет|[Назад]]]
+<poem>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<DBS>
+  <String index="0">
+    <ToTranslate>bcg_sky_a</ToTranslate>
+  </String>
+  <String index="1">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="2">
+    <ToTranslate>bgm23</ToTranslate>
+  </String>
+  <String index="3">
+    <ToTranslate>$Прошло уже около месяца......@</ToTranslate>
+  </String>
+  <String index="4">
+    <ToTranslate>$Шури проверила и проанализировала информацию, полученную от вернувшихся шпионов.@</ToTranslate>
+  </String>
+  <String index="5">
+    <ToTranslate>$С теми сведениями что у нас были, я решил начать войну против Цао Вей.@</ToTranslate>
+  </String>
+  <String index="6">
+    <ToTranslate>$Цао Цао всё так-же по-прежнему пыталась выкрасть Аишу.@</ToTranslate>
+  </String>
+  <String index="7">
+    <ToTranslate>$Но решающим фактором была информация о том, что мы были следующей целью для Цао Вей.@</ToTranslate>
+  </String>
+  <String index="8">
+    <ToTranslate>$А значит, нам следует проявить инициативу.@</ToTranslate>
+  </String>
+  <String index="9">
+    <ToTranslate>$Я хотел начать войну первым, чтобы у нас было хоть какое-то преимущество.@</ToTranslate>
+  </String>
+  <String index="10">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="11">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+</DBS>
+
+
+</poem>
+[[Koihime Musou/Прогресс перевода/Сюжет|[Назад]]]

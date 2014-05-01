@@ -1,0 +1,807 @@
+[[Koihime Musou/Прогресс перевода/Сюжет|[Назад]]]
+<poem>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<DBS>
+  <String index="0">
+    <ToTranslate>bcg_map_a</ToTranslate>
+  </String>
+  <String index="1">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="2">
+    <ToTranslate>bgm23</ToTranslate>
+  </String>
+  <String index="3">
+    <ToTranslate>$Завоевав Вей, мы некоторое время занимались внутренними делами.@</ToTranslate>
+  </String>
+  <String index="4">
+    <ToTranslate>$Я разделил территорию на провинции, разбил их на области...@</ToTranslate>
+  </String>
+  <String index="5">
+    <ToTranslate>$...и отправил туда наместников - такую же систему использовала поздняя династия Хань. Это помогло завоевать доверие жителей Вей...@</ToTranslate>
+  </String>
+  <String index="6">
+    <ToTranslate>$...и наше правительство без заслуживающих упоминания восстаний достигло больших успехов.@</ToTranslate>
+  </String>
+  <String index="7">
+    <ToTranslate>$Тем временем, возможно, из-за усталости от непрерывных сражений, по нашим войскам прокатилась волна болезни.@</ToTranslate>
+  </String>
+  <String index="8">
+    <ToTranslate>$К счастью, Шури - теперь мне надо бы называть её "супер-медсестра Шокацу Комэй" - предотвратила превращение этой болезни в эпидемию, приложив большие 
+
+усилия, но благодаря этому я понял, как сурова жизнь в эту эпоху.@</ToTranslate>
+  </String>
+  <String index="9">
+    <ToTranslate>$Здесь нет больниц, нет лекарств, нет почти никаких знаний о защите здоровья... небольшая небрежность может привести к смерти.@</ToTranslate>
+  </String>
+  <String index="10">
+    <ToTranslate>$Теперь я понял, что такова реальность этого мира.@</ToTranslate>
+  </String>
+  <String index="11">
+    <ToTranslate>$Вот почему я очень хочу защитить людей, с которыми я связан.@</ToTranslate>
+  </String>
+  <String index="12">
+    <ToTranslate>$Но... действительно ли эта болезнь возникла сама собой?@</ToTranslate>
+  </String>
+  <String index="13">
+    <ToTranslate>$Я слышал о том, что людей в белых одеждах видели в разных местах города и около дворца.@</ToTranslate>
+  </String>
+  <String index="14">
+    <ToTranslate>$...Может быть, многие вещи сейчас подходят к высшей точке.@</ToTranslate>
+  </String>
+  <String index="15">
+    <ToTranslate>$Когда-нибудь я покину этот мир...@</ToTranslate>
+  </String>
+  <String index="16">
+    <ToTranslate>$Я не могу сдержать свои чувства к Айше. С нашей первой встречи они становятся всё сильнее и сильнее.@</ToTranslate>
+  </String>
+  <String index="17">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="18">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="19">
+    <ToTranslate>_kyotenphase</ToTranslate>
+  </String>
+  <String index="20">
+    <ToTranslate>bcg_oncastwall_c</ToTranslate>
+  </String>
+  <String index="21">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="22">
+    <ToTranslate>bgm27</ToTranslate>
+  </String>
+  <String index="23">
+    <ToTranslate>SE029</ToTranslate>
+  </String>
+  <String index="24">
+    <ToTranslate>tcg_ukt11dc</ToTranslate>
+  </String>
+  <String index="25">
+    <ToTranslate>tcg_ukt11m</ToTranslate>
+  </String>
+  <String index="26">
+    <ToTranslate>ukit0060</ToTranslate>
+  </String>
+  <String index="27">
+    <ToTranslate>Укицу$Добрый вечер, Шую Прекрасная, опора Ву.@</ToTranslate>
+  </String>
+  <String index="28">
+    <ToTranslate>tcg_syu21dc</ToTranslate>
+  </String>
+  <String index="29">
+    <ToTranslate>tcg_syu21m</ToTranslate>
+  </String>
+  <String index="30">
+    <ToTranslate>syuy0111</ToTranslate>
+  </String>
+  <String index="31">
+    <ToTranslate>Шую$...Кто ты такой?@</ToTranslate>
+  </String>
+  <String index="32">
+    <ToTranslate>tcg_ukt11bc</ToTranslate>
+  </String>
+  <String index="33">
+    <ToTranslate>tcg_ukt11m</ToTranslate>
+  </String>
+  <String index="34">
+    <ToTranslate>ukit0061</ToTranslate>
+  </String>
+  <String index="35">
+    <ToTranslate>Укицу$О, вы даже не удивлены моим внезапным появлением. Должно быть, у вас очень сильный характер.@</ToTranslate>
+  </String>
+  <String index="36">
+    <ToTranslate>tcg_syu11cc</ToTranslate>
+  </String> 
+  <String index="37">
+    <ToTranslate>tcg_syu11m</ToTranslate>
+  </String>
+  <String index="38">
+    <ToTranslate>syuy0112</ToTranslate>
+  </String>
+  <String index="39">
+    <ToTranslate>Шую$Хмф. Просто я видела более чем достаточно поддельных даосов, вот и всё. Убирайся, презренный. Если ты не уйдёшь, я вызову стражу.@</ToTranslate>
+  </String>
+  <String index="40">
+    <ToTranslate>ukit0062</ToTranslate>
+  </String>
+  <String index="41">
+    <ToTranslate>Укицу$Давайте не будем торопиться. Разве вам не интересно послушать мою историю?@</ToTranslate>
+  </String>
+  <String index="42">
+    <ToTranslate>tcg_syu21fc</ToTranslate>
+  </String>
+  <String index="43">
+    <ToTranslate>tcg_syu21m</ToTranslate>
+  </String>
+  <String index="44">
+    <ToTranslate>syuy0113</ToTranslate>
+  </String>
+  <String index="45">
+    <ToTranslate>Шую$Нет, меня это не интересует.@</ToTranslate>
+  </String>
+  <String index="46">
+    <ToTranslate>Шую$Все вы, поддельные даосы, разливаетесь одними и теми же лживыми речами о вечной жизни и долголетии или о продлении жизни, и все эти слова на деле 
+
+оказываются такими же фальшивыми, как и даосы, произносящие их.@</ToTranslate>
+  </String>
+  <String index="47">
+    <ToTranslate>Шую$Это пустая трата времени.@</ToTranslate>
+  </String>
+  <String index="48">
+    <ToTranslate>tcg_ukt11fc</ToTranslate>
+  </String>
+  <String index="49">
+    <ToTranslate>tcg_ukt11m</ToTranslate>
+  </String>
+  <String index="50">
+    <ToTranslate>ukit0063</ToTranslate>
+  </String>
+  <String index="51">
+    <ToTranslate>Укицу$Даже если это насчёт Хонго Казуто?@</ToTranslate>
+  </String>
+  <String index="52">
+    <ToTranslate>tcg_syu11ac</ToTranslate>
+  </String>
+  <String index="53">
+    <ToTranslate>tcg_syu11m</ToTranslate>
+  </String>
+  <String index="54">
+    <ToTranslate>syuy0114</ToTranslate>
+  </String>
+  <String index="55">
+    <ToTranslate>Шую$...Оо?@</ToTranslate>
+  </String>
+  <String index="56">
+    <ToTranslate>tcg_ukt11ac</ToTranslate>
+  </String>
+  <String index="57">
+    <ToTranslate>tcg_ukt11m</ToTranslate>
+  </String>
+  <String index="58">
+    <ToTranslate>ukit0064</ToTranslate>
+  </String>
+  <String index="59">
+    <ToTranslate>Укицу$Хе-хе, я вижу, теперь вы проявили интерес.@</ToTranslate>
+  </String>
+  <String index="60">
+    <ToTranslate>tcg_syu11cc</ToTranslate>
+  </String>
+  <String index="61">
+    <ToTranslate>tcg_syu11m</ToTranslate>
+  </String>
+  <String index="62">
+    <ToTranslate>syuy0115</ToTranslate>
+  </String>
+  <String index="63">
+    <ToTranslate>Шую$Хорошо, я дам тебе возможность говорить.@</ToTranslate>
+  </String>
+  <String index="64">
+    <ToTranslate>ukit0065</ToTranslate>
+  </String>
+  <String index="65">
+    <ToTranslate>Укицу$Тогда, с вашего разрешения, я сообщу вам кое-что насчёт текущего положения дел Хонго Казуто.@</ToTranslate>
+  </String>
+  <String index="66">
+    <ToTranslate>ukit0066</ToTranslate>
+  </String>
+  <String index="67">
+    <ToTranslate>Укицу$Теперь, когда он заполучил территории Вей, он сосредоточен на внутренних делах и проводит политику, уделяющую внимание главным образом 
+
+благополучию жителей.@</ToTranslate>
+  </String>
+  <String index="68">
+    <ToTranslate>ukit0067</ToTranslate>
+  </String>
+  <String index="69">
+    <ToTranslate>Укицу$Благодаря этому жители Вей одобряют его правление. Теперь их национальное богатство достигнет процветания.@</ToTranslate>
+  </String>
+  <String index="70">
+    <ToTranslate>ukit0068</ToTranslate>
+  </String>
+  <String index="71">
+    <ToTranslate>Укицу$Когда его национальные богатства и его армия достигнут наиболее высоких успехов, будет ли возможно для Ву продолжить свои завоевания? Хе-хе-
+
+хе...@</ToTranslate>
+  </String>
+  <String index="72">
+    <ToTranslate>tcg_syu21dc</ToTranslate>
+  </String>
+  <String index="73">
+    <ToTranslate>tcg_syu21m</ToTranslate>
+  </String>
+  <String index="74">
+    <ToTranslate>syuy0116</ToTranslate>
+  </String>
+  <String index="75">
+    <ToTranslate>Шую$Так в чём дело?@</ToTranslate>
+  </String>
+  <String index="76">
+    <ToTranslate>tcg_ukt11fc</ToTranslate>
+  </String>
+  <String index="77">
+    <ToTranslate>tcg_ukt11m</ToTranslate>
+  </String>
+  <String index="78">
+    <ToTranslate>ukit0069</ToTranslate>
+  </String>
+  <String index="79">
+    <ToTranslate>Укицу$Если вы хотите сокрушить его, сейчас самое время для этого. Это всё.@</ToTranslate>
+  </String>
+  <String index="80">
+    <ToTranslate>tcg_syu11cc</ToTranslate>
+  </String>
+  <String index="81">
+    <ToTranslate>tcg_syu11m</ToTranslate>
+  </String>
+  <String index="82">
+    <ToTranslate>syuy0117</ToTranslate>
+  </String>
+  <String index="83">
+    <ToTranslate>Шую$...Я не могу тебе доверять. Нет никаких доказательств того, что тебя не подослал кто-то из сдавшихся нам стран, надеясь получить выгоду от 
+
+сражения, или, ещё хуже...@</ToTranslate>
+  </String>
+  <String index="84">
+    <ToTranslate>Шую$...что тебя не послал сюда шпионить Хонго, замышляющий заставить нас развязать войну и оправдать то, что он захватил нашу 
+
+территорию.@</ToTranslate>
+  </String>
+  <String index="85">
+    <ToTranslate>tcg_syu11ac</ToTranslate>
+  </String>
+  <String index="86">
+    <ToTranslate>tcg_syu11m</ToTranslate>
+  </String>
+  <String index="87">
+    <ToTranslate>syuy0118</ToTranslate>
+  </String>
+  <String index="88">
+    <ToTranslate>Шую$Я не могу поддаться на грубую лесть совершенно незнакомого мне человека.@</ToTranslate>
+  </String>
+  <String index="89">
+    <ToTranslate>tcg_ukt11cc</ToTranslate>
+  </String>
+  <String index="90">
+    <ToTranslate>tcg_ukt11m</ToTranslate>
+  </String>
+  <String index="91">
+    <ToTranslate>ukit0070</ToTranslate>
+  </String>
+  <String index="92">
+    <ToTranslate>Укицу$Вы очень осторожны. Я рассказал вам то, что вы и сами уже обнаружили, и всё-таки вы до сих пор сомневаетесь во мне.@</ToTranslate>
+  </String>
+  <String index="93">
+    <ToTranslate>tcg_syu21fc</ToTranslate>
+  </String>
+  <String index="94">
+    <ToTranslate>tcg_syu21m</ToTranslate>
+  </String>
+  <String index="95">
+    <ToTranslate>syuy0119</ToTranslate>
+  </String>
+  <String index="96">
+    <ToTranslate>Шую$Ох... Уж не думаешь ли ты, что можешь видеть меня насквозь?@</ToTranslate>
+  </String>
+  <String index="97">
+    <ToTranslate>tcg_ukt11ac</ToTranslate>
+  </String>
+  <String index="98">
+    <ToTranslate>tcg_ukt11m</ToTranslate>
+  </String>
+  <String index="99">
+    <ToTranslate>ukit0071</ToTranslate>
+  </String>
+  <String index="100">
+    <ToTranslate>Укицу$Не может быть, чтобы такой прекрасный человек, как вы, не получил эту информацию. Я осмелился рассказать вам об этом, чтобы иметь возможность 
+
+завоевать ваше доверие.@</ToTranslate>
+  </String>
+  <String index="101">
+    <ToTranslate>syuy0120</ToTranslate>
+  </String>
+  <String index="102">
+    <ToTranslate>Шую$Ты говоришь, что ты сообщил мне уже известную информацию, чтобы завоевать моё доверие?@</ToTranslate>
+  </String>
+  <String index="103">
+    <ToTranslate>ukit0072</ToTranslate>
+  </String>
+  <String index="104">
+    <ToTranslate>Укицу$Хоть эта информация и известна, но на этом континенте о ней знаем только мы с вами, так как теперь Вей не считается.@</ToTranslate>
+  </String>
+  <String index="105">
+    <ToTranslate>tcg_syu11cc</ToTranslate>
+  </String>
+  <String index="106">
+    <ToTranslate>tcg_syu11m</ToTranslate>
+  </String>
+  <String index="107">
+    <ToTranslate>syuy0121</ToTranslate>
+  </String>
+  <String index="108">
+    <ToTranslate>Шую$Хмф... похоже, ты весьма уверен в своих способностях.@</ToTranslate>
+  </String>
+  <String index="109">
+    <ToTranslate>ukit0073</ToTranslate>
+  </String>
+  <String index="110">
+    <ToTranslate>Укицу$Конечно.@</ToTranslate>
+  </String>
+  <String index="111">
+    <ToTranslate>tcg_syu11ac</ToTranslate>
+  </String>
+  <String index="112">
+    <ToTranslate>tcg_syu11m</ToTranslate>
+  </String>
+  <String index="113">
+    <ToTranslate>syuy0122</ToTranslate>
+  </String>
+  <String index="114">
+    <ToTranslate>Шую$Хмм... как тебя зовут?@</ToTranslate>
+  </String>
+  <String index="115">
+    <ToTranslate>tcg_ukt11bc</ToTranslate>
+  </String>
+  <String index="116">
+    <ToTranslate>tcg_ukt11m</ToTranslate>
+  </String>
+  <String index="117">
+    <ToTranslate>ukit0074</ToTranslate>
+  </String>
+  <String index="118">
+    <ToTranslate>Укицу$Меня зовут Укицу. Приятно познакомиться с вами...@</ToTranslate>
+  </String>
+  <String index="119">
+    <ToTranslate>tcg_syu21fc</ToTranslate>
+  </String>
+  <String index="120">
+    <ToTranslate>tcg_syu21m</ToTranslate>
+  </String>
+  <String index="121">
+    <ToTranslate>syuy0123</ToTranslate>
+  </String>
+  <String index="122">
+    <ToTranslate>Шую$Отлично. Я тебе не доверяю, но хочу услышать всё, что ты знаешь.@</ToTranslate>
+  </String>
+  <String index="123">
+    <ToTranslate>ukit0075</ToTranslate>
+  </String>
+  <String index="124">
+    <ToTranslate>Укицу$Как пожелаете...@</ToTranslate>
+  </String>
+  <String index="125">
+    <ToTranslate>tcg_syu21dc</ToTranslate>
+  </String>
+  <String index="126">
+    <ToTranslate>tcg_syu21m</ToTranslate>
+  </String>
+  <String index="127">
+    <ToTranslate>syuy0124</ToTranslate>
+  </String>
+  <String index="128">
+    <ToTranslate>Шую$Хонго будет увеличивать свою мощь. Исходя из обстановки, это очевидно. Если мы хотим продолжить наши завоевания, мы должны избавиться от этой 
+
+помехи.@</ToTranslate>
+  </String>
+  <String index="129">
+    <ToTranslate>tcg_ukt11dc</ToTranslate>
+  </String>
+  <String index="130">
+    <ToTranslate>tcg_ukt11m</ToTranslate>
+  </String>
+  <String index="131">
+    <ToTranslate>ukit0076</ToTranslate>
+  </String>
+  <String index="132">
+    <ToTranslate>Укицу$Точно. Я просто хочу помочь вам в этом.@</ToTranslate>
+  </String>
+  <String index="133">
+    <ToTranslate>tcg_syu11ac</ToTranslate>
+  </String>
+  <String index="134">
+    <ToTranslate>tcg_syu11m</ToTranslate>
+  </String>
+  <String index="135">
+    <ToTranslate>syuy0125</ToTranslate>
+  </String>
+  <String index="136">
+    <ToTranslate>Шую$У тебя тоже счёты с Хонго?@</ToTranslate>
+  </String>
+  <String index="137">
+    <ToTranslate>ukit0077</ToTranslate>
+  </String>
+  <String index="138">
+    <ToTranslate>Укицу$Верно. Я уже заставил его частично заплатить за то, что он сделал.@</ToTranslate>
+  </String>
+  <String index="139">
+    <ToTranslate>syuy0126</ToTranslate>
+  </String>
+  <String index="140">
+    <ToTranslate>Шую$И что ты сделал?@</ToTranslate>
+  </String>
+  <String index="141">
+    <ToTranslate>tcg_ukt11bc</ToTranslate>
+  </String>
+  <String index="142">
+    <ToTranslate>tcg_ukt11m</ToTranslate>
+  </String>
+  <String index="143">
+    <ToTranslate>ukit0078</ToTranslate>
+  </String>
+  <String index="144">
+    <ToTranslate>Укицу$Я наслал болезнь на его солдат.@</ToTranslate>
+  </String>
+  <String index="145">
+    <ToTranslate>tcg_syu11bc</ToTranslate>
+  </String>
+  <String index="146">
+    <ToTranslate>tcg_syu11m</ToTranslate>
+  </String>
+  <String index="147">
+    <ToTranslate>syuy0127</ToTranslate>
+  </String>
+  <String index="148">
+    <ToTranslate>Шую$О, так, значит, это мой шанс, ээ?@</ToTranslate>
+  </String>
+  <String index="149">
+    <ToTranslate>ukit0079</ToTranslate>
+  </String>
+  <String index="150">
+    <ToTranslate>Укицу$Да.@</ToTranslate>
+  </String>
+  <String index="151">
+    <ToTranslate>tcg_syu11cc</ToTranslate>
+  </String>
+  <String index="152">
+    <ToTranslate>tcg_syu11m</ToTranslate>
+  </String>
+  <String index="153">
+    <ToTranslate>syuy0128</ToTranslate>
+  </String>
+  <String index="154">
+    <ToTranslate>Шую$Хмф. Но я не могу извлечь выгоду из этой возможности.@</ToTranslate>
+  </String>
+  <String index="155">
+    <ToTranslate>tcg_ukt11dc</ToTranslate>
+  </String>
+  <String index="156">
+    <ToTranslate>tcg_ukt11m</ToTranslate>
+  </String>
+  <String index="157">
+    <ToTranslate>ukit0080</ToTranslate>
+  </String>
+  <String index="158">
+    <ToTranslate>Укицу$Из-за Её Величества Сон Чубо?@</ToTranslate>
+  </String>
+  <String index="159">
+    <ToTranslate>tcg_syu11bc</ToTranslate>
+  </String>
+  <String index="160">
+    <ToTranslate>tcg_syu11m</ToTranslate>
+  </String>
+  <String index="161">
+    <ToTranslate>syuy0129</ToTranslate>
+  </String>
+  <String index="162">
+    <ToTranslate>Шую$Да. С тех пор, как она вступила в союз с Хонго, она посвящает себя только внутренним делам. И она чувствует себя совершенно 
+
+свободно.@</ToTranslate>
+  </String>
+  <String index="163">
+    <ToTranslate>tcg_ukt11cc</ToTranslate>
+  </String>
+  <String index="164">
+    <ToTranslate>tcg_ukt11m</ToTranslate>
+  </String>
+  <String index="165">
+    <ToTranslate>ukit0081</ToTranslate>
+  </String>
+  <String index="166">
+    <ToTranslate>Укицу$Хе-хе... в конце концов, Её Величество всё-таки женщина.@</ToTranslate>
+  </String>
+  <String index="167">
+    <ToTranslate>tcg_syu11cc</ToTranslate>
+  </String>
+  <String index="168">
+    <ToTranslate>tcg_syu11m</ToTranslate>
+  </String>
+  <String index="169">
+    <ToTranslate>syuy0130</ToTranslate>
+  </String>
+  <String index="170">
+    <ToTranslate>Шую$...Что ты хочешь этим сказать?@</ToTranslate>
+  </String>
+  <String index="171">
+    <ToTranslate>tcg_ukt11bc</ToTranslate>
+  </String>
+  <String index="172">
+    <ToTranslate>tcg_ukt11m</ToTranslate>
+  </String>
+  <String index="173">
+    <ToTranslate>ukit0082</ToTranslate>
+  </String>
+  <String index="174">
+    <ToTranslate>Укицу$Оо? Даже женщина, известная как Шую Прекрасная, не ведает о чуствах Её Величества? О Боже...@</ToTranslate>
+  </String>
+  <String index="175">
+    <ToTranslate>tcg_syu11bc</ToTranslate>
+  </String>
+  <String index="176">
+    <ToTranslate>tcg_syu11m</ToTranslate>
+  </String>
+  <String index="177">
+    <ToTranslate>syuy0131</ToTranslate>
+  </String>
+  <String index="178">
+    <ToTranslate>Шую$...Ты говоришь, что Рэнфа-сама влюблена?@</ToTranslate>
+  </String>
+  <String index="179">
+    <ToTranslate>ukit0083</ToTranslate>
+  </String>
+  <String index="180">
+    <ToTranslate>Укицу$А не лучше ли для вас будет, если вы выясните это сами, а не услышите от меня?@</ToTranslate>
+  </String>
+  <String index="181">
+    <ToTranslate>tcg_syu21dc</ToTranslate>
+  </String>
+  <String index="182">
+    <ToTranslate>tcg_syu21m</ToTranslate>
+  </String>
+  <String index="183">
+    <ToTranslate>syuy0132</ToTranslate>
+  </String>
+  <String index="184">
+    <ToTranslate>Шую$...@</ToTranslate>
+  </String>
+  <String index="185">
+    <ToTranslate>tcg_ukt11cc</ToTranslate>
+  </String>
+  <String index="186">
+    <ToTranslate>tcg_ukt11m</ToTranslate>
+  </String>
+  <String index="187">
+    <ToTranslate>ukit0084</ToTranslate>
+  </String>
+  <String index="188">
+    <ToTranslate>Укицу$Но всё же... если так, то вам будет попутный ветер.@</ToTranslate>
+  </String>
+  <String index="189">
+    <ToTranslate>tcg_ukt11fc</ToTranslate>
+  </String>
+  <String index="190">
+    <ToTranslate>tcg_ukt11m</ToTranslate>
+  </String>
+  <String index="191">
+    <ToTranslate>ukit0085</ToTranslate>
+  </String>
+  <String index="192">
+    <ToTranslate>Укицу$Ветер, необходимый для того, чтобы исполнить предсмертную волю вашей лучшей подруги.@</ToTranslate>
+  </String>
+  <String index="193">
+    <ToTranslate>tcg_syu31ec</ToTranslate>
+  </String>
+  <String index="194">
+    <ToTranslate>tcg_syu31m</ToTranslate>
+  </String>
+  <String index="195">
+    <ToTranslate>syuy0133</ToTranslate>
+  </String>
+  <String index="196">
+    <ToTranslate>Шую$Презренный! Ни слова больше о Хакуфу!@</ToTranslate>
+  </String>
+  <String index="197">
+    <ToTranslate>tcg_ukt11bc</ToTranslate>
+  </String>
+  <String index="198">
+    <ToTranslate>tcg_ukt11m</ToTranslate>
+  </String>
+  <String index="199">
+    <ToTranslate>ukit0086</ToTranslate>
+  </String>
+  <String index="200">
+    <ToTranslate>Укицу$Как грубо... Хе-хе, но, возможно, вам надо немного подумать над моим предложением.@</ToTranslate>
+  </String>
+  <String index="201">
+    <ToTranslate>ukit0087</ToTranslate>
+  </String>
+  <String index="202">
+    <ToTranslate>Укицу$Чтобы вы могли продолжить путь к власти, к которой стремилась ваша подруга.@</ToTranslate>
+  </String>
+  <String index="203">
+    <ToTranslate>syuy0134</ToTranslate>
+  </String>
+  <String index="204">
+    <ToTranslate>Шую$...@</ToTranslate>
+  </String>
+  <String index="205">
+    <ToTranslate>ukit0088</ToTranslate>
+  </String>
+  <String index="206">
+    <ToTranslate>Укицу$Теперь, когда я оправдал себя... Я буду ждать вестей от вас.@</ToTranslate>
+  </String>
+  <String index="207">
+    <ToTranslate>SE093</ToTranslate>
+  </String>
+  <String index="208">
+    <ToTranslate>tcg_syu21gc</ToTranslate>
+  </String>
+  <String index="209">
+    <ToTranslate>tcg_syu21m</ToTranslate>
+  </String>
+  <String index="210">
+    <ToTranslate>syuy0135</ToTranslate>
+  </String>
+  <String index="211">
+    <ToTranslate>Шую$Серен... я...@</ToTranslate>
+  </String>
+  <String index="212">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="213">
+    <ToTranslate>bb</ToTranslate>
+  </String>
+  <String index="214">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="215">
+    <ToTranslate>bb</ToTranslate>
+  </String>
+  <String index="216">
+    <ToTranslate>bcg_town_c</ToTranslate>
+  </String>
+  <String index="217">
+    <ToTranslate>tcg_ukt11bc</ToTranslate>
+  </String>
+  <String index="218">
+    <ToTranslate>tcg_ukt11m</ToTranslate>
+  </String>
+  <String index="219">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="220">
+    <ToTranslate>ukit0089</ToTranslate>
+  </String>
+  <String index="221">
+    <ToTranslate>Укицу$Теперь сцена подготовлена. Осталось лишь посмотреть финальную постановку.@</ToTranslate>
+  </String>
+  <String index="222">
+    <ToTranslate>tcg_saj11bc</ToTranslate>
+  </String>
+  <String index="223">
+    <ToTranslate>tcg_saj11m</ToTranslate>
+  </String>
+  <String index="224">
+    <ToTranslate>saji0068</ToTranslate>
+  </String>
+  <String index="225">
+    <ToTranslate>Саджи$...Это меня расстраивает.@</ToTranslate>
+  </String>
+  <String index="226">
+    <ToTranslate>tcg_ukt11cc</ToTranslate>
+  </String>
+  <String index="227">
+    <ToTranslate>tcg_ukt11m</ToTranslate>
+  </String>
+  <String index="228">
+    <ToTranslate>ukit0090</ToTranslate>
+  </String>
+  <String index="229">
+    <ToTranslate>Укицу$Я могу понять твои чувства, Саджи, но это было предрешено... Ты не можешь об этом забывать.@</ToTranslate>
+  </String>
+  <String index="230">
+    <ToTranslate>tcg_saj11hc</ToTranslate>
+  </String>
+  <String index="231">
+    <ToTranslate>tcg_saj11m</ToTranslate>
+  </String>
+  <String index="232">
+    <ToTranslate>saji0069</ToTranslate>
+  </String>
+  <String index="233">
+    <ToTranslate>Саджи$Я знаю...@</ToTranslate>
+  </String>
+  <String index="234">
+    <ToTranslate>tcg_ukt11bc</ToTranslate>
+  </String>
+  <String index="235">
+    <ToTranslate>tcg_ukt11m</ToTranslate>
+  </String>
+  <String index="236">
+    <ToTranslate>ukit0091</ToTranslate>
+  </String>
+  <String index="237">
+    <ToTranslate>Укицу$Хе-хе... не дуйся, Саджи.@</ToTranslate>
+  </String>
+  <String index="238">
+    <ToTranslate>tcg_saj21cc</ToTranslate>
+  </String>
+  <String index="239">
+    <ToTranslate>tcg_saj21m</ToTranslate>
+  </String>
+  <String index="240">
+    <ToTranslate>saji0070</ToTranslate>
+  </String>
+  <String index="241">
+    <ToTranslate>Саджи$...Я же сказал, я знаю.@</ToTranslate>
+  </String>
+  <String index="242">
+    <ToTranslate>ukit0092</ToTranslate>
+  </String>
+  <String index="243">
+    <ToTranslate>Укицу$О, извини. Хе-хе...@</ToTranslate>
+  </String>
+  <String index="244">
+    <ToTranslate>tcg_saj11hc</ToTranslate>
+  </String>
+  <String index="245">
+    <ToTranslate>tcg_saj11m</ToTranslate>
+  </String>
+  <String index="246">
+    <ToTranslate>saji0071</ToTranslate>
+  </String>
+  <String index="247">
+    <ToTranslate>Саджи$Хмф... Я пошёл. Даже если это предрешено, я должен продолжить церемонию.@</ToTranslate>
+  </String>
+  <String index="248">
+    <ToTranslate>ukit0093</ToTranslate>
+  </String>
+  <String index="249">
+    <ToTranslate>Укицу$Да, я позабочусь обо всём остальном.@</ToTranslate>
+  </String>
+  <String index="250">
+    <ToTranslate>saji0072</ToTranslate>
+  </String>
+  <String index="251">
+    <ToTranslate>Саджи$Ладно. Я на тебя рассчитываю... Позже.@</ToTranslate>
+  </String>
+  <String index="252">
+    <ToTranslate>SE093</ToTranslate>
+  </String>
+  <String index="253">
+    <ToTranslate>tcg_ukt11fc</ToTranslate>
+  </String>
+  <String index="254">
+    <ToTranslate>tcg_ukt11m</ToTranslate>
+  </String>
+  <String index="255">
+    <ToTranslate>ukit0094</ToTranslate>
+  </String>
+  <String index="256">
+    <ToTranslate>Укицу$Ну... как теперь ты будешь плясать под нашу дудку, Шую Прекрасная?@</ToTranslate>
+  </String>
+  <String index="257">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="258">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="259">
+    <ToTranslate>_kyotenphase</ToTranslate>
+  </String>
+</DBS>
+
+</poem>
+[[Koihime Musou/Прогресс перевода/Сюжет|[Назад]]]

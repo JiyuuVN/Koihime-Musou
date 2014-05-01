@@ -1,0 +1,95 @@
+<poem>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<DBS>
+  <String index="0">
+    <Origin>_sl_load</Origin>
+    <ToTranslate>_sl_load</ToTranslate>
+  </String>
+  <String index="1">
+    <Origin>dummy</Origin>
+    <ToTranslate>dummy</ToTranslate>
+  </String>
+  <String index="2">
+    <Origin>dummy</Origin>
+    <ToTranslate>dummy</ToTranslate>
+  </String>
+  <String index="3">
+    <Origin>dummy</Origin>
+    <ToTranslate>dummy</ToTranslate>
+  </String>
+  <String index="4">
+    <Origin>dummy</Origin>
+    <ToTranslate>dummy</ToTranslate>
+  </String>
+  <String index="5">
+    <Origin>Are you sure you want to start from No:��</Origin>
+    <ToTranslate>Are you sure you want to start from No:��</ToTranslate>
+  </String>
+  <String index="6">
+    <Origin>Confirm?</Origin>
+    <ToTranslate>Confirm?</ToTranslate>
+  </String>
+  <String index="7">
+    <Origin>bg_black</Origin>
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="8">
+    <Origin>Are you sure you want to start from No:��</Origin>
+    <ToTranslate>Are you sure you want to start from No:��</ToTranslate>
+  </String>
+  <String index="9">
+    <Origin>Confirm?</Origin>
+    <ToTranslate>Confirm?</ToTranslate>
+  </String>
+  <String index="10">
+    <Origin>bg_black</Origin>
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="11">
+    <Origin>dummy</Origin>
+    <ToTranslate>dummy</ToTranslate>
+  </String>
+  <String index="12">
+    <Origin>dummy</Origin>
+    <ToTranslate>dummy</ToTranslate>
+  </String>
+  <String index="13">
+    <Origin>dummy</Origin>
+    <ToTranslate>dummy</ToTranslate>
+  </String>
+  <String index="14">
+    <Origin>dummy</Origin>
+    <ToTranslate>dummy</ToTranslate>
+  </String>
+  <String index="15">
+    <Origin>Are you sure you want to start from No:��</Origin>
+    <ToTranslate>Are you sure you want to start from No:��</ToTranslate>
+  </String>
+  <String index="16">
+    <Origin>Confirm?</Origin>
+    <ToTranslate>Confirm?</ToTranslate>
+  </String>
+  <String index="17">
+    <Origin>bg_black</Origin>
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="18">
+    <Origin>dummy</Origin>
+    <ToTranslate>dummy</ToTranslate>
+  </String>
+  <String index="19">
+    <Origin>dummy</Origin>
+    <ToTranslate>dummy</ToTranslate>
+  </String>
+  <String index="20">
+    <Origin>dummy</Origin>
+    <ToTranslate>dummy</ToTranslate>
+  </String>
+  <String index="21">
+    <Origin>dummy</Origin>
+    <ToTranslate>dummy</ToTranslate>
+  </String>
+</DBS>
+
+</poem>

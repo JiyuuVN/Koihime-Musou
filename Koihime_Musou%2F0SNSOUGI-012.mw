@@ -1,0 +1,45 @@
+[[Koihime Musou/Прогресс перевода/Сюжет|[Назад]]]
+<poem>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<DBS>
+  <String index="0">
+    <ToTranslate>bcg_map_a</ToTranslate>
+  </String>
+  <String index="1">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="2">
+    <ToTranslate>bgm23</ToTranslate>
+  </String>
+  <String index="3">
+    <ToTranslate>$С момента рассказа Чосэна прошло десять дней.@</ToTranslate>
+  </String>
+  <String index="4">
+    <ToTranslate>$Пусть мы и понимали что Саджи и Укицу нужно искать на горе Тай, но не знали где именно.@</ToTranslate>
+  </String>
+  <String index="5">
+    <ToTranslate>$Мы отправили разведчиков на их поиски, и всё что нам оставалось так это ждать их доклада.@</ToTranslate>
+  </String>
+  <String index="6">
+    <ToTranslate>$Честно говоря, я не люблю ждать.@</ToTranslate>
+  </String>
+  <String index="7">
+    <ToTranslate>$Но мне придётся смириться с этом.@</ToTranslate>
+  </String>
+  <String index="8">
+    <ToTranslate>$Мысленно успокаивая себя, мне оставалось только насладиться временем, проведённым с теми, кого я люблю......@</ToTranslate>
+  </String>
+  <String index="9">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="10">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="11">
+    <ToTranslate>_kyotenphase</ToTranslate>
+  </String>
+</DBS>
+
+</poem>
+[[Koihime Musou/Прогресс перевода/Сюжет|[Назад]]]

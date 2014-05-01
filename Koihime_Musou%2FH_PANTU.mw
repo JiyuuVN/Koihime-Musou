@@ -1,0 +1,27 @@
+<poem>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<DBS>
+  <String index="0">
+    <Origin>to next page</Origin>
+    <ToTranslate>to next page</ToTranslate>
+  </String>
+  <String index="1">
+    <Origin>to first page</Origin>
+    <ToTranslate>to first page</ToTranslate>
+  </String>
+  <String index="2">
+    <Origin>sentaku_mae2</Origin>
+    <ToTranslate>sentaku_mae2</ToTranslate>
+  </String>
+  <String index="3">
+    <Origin>�</Origin>
+    <ToTranslate>�</ToTranslate>
+  </String>
+  <String index="4">
+    <Origin>sentaku_ato</Origin>
+    <ToTranslate>sentaku_ato</ToTranslate>
+  </String>
+</DBS>
+
+</poem>

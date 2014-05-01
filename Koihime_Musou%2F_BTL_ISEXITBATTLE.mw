@@ -1,0 +1,35 @@
+<poem>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<DBS>
+  <String index="0">
+    <Origin>�You have successfully defended for 15 days!@</Origin>
+    <ToTranslate>�You have successfully defended for 15 days!@</ToTranslate>
+  </String>
+  <String index="1">
+    <Origin>�You have successfully defended for 10 days!@</Origin>
+    <ToTranslate>�You have successfully defended for 10 days!@</ToTranslate>
+  </String>
+  <String index="2">
+    <Origin>�You have successfully defended for 10 days!@</Origin>
+    <ToTranslate>�You have successfully defended for 10 days!@</ToTranslate>
+  </String>
+  <String index="3">
+    <Origin>�You eliminated the target number of enemy soldiers!@</Origin>
+    <ToTranslate>�You eliminated the target number of enemy soldiers!@</ToTranslate>
+  </String>
+  <String index="4">
+    <Origin>�You failed to eliminate the target number of enemy soldiers...@</Origin>
+    <ToTranslate>�You failed to eliminate the target number of enemy soldiers...@</ToTranslate>
+  </String>
+  <String index="5">
+    <Origin>�You eliminated the target number of enemy soldiers!@</Origin>
+    <ToTranslate>�You eliminated the target number of enemy soldiers!@</ToTranslate>
+  </String>
+  <String index="6">
+    <Origin>�You failed to eliminate the target number of enemy soldiers...@</Origin>
+    <ToTranslate>�You failed to eliminate the target number of enemy soldiers...@</ToTranslate>
+  </String>
+</DBS>
+
+</poem>

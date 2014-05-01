@@ -1,0 +1,813 @@
+<poem>
+<?xml version="1.0" encoding="UTF-8"?>
+<DBS>
+  <String index="0">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="1">
+    <ToTranslate>bcg_castgurden_a</ToTranslate>
+  </String>
+  <String index="2">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="3">
+    <ToTranslate>bgm02</ToTranslate>
+  </String>
+  <String index="4">
+    <ToTranslate>$Да уж не легко удерживать целую страну под контролем... особенно, если кое кто полностью непригоден для этого.@</ToTranslate>
+  </String>
+  <String index="5">
+    <ToTranslate>$К тому же никто даже слушать не желает мои жалобы о нехватке способностей к управлению, а посему день изо дня мне приходится выполнять такие обязанности.@</ToTranslate>
+  </String>
+  <String index="6">
+    <ToTranslate>$Направляясь к себе в комнату я уже знал что там меня ждёт гора документов, так заботливо собранных для меня моей помощницей Шури.@</ToTranslate>
+  </String>
+  <String index="7">
+    <ToTranslate>$...тяжесть в ногах подобна свинцу. Сегодня такой замечательный день, он слишком хорош чтобы убивать его на работу.@</ToTranslate>
+  </String>
+  <String index="8">
+    <ToTranslate>$Сегодня я бы мог весь день проспать под каким ни будь деревом. Бремя власти слишком сильно, и я уже готов от всего отказаться.@</ToTranslate>
+  </String>
+  <String index="9">
+    <ToTranslate>$... в конце концов, ничего хорошего не выйдет если всё время себя заставлять...@</ToTranslate>
+  </String>
+  <String index="10">
+    <ToTranslate>aisy1371</ToTranslate>
+  </String>
+  <String index="11">
+    <ToTranslate>Айша$"Та-а-а-а!"@</ToTranslate>
+  </String>
+  <String index="12">
+    <ToTranslate>Казуто$"Прости-прости, это случайно!"@</ToTranslate>
+  </String>
+  <String index="13">
+    <ToTranslate>$Вздрогнув, я начал озираться по сторонам в поисках цели для извинений, но в моём поле зрения никого не нашлось.@</ToTranslate>
+  </String>
+  <String index="14">
+    <ToTranslate>SE015</ToTranslate>
+  </String>
+  <String index="15">
+    <ToTranslate>rinr1159</ToTranslate>
+  </String>
+  <String index="16">
+    <ToTranslate>Ринрин$"Уа-а-а, а-а! Та-а!"@</ToTranslate>
+  </String>
+  <String index="17">
+    <ToTranslate>SE016</ToTranslate>
+  </String>
+  <String index="18">
+    <ToTranslate>SE016</ToTranslate>
+  </String>
+  <String index="19">
+    <ToTranslate>$И тогда я смог различить голос Ринрин... внимательно прислушавшись, я расслышал лязги металла среди душе раздирающих криков.@</ToTranslate>
+  </String>
+  <String index="20">
+    <ToTranslate>$Я побежал в направлении шума...@</ToTranslate>
+  </String>
+  <String index="21">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="22">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="23">
+    <ToTranslate>aa</ToTranslate>
+  </String>
+  <String index="24">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="25">
+    <ToTranslate>aa</ToTranslate>
+  </String>
+  <String index="26">
+    <ToTranslate>bcg_castgurden_a</ToTranslate>
+  </String>
+  <String index="27">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="28">
+    <ToTranslate>bgm26</ToTranslate>
+  </String>
+  <String index="29">
+    <ToTranslate>tcg_kan41aa</ToTranslate>
+  </String>
+  <String index="30">
+    <ToTranslate>tcg_kan41m</ToTranslate>
+  </String>
+  <String index="31">
+    <ToTranslate>aisy1372</ToTranslate>
+  </String>
+  <String index="32">
+    <ToTranslate>Айша$"Ха... действительно лучше. Но этого не достаточно!"@</ToTranslate>
+  </String>
+  <String index="33">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="34">
+    <ToTranslate>SE010</ToTranslate>
+  </String>
+  <String index="35">
+    <ToTranslate>tcg_cho51aa</ToTranslate>
+  </String>
+  <String index="36">
+    <ToTranslate>tcg_cho51m</ToTranslate>
+  </String>
+  <String index="37">
+    <ToTranslate>rinr1160</ToTranslate>
+  </String>
+  <String index="38">
+    <ToTranslate>Ринрин$"Разумеется! Но ведь ты и сама ржавеешь просиживая на попе дни напролёт!"@</ToTranslate>
+  </String>
+  <String index="39">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="40">
+    <ToTranslate>tcg_kan51aa</ToTranslate>
+  </String>
+  <String index="41">
+    <ToTranslate>tcg_kan51m</ToTranslate>
+  </String>
+  <String index="42">
+    <ToTranslate>aisy1373</ToTranslate>
+  </String>
+  <String index="43">
+    <ToTranslate>Айша$"Вот как значит!? Я заставлю тебя сожалеть о сказанном...! Ха! Га-а!"@</ToTranslate>
+  </String>
+  <String index="44">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="45">
+    <ToTranslate>tcg_cho61aa</ToTranslate>
+  </String>
+  <String index="46">
+    <ToTranslate>tcg_cho61m</ToTranslate>
+  </String>
+  <String index="47">
+    <ToTranslate>rinr1161</ToTranslate>
+  </String>
+  <String index="48">
+    <ToTranslate>Ринрин$"Мя-мя-мя!"@</ToTranslate>
+  </String>
+  <String index="49">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="50">
+    <ToTranslate>SE016</ToTranslate>
+  </String>
+  <String index="51">
+    <ToTranslate>s_yure_r</ToTranslate>
+  </String>
+  <String index="52">
+    <ToTranslate>$На тренировку совсем не похоже... рубятся во всю силу. Возможно слово "спарринг" подойдёт для этого лучше.@</ToTranslate>
+  </String>
+  <String index="53">
+    <ToTranslate>tcg_kan51aa</ToTranslate>
+  </String>
+  <String index="54">
+    <ToTranslate>tcg_kan51m</ToTranslate>
+  </String>
+  <String index="55">
+    <ToTranslate>aisy1374</ToTranslate>
+  </String>
+  <String index="56">
+    <ToTranslate>Айша$"Ха...! Са-аа!"@</ToTranslate>
+  </String>
+  <String index="57">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="58">
+    <ToTranslate>tcg_cho61aa</ToTranslate>
+  </String>
+  <String index="59">
+    <ToTranslate>tcg_cho61m</ToTranslate>
+  </String>
+  <String index="60">
+    <ToTranslate>rinr1162</ToTranslate>
+  </String>
+  <String index="61">
+    <ToTranslate>Ринрин$"Ха-а, эи-ии! Я-та-а!"@</ToTranslate>
+  </String>
+  <String index="62">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="63">
+    <ToTranslate>$Пока одна из них находила время махать копьём, второй приходилось концентрироваться на защите. Затем они менялись местами.@</ToTranslate>
+  </String>
+  <String index="64">
+    <ToTranslate>$Окажись их поединок смертельным, движения их копий были бы настолько быстры что я бы перестал их различать.@</ToTranslate>
+  </String>
+  <String index="65">
+    <ToTranslate>tcg_cho11aa</ToTranslate>
+  </String>
+  <String index="66">
+    <ToTranslate>tcg_cho11m</ToTranslate>
+  </String>
+  <String index="67">
+    <ToTranslate>rinr1163</ToTranslate>
+  </String>
+  <String index="68">
+    <ToTranslate>Ринрин$"Ва."@</ToTranslate>
+  </String>
+  <String index="69">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="70">
+    <ToTranslate>tcg_kan51aa</ToTranslate>
+  </String>
+  <String index="71">
+    <ToTranslate>tcg_kan51m</ToTranslate>
+  </String>
+  <String index="72">
+    <ToTranslate>aisy1375</ToTranslate>
+  </String>
+  <String index="73">
+    <ToTranslate>Айша$"Попалась!"@</ToTranslate>
+  </String>
+  <String index="74">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="75">
+    <ToTranslate>SE010</ToTranslate>
+  </String>
+  <String index="76">
+    <ToTranslate>tcg_cho71aa</ToTranslate>
+  </String>
+  <String index="77">
+    <ToTranslate>tcg_cho71m</ToTranslate>
+  </String>
+  <String index="78">
+    <ToTranslate>rinr1164</ToTranslate>
+  </String>
+  <String index="79">
+    <ToTranslate>Ринрин$"Ва-та-та-та, а вот и нет!"@</ToTranslate>
+  </String>
+  <String index="80">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="81">
+    <ToTranslate>SE016</ToTranslate>
+  </String>
+  <String index="82">
+    <ToTranslate>s_yure_r</ToTranslate>
+  </String>
+  <String index="83">
+    <ToTranslate>$Копья сомкнулись, будто оказавшись в безвыходном положении обе разком выдохнули и резко отпрыгнули в разные стороны.@</ToTranslate>
+  </String>
+  <String index="84">
+    <ToTranslate>tcg_kan11ea</ToTranslate>
+  </String>
+  <String index="85">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="86">
+    <ToTranslate>bgm03</ToTranslate>
+  </String>
+  <String index="87">
+    <ToTranslate>aisy1376</ToTranslate>
+  </String>
+  <String index="88">
+    <ToTranslate>Айша$"Господин, разве сейчас вы не должны быть в своём кабинете? Возможно, что вам понадобился кто-то из нас?"@</ToTranslate>
+  </String>
+  <String index="89">
+    <ToTranslate>tcg_cho21ja</ToTranslate>
+  </String>
+  <String index="90">
+    <ToTranslate>tcg_cho21m</ToTranslate>
+  </String>
+  <String index="91">
+    <ToTranslate>rinr1165</ToTranslate>
+  </String>
+  <String index="92">
+    <ToTranslate>Ринрин$"Правда что ли?!"@</ToTranslate>
+  </String>
+  <String index="93">
+    <ToTranslate>Казуто$"Неа, я как раз возвращался к себе в комнату и случайно забрёл к вам на тренировку."@</ToTranslate>
+  </String>
+  <String index="94">
+    <ToTranslate>$Голос крайне дрожит, остаётся молится что бы они не просекли настолько очевидную ложь. Единого выражения Айши "Вот как" для меня будет вполне достаточно."@</ToTranslate>
+  </String>
+  <String index="95">
+    <ToTranslate>Казуто$"Наверное я всё испортил помешав вам."@</ToTranslate>
+  </String>
+  <String index="96">
+    <ToTranslate>tcg_kan11aa</ToTranslate>
+  </String>
+  <String index="97">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="98">
+    <ToTranslate>aisy1377</ToTranslate>
+  </String>
+  <String index="99">
+    <ToTranslate>Айша$"Заговорив о вас Ринрин полностью лишилась концентрации, и я решила что следует преподать ей хороший урок."@</ToTranslate>
+  </String>
+  <String index="100">
+    <ToTranslate>tcg_cho31da</ToTranslate>
+  </String>
+  <String index="101">
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="102">
+    <ToTranslate>rinr1166</ToTranslate>
+  </String>
+  <String index="103">
+    <ToTranslate>Ринрин$"Всё не так! Я немного подумала о Братике!"@</ToTranslate>
+  </String>
+  <String index="104">
+    <ToTranslate>$... что и называется потерей внимания или лишением концентрации. Ну и конечно же мы с Айшей обменялись парой всепонимающих улыбок.@</ToTranslate>
+  </String>
+  <String index="105">
+    <ToTranslate>Казуто$"Но это было прекрасно... я прямо был очарован вами, всё было подобно танцу."@</ToTranslate>
+  </String>
+  <String index="106">
+    <ToTranslate>Казуто$"По-настоящему прекрасно."@</ToTranslate>
+  </String>
+  <String index="107">
+    <ToTranslate>tcg_kan31ga</ToTranslate>
+  </String>
+  <String index="108">
+    <ToTranslate>tcg_kan31m</ToTranslate>
+  </String>
+  <String index="109">
+    <ToTranslate>aisy1378</ToTranslate>
+  </String>
+  <String index="110">
+    <ToTranslate>Айша$"Э...!?"@</ToTranslate>
+  </String>
+  <String index="111">
+    <ToTranslate>tcg_cho31ma</ToTranslate>
+  </String>
+  <String index="112">
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="113">
+    <ToTranslate>rinr1167</ToTranslate>
+  </String>
+  <String index="114">
+    <ToTranslate>Ринрин$"Мя-ха-ха, Ринрин была красивой?"@</ToTranslate>
+  </String>
+  <String index="115">
+    <ToTranslate>$Обе реакции были противоположны но одинаково симпатичны. Надув щёки, Айша принялась коситься на меня а Ринрин повисла на мне уцепившись за пояс.@</ToTranslate>
+  </String>
+  <String index="116">
+    <ToTranslate>Казуто$"Вы обе изумительно красивы, совсем как две богини войны."@</ToTranslate>
+  </String>
+  <String index="117">
+    <ToTranslate>tcg_cho11la</ToTranslate>
+  </String>
+  <String index="118">
+    <ToTranslate>tcg_cho11m</ToTranslate>
+  </String>
+  <String index="119">
+    <ToTranslate>rinr1168</ToTranslate>
+  </String>
+  <String index="120">
+    <ToTranslate>Ринрин$"Ринрин уверена что была чуточку красивее Айши!"@</ToTranslate>
+  </String>
+  <String index="121">
+    <ToTranslate>tcg_kan11qa</ToTranslate>
+  </String>
+  <String index="122">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="123">
+    <ToTranslate>aisy1379</ToTranslate>
+  </String>
+  <String index="124">
+    <ToTranslate>Айша$"... Ринрин."@</ToTranslate>
+  </String>
+  <String index="125">
+    <ToTranslate>Казуто$"Ха-ха, вы обе одинаково красивы."@</ToTranslate>
+  </String>
+  <String index="126">
+    <ToTranslate>$Погладив Ринрин, я продолжил обмениваться улыбками с Айшей.@</ToTranslate>
+  </String>
+  <String index="127">
+    <ToTranslate>Казуто$"С парой таких воинов мне не о чем волноваться."@</ToTranslate>
+  </String>
+  <String index="128">
+    <ToTranslate>tcg_kan11aa</ToTranslate>
+  </String>
+  <String index="129">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="130">
+    <ToTranslate>aisy1380</ToTranslate>
+  </String>
+  <String index="131">
+    <ToTranslate>Айша$"Вы слишком добры к нам."@</ToTranslate>
+  </String>
+  <String index="132">
+    <ToTranslate>Казуто$"Неа, всё как я и сказал - ваша сила как опора, поддерживающая отношения, а также сдерживающий фактор для любого потенциального противника."@</ToTranslate>
+  </String>
+  <String index="133">
+    <ToTranslate>tcg_cho21ja</ToTranslate>
+  </String>
+  <String index="134">
+    <ToTranslate>tcg_cho21m</ToTranslate>
+  </String>
+  <String index="135">
+    <ToTranslate>rinr1169</ToTranslate>
+  </String>
+  <String index="136">
+    <ToTranslate>Ринрин$"Мя?"@</ToTranslate>
+  </String>
+  <String index="137">
+    <ToTranslate>Казуто$"Все вокруг знают что вы обладаете силой сотен, и едва завидев ваши знамёна большинство бежит в страхе!"@</ToTranslate>
+  </String>
+  <String index="138">
+    <ToTranslate>$Так и есть. Сейчас каждому жителю этого мира известно их имя... я действительно горжусь ими.@</ToTranslate>
+  </String>
+  <String index="139">
+    <ToTranslate>tcg_kan21ba</ToTranslate>
+  </String>
+  <String index="140">
+    <ToTranslate>tcg_kan21m</ToTranslate>
+  </String>
+  <String index="141">
+    <ToTranslate>aisy1381</ToTranslate>
+  </String>
+  <String index="142">
+    <ToTranslate>Айша$"Хи-хи... если бы всё было действительно так, то мир бы уже лишился всех бесполезных конфликтов."@</ToTranslate>
+  </String>
+  <String index="143">
+    <ToTranslate>tcg_cho11aa</ToTranslate>
+  </String>
+  <String index="144">
+    <ToTranslate>tcg_cho11m</ToTranslate>
+  </String>
+  <String index="145">
+    <ToTranslate>rinr1170</ToTranslate>
+  </String>
+  <String index="146">
+    <ToTranslate>Ринрин$"Да! Ринрин бы тоже этого очень хотела!"@</ToTranslate>
+  </String>
+  <String index="147">
+    <ToTranslate>Казуто$"М-м-м, а я думал тебе нравятся бои и сражения."@</ToTranslate>
+  </String>
+  <String index="148">
+    <ToTranslate>tcg_cho31ia</ToTranslate>
+  </String>
+  <String index="149">
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="150">
+    <ToTranslate>rinr1171</ToTranslate>
+  </String>
+  <String index="151">
+    <ToTranslate>Ринрин$"Сильные всегда могут вернуться и драться! Так ведь куда интереснее!"@</ToTranslate>
+  </String>
+  <String index="152">
+    <ToTranslate>tcg_kan31ka</ToTranslate>
+  </String>
+  <String index="153">
+    <ToTranslate>tcg_kan31m</ToTranslate>
+  </String>
+  <String index="154">
+    <ToTranslate>$До меня донёсся чей-то громкий вздох, должно это Айша не выдержала.@</ToTranslate>
+  </String>
+  <String index="155">
+    <ToTranslate>tcg_cho31ja</ToTranslate>
+  </String>
+  <String index="156">
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="157">
+    <ToTranslate>rinr1172</ToTranslate>
+  </String>
+  <String index="158">
+    <ToTranslate>Ринрин$"Но, я не хочу драться со слабыми, и не только потому что это было бы слишком скучно..."@</ToTranslate>
+  </String>
+  <String index="159">
+    <ToTranslate>tcg_cho11fa</ToTranslate>
+  </String>
+  <String index="160">
+    <ToTranslate>tcg_cho11m</ToTranslate>
+  </String>
+  <String index="161">
+    <ToTranslate>bgm23</ToTranslate>
+  </String>
+  <String index="162">
+    <ToTranslate>rinr1173</ToTranslate>
+  </String>
+  <String index="163">
+    <ToTranslate>Ринрин$"Слабые ведь на самом деле самые обычные люди."@</ToTranslate>
+  </String>
+  <String index="164">
+    <ToTranslate>Казуто$"Обычные...? Э-э."@</ToTranslate>
+  </String>
+  <String index="165">
+    <ToTranslate>tcg_kan11ca</ToTranslate>
+  </String>
+  <String index="166">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="167">
+    <ToTranslate>aisy1382</ToTranslate>
+  </String>
+  <String index="168">
+    <ToTranslate>Айша$"Господин, в вашей армии всё точно так же, большинство солдат это обычные фермеры, продавшие свои инструменты чтобы приобрести пики."@</ToTranslate>
+  </String>
+  <String index="169">
+    <ToTranslate>$Подумав, я начинаю понимать что она права. Ведь только малая часть наших войск это генералы и кавалерия. Все остальные же совсем не отличаются друг от друга.@</ToTranslate>
+  </String>
+  <String index="170">
+    <ToTranslate>tcg_kan31ka</ToTranslate>
+  </String>
+  <String index="171">
+    <ToTranslate>tcg_kan31m</ToTranslate>
+  </String>
+  <String index="172">
+    <ToTranslate>aisy1383</ToTranslate>
+  </String>
+  <String index="173">
+    <ToTranslate>Айша$"Нам часто приходилось сражаться, но я не люблю убивать простых людей."@</ToTranslate>
+  </String>
+  <String index="174">
+    <ToTranslate>Казуто$"Да... не сомневаюсь."@</ToTranslate>
+  </String>
+  <String index="175">
+    <ToTranslate>rinr1174</ToTranslate>
+  </String>
+  <String index="176">
+    <ToTranslate>Ринрин$"... ах, ум-м-м."@</ToTranslate>
+  </String>
+  <String index="177">
+    <ToTranslate>$Ясно же, что для них было бы не настолько болезненно сражаться против других генералов, подготовленных для дуэлей и действительно равных им.@</ToTranslate>
+  </String>
+  <String index="178">
+    <ToTranslate>$Ставшие военными по призванию, они обязаны сражаться потому что были рождены для этого.@</ToTranslate>
+  </String>
+  <String index="179">
+    <ToTranslate>$Они обрели гордость, честь и статус поставив свою жизнь на кон.@</ToTranslate>
+  </String>
+  <String index="180">
+    <ToTranslate>rinr1175</ToTranslate>
+  </String>
+  <String index="181">
+    <ToTranslate>Ринрин$"Вот только... вы не выбираем врагов, с которыми бы хотели сражаться."@</ToTranslate>
+  </String>
+  <String index="182">
+    <ToTranslate>$Не свойственно для Ринрин проявлять чувственность, как бы мне хотелось самому разобраться со своими врагами чтобы уменьшить её боль.@</ToTranslate>
+  </String>
+  <String index="183">
+    <ToTranslate>$Меня мучают внутренние сомнения.@</ToTranslate>
+  </String>
+  <String index="184">
+    <ToTranslate>tcg_kan11ca</ToTranslate>
+  </String>
+  <String index="185">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="186">
+    <ToTranslate>aisy1384</ToTranslate>
+  </String>
+  <String index="187">
+    <ToTranslate>Айша$"Именно так."@</ToTranslate>
+  </String>
+  <String index="188">
+    <ToTranslate>$Именно потому что они обе военная элита, всегда в первых рядах рискуя собственными жизнями.@</ToTranslate>
+  </String>
+  <String index="189">
+    <ToTranslate>tcg_cho31ga</ToTranslate>
+  </String>
+  <String index="190">
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="191">
+    <ToTranslate>rinr1176</ToTranslate>
+  </String>
+  <String index="192">
+    <ToTranslate>Ринрин$"Не унывай Братишка! Ведь сейчас у нас всё хорошо! Правда же, Айша?"@</ToTranslate>
+  </String>
+  <String index="193">
+    <ToTranslate>tcg_kan11aa</ToTranslate>
+  </String>
+  <String index="194">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="195">
+    <ToTranslate>aisy1385</ToTranslate>
+  </String>
+  <String index="196">
+    <ToTranslate>Айша$"Разумеется, и сейчас мы все трудимся для осуществления наших заветных амбиций, и мы не дрогнем, кем бы ни оказался наш враг."@</ToTranslate>
+  </String>
+  <String index="197">
+    <ToTranslate>Казуто$"Да... у всех нас свои причины."@</ToTranslate>
+  </String>
+  <String index="198">
+    <ToTranslate>tcg_cho11aa</ToTranslate>
+  </String>
+  <String index="199">
+    <ToTranslate>tcg_cho11m</ToTranslate>
+  </String>
+  <String index="200">
+    <ToTranslate>rinr1177</ToTranslate>
+  </String>
+  <String index="201">
+    <ToTranslate>Ринрин$"И тогда мы создадим мир, в котором каждый сможет в мире!"@</ToTranslate>
+  </String>
+  <String index="202">
+    <ToTranslate>$Их "причина" ни капли не изменилась с того самого времени когда я бессознательно натолкнулся на них в этом мире.@</ToTranslate>
+  </String>
+  <String index="203">
+    <ToTranslate>Казуто$"Это прекрасная цель, ради исполнения которой стоит посвятить свою жизнь."@</ToTranslate>
+  </String>
+  <String index="204">
+    <ToTranslate>$Они обе как сёстры, бок о бок сражающиеся вместе со мной, пойдя сквозь боль и лишения они никогда не жаловались.@</ToTranslate>
+  </String>
+  <String index="205">
+    <ToTranslate>$Вспомнив через что мы прошли я принял решение.@</ToTranslate>
+  </String>
+  <String index="206">
+    <ToTranslate>Казуто$"Мы все будем работать ещё усерднее."@</ToTranslate>
+  </String>
+  <String index="207">
+    <ToTranslate>$Мне тоже следует их поддержать, и быть готовым пожертвовать всем ради исполнения свей мечты.@</ToTranslate>
+  </String>
+  <String index="208">
+    <ToTranslate>Казуто$"Я буду работать и помогу всем что у меня есть! Клянусь что закончу эту войну!"@</ToTranslate>
+  </String>
+  <String index="209">
+    <ToTranslate>tcg_kan21ba</ToTranslate>
+  </String>
+  <String index="210">
+    <ToTranslate>tcg_kan21m</ToTranslate>
+  </String>
+  <String index="211">
+    <ToTranslate>aisy1386</ToTranslate>
+  </String>
+  <String index="212">
+    <ToTranslate>Айша$"Господин... да, знайте же что мы вместе с вами. Позвольте нам поддерживать вас до дня осуществления нашей мечты."@</ToTranslate>
+  </String>
+  <String index="213">
+    <ToTranslate>Казуто$"Буду рассчитывать на вас, главным образом потому что сам я не так силён как вы."@</ToTranslate>
+  </String>
+  <String index="214">
+    <ToTranslate>tcg_cho11la</ToTranslate>
+  </String>
+  <String index="215">
+    <ToTranslate>tcg_cho11m</ToTranslate>
+  </String>
+  <String index="216">
+    <ToTranslate>rinr1178</ToTranslate>
+  </String>
+  <String index="217">
+    <ToTranslate>Ринрин$"Да, Братишка ты ведь совсем слабый! Но ты тоже по-своему силён, так что не волнуйся об этом! У нас всё получится!"@</ToTranslate>
+  </String>
+  <String index="218">
+    <ToTranslate>tcg_kan11aa</ToTranslate>
+  </String>
+  <String index="219">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="220">
+    <ToTranslate>aisy1387</ToTranslate>
+  </String>
+  <String index="221">
+    <ToTranslate>Айша$"Верно, ведь вы человек, которому мы посвятили свою жизнь."@</ToTranslate>
+  </String>
+  <String index="222">
+    <ToTranslate>$Понимая, насколько же сильно они верят в меня, я начинаю желать и самому обрести столь сильную веру в себя.@</ToTranslate>
+  </String>
+  <String index="223">
+    <ToTranslate>Казуто$"Давайте постараемся, все вместе."@</ToTranslate>
+  </String>
+  <String index="224">
+    <ToTranslate>$Теперь я просто обязан работать изо всех сил чтобы оправдать их доверие, ведь это меньшее, чем я могу им отплатить.@</ToTranslate>
+  </String>
+  <String index="225">
+    <ToTranslate>Казуто$"Втроём мы сможем... да, мы точно сможем. Давайте сделаем это!"@</ToTranslate>
+  </String>
+  <String index="226">
+    <ToTranslate>tcg_cho21ia</ToTranslate>
+  </String>
+  <String index="227">
+    <ToTranslate>tcg_cho21m</ToTranslate>
+  </String>
+  <String index="228">
+    <ToTranslate>rinr1179</ToTranslate>
+  </String>
+  <String index="229">
+    <ToTranslate>Ринрин$"Не только мы трое! Шури, Сэй, Суи и Сион... они непременно помогут нам! Мы все постараемся!"@</ToTranslate>
+  </String>
+  <String index="230">
+    <ToTranslate>Казуто$"Ито правда, они все... вместе с нами."@</ToTranslate>
+  </String>
+  <String index="231">
+    <ToTranslate>tcg_kan21aa</ToTranslate>
+  </String>
+  <String index="232">
+    <ToTranslate>tcg_kan21m</ToTranslate>
+  </String>
+  <String index="233">
+    <ToTranslate>aisy1388</ToTranslate>
+  </String>
+  <String index="234">
+    <ToTranslate>Айша$"Говорите, втроём нам всё под силу? Тогда все вместе мы должны стать непобедимы!"@</ToTranslate>
+  </String>
+  <String index="235">
+    <ToTranslate>Казуто$"Так и есть."@</ToTranslate>
+  </String>
+  <String index="236">
+    <ToTranslate>tcg_kan21ba</ToTranslate>
+  </String>
+  <String index="237">
+    <ToTranslate>tcg_kan21m</ToTranslate>
+  </String>
+  <String index="238">
+    <ToTranslate>aisy1389</ToTranslate>
+  </String>
+  <String index="239">
+    <ToTranslate>Айша$"Эхе-хе."@</ToTranslate>
+  </String>
+  <String index="240">
+    <ToTranslate>$А ведь всего минуту назад я ещё не задумывался над этим, пора и мне начинать менять своё отношение, и начиная с этой минуты пора ставить галочку на 'только вперёд'.@</ToTranslate>
+  </String>
+  <String index="241">
+    <ToTranslate>tcg_cho31ma</ToTranslate>
+  </String>
+  <String index="242">
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="243">
+    <ToTranslate>rinr1180</ToTranslate>
+  </String>
+  <String index="244">
+    <ToTranslate>Ринрин$"Мяха-ха! Ринрин собирается хорошо поработать! Я всегда буду защищать тебя, Братик!"@</ToTranslate>
+  </String>
+  <String index="245">
+    <ToTranslate>tcg_kan11ea</ToTranslate>
+  </String>
+  <String index="246">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="247">
+    <ToTranslate>aisy1390</ToTranslate>
+  </String>
+  <String index="248">
+    <ToTranslate>Айша$"'Мчащиеся к победе в конце всегда падают.' Весьма опасное заявление... я всегда буду приглядывать за тобой."@</ToTranslate>
+  </String>
+  <String index="249">
+    <ToTranslate>tcg_cho21da</ToTranslate>
+  </String>
+  <String index="250">
+    <ToTranslate>tcg_cho21m</ToTranslate>
+  </String>
+  <String index="251">
+    <ToTranslate>rinr1181</ToTranslate>
+  </String>
+  <String index="252">
+    <ToTranslate>Ринрин$"Братик, Айша снова умничает! Скажи ей прекратить!"@</ToTranslate>
+  </String>
+  <String index="253">
+    <ToTranslate>Казуто$"Соглашусь с Айшей, не стоит мучить себя, пусть всё идёт своим чередом."@</ToTranslate>
+  </String>
+  <String index="254">
+    <ToTranslate>tcg_cho31da</ToTranslate>
+  </String>
+  <String index="255">
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="256">
+    <ToTranslate>tcg_kan21ba</ToTranslate>
+  </String>
+  <String index="257">
+    <ToTranslate>tcg_kan21m</ToTranslate>
+  </String>
+  <String index="258">
+    <ToTranslate>rinr1182</ToTranslate>
+  </String>
+  <String index="259">
+    <ToTranslate>Ринрин$"Бу-у-у."@</ToTranslate>
+  </String>
+  <String index="260">
+    <ToTranslate>$Ведь всё что мне нужно, так это больше таких мирных деньков.@</ToTranslate>
+  </String>
+  <String index="261">
+    <ToTranslate>tcg_cho11aa</ToTranslate>
+  </String>
+  <String index="262">
+    <ToTranslate>tcg_cho11m</ToTranslate>
+  </String>
+  <String index="263">
+    <ToTranslate>rinr1183</ToTranslate>
+  </String>
+  <String index="264">
+    <ToTranslate>Ринрин$"Братик, я не собираюсь сдаваться! Ринрин желает мира во всём мире и прямо сейчас!"@</ToTranslate>
+  </String>
+  <String index="265">
+    <ToTranslate>$Мы все становимся ближе, ближе к нашему будущему, которого все так желаем.@</ToTranslate>
+  </String>
+  <String index="266">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="267">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="268">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+</DBS>
+
+</poem>

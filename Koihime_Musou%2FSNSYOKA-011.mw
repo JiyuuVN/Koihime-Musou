@@ -1,0 +1,2790 @@
+<poem>
+<?xml version="1.0" encoding="UTF-8"?>
+<DBS>
+  <String index="0">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="1">
+    <ToTranslate>bcg_town_a</ToTranslate>
+  </String>
+  <String index="2">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="3">
+    <ToTranslate>bgm26</ToTranslate>
+  </String>
+  <String index="4">
+    <ToTranslate>SE078</ToTranslate>
+  </String>
+  <String index="5">
+    <ToTranslate>$Так-так, а вот и ещё один прекрасный день. После победы в последнем бою чувствую себя по-особенному счастливым, ведь теперь я сполна могу насладиться мирным мгновением.@</ToTranslate>
+  </String>
+  <String index="6">
+    <ToTranslate>tcg_syo11ba</ToTranslate>
+  </String>
+  <String index="7">
+    <ToTranslate>tcg_syo11m</ToTranslate>
+  </String>
+  <String index="8">
+    <ToTranslate>syur1616</ToTranslate>
+  </String>
+  <String index="9">
+    <ToTranslate>Шури$"Уа-а, до чего оживлённый рынок, и здесь так много людей."@</ToTranslate>
+  </String>
+  <String index="10">
+    <ToTranslate>$Да-да, на время очередного обхода я потащил Шури с собой.@</ToTranslate>
+  </String>
+  <String index="11">
+    <ToTranslate>Казуто$"Ну как? Рада, что оказалась здесь? Иногда мы тоже должны расслабляться... порой ты слишком много времени уделяешь работе."@</ToTranslate>
+  </String>
+  <String index="12">
+    <ToTranslate>tcg_syo21ja</ToTranslate>
+  </String>
+  <String index="13">
+    <ToTranslate>tcg_syo21m</ToTranslate>
+  </String>
+  <String index="14">
+    <ToTranslate>syur1617</ToTranslate>
+  </String>
+  <String index="15">
+    <ToTranslate>Шури$"Так и должно быть, особенно после сражений. Также к этому времени скопилась уйма дел, которые нуждаются в вашем решении..."@</ToTranslate>
+  </String>
+  <String index="16">
+    <ToTranslate>Казуто$"Э-э-э, смотри, Шури. Вон там продают свежие булочки с говядиной."@</ToTranslate>
+  </String>
+  <String index="17">
+    <ToTranslate>tcg_syo11aa</ToTranslate>
+  </String>
+  <String index="18">
+    <ToTranslate>tcg_syo11m</ToTranslate>
+  </String>
+  <String index="19">
+    <ToTranslate>syur1618</ToTranslate>
+  </String>
+  <String index="20">
+    <ToTranslate>Шури $"У-у-у. Эхе. Похоже? что да."@</ToTranslate>
+  </String>
+  <String index="21">
+    <ToTranslate>$Сегодня мы пришли сюда, чтобы расслабиться и нельзя позволять нашим умам излишне тревожиться...@</ToTranslate>
+  </String>
+  <String index="22">
+    <ToTranslate>Казуто$"О-ой."@</ToTranslate>
+  </String>
+  <String index="23">
+    <ToTranslate>Прохожий$"Ой, простите меня."@</ToTranslate>
+  </String>
+  <String index="24">
+    <ToTranslate>$Пялясь по сторонам я чуть не сшиб человека похожего на торговца.@</ToTranslate>
+  </String>
+  <String index="25">
+    <ToTranslate>$Случаем я засмотрелся на человека который быстро шёл куда-то с чего-то жутко лыбился.@</ToTranslate>
+  </String>
+  <String index="26">
+    <ToTranslate>Казуто$"Все вокруг такие быстрые. Или может, это я просто старею? Такое чувство, что это я очень медленный."@</ToTranslate>
+  </String>
+  <String index="27">
+    <ToTranslate>tcg_syo11ga</ToTranslate>
+  </String>
+  <String index="28">
+    <ToTranslate>tcg_syo11m</ToTranslate>
+  </String>
+  <String index="29">
+    <ToTranslate>syur1619</ToTranslate>
+  </String>
+  <String index="30">
+    <ToTranslate>Шури$"И совсем нет, не стоит с этим шутить."@</ToTranslate>
+  </String>
+  <String index="31">
+    <ToTranslate>Казуто$"Что ж, мне тоже так кажется. Но всё же, люблю я, когда вокруг оживлённо."@</ToTranslate>
+  </String>
+  <String index="32">
+    <ToTranslate>tcg_syo11ba</ToTranslate>
+  </String>
+  <String index="33">
+    <ToTranslate>tcg_syo11m</ToTranslate>
+  </String>
+  <String index="34">
+    <ToTranslate>syur1620</ToTranslate>
+  </String>
+  <String index="35">
+    <ToTranslate>Шури $"Это всё благодаря вашему управлению в делах национальной политики. Люди этого города восхваляют вас."@</ToTranslate>
+  </String>
+  <String index="36">
+    <ToTranslate>Казуто$"Га? Да ладно, только не из-за меня... мы победили в сражении благодаря всем. А твоё отличное ведение внутренней политики сделало всё остальное."@</ToTranslate>
+  </String>
+  <String index="37">
+    <ToTranslate>tcg_syo21fa</ToTranslate>
+  </String>
+  <String index="38">
+    <ToTranslate>tcg_syo21m</ToTranslate>
+  </String>
+  <String index="39">
+    <ToTranslate>syur1621</ToTranslate>
+  </String>
+  <String index="40">
+    <ToTranslate>Шури$"У-ум."@</ToTranslate>
+  </String>
+  <String index="41">
+    <ToTranslate>$Я удивил её внезапно положив ей руку на голову. Почему лишь я здесь обязан испытывать смущение, мы должны разделить и его.@</ToTranslate>
+  </String>
+  <String index="42">
+    <ToTranslate>Казуто$"Считаю, что спокойствие этого города...... это заслуга нас всех, гостей города и проживающий здесь"@</ToTranslate>
+  </String>
+  <String index="43">
+    <ToTranslate>tcg_syo11la</ToTranslate>
+  </String>
+  <String index="44">
+    <ToTranslate>tcg_syo11m</ToTranslate>
+  </String>
+  <String index="45">
+    <ToTranslate>onpu</ToTranslate>
+  </String>
+  <String index="46">
+    <ToTranslate>syur1622</ToTranslate>
+  </String>
+  <String index="47">
+    <ToTranslate>Шури$"...хе-хе."@</ToTranslate>
+  </String>
+  <String index="48">
+    <ToTranslate>Казуто$"А, Шури, удивлён что в такой толпе ты хочешь держать меня за руку."@</ToTranslate>
+  </String>
+  <String index="49">
+    <ToTranslate>tcg_syo11ka</ToTranslate>
+  </String>
+  <String index="50">
+    <ToTranslate>tcg_syo11m</ToTranslate>
+  </String>
+  <String index="51">
+    <ToTranslate>syur1623</ToTranslate>
+  </String>
+  <String index="52">
+    <ToTranslate>Шури$"Просто мне этого о-очень не хватало в последнее время."@</ToTranslate>
+  </String>
+  <String index="53">
+    <ToTranslate>$Мы взялись за руки и начали идти по оживлённому городу, Шури явно была в приподнятом настроении.@</ToTranslate>
+  </String>
+  <String index="54">
+    <ToTranslate>Пацан А$"Смотрите, Правитель флиртует со своим стратегом!"@</ToTranslate>
+  </String>
+  <String index="55">
+    <ToTranslate>tcg_syo21ma</ToTranslate>
+  </String>
+  <String index="56">
+    <ToTranslate>tcg_syo21m</ToTranslate>
+  </String>
+  <String index="57">
+    <ToTranslate>syur1624</ToTranslate>
+  </String>
+  <String index="58">
+    <ToTranslate>Шури$"Хава?!"@</ToTranslate>
+  </String>
+  <String index="59">
+    <ToTranslate>$Прискорбно, Шури мгновенно отвела руку после того как местное трололо подметило нас. Малышня, вам следует научиться держать язык за зубами.@</ToTranslate>
+  </String>
+  <String index="60">
+    <ToTranslate>Пацан Б$"Правитель со стратегом заигрывают!"@</ToTranslate>
+  </String>
+  <String index="61">
+    <ToTranslate>tcg_syo21pa</ToTranslate>
+  </String>
+  <String index="62">
+    <ToTranslate>tcg_syo21m</ToTranslate>
+  </String>
+  <String index="63">
+    <ToTranslate>syur1625</ToTranslate>
+  </String>
+  <String index="64">
+    <ToTranslate>Шури$"П-перестаньте... авава-а-а-а."@</ToTranslate>
+  </String>
+  <String index="65">
+    <ToTranslate>Пацан В$"Она испугалась."@</ToTranslate>
+  </String>
+  <String index="66">
+    <ToTranslate>Казуто$"Не тыкайте пальцем во взрослых! Хм... детвора, что-то вы сегодня оживлённее обычного."@</ToTranslate>
+  </String>
+  <String index="67">
+    <ToTranslate>Пацан А$"Так и есть!"@</ToTranslate>
+  </String>
+  <String index="68">
+    <ToTranslate>$Вокруг нас собралась толпа пальцомтыкателей, а взрослые даже и не пытаются останавливать их. Теперь вижу, насколько сильно здесь меня уважают...@</ToTranslate>
+  </String>
+  <String index="69">
+    <ToTranslate>Житель А$"Правитель, вышли на прогулку? Самое время, разве погода сегодня не благосклонна?"@</ToTranslate>
+  </String>
+  <String index="70">
+    <ToTranslate>Казуто$"У нас обход, мы следим за безопасностью этого города."@</ToTranslate>
+  </String>
+  <String index="71">
+    <ToTranslate>Пацан Б$"Аха-ха-ха."@</ToTranslate>
+  </String>
+  <String index="72">
+    <ToTranslate>Казуто$"Не ржать! Иначе догоню и надеру зад!"@</ToTranslate>
+  </String>
+  <String index="73">
+    <ToTranslate>$Мне нравится искренность здешних людей, всё больше людей замечает нас и собирается вокруг... я понял, насколько же здесь людно сегодня.@</ToTranslate>
+  </String>
+  <String index="74">
+    <ToTranslate>tcg_syo21da</ToTranslate>
+  </String>
+  <String index="75">
+    <ToTranslate>tcg_syo21m</ToTranslate>
+  </String>
+  <String index="76">
+    <ToTranslate>syur1626</ToTranslate>
+  </String>
+  <String index="77">
+    <ToTranslate>Шури$"Уа, людей становится всё больше, что же нам делать?"@</ToTranslate>
+  </String>
+  <String index="78">
+    <ToTranslate>Казуто$"Хм-м... зато теперь нам возможно удастся на халяву поесть."@</ToTranslate>
+  </String>
+  <String index="79">
+    <ToTranslate>tcg_syo11ga</ToTranslate>
+  </String>
+  <String index="80">
+    <ToTranslate>tcg_syo11m</ToTranslate>
+  </String>
+  <String index="81">
+    <ToTranslate>syur1627</ToTranslate>
+  </String>
+  <String index="82">
+    <ToTranslate>Шури$"Господин, как же это на вас похоже."@</ToTranslate>
+  </String>
+  <String index="83">
+    <ToTranslate>$Какая наглость.@</ToTranslate>
+  </String>
+  <String index="84">
+    <ToTranslate>$Нет, я не жадный, это важная часть внутренней политики. Нельзя отказываться от людской щедрости... о-о-о, вот бы мне пару булочек с говядиной.@</ToTranslate>
+  </String>
+  <String index="85">
+    <ToTranslate>Торгаш$"Можете передать вот это генералу Чёхи? Она мой постоянный покупатель."@</ToTranslate>
+  </String>
+  <String index="86">
+    <ToTranslate>Казуто$"Конечно, обязательно передам. *Хрум.*"@</ToTranslate>
+  </String>
+  <String index="87">
+    <ToTranslate>tcg_syo21da</ToTranslate>
+  </String>
+  <String index="88">
+    <ToTranslate>tcg_syo21m</ToTranslate>
+  </String>
+  <String index="89">
+    <ToTranslate>syur1628</ToTranslate>
+  </String>
+  <String index="90">
+    <ToTranslate>Шури$"А?! Вы же только что съели её."@</ToTranslate>
+  </String>
+  <String index="91">
+    <ToTranslate>Казуто$"Недурно! Шури, тебе следует тоже попробовать..."@</ToTranslate>
+  </String>
+  <String index="92">
+    <ToTranslate>tcg_hg21ca</ToTranslate>
+  </String>
+  <String index="93">
+    <ToTranslate>tcg_hg21m</ToTranslate>
+  </String>
+  <String index="94">
+    <ToTranslate>bgm16</ToTranslate>
+  </String>
+  <String index="95">
+    <ToTranslate>chos0397</ToTranslate>
+  </String>
+  <String index="96">
+    <ToTranslate>Чосэн$"*Нюх, нюх...* опа! Мой Господин, так и знал что это вы!"@</ToTranslate>
+  </String>
+  <String index="97">
+    <ToTranslate>$Он что, следовал за мной по запаху?@</ToTranslate>
+  </String>
+  <String index="98">
+    <ToTranslate>tcg_syo11aa</ToTranslate>
+  </String>
+  <String index="99">
+    <ToTranslate>tcg_syo11m</ToTranslate>
+  </String>
+  <String index="100">
+    <ToTranslate>tcg_hg21ca</ToTranslate>
+  </String>
+  <String index="101">
+    <ToTranslate>tcg_hg21m</ToTranslate>
+  </String>
+  <String index="102">
+    <ToTranslate>syur1629</ToTranslate>
+  </String>
+  <String index="103">
+    <ToTranslate>Шури$"Добрый день. Пришли сюда купить чего-нибудь, Чосэн-сан?"@</ToTranslate>
+  </String>
+  <String index="104">
+    <ToTranslate>tcg_hg11ga</ToTranslate>
+  </String>
+  <String index="105">
+    <ToTranslate>tcg_hg11m</ToTranslate>
+  </String>
+  <String index="106">
+    <ToTranslate>chos0398</ToTranslate>
+  </String>
+  <String index="107">
+    <ToTranslate>Чосэн$"Шури-чи? О-о... несомненно, мужественный запах Господина сегодня сильнее, чем обычно. И всё из-за тебя, Шури-чи, я ревную."@</ToTranslate>
+  </String>
+  <String index="108">
+    <ToTranslate>tcg_syo21fa</ToTranslate>
+  </String>
+  <String index="109">
+    <ToTranslate>tcg_syo21m</ToTranslate>
+  </String>
+  <String index="110">
+    <ToTranslate>syur1630</ToTranslate>
+  </String>
+  <String index="111">
+    <ToTranslate>Шури$"У-у-у, нет, мы просто патрулируем вместе."@</ToTranslate>
+  </String>
+  <String index="112">
+    <ToTranslate>tcg_hg21ba</ToTranslate>
+  </String>
+  <String index="113">
+    <ToTranslate>tcg_hg21m</ToTranslate>
+  </String>
+  <String index="114">
+    <ToTranslate>chos0399</ToTranslate>
+  </String>
+  <String index="115">
+    <ToTranslate>Чосэн$"Гы-гы, ты просто прелесть когда краснеешь. Ты красива как никогда, но в наше время стоит получать удовольствие от жизни при каждой возможности."@</ToTranslate>
+  </String>
+  <String index="116">
+    <ToTranslate>$Толпа расступилась при  виде перекачанного морского спасателя... что там за речи о нарушении общественного правопорядка, хотя мне его даже немного жаль.@</ToTranslate>
+  </String>
+  <String index="117">
+    <ToTranslate>Казуто$"Ты ведь правда не следовал за мной по запаху? Так что ты здесь делаешь? Ты один?"@</ToTranslate>
+  </String>
+  <String index="118">
+    <ToTranslate>tcg_hg11ja</ToTranslate>
+  </String>
+  <String index="119">
+    <ToTranslate>tcg_hg11m</ToTranslate>
+  </String>
+  <String index="120">
+    <ToTranslate>chos0400</ToTranslate>
+  </String>
+  <String index="121">
+    <ToTranslate>Чосэн$"За что так враждебно! И ты тоже Шури-чи."@</ToTranslate>
+  </String>
+  <String index="122">
+    <ToTranslate>tcg_syo21ma</ToTranslate>
+  </String>
+  <String index="123">
+    <ToTranslate>tcg_syo21m</ToTranslate>
+  </String>
+  <String index="124">
+    <ToTranslate>syur1631</ToTranslate>
+  </String>
+  <String index="125">
+    <ToTranslate>Шури$"Уи-и!? Чосэн-сан!"@</ToTranslate>
+  </String>
+  <String index="126">
+    <ToTranslate>tcg_hg21fa</ToTranslate>
+  </String>
+  <String index="127">
+    <ToTranslate>tcg_hg21m</ToTranslate>
+  </String>
+  <String index="128">
+    <ToTranslate>chos0401</ToTranslate>
+  </String>
+  <String index="129">
+    <ToTranslate>Чосэн$"Убитый горем, я бродил по городу в полном одиночестве...... ища тепла (обязательно красивых мальчиков с розовыми щёчками!). Ой, ну хотя б один повстречался."@</ToTranslate>
+  </String>
+  <String index="130">
+    <ToTranslate>Пацан А$"......бэ-э."@</ToTranslate>
+  </String>
+  <String index="131">
+    <ToTranslate>Пацан Б$"...Правитель, спасите меня..."@</ToTranslate>
+  </String>
+  <String index="132">
+    <ToTranslate>$С чего местная гопота так напугана?! Едва завидев Чосэна вся срань попряталась мне за спину.@</ToTranslate>
+  </String>
+  <String index="133">
+    <ToTranslate>Казуто$"...не пугай детей. Одно твоё присутствие способно напугать всех вокруг."@</ToTranslate>
+  </String>
+  <String index="134">
+    <ToTranslate>tcg_hg21da</ToTranslate>
+  </String>
+  <String index="135">
+    <ToTranslate>tcg_hg21m</ToTranslate>
+  </String>
+  <String index="136">
+    <ToTranslate>chos0402</ToTranslate>
+  </String>
+  <String index="137">
+    <ToTranslate>Чосэн$"До чего жестокие слова! Вы грубиян, мой Господин. *хнык...*"@</ToTranslate>
+  </String>
+  <String index="138">
+    <ToTranslate>$Э-э-э. Этот притворяется что плачет, а дети тем временем начинают собирать камни.@</ToTranslate>
+  </String>
+  <String index="139">
+    <ToTranslate>tcg_syo21ja</ToTranslate>
+  </String>
+  <String index="140">
+    <ToTranslate>tcg_syo21m</ToTranslate>
+  </String>
+  <String index="141">
+    <ToTranslate>syur1632</ToTranslate>
+  </String>
+  <String index="142">
+    <ToTranslate>Шури$"М-может нам следует продолжить обход?"@</ToTranslate>
+  </String>
+  <String index="143">
+    <ToTranslate>Казуто$"...точно, кажись, так будет правильнее."@</ToTranslate>
+  </String>
+  <String index="144">
+    <ToTranslate>tcg_hg11aa</ToTranslate>
+  </String>
+  <String index="145">
+    <ToTranslate>tcg_hg11m</ToTranslate>
+  </String>
+  <String index="146">
+    <ToTranslate>chos0403</ToTranslate>
+  </String>
+  <String index="147">
+    <ToTranslate>Чосэн$"Обход? Разве вы пришли не на фестиваль?"@</ToTranslate>
+  </String>
+  <String index="148">
+    <ToTranslate>$Чосэн преградил путь! Мгновенно перестав хныкать... чего? Стоп, он только что произнёс то, что привлекло моё внимание.@</ToTranslate>
+  </String>
+  <String index="149">
+    <ToTranslate>Казуто$"Какой фестиваль? Неужели здесь что-то намечается?"@</ToTranslate>
+  </String>
+  <String index="150">
+    <ToTranslate>Пацан А$"Это праздник в честь мира!"@</ToTranslate>
+  </String>
+  <String index="151">
+    <ToTranslate>$Пацан, прежде целившийся каменюкой в Чосэна, резко выпрыгнул из-за моей спины.@</ToTranslate>
+  </String>
+  <String index="152">
+    <ToTranslate>Пацан Б$"Я хочу чтобы вы остались! Если вы будете участвовать, будет куда веселее!"@</ToTranslate>
+  </String>
+  <String index="153">
+    <ToTranslate>Казуто$"Фестиваль значится? Интересненнько, мы однозначно в теме."@</ToTranslate>
+  </String>
+  <String index="154">
+    <ToTranslate>tcg_syo11ga</ToTranslate>
+  </String>
+  <String index="155">
+    <ToTranslate>tcg_syo11m</ToTranslate>
+  </String>
+  <String index="156">
+    <ToTranslate>syur1633</ToTranslate>
+  </String>
+  <String index="157">
+    <ToTranslate>Шури$"Господин. Разве вы сами не говорили, что у нас ещё уйма невыполненной работы?"@</ToTranslate>
+  </String>
+  <String index="158">
+    <ToTranslate>Казуто$"Ну, то и это, сама знаешь... ха-ха."@</ToTranslate>
+  </String>
+  <String index="159">
+    <ToTranslate>Пацан А$"Ура! Скажем старосте деревни, что Правитель тоже в теме!"@</ToTranslate>
+  </String>
+  <String index="160">
+    <ToTranslate>Казуто$"Га!? Эй, не делайте из этого целого представления. Я просто хочу насладиться праздником."@</ToTranslate>
+  </String>
+  <String index="161">
+    <ToTranslate>tcg_hg11ba</ToTranslate>
+  </String>
+  <String index="162">
+    <ToTranslate>tcg_hg11m</ToTranslate>
+  </String>
+  <String index="163">
+    <ToTranslate>chos0404</ToTranslate>
+  </String>
+  <String index="164">
+    <ToTranslate>Чосэн$"Нельзя же так. Разве не вы недавно говорили, что собираетесь сблизиться с населением через поедание дармовых булочек с говядиной?"@</ToTranslate>
+  </String>
+  <String index="165">
+    <ToTranslate>syur1634</ToTranslate>
+  </String>
+  <String index="166">
+    <ToTranslate>Шури$"Думаю, сейчас он именно к этому и стремится..."@</ToTranslate>
+  </String>
+  <String index="167">
+    <ToTranslate>tcg_hg21ba</ToTranslate>
+  </String>
+  <String index="168">
+    <ToTranslate>tcg_hg21m</ToTranslate>
+  </String>
+  <String index="169">
+    <ToTranslate>chos0405</ToTranslate>
+  </String>
+  <String index="170">
+    <ToTranslate>Чосэн$"Почётный гость должен занять соответствующее место. Думайте об этом как о части своей работы."@</ToTranslate>
+  </String>
+  <String index="171">
+    <ToTranslate>$Неужели монстр читает мне нотации!? Почему я должен занять место почётного гостя? Я же так не смогу насладиться самим фестивалем!!@</ToTranslate>
+  </String>
+  <String index="172">
+    <ToTranslate>Казуто$"И думать забудьте! Ничего не говори старосте и позже я куплю тебе персик."@</ToTranslate>
+  </String>
+  <String index="173">
+    <ToTranslate>Пацан Б$"Нет!"@</ToTranslate>
+  </String>
+  <String index="174">
+    <ToTranslate>tcg_syo11aa</ToTranslate>
+  </String>
+  <String index="175">
+    <ToTranslate>tcg_syo11m</ToTranslate>
+  </String>
+  <String index="176">
+    <ToTranslate>syur1635</ToTranslate>
+  </String>
+  <String index="177">
+    <ToTranslate>Шури$"Не думаю что у вас есть возможность выбора, и это подтверждение того что люди любят вас. Плюс, если вы согласитесь, это наладит отношения с Айшей-сан."@</ToTranslate>
+  </String>
+  <String index="178">
+    <ToTranslate>$Даже Шури на их стороне? Ну тогда...@</ToTranslate>
+  </String>
+  <String index="179">
+    <ToTranslate>Казуто$"...уболтали. Передайте старосте что я буду рад принять в нём участие"@</ToTranslate>
+  </String>
+  <String index="180">
+    <ToTranslate>Пацан А$"Да!"@</ToTranslate>
+  </String>
+  <String index="181">
+    <ToTranslate>tcg_syo11ba</ToTranslate>
+  </String>
+  <String index="182">
+    <ToTranslate>tcg_syo11m</ToTranslate>
+  </String>
+  <String index="183">
+    <ToTranslate>syur1636</ToTranslate>
+  </String>
+  <String index="184">
+    <ToTranslate>Шури$"Здорово! Вы ведёте себя как истинный феодал."@</ToTranslate>
+  </String>
+  <String index="185">
+    <ToTranslate>tcg_hg41ka</ToTranslate>
+  </String>
+  <String index="186">
+    <ToTranslate>tcg_hg41m</ToTranslate>
+  </String>
+  <String index="187">
+    <ToTranslate>chos0406</ToTranslate>
+  </String>
+  <String index="188">
+    <ToTranslate>Чосэн$"Чесслово! Я аж вспотел... вы удивительны, мой Господин."@</ToTranslate>
+  </String>
+  <String index="189">
+    <ToTranslate>Казуто$"Что же там у тебя могло вспотеть?"@</ToTranslate>
+  </String>
+  <String index="190">
+    <ToTranslate>tcg_hg21fa</ToTranslate>
+  </String>
+  <String index="191">
+    <ToTranslate>tcg_hg21m</ToTranslate>
+  </String>
+  <String index="192">
+    <ToTranslate>chos0407</ToTranslate>
+  </String>
+  <String index="193">
+    <ToTranslate>Чосэн$"Вы ведь и сами всё знаете, самый кончик!"@</ToTranslate>
+  </String>
+  <String index="194">
+    <ToTranslate>Казуто$"Мерзость..."@</ToTranslate>
+  </String>
+  <String index="195">
+    <ToTranslate>Казуто$"П-проехали, вы скажете ему что я и мой стратег присоединимся к ним позже? Могу я на вас рассчитывать?"@</ToTranslate>
+  </String>
+  <String index="196">
+    <ToTranslate>Пацан А$"С удовольствием! Уже бегу!!"@</ToTranslate>
+  </String>
+  <String index="197">
+    <ToTranslate>tcg_syo21ca</ToTranslate>
+  </String>
+  <String index="198">
+    <ToTranslate>tcg_syo21m</ToTranslate>
+  </String>
+  <String index="199">
+    <ToTranslate>syur1637</ToTranslate>
+  </String>
+  <String index="200">
+    <ToTranslate>Шури$"Хава!? П-простите, Господин!?"@</ToTranslate>
+  </String>
+  <String index="201">
+    <ToTranslate>$Шури робко переводит взгляд с только что убежавшего ребёнка на меня, завидев такое я просто не смог сдержаться от смеха.@</ToTranslate>
+  </String>
+  <String index="202">
+    <ToTranslate>Казуто$"Неужто понадеялась, что если ты мой стратег, то я приму участие в одиночку? Помни, сегодня нас ждёт единая участь."@</ToTranslate>
+  </String>
+  <String index="203">
+    <ToTranslate>tcg_syo11ga</ToTranslate>
+  </String>
+  <String index="204">
+    <ToTranslate>tcg_syo11m</ToTranslate>
+  </String>
+  <String index="205">
+    <ToTranslate>syur1638</ToTranslate>
+  </String>
+  <String index="206">
+    <ToTranslate>Шури$"Н-но... никогда прежде я не появлялась перед публикой..."@</ToTranslate>
+  </String>
+  <String index="207">
+    <ToTranslate>Казуто$"Нам ведь просто придётся сидеть рядом с главой деревни? Не переживай ты так."@</ToTranslate>
+  </String>
+  <String index="208">
+    <ToTranslate>tcg_syo21ja</ToTranslate>
+  </String>
+  <String index="209">
+    <ToTranslate>tcg_syo21m</ToTranslate>
+  </String>
+  <String index="210">
+    <ToTranslate>syur1639</ToTranslate>
+  </String>
+  <String index="211">
+    <ToTranslate>Шури$"У-у-у... очень на это надеюсь."@</ToTranslate>
+  </String>
+  <String index="212">
+    <ToTranslate>$Шури неуверенно согласилась. Рад, что мне не придётся быть экспонатом в гордом одиночестве.@</ToTranslate>
+  </String>
+  <String index="213">
+    <ToTranslate>tcg_hg11aa</ToTranslate>
+  </String>
+  <String index="214">
+    <ToTranslate>tcg_hg11m</ToTranslate>
+  </String>
+  <String index="215">
+    <ToTranslate>chos0408</ToTranslate>
+  </String>
+  <String index="216">
+    <ToTranslate>Чосэн$"Это ещё не всё мой Господин."@</ToTranslate>
+  </String>
+  <String index="217">
+    <ToTranslate>Казуто$"Не зови меня Мой Господин или я прибью тебя."@</ToTranslate>
+  </String>
+  <String index="218">
+    <ToTranslate>tcg_hg41ka</ToTranslate>
+  </String>
+  <String index="219">
+    <ToTranslate>tcg_hg41m</ToTranslate>
+  </String>
+  <String index="220">
+    <ToTranslate>chos0409</ToTranslate>
+  </String>
+  <String index="221">
+    <ToTranslate>Чосэн$"Желаете схлестнуться мечами? До чего же заманчивое предложение. Гы-гы! Рад, что сегодня одел что-то обтягивающее."@</ToTranslate>
+  </String>
+  <String index="222">
+    <ToTranslate>tcg_syo21fa</ToTranslate>
+  </String>
+  <String index="223">
+    <ToTranslate>tcg_syo21m</ToTranslate>
+  </String>
+  <String index="224">
+    <ToTranslate>syur1640</ToTranslate>
+  </String>
+  <String index="225">
+    <ToTranslate>Шури$"С-схлестнуться..."@</ToTranslate>
+  </String>
+  <String index="226">
+    <ToTranslate>Казуто$"Я сваливаю."@</ToTranslate>
+  </String>
+  <String index="227">
+    <ToTranslate>tcg_hg21da</ToTranslate>
+  </String>
+  <String index="228">
+    <ToTranslate>tcg_hg21m</ToTranslate>
+  </String>
+  <String index="229">
+    <ToTranslate>chos0410</ToTranslate>
+  </String>
+  <String index="230">
+    <ToTranslate>Чосэн$"Постойте, разве вы не учувствуете в фестивале?"@</ToTranslate>
+  </String>
+  <String index="231">
+    <ToTranslate>$Не ори на меня! Чёрт... с его то силой, схвати он меня, то перелом спины мне обеспечен. Значит, придётся забыть о побеге.@</ToTranslate>
+  </String>
+  <String index="232">
+    <ToTranslate>tcg_hg11ba</ToTranslate>
+  </String>
+  <String index="233">
+    <ToTranslate>tcg_hg11m</ToTranslate>
+  </String>
+  <String index="234">
+    <ToTranslate>chos0411</ToTranslate>
+  </String>
+  <String index="235">
+    <ToTranslate>Чосэн$"Жители деревни будут несказанно рады новости о том что вы будете участвовать. Кто знает, возможно, когда ещё будет такая возможность."@</ToTranslate>
+  </String>
+  <String index="236">
+    <ToTranslate>Казуто$"Это как...?"@</ToTranslate>
+  </String>
+  <String index="237">
+    <ToTranslate>tcg_hg11ga</ToTranslate>
+  </String>
+  <String index="238">
+    <ToTranslate>tcg_hg11m</ToTranslate>
+  </String>
+  <String index="239">
+    <ToTranslate>chos0412</ToTranslate>
+  </String>
+  <String index="240">
+    <ToTranslate>Чосэн$"Они обязательно постараются порадовать вас... и раз уж вы оба здесь, то непременно станете достопримечательностью всего праздника."@</ToTranslate>
+  </String>
+  <String index="241">
+    <ToTranslate>tcg_syo21ma</ToTranslate>
+  </String>
+  <String index="242">
+    <ToTranslate>tcg_syo21m</ToTranslate>
+  </String>
+  <String index="243">
+    <ToTranslate>syur1641</ToTranslate>
+  </String>
+  <String index="244">
+    <ToTranslate>Шури$"Примечательностью!?"@</ToTranslate>
+  </String>
+  <String index="245">
+    <ToTranslate>$До чего откровенная реакция, можно считать такое её поведение одним из сильнейших её достоинств.@</ToTranslate>
+  </String>
+  <String index="246">
+    <ToTranslate>tcg_hg21fa</ToTranslate>
+  </String>
+  <String index="247">
+    <ToTranslate>tcg_hg21m</ToTranslate>
+  </String>
+  <String index="248">
+    <ToTranslate>chos0413</ToTranslate>
+  </String>
+  <String index="249">
+    <ToTranslate>Чосэн$"Не заставляйте меня произносить это! Ненавижу! А... но и люблю тебя."@</ToTranslate>
+  </String>
+  <String index="250">
+    <ToTranslate>tcg_syo21fa</ToTranslate>
+  </String>
+  <String index="251">
+    <ToTranslate>tcg_syo21m</ToTranslate>
+  </String>
+  <String index="252">
+    <ToTranslate>syur1642</ToTranslate>
+  </String>
+  <String index="253">
+    <ToTranslate>Шури$"Пожалуйста, скажите подробнее."@</ToTranslate>
+  </String>
+  <String index="254">
+    <ToTranslate>tcg_hg11aa</ToTranslate>
+  </String>
+  <String index="255">
+    <ToTranslate>tcg_hg11m</ToTranslate>
+  </String>
+  <String index="256">
+    <ToTranslate>chos0414</ToTranslate>
+  </String>
+  <String index="257">
+    <ToTranslate>Чосэн$"Хорошо. Думаю, вас посадят в праздничный паланкин. Вам следует к этому подготовиться."@</ToTranslate>
+  </String>
+  <String index="258">
+    <ToTranslate>tcg_syo21ma</ToTranslate>
+  </String>
+  <String index="259">
+    <ToTranslate>tcg_syo21m</ToTranslate>
+  </String>
+  <String index="260">
+    <ToTranslate>syur1643</ToTranslate>
+  </String>
+  <String index="261">
+    <ToTranslate>Шури$"Хавава, подготовиться..."@</ToTranslate>
+  </String>
+  <String index="262">
+    <ToTranslate>Пацан Б$"Правитель!"@</ToTranslate>
+  </String>
+  <String index="263">
+    <ToTranslate>Пацан А$"Пожалуйста, следуйте за нами! Вы должны подготовиться."@</ToTranslate>
+  </String>
+  <String index="264">
+    <ToTranslate>Казуто$"Подготовиться к чему?"@</ToTranslate>
+  </String>
+  <String index="265">
+    <ToTranslate>Пацан Б$"Не мешкайте, на месте всё узнаете!"@</ToTranslate>
+  </String>
+  <String index="266">
+    <ToTranslate>Пацан В$"Госпожа стратег, а вы идёте с нами!"@</ToTranslate>
+  </String>
+  <String index="267">
+    <ToTranslate>tcg_syo21ca</ToTranslate>
+  </String>
+  <String index="268">
+    <ToTranslate>tcg_syo21m</ToTranslate>
+  </String>
+  <String index="269">
+    <ToTranslate>syur1644</ToTranslate>
+  </String>
+  <String index="270">
+    <ToTranslate>Шури$"Д-да."@</ToTranslate>
+  </String>
+  <String index="271">
+    <ToTranslate>$Малышня схватила нас за руки и потащила вслед за собой.@</ToTranslate>
+  </String>
+  <String index="272">
+    <ToTranslate>tcg_hg21ca</ToTranslate>
+  </String>
+  <String index="273">
+    <ToTranslate>tcg_hg21m</ToTranslate>
+  </String>
+  <String index="274">
+    <ToTranslate>chos0415</ToTranslate>
+  </String>
+  <String index="275">
+    <ToTranslate>Чосэн$"Свидимся позже!"@</ToTranslate>
+  </String>
+  <String index="276">
+    <ToTranslate>$Для тебя никаких позже! И всё же, что тут происходит.@</ToTranslate>
+  </String>
+  <String index="277">
+    <ToTranslate>$Меня терзают смутные сомнения...@</ToTranslate>
+  </String>
+  <String index="278">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="279">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="280">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="281">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="282">
+    <ToTranslate>$Моё предчувствие стало реальностью.@</ToTranslate>
+  </String>
+  <String index="283">
+    <ToTranslate>$В доме старейшины от сморщенного старика я узнаю что меня и Шури планируют выставить на всеобщее обозрение.@</ToTranslate>
+  </String>
+  <String index="284">
+    <ToTranslate>$И затем боготворить меня как Посланника Небес а Шури будет небесной нимфой которая станет служить мне.@</ToTranslate>
+  </String>
+  <String index="285">
+    <ToTranslate>$И причина по которой я не могу отказаться... моё же пожелание сделать этот праздник более красочным.@</ToTranslate>
+  </String>
+  <String index="286">
+    <ToTranslate>$И всё потому что я уже представил насколько фестиваль станет оживлённее...... если Шури переоденется небесной нимфой.@</ToTranslate>
+  </String>
+  <String index="287">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="288">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="289">
+    <ToTranslate>bb</ToTranslate>
+  </String>
+  <String index="290">
+    <ToTranslate>bcg_town_a</ToTranslate>
+  </String>
+  <String index="291">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="292">
+    <ToTranslate>bgm03</ToTranslate>
+  </String>
+  <String index="293">
+    <ToTranslate>$Пусть и говорят, одежда красит человека, но я начал сожалеть о своём решении сразу же после того как напялил на себя местное модно и роскошное платье.@</ToTranslate>
+  </String>
+  <String index="294">
+    <ToTranslate>$Интересно, учитывая великолепие наряда на мне, что же будет на Шури.@</ToTranslate>
+  </String>
+  <String index="295">
+    <ToTranslate>Пацан В$"Нас ждут! Идёмте!"@</ToTranslate>
+  </String>
+  <String index="296">
+    <ToTranslate>$В поисках Шури, я направился к площади, расположенной недалеко от дома старейшины.@</ToTranslate>
+  </String>
+  <String index="297">
+    <ToTranslate>tcg_syo23fa</ToTranslate>
+  </String>
+  <String index="298">
+    <ToTranslate>tcg_syo23m</ToTranslate>
+  </String>
+  <String index="299">
+    <ToTranslate>bgm05</ToTranslate>
+  </String>
+  <String index="300">
+    <ToTranslate>syur1645</ToTranslate>
+  </String>
+  <String index="301">
+    <ToTranslate>Шури$"У-у... день добрый."@</ToTranslate>
+  </String>
+  <String index="302">
+    <ToTranslate>$Узнав её я лишился дара речи.@</ToTranslate>
+  </String>
+  <String index="303">
+    <ToTranslate>$Я точно посчитаю её нимфой, появись она ночью возле моей кровати. Элегантное платье придаёт Шури божественную красоту.@</ToTranslate>
+  </String>
+  <String index="304">
+    <ToTranslate>Казуто$"Э-э, прости, не могу глаз отвести... ты прекрасна. Я поражён."@</ToTranslate>
+  </String>
+  <String index="305">
+    <ToTranslate>tcg_syo23fa</ToTranslate>
+  </String>
+  <String index="306">
+    <ToTranslate>tcg_syo23m</ToTranslate>
+  </String>
+  <String index="307">
+    <ToTranslate>syur1646</ToTranslate>
+  </String>
+  <String index="308">
+    <ToTranslate>Шури$"Немедленно перестаньте... льстить мне. Господин, вы тоже выглядите изумительно....... очень красиво."@</ToTranslate>
+  </String>
+  <String index="309">
+    <ToTranslate>Казуто$"Ты и сама этим занимаешься, но я ничто в сравнении с тобой."@</ToTranslate>
+  </String>
+  <String index="310">
+    <ToTranslate>syur1647</ToTranslate>
+  </String>
+  <String index="311">
+    <ToTranslate>Шури$"Это, это не правда..."@</ToTranslate>
+  </String>
+  <String index="312">
+    <ToTranslate>Пацан Б$"Ахаха, они оба покраснели."@</ToTranslate>
+  </String>
+  <String index="313">
+    <ToTranslate>Казуто$"Не дразните взрослых. Я просто... точно, сбит с толку необычной одеждой, и вовсе не смущён."@</ToTranslate>
+  </String>
+  <String index="314">
+    <ToTranslate>syur1648</ToTranslate>
+  </String>
+  <String index="315">
+    <ToTranslate>Шури$"Точно. И я совсем... не рада. Ну... разве что, совсем чуточку..."@</ToTranslate>
+  </String>
+  <String index="316">
+    <ToTranslate>tcg_syo23fa</ToTranslate>
+  </String>
+  <String index="317">
+    <ToTranslate>tcg_syo23m</ToTranslate>
+  </String>
+  <String index="318">
+    <ToTranslate>tcg_hg11ga</ToTranslate>
+  </String>
+  <String index="319">
+    <ToTranslate>tcg_hg11m</ToTranslate>
+  </String>
+  <String index="320">
+    <ToTranslate>chos0416</ToTranslate>
+  </String>
+  <String index="321">
+    <ToTranslate>Чосэн$"Пытаетесь сказать одежда красит человека?"@</ToTranslate>
+  </String>
+  <String index="322">
+    <ToTranslate>syur1649</ToTranslate>
+  </String>
+  <String index="323">
+    <ToTranslate>Шури$"Ау-у-у..."@</ToTranslate>
+  </String>
+  <String index="324">
+    <ToTranslate>tcg_hg11ba</ToTranslate>
+  </String>
+  <String index="325">
+    <ToTranslate>tcg_hg11m</ToTranslate>
+  </String>
+  <String index="326">
+    <ToTranslate>chos0417</ToTranslate>
+  </String>
+  <String index="327">
+    <ToTranslate>Чосэн$"Ну, не стоит так стесняться! Поспешите! Праздник вот-вот начнётся."@</ToTranslate>
+  </String>
+  <String index="328">
+    <ToTranslate>Казуто$"И куда нам нужно идти?"@</ToTranslate>
+  </String>
+  <String index="329">
+    <ToTranslate>tcg_hg51ia</ToTranslate>
+  </String>
+  <String index="330">
+    <ToTranslate>tcg_hg51m</ToTranslate>
+  </String>
+  <String index="331">
+    <ToTranslate>chos0418</ToTranslate>
+  </String>
+  <String index="332">
+    <ToTranslate>Чосэн$"Сейчас всё начнётся... прямо здесь, так не будем же медлить, мальчики!"@</ToTranslate>
+  </String>
+  <String index="333">
+    <ToTranslate>Мужчины$"Да!"@</ToTranslate>
+  </String>
+  <String index="334">
+    <ToTranslate>$Чосэн притащил за собой кучу мужчин!@</ToTranslate>
+  </String>
+  <String index="335">
+    <ToTranslate>$Все они весьма мускулисты и в общем-то выглядят странно... а, а это что?@</ToTranslate>
+  </String>
+  <String index="336">
+    <ToTranslate>$Они собираются нести на плечах... неужто это реально паланкин? Никогда бы не подумал, что встречу его в этом мире...@</ToTranslate>
+  </String>
+  <String index="337">
+    <ToTranslate>tcg_syo23da</ToTranslate>
+  </String>
+  <String index="338">
+    <ToTranslate>tcg_syo23m</ToTranslate>
+  </String>
+  <String index="339">
+    <ToTranslate>syur1650</ToTranslate>
+  </String>
+  <String index="340">
+    <ToTranslate>Шури$"Ч-что это? Нам придётся взобраться на него?"@</ToTranslate>
+  </String>
+  <String index="341">
+    <ToTranslate>tcg_hg11ba</ToTranslate>
+  </String>
+  <String index="342">
+    <ToTranslate>tcg_hg11m</ToTranslate>
+  </String>
+  <String index="343">
+    <ToTranslate>chos0419</ToTranslate>
+  </String>
+  <String index="344">
+    <ToTranslate>Чосэн$"Я уже оповестил жителей о главном событии этого фестиваля! Мы покажем всему городу Посланника Небес и благородную нимфу."@</ToTranslate>
+  </String>
+  <String index="345">
+    <ToTranslate>$Тянет на что-то необычное... догадываюсь, что обычные правила проведения изменились после моего вмешательства.@</ToTranslate>
+  </String>
+  <String index="346">
+    <ToTranslate>tcg_syo23ja</ToTranslate>
+  </String>
+  <String index="347">
+    <ToTranslate>tcg_syo23m</ToTranslate>
+  </String>
+  <String index="348">
+    <ToTranslate>syur1651</ToTranslate>
+  </String>
+  <String index="349">
+    <ToTranslate>Шури$"Господин..."@</ToTranslate>
+  </String>
+  <String index="350">
+    <ToTranslate>Казуто$"Раз уж мы уже согласились, давай просто попытаемся получить удовольствие."@</ToTranslate>
+  </String>
+  <String index="351">
+    <ToTranslate>tcg_hg21ba</ToTranslate>
+  </String>
+  <String index="352">
+    <ToTranslate>tcg_hg21m</ToTranslate>
+  </String>
+  <String index="353">
+    <ToTranslate>chos0420</ToTranslate>
+  </String>
+  <String index="354">
+    <ToTranslate>Чосэн$"Прекрасный настрой. Сюда, пожалуйста."@</ToTranslate>
+  </String>
+  <String index="355">
+    <ToTranslate>$Я взял Шури за руку и повёл её к опущенному паланкину.@</ToTranslate>
+  </String>
+  <String index="356">
+    <ToTranslate>tcg_syo23da</ToTranslate>
+  </String>
+  <String index="357">
+    <ToTranslate>tcg_syo23m</ToTranslate>
+  </String>
+  <String index="358">
+    <ToTranslate>syur1652</ToTranslate>
+  </String>
+  <String index="359">
+    <ToTranslate>Шури$"Уа-а, а-а, вы правда собираетесь нести его? Я очень тяжёлая и это опасно."@</ToTranslate>
+  </String>
+  <String index="360">
+    <ToTranslate>tcg_hg31ea</ToTranslate>
+  </String>
+  <String index="361">
+    <ToTranslate>tcg_hg31m</ToTranslate>
+  </String>
+  <String index="362">
+    <ToTranslate>chos0421</ToTranslate>
+  </String>
+  <String index="363">
+    <ToTranslate>Чосэн$"Не волнуйся! Вот так!"@</ToTranslate>
+  </String>
+  <String index="364">
+    <ToTranslate>tcg_syo23ma</ToTranslate>
+  </String>
+  <String index="365">
+    <ToTranslate>tcg_syo23m</ToTranslate>
+  </String>
+  <String index="366">
+    <ToTranslate>syur1653</ToTranslate>
+  </String>
+  <String index="367">
+    <ToTranslate>Шури$"А-а-а!"@</ToTranslate>
+  </String>
+  <String index="368">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="369">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="370">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="371">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="372">
+    <ToTranslate>m_yure_t</ToTranslate>
+  </String>
+  <String index="373">
+    <ToTranslate>$Парни закричали в один голос, паланкин сдвинулся и я почувствовал будто плыву по воздух.@</ToTranslate>
+  </String>
+  <String index="374">
+    <ToTranslate>$Похоже что мы движемся на главную улицу.@</ToTranslate>
+  </String>
+  <String index="375">
+    <ToTranslate>syur1654</ToTranslate>
+  </String>
+  <String index="376">
+    <ToTranslate>Шури$"Уа-а, а-а... Господин!"@</ToTranslate>
+  </String>
+  <String index="377">
+    <ToTranslate>$Становится интереснее... и всё потому что--@</ToTranslate>
+  </String>
+  <String index="378">
+    <ToTranslate>Казуто$"Шури, посмотри вокруг."@</ToTranslate>
+  </String>
+  <String index="379">
+    <ToTranslate>syur1655</ToTranslate>
+  </String>
+  <String index="380">
+    <ToTranslate>Шури$"Д-да? А..." @</ToTranslate>
+  </String>
+  <String index="381">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="382">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="383">
+    <ToTranslate>bcg_town_a</ToTranslate>
+  </String>
+  <String index="384">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="385">
+    <ToTranslate>bgm08</ToTranslate>
+  </String>
+  <String index="386">
+    <ToTranslate>SE049</ToTranslate>
+  </String>
+  <String index="387">
+    <ToTranslate>Жители$"Правитель!"@</ToTranslate>
+  </String>
+  <String index="388">
+    <ToTranslate>Торгаш$"У-у-у!"@</ToTranslate>
+  </String>
+  <String index="389">
+    <ToTranslate>tcg_kan11ea</ToTranslate>
+  </String>
+  <String index="390">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="391">
+    <ToTranslate>aisy3250</ToTranslate>
+  </String>
+  <String index="392">
+    <ToTranslate>Айша$"К чему такое оживление...? Да уж, меня позвали, чтобы просто посмотреть. Они могли бы предупредить, что будут участвовать......" @</ToTranslate>
+  </String>
+  <String index="393">
+    <ToTranslate>tcg_hg21ba</ToTranslate>
+  </String>
+  <String index="394">
+    <ToTranslate>tcg_hg21m</ToTranslate>
+  </String>
+  <String index="395">
+    <ToTranslate>chos0422</ToTranslate>
+  </String>
+  <String index="396">
+    <ToTranslate>Чосэн$"Гы-хы-хы. О, Айша-чи, ты наверное хотела стоять возле нашего Лорда, правда? Можешь даже не отвечать."@</ToTranslate>
+  </String>
+  <String index="397">
+    <ToTranslate>tcg_kan11qa</ToTranslate>
+  </String>
+  <String index="398">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="399">
+    <ToTranslate>aisy3251</ToTranslate>
+  </String>
+  <String index="400">
+    <ToTranslate>Айша$"Не говори глупостей! Я-я...? Да я бы никогда не преклонилась пред чем-то столь бессмысленным."@</ToTranslate>
+  </String>
+  <String index="401">
+    <ToTranslate>tcg_koc11ga</ToTranslate>
+  </String>
+  <String index="402">
+    <ToTranslate>tcg_koc11m</ToTranslate>
+  </String>
+  <String index="403">
+    <ToTranslate>shio1978</ToTranslate>
+  </String>
+  <String index="404">
+    <ToTranslate>Сион$"Уху-ху, ревность просто выгравирована на твоём лице."@</ToTranslate>
+  </String>
+  <String index="405">
+    <ToTranslate>aisy3252</ToTranslate>
+  </String>
+  <String index="406">
+    <ToTranslate>Айша$"Сион! И ты ещё...!?"@</ToTranslate>
+  </String>
+  <String index="407">
+    <ToTranslate>tcg_cun31ea</ToTranslate>
+  </String>
+  <String index="408">
+    <ToTranslate>tcg_cun31m</ToTranslate>
+  </String>
+  <String index="409">
+    <ToTranslate>sei_2446</ToTranslate>
+  </String>
+  <String index="410">
+    <ToTranslate>Сэй$"Ну ежели не завидуешь и не ревнуешь то не стоит так злиться. Во время праздников нужно радоваться."@</ToTranslate>
+  </String>
+  <String index="411">
+    <ToTranslate>tcg_cho21ia</ToTranslate>
+  </String>
+  <String index="412">
+    <ToTranslate>tcg_cho21m</ToTranslate>
+  </String>
+  <String index="413">
+    <ToTranslate>rinr2054</ToTranslate>
+  </String>
+  <String index="414">
+    <ToTranslate>Ринрин$"Точно-точно! Кто-нибудь купите Ринрин булочек с говядиной! Айша, дай денег!"@</ToTranslate>
+  </String>
+  <String index="415">
+    <ToTranslate>tcg_bac11ba</ToTranslate>
+  </String>
+  <String index="416">
+    <ToTranslate>tcg_bac11m</ToTranslate>
+  </String>
+  <String index="417">
+    <ToTranslate>sui_2467</ToTranslate>
+  </String>
+  <String index="418">
+    <ToTranslate>Суи$"О, я тоже в деле! Айша! Дай мне!Дай мне!"@</ToTranslate>
+  </String>
+  <String index="419">
+    <ToTranslate>tcg_kan31ka</ToTranslate>
+  </String>
+  <String index="420">
+    <ToTranslate>tcg_kan31m</ToTranslate>
+  </String>
+  <String index="421">
+    <ToTranslate>aisy3253</ToTranslate>
+  </String>
+  <String index="422">
+    <ToTranslate>Айша$"...*вздох*."@</ToTranslate>
+  </String>
+  <String index="423">
+    <ToTranslate>tcg_cun11aa</ToTranslate>
+  </String>
+  <String index="424">
+    <ToTranslate>tcg_cun11m</ToTranslate>
+  </String>
+  <String index="425">
+    <ToTranslate>sei_2447</ToTranslate>
+  </String>
+  <String index="426">
+    <ToTranslate>Сэй$"Ты единственная кто своей угрюмостью выделяется в этой толпе. Или ты не рада, что люди чествуют, Господина за мир в этих землях?"@</ToTranslate>
+  </String>
+  <String index="427">
+    <ToTranslate>tcg_hg11ba</ToTranslate>
+  </String>
+  <String index="428">
+    <ToTranslate>tcg_hg11m</ToTranslate>
+  </String>
+  <String index="429">
+    <ToTranslate>chos0423</ToTranslate>
+  </String>
+  <String index="430">
+    <ToTranslate>Чосэн$"Она права. Нам стоит радоваться тому что есть когда выпадает возможность." @</ToTranslate>
+  </String>
+  <String index="431">
+    <ToTranslate>tcg_cun11aa</ToTranslate>
+  </String>
+  <String index="432">
+    <ToTranslate>tcg_cun11m</ToTranslate>
+  </String>
+  <String index="433">
+    <ToTranslate>sei_2448</ToTranslate>
+  </String>
+  <String index="434">
+    <ToTranslate>Сэй$"Чудище верно говорит, нам стоит радоваться, это придаст нам сил в последующих сражениях."@</ToTranslate>
+  </String>
+  <String index="435">
+    <ToTranslate>tcg_hg21da</ToTranslate>
+  </String>
+  <String index="436">
+    <ToTranslate>tcg_hg21m</ToTranslate>
+  </String>
+  <String index="437">
+    <ToTranslate>chos0424</ToTranslate>
+  </String>
+  <String index="438">
+    <ToTranslate>Чосэн$"...чудище?"@</ToTranslate>
+  </String>
+  <String index="439">
+    <ToTranslate>tcg_koc41ea</ToTranslate>
+  </String>
+  <String index="440">
+    <ToTranslate>tcg_koc41m</ToTranslate>
+  </String>
+  <String index="441">
+    <ToTranslate>shio1979</ToTranslate>
+  </String>
+  <String index="442">
+    <ToTranslate>Сион$"Это жестоко, Сэй-чан. Даже если Чосэн так выглядит, у него по-прежнему сердце девушки. Он девушка в душе."@</ToTranslate>
+  </String>
+  <String index="443">
+    <ToTranslate>tcg_hg11ja</ToTranslate>
+  </String>
+  <String index="444">
+    <ToTranslate>tcg_hg11m</ToTranslate>
+  </String>
+  <String index="445">
+    <ToTranslate>chos0425</ToTranslate>
+  </String>
+  <String index="446">
+    <ToTranslate>Чосэн$"Даже если так выглядит......"@</ToTranslate>
+  </String>
+  <String index="447">
+    <ToTranslate>tcg_cho31da</ToTranslate>
+  </String>
+  <String index="448">
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="449">
+    <ToTranslate>rinr2055</ToTranslate>
+  </String>
+  <String index="450">
+    <ToTranslate>Ринрин$"Эй, ну купите мне булочек!"@</ToTranslate>
+  </String>
+  <String index="451">
+    <ToTranslate>tcg_kan11ea</ToTranslate>
+  </String>
+  <String index="452">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="453">
+    <ToTranslate>aisy3254</ToTranslate>
+  </String>
+  <String index="454">
+    <ToTranslate>Айша $"Фух... даже генералы выглядят беззаботно."@</ToTranslate>
+  </String>
+  <String index="455">
+    <ToTranslate>tcg_bac11ba</ToTranslate>
+  </String>
+  <String index="456">
+    <ToTranslate>tcg_bac11m</ToTranslate>
+  </String>
+  <String index="457">
+    <ToTranslate>sui_2468</ToTranslate>
+  </String>
+  <String index="458">
+    <ToTranslate>Суи$"Ну, ведь это положительные качества, правда же?"@</ToTranslate>
+  </String>
+  <String index="459">
+    <ToTranslate>tcg_kan21aa</ToTranslate>
+  </String>
+  <String index="460">
+    <ToTranslate>tcg_kan21m</ToTranslate>
+  </String>
+  <String index="461">
+    <ToTranslate>aisy3255</ToTranslate>
+  </String>
+  <String index="462">
+    <ToTranslate>Айша$"Возможно. Ха-ха... думаю, мне стоит у вас поучиться."@</ToTranslate>
+  </String>
+  <String index="463">
+    <ToTranslate>tcg_cho21ia</ToTranslate>
+  </String>
+  <String index="464">
+    <ToTranslate>tcg_cho21m</ToTranslate>
+  </String>
+  <String index="465">
+    <ToTranslate>rinr2056</ToTranslate>
+  </String>
+  <String index="466">
+    <ToTranslate>Ринрин$"Точно-точно! Эй, Айша, давай вместе наедимся булочек с говядиной!"@</ToTranslate>
+  </String>
+  <String index="467">
+    <ToTranslate>tcg_kan11aa</ToTranslate>
+  </String>
+  <String index="468">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="469">
+    <ToTranslate>aisy3256</ToTranslate>
+  </String>
+  <String index="470">
+    <ToTranslate>Айша$"Ладно, ладно... но всё же, почему всё так обернулось. Похоже, что только стратегу досталась такая участь..."@</ToTranslate>
+  </String>
+  <String index="471">
+    <ToTranslate>tcg_hg21ba</ToTranslate>
+  </String>
+  <String index="472">
+    <ToTranslate>tcg_hg21m</ToTranslate>
+  </String>
+  <String index="473">
+    <ToTranslate>chos0426</ToTranslate>
+  </String>
+  <String index="474">
+    <ToTranslate>Чосэн$"Так всё таки тебя это волнует."@</ToTranslate>
+  </String>
+  <String index="475">
+    <ToTranslate>tcg_kan11qa</ToTranslate>
+  </String>
+  <String index="476">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="477">
+    <ToTranslate>aisy3257</ToTranslate>
+  </String>
+  <String index="478">
+    <ToTranslate>Айша$"Любопытство и не более!" @</ToTranslate>
+  </String>
+  <String index="479">
+    <ToTranslate>tcg_hg11ga</ToTranslate>
+  </String>
+  <String index="480">
+    <ToTranslate>tcg_hg11m</ToTranslate>
+  </String>
+  <String index="481">
+    <ToTranslate>chos0427</ToTranslate>
+  </String>
+  <String index="482">
+    <ToTranslate>Чосэн$"Ха-га. Ты очень милая когда ревнуешь, Айша-чи. Безусловно, когда-нибудь твои чувства достигнут нашего Господина, мамой клянусь."@</ToTranslate>
+  </String>
+  <String index="483">
+    <ToTranslate>tcg_kan31ja</ToTranslate>
+  </String>
+  <String index="484">
+    <ToTranslate>tcg_kan31m</ToTranslate>
+  </String>
+  <String index="485">
+    <ToTranslate>aisy3258</ToTranslate>
+  </String>
+  <String index="486">
+    <ToTranslate>Айша$"Достаточно...! Я уже устала спорить с тобой."@</ToTranslate>
+  </String>
+  <String index="487">
+    <ToTranslate>tcg_hg21ba</ToTranslate>
+  </String>
+  <String index="488">
+    <ToTranslate>tcg_hg21m</ToTranslate>
+  </String>
+  <String index="489">
+    <ToTranslate>chos0428</ToTranslate>
+  </String>
+  <String index="490">
+    <ToTranslate>Чосэн$"Прекрасно! Честность лучше всего! Это же касается и нашего Господина. Просто...... у него очень большое сердце и это заставляет нас беспокоится."@</ToTranslate>
+  </String>
+  <String index="491">
+    <ToTranslate>tcg_kan11qa</ToTranslate>
+  </String>
+  <String index="492">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="493">
+    <ToTranslate>aisy3259</ToTranslate>
+  </String>
+  <String index="494">
+    <ToTranslate>Айша$"Фырк, я уже знаю об этом. Но... возможно, поэтому я и увлечена им, что значит я сама во всём виновата."@</ToTranslate>
+  </String>
+  <String index="495">
+    <ToTranslate>tcg_hg11aa</ToTranslate>
+  </String>
+  <String index="496">
+    <ToTranslate>tcg_hg11m</ToTranslate>
+  </String>
+  <String index="497">
+    <ToTranslate>chos0429</ToTranslate>
+  </String>
+  <String index="498">
+    <ToTranslate>Чосэн$"Ухты, так же как и я... но я не намерен становится чей-то игрушкой."@</ToTranslate>
+  </String>
+  <String index="499">
+    <ToTranslate>tcg_kan21na</ToTranslate>
+  </String>
+  <String index="500">
+    <ToTranslate>tcg_kan21m</ToTranslate>
+  </String>
+  <String index="501">
+    <ToTranslate>aisy3260</ToTranslate>
+  </String>
+  <String index="502">
+    <ToTranslate>Айша$"Как и я. В любом случае... Чосэн, впечатлена, ты способен понять женские чувства."@</ToTranslate>
+  </String>
+  <String index="503">
+    <ToTranslate>tcg_hg21fa</ToTranslate>
+  </String>
+  <String index="504">
+    <ToTranslate>tcg_hg21m</ToTranslate>
+  </String>
+  <String index="505">
+    <ToTranslate>chos0430</ToTranslate>
+  </String>
+  <String index="506">
+    <ToTranslate>Чосэн$"Почему нет? Я ведь женщина, как и ты."@</ToTranslate>
+  </String>
+  <String index="507">
+    <ToTranslate>tcg_kan31ha</ToTranslate>
+  </String>
+  <String index="508">
+    <ToTranslate>tcg_kan31m</ToTranslate>
+  </String>
+  <String index="509">
+    <ToTranslate>aisy3261</ToTranslate>
+  </String>
+  <String index="510">
+    <ToTranslate>Айша$"..."@</ToTranslate>
+  </String>
+  <String index="511">
+    <ToTranslate>tcg_hg41ka</ToTranslate>
+  </String>
+  <String index="512">
+    <ToTranslate>tcg_hg41m</ToTranslate>
+  </String>
+  <String index="513">
+    <ToTranslate>chos0431</ToTranslate>
+  </String>
+  <String index="514">
+    <ToTranslate>Чосэн$"Почему бы просто не посчитать это третьей ногой? А когда дело его не касается, то я женщина. Душераздирающая, сводящая с ума.... а-а, я женщина!"@</ToTranslate>
+  </String>
+  <String index="515">
+    <ToTranslate>tcg_kan41aa</ToTranslate>
+  </String>
+  <String index="516">
+    <ToTranslate>tcg_kan41m</ToTranslate>
+  </String>
+  <String index="517">
+    <ToTranslate>aisy3262</ToTranslate>
+  </String>
+  <String index="518">
+    <ToTranslate>Айша$"..."@</ToTranslate>
+  </String>
+  <String index="519">
+    <ToTranslate>tcg_hg11ja</ToTranslate>
+  </String>
+  <String index="520">
+    <ToTranslate>tcg_hg11m</ToTranslate>
+  </String>
+  <String index="521">
+    <ToTranslate>chos0432</ToTranslate>
+  </String>
+  <String index="522">
+    <ToTranslate>Чосэн$"За-зачем ты его достала?! О нет! К-кто нибудь, спасите меня!"@</ToTranslate>
+  </String>
+  <String index="523">
+    <ToTranslate>tcg_cho21da</ToTranslate>
+  </String>
+  <String index="524">
+    <ToTranslate>tcg_cho21m</ToTranslate>
+  </String>
+  <String index="525">
+    <ToTranslate>rinr2057</ToTranslate>
+  </String>
+  <String index="526">
+    <ToTranslate>Ринрин$"Булочки!"@</ToTranslate>
+  </String>
+  <String index="527">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="528">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="529">
+    <ToTranslate>ecg_syo09a</ToTranslate>
+  </String>
+  <String index="530">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="531">
+    <ToTranslate>$Кажется я слышал знакомый голос, но так и не смог найти владельца в этой толпе и мне пришлось отказаться от этой затеи.@</ToTranslate>
+  </String>
+  <String index="532">
+    <ToTranslate>syur1656</ToTranslate>
+  </String>
+  <String index="533">
+    <ToTranslate>Шури$"Уа-а-а... здесь столько людей... как мне смотреть на них? У-у-у, я так стесняюсь."@</ToTranslate>
+  </String>
+  <String index="534">
+    <ToTranslate>Казуто$"Я тоже. Не ожидал, что соберётся столько людей. Где они прятались всё это время?"@</ToTranslate>
+  </String>
+  <String index="535">
+    <ToTranslate>$Я привыкший к ходьбе у паланкина, но не на глазах стольких зрителей.@</ToTranslate>
+  </String>
+  <String index="536">
+    <ToTranslate>syur1657</ToTranslate>
+  </String>
+  <String index="537">
+    <ToTranslate>Шури$"А мы... разве мы не должны помахать им? Ведь все они пришли сюда, чтобы выразить вам свою признательность."@</ToTranslate>
+  </String>
+  <String index="538">
+    <ToTranslate>Казуто$"Признательность? Ну это ты уже преувеличиваешь."@</ToTranslate>
+  </String>
+  <String index="539">
+    <ToTranslate>syur1658</ToTranslate>
+  </String>
+  <String index="540">
+    <ToTranslate>Шури$"Нет, совсем нет... ведь вы принесли мир в эти земли, мир, которого все так ждали."@</ToTranslate>
+  </String>
+  <String index="541">
+    <ToTranslate>$Мир, га...?@</ToTranslate>
+  </String>
+  <String index="542">
+    <ToTranslate>syur1659</ToTranslate>
+  </String>
+  <String index="543">
+    <ToTranslate>Шури$"А? Пожалуйста, помашите им. А?" @</ToTranslate>
+  </String>
+  <String index="544">
+    <ToTranslate>$Мне нечего возразить, я заставил себя (нервно) улыбнуться и подёргать рукой.@</ToTranslate>
+  </String>
+  <String index="545">
+    <ToTranslate>SE049</ToTranslate>
+  </String>
+  <String index="546">
+    <ToTranslate>Жители$"Правитель!"@</ToTranslate>
+  </String>
+  <String index="547">
+    <ToTranslate>$Она так оживлены, их страсть охватила всё вокруг, прошлась по толпе и понеслась дальше по улицам.@</ToTranslate>
+  </String>
+  <String index="548">
+    <ToTranslate>Казуто$"Не уверен, это правда из-за меня или... люди вокруг счастливы и понемногу это чувство передаётся и мне."@</ToTranslate>
+  </String>
+  <String index="549">
+    <ToTranslate>syur1660</ToTranslate>
+  </String>
+  <String index="550">
+    <ToTranslate>Шури$"...мир для них намного ценней чем вы так думаете."@</ToTranslate>
+  </String>
+  <String index="551">
+    <ToTranslate>$Говоря, Шури прильнула к моему уху, не думаю что она хочет показывать свою печаль кому-то ещё.@</ToTranslate>
+  </String>
+  <String index="552">
+    <ToTranslate>syur1661</ToTranslate>
+  </String>
+  <String index="553">
+    <ToTranslate>Шури$"Все они родились в трудные времена, в которых приходится убивать собственных детей чтобы выжить, другие лишись семей из-за бандитов."@</ToTranslate>
+  </String>
+  <String index="554">
+    <ToTranslate>Казуто$"...угу."@</ToTranslate>
+  </String>
+  <String index="555">
+    <ToTranslate>syur1662</ToTranslate>
+  </String>
+  <String index="556">
+    <ToTranslate>Шури$"Для тех, кто не умеет сражаться... этот мир гораздо ценнее любого драгоценного камня."@</ToTranslate>
+  </String>
+  <String index="557">
+    <ToTranslate>$Сложно что-то запомнить из-за суеты фестиваля, но это правда, которую мне стоит запомнить.@</ToTranslate>
+  </String>
+  <String index="558">
+    <ToTranslate>syur1663</ToTranslate>
+  </String>
+  <String index="559">
+    <ToTranslate>Шури$"Поэтому, их желание отпраздновать мир в этих землях по-настоящему правдиво."@</ToTranslate>
+  </String>
+  <String index="560">
+    <ToTranslate>Казуто$"...раз так, тебе тоже следует им помахать."@</ToTranslate>
+  </String>
+  <String index="561">
+    <ToTranslate>syur1664</ToTranslate>
+  </String>
+  <String index="562">
+    <ToTranslate>Шури$"Нет... в-ведь они вас пришли благодарить."@</ToTranslate>
+  </String>
+  <String index="563">
+    <ToTranslate>Казуто$"Не думаю, вот."@</ToTranslate>
+  </String>
+  <String index="564">
+    <ToTranslate>$Я взял её руку и сделал несколько взмахов толпе.@</ToTranslate>
+  </String>
+  <String index="565">
+    <ToTranslate>SE049</ToTranslate>
+  </String>
+  <String index="566">
+    <ToTranslate>Жители$"Шокацурё-сама!"@</ToTranslate>
+  </String>
+  <String index="567">
+    <ToTranslate>syur1665</ToTranslate>
+  </String>
+  <String index="568">
+    <ToTranslate>Шури$"Уа... хау-у, мне так стыдно."@</ToTranslate>
+  </String>
+  <String index="569">
+    <ToTranslate>$Люди аплодируют. Больше не колеблясь, я начинаю махать рукой, хлопать в ладоши и даже кричать.@</ToTranslate>
+  </String>
+  <String index="570">
+    <ToTranslate>Казуто$"Почему бы нам просто не насладиться сегодняшним днём?"@</ToTranslate>
+  </String>
+  <String index="571">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="572">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="573">
+    <ToTranslate>ecg_syo09b</ToTranslate>
+  </String>
+  <String index="574">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="575">
+    <ToTranslate>syur1666</ToTranslate>
+  </String>
+  <String index="576">
+    <ToTranslate>Шури$"Хи-хи. Да."@</ToTranslate>
+  </String>
+  <String index="577">
+    <ToTranslate>$Шури повеселела и склонилась к толпе. Вот и хорошо, я тоже начинаю махать более интенсивно.@</ToTranslate>
+  </String>
+  <String index="578">
+    <ToTranslate>rinr2058</ToTranslate>
+  </String>
+  <String index="579">
+    <ToTranslate>Ринрин$"Братишка-а-а-а!"@</ToTranslate>
+  </String>
+  <String index="580">
+    <ToTranslate>Дети$"Правитель!"@</ToTranslate>
+  </String>
+  <String index="581">
+    <ToTranslate>$На лицах всех вокруг сверкают улыбки, как знакомых так и совсем нет.@</ToTranslate>
+  </String>
+  <String index="582">
+    <ToTranslate>$Я начинаю понимать ценность этих мгновений. Стараясь посмотреть на каждого из них, я пытаюсь сохранить их улыбки в своей памяти.@</ToTranslate>
+  </String>
+  <String index="583">
+    <ToTranslate>$Солнце начинает садиться, и оранжевый свет начинает озарять всё вокруг...@</ToTranslate>
+  </String>
+  <String index="584">
+    <ToTranslate>syur1667</ToTranslate>
+  </String>
+  <String index="585">
+    <ToTranslate>Шури$"Большое спасибо вам всем!"@</ToTranslate>
+  </String>
+  <String index="586">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="587">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="588">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="589">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="590">
+    <ToTranslate>$Даже после заката, паланкин продолжал двигаться вдоль всего города, громкие возгласы не затихали до самой ночи.@</ToTranslate>
+  </String>
+  <String index="591">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="592">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="593">
+    <ToTranslate>bb</ToTranslate>
+  </String>
+  <String index="594">
+    <ToTranslate>bcg_heroroom_c</ToTranslate>
+  </String>
+  <String index="595">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="596">
+    <ToTranslate>bgm07</ToTranslate>
+  </String>
+  <String index="597">
+    <ToTranslate>$Выйдя из паланкина я почувствовал дикую усталость.@</ToTranslate>
+  </String>
+  <String index="598">
+    <ToTranslate>$Что ещё хуже, то при появлении во дворце Айша добила меня одной из своих проповедей.@</ToTranslate>
+  </String>
+  <String index="599">
+    <ToTranslate>$Ни желая ничего больше, я упал на кровать...@</ToTranslate>
+  </String>
+  <String index="600">
+    <ToTranslate>SE062</ToTranslate>
+  </String>
+  <String index="601">
+    <ToTranslate>syur1668</ToTranslate>
+  </String>
+  <String index="602">
+    <ToTranslate>Шури$"В-вы...... уже спите, Господин?"@</ToTranslate>
+  </String>
+  <String index="603">
+    <ToTranslate>$Несмотря на усталость я поднял голову когда услышал этот голос.@</ToTranslate>
+  </String>
+  <String index="604">
+    <ToTranslate>Казуто$"Ой... н-нет, я по-прежнему на ногах. Входи..."@</ToTranslate>
+  </String>
+  <String index="605">
+    <ToTranslate>SE057</ToTranslate>
+  </String>
+  <String index="606">
+    <ToTranslate>$Остальные слова просто застряли в моём горле.@</ToTranslate>
+  </String>
+  <String index="607">
+    <ToTranslate>tcg_syo23da</ToTranslate>
+  </String>
+  <String index="608">
+    <ToTranslate>tcg_syo23m</ToTranslate>
+  </String>
+  <String index="609">
+    <ToTranslate>bgm23</ToTranslate>
+  </String>
+  <String index="610">
+    <ToTranslate>syur1669</ToTranslate>
+  </String>
+  <String index="611">
+    <ToTranslate>Шури$"Простите... уа! Вы испугали меня, Господин. Почему вы так на меня смотрите?"@</ToTranslate>
+  </String>
+  <String index="612">
+    <ToTranslate>Казуто$"Просто не могу иначе. Разве это не твоя одежда с фестиваля? Почему она всё ещё на тебе?"@</ToTranslate>
+  </String>
+  <String index="613">
+    <ToTranslate>tcg_syo13ka</ToTranslate>
+  </String>
+  <String index="614">
+    <ToTranslate>tcg_syo13m</ToTranslate>
+  </String>
+  <String index="615">
+    <ToTranslate>syur1670</ToTranslate>
+  </String>
+  <String index="616">
+    <ToTranslate>Шури$"Ум... да."@</ToTranslate>
+  </String>
+  <String index="617">
+    <ToTranslate>SE058</ToTranslate>
+  </String>
+  <String index="618">
+    <ToTranslate>$Скрип закрывающейся двери заполонил комнату, Шури подошла ко мне и легла рядом.@</ToTranslate>
+  </String>
+  <String index="619">
+    <ToTranslate>Казуто$"Тебе нравятся платье? Мне очень, тебе очень идёт."@</ToTranslate>
+  </String>
+  <String index="620">
+    <ToTranslate>tcg_syo23fa</ToTranslate>
+  </String>
+  <String index="621">
+    <ToTranslate>tcg_syo23m</ToTranslate>
+  </String>
+  <String index="622">
+    <ToTranslate>syur1671</ToTranslate>
+  </String>
+  <String index="623">
+    <ToTranslate>Шури$"Эм, думаю... мне оно тоже нравится."@</ToTranslate>
+  </String>
+  <String index="624">
+    <ToTranslate>$Пробубнев это она покачала головой. Быстро скатившись с кровати она встала и упёрлась коленом в перину.@</ToTranslate>
+  </String>
+  <String index="625">
+    <ToTranslate>tcg_syo13la</ToTranslate>
+  </String>
+  <String index="626">
+    <ToTranslate>tcg_syo13m</ToTranslate>
+  </String>
+  <String index="627">
+    <ToTranslate>syur1672</ToTranslate>
+  </String>
+  <String index="628">
+    <ToTranslate>Шури$"Уверена вы не знаете назначение этого платья, да? Оно не для божественной нимфы на фестивале, на самом деле это подвенечное платья для невесты."@</ToTranslate>
+  </String>
+  <String index="629">
+    <ToTranslate>Казуто$"О, правда?"@</ToTranslate>
+  </String>
+  <String index="630">
+    <ToTranslate>tcg_syo23fa</ToTranslate>
+  </String>
+  <String index="631">
+    <ToTranslate>tcg_syo23m</ToTranslate>
+  </String>
+  <String index="632">
+    <ToTranslate>syur1673</ToTranslate>
+  </String>
+  <String index="633">
+    <ToTranslate>Шури$"И когда мне рассказали об этом... эм, я начала думать об этом, и мне не захотелось снимать его."@</ToTranslate>
+  </String>
+  <String index="634">
+    <ToTranslate>$Моё сердце начинает стучать... всё сильнее.@</ToTranslate>
+  </String>
+  <String index="635">
+    <ToTranslate>syur1674</ToTranslate>
+  </String>
+  <String index="636">
+    <ToTranslate>Шури$"Это все-лишь одежда, но... это странно, правда же? Простите, что позволила себе сказать что-то лишнее."@</ToTranslate>
+  </String>
+  <String index="637">
+    <ToTranslate>Казуто$"В этом нет ничего странного, зная правду я тоже начинаю думать о многом."@</ToTranslate>
+  </String>
+  <String index="638">
+    <ToTranslate>tcg_syo23ma</ToTranslate>
+  </String>
+  <String index="639">
+    <ToTranslate>tcg_syo23m</ToTranslate>
+  </String>
+  <String index="640">
+    <ToTranslate>syur1675</ToTranslate>
+  </String>
+  <String index="641">
+    <ToTranslate>Шури$"...э?"@</ToTranslate>
+  </String>
+  <String index="642">
+    <ToTranslate>Казуто$"Оно заставляет меня задуматься...... хоть на один день, но мы смогли стать женихом и невестой."@</ToTranslate>
+  </String>
+  <String index="643">
+    <ToTranslate>$Нелегко ей пришлось, набраться храбрости и прийти ко мне поздней ночью. Чувствую, как подобные эмоции начинают пробуждаться во мне.@</ToTranslate>
+  </String>
+  <String index="644">
+    <ToTranslate>$Волнение прогоняет прочь всю сонливость, моё лицо наполняется жаром, но в то же время, это довольно приятное чувство.@</ToTranslate>
+  </String>
+  <String index="645">
+    <ToTranslate>Казуто$"Но ведь день ещё не закончился?"@</ToTranslate>
+  </String>
+  <String index="646">
+    <ToTranslate>$Я протягиваю руки в её сторону, занеся одно колено на мою кровать она останавливается, похоже, что она всё ещё чего-то боиться.@</ToTranslate>
+  </String>
+  <String index="647">
+    <ToTranslate>tcg_syo23fa</ToTranslate>
+  </String>
+  <String index="648">
+    <ToTranslate>tcg_syo23m</ToTranslate>
+  </String>
+  <String index="649">
+    <ToTranslate>syur1676</ToTranslate>
+  </String>
+  <String index="650">
+    <ToTranslate>Шури$"У... но, это--"@</ToTranslate>
+  </String>
+  <String index="651">
+    <ToTranslate>Казуто$"Разве ты не моя невеста сегодня? Так что это вполне естественно."@</ToTranslate>
+  </String>
+  <String index="652">
+    <ToTranslate>$Я кладу обе руки на её плечи, но мне не приходится прикладывать усилий чтобы уложить её на кровать.@</ToTranslate>
+  </String>
+  <String index="653">
+    <ToTranslate>tcg_syo13la</ToTranslate>
+  </String>
+  <String index="654">
+    <ToTranslate>tcg_syo13m</ToTranslate>
+  </String>
+  <String index="655">
+    <ToTranslate>syur1677</ToTranslate>
+  </String>
+  <String index="656">
+    <ToTranslate>Шури$"Да... день ещё не закончился."@</ToTranslate>
+  </String>
+  <String index="657">
+    <ToTranslate>$Кровать заскрипела под общим весом, иногда и неплохо что здесь нет пружин и других современных вещей.@</ToTranslate>
+  </String>
+  <String index="658">
+    <ToTranslate>$Шури больше не отводит глаза в сторону, она крепко сжала мою руку а её глаза наполняются влагой.@</ToTranslate>
+  </String>
+  <String index="659">
+    <ToTranslate>Казуто$"...иди ко мне."@</ToTranslate>
+  </String>
+  <String index="660">
+    <ToTranslate>tcg_syo23fa</ToTranslate>
+  </String>
+  <String index="661">
+    <ToTranslate>tcg_syo23m</ToTranslate>
+  </String>
+  <String index="662">
+    <ToTranslate>syur1678</ToTranslate>
+  </String>
+  <String index="663">
+    <ToTranslate>Шури$"...да."@</ToTranslate>
+  </String>
+  <String index="664">
+    <ToTranslate>$Она закрывает глаза и... падает в мои объятия.@</ToTranslate>
+  </String>
+  <String index="665">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="666">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="667">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="668">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="669">
+    <ToTranslate>bgm20</ToTranslate>
+  </String>
+  <String index="670">
+    <ToTranslate>syur1679</ToTranslate>
+  </String>
+  <String index="671">
+    <ToTranslate>Шури$"М-м-м, ум, мм-м...!?"@</ToTranslate>
+  </String>
+  <String index="672">
+    <ToTranslate>Казуто$"А... Шури? Да ты уже взмокла."@</ToTranslate>
+  </String>
+  <String index="673">
+    <ToTranslate>syur1680</ToTranslate>
+  </String>
+  <String index="674">
+    <ToTranslate>Шури$"У, пожалуйста, не злитесь на меня... до того как прийти сюда я всё время думала о вас."@</ToTranslate>
+  </String>
+  <String index="675">
+    <ToTranslate>$Не думаю, что это единственная причина, скорее всего потому, что я сам узнал об этом.@</ToTranslate>
+  </String>
+  <String index="676">
+    <ToTranslate>syur1681</ToTranslate>
+  </String>
+  <String index="677">
+    <ToTranslate>Шури$"Позвольте мне... подготовиться. Я ведь ещё грязная.... ум-м!?"@</ToTranslate>
+  </String>
+  <String index="678">
+    <ToTranslate>Казуто$"*Поцелуй * м-м-м."@</ToTranslate>
+  </String>
+  <String index="679">
+    <ToTranslate>$Продолжительным поцелуем я не позволил ей и дальше отводить взгляд куда-то вниз, и затем я просунул язык ей в рот.@</ToTranslate>
+  </String>
+  <String index="680">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="681">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="682">
+    <ToTranslate>ecg_syo10a</ToTranslate>
+  </String>
+  <String index="683">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="684">
+    <ToTranslate>syur1682</ToTranslate>
+  </String>
+  <String index="685">
+    <ToTranslate>Шури$"А-а-а...!? У-у... Господин, уа-а, Господин."@</ToTranslate>
+  </String>
+  <String index="686">
+    <ToTranslate>Казуто$"М-м... ты уже мокрая не только снаружи. Я искренне рад что ты сильно жаждешь меня."@</ToTranslate>
+  </String>
+  <String index="687">
+    <ToTranslate>$Мой малыш застыл ещё до проведения моих исследований, но её дрожащая киска кажется гораздо жарче моего пульсирующего члена.@</ToTranslate>
+  </String>
+  <String index="688">
+    <ToTranslate>syur1683</ToTranslate>
+  </String>
+  <String index="689">
+    <ToTranslate>Шури$"У-у, а-а-а!? Не так сильно... а-а... он сейчас полностью войдёт в меня..."@</ToTranslate>
+  </String>
+  <String index="690">
+    <ToTranslate>$Я схватил её бёдра в то время как она оказалась на мне и сходу проделал путь сначала и до конца ущелья.@</ToTranslate>
+  </String>
+  <String index="691">
+    <ToTranslate>Казуто$"Уф... хмм! Разве слишком? Хочешь чтобы я замедлился?"@</ToTranslate>
+  </String>
+  <String index="692">
+    <ToTranslate>syur1684</ToTranslate>
+  </String>
+  <String index="693">
+    <ToTranslate>Шури$"Уа-а... у-ум!? А-а."@</ToTranslate>
+  </String>
+  <String index="694">
+    <ToTranslate>Казуто$"Ты же сама этого не хочешь... я прав? Хмм, ты ведь и сама двигаешься."@</ToTranslate>
+  </String>
+  <String index="695">
+    <ToTranslate>syur1685</ToTranslate>
+  </String>
+  <String index="696">
+    <ToTranslate>Шури$"У-у-у, у-м, м-м-м..."@</ToTranslate>
+  </String>
+  <String index="697">
+    <ToTranslate>Казуто$"Ты прекрасна, Шури... ты самая настоящая божественная нимфа."@</ToTranslate>
+  </String>
+  <String index="698">
+    <ToTranslate>$Она извивается при каждом моём движении. Откинув голову назад, она открыла мне вид её изящного стройного тела.@</ToTranslate>
+  </String>
+  <String index="699">
+    <ToTranslate>Казуто$"Боюсь что могу не сдержаться... и перейти на куда более жёсткий уровень." @</ToTranslate>
+  </String>
+  <String index="700">
+    <ToTranslate>syur1686</ToTranslate>
+  </String>
+  <String index="701">
+    <ToTranslate>Шури$"Боитесь...? Почему...? Ведь я вас очень сильно люблю..."@</ToTranslate>
+  </String>
+  <String index="702">
+    <ToTranslate>Казуто$"Гх... ум, а-а."@</ToTranslate>
+  </String>
+  <String index="703">
+    <ToTranslate>$Шури вырисовывает круги своей талией, а её киска только сжимается ещё сильнее отвечая моей страсти.@</ToTranslate>
+  </String>
+  <String index="704">
+    <ToTranslate>syur1687</ToTranslate>
+  </String>
+  <String index="705">
+    <ToTranslate>Шури$"Чувствую себя такой счастливой... у-ум, я могу быть вместе с вами... разве вы не чувствуете этого?"@</ToTranslate>
+  </String>
+  <String index="706">
+    <ToTranslate>Казуто$"Гх, а-а! Ха-ха... мужчин иногда тоже одолевают смешанные чувства, но я так же чувствую тоже что и ты."@</ToTranslate>
+  </String>
+  <String index="707">
+    <ToTranslate>$Скорее всего потому что Шури выглядела настоящей богиней, мне показалось что она в любую секунду может вернуться в священный храм.@</ToTranslate>
+  </String>
+  <String index="708">
+    <ToTranslate>syur1688</ToTranslate>
+  </String>
+  <String index="709">
+    <ToTranslate>Шури$"Хау-у... мм, я не хотела быть божественной нимфой... я должна была стать вашей невестой."@</ToTranslate>
+  </String>
+  <String index="710">
+    <ToTranslate>$Наверное, она способна читать мои сомнения внутри себя... Шури увеличила скорость и силу её движений.@</ToTranslate>
+  </String>
+  <String index="711">
+    <ToTranslate>syur1689</ToTranslate>
+  </String>
+  <String index="712">
+    <ToTranslate>Шури$"Любите меня... ум, н-н, я ваша невеста, а!? Любите меня... больше и больше."@</ToTranslate>
+  </String>
+  <String index="713">
+    <ToTranslate>Казуто$"Моя... невеста?"@</ToTranslate>
+  </String>
+  <String index="714">
+    <ToTranslate>syur1690</ToTranslate>
+  </String>
+  <String index="715">
+    <ToTranslate>Шури$"Да... если вы сомневаетесь... если хотите то можете убедиться...? Поцелуйте меня... и всё поймёте."@</ToTranslate>
+  </String>
+  <String index="716">
+    <ToTranslate>$Я вытягиваю шею прежде чем она успевает договорить, подвожу талию и всасываюсь в её губы.@</ToTranslate>
+  </String>
+  <String index="717">
+    <ToTranslate>syur1691</ToTranslate>
+  </String>
+  <String index="718">
+    <ToTranslate>Шури$"У-ум... м-м, *поцелуй*! Теперь вы решились? Ум, хау."@</ToTranslate>
+  </String>
+  <String index="719">
+    <ToTranslate>Казуто$"Не совсем... не чувствую настоящей страсти в движениях твоего языка."@</ToTranslate>
+  </String>
+  <String index="720">
+    <ToTranslate>syur1692</ToTranslate>
+  </String>
+  <String index="721">
+    <ToTranslate>Шури$"Не может быть... хау... м-м, *поцелуй, поцелуй...* м-м-м."@</ToTranslate>
+  </String>
+  <String index="722">
+    <ToTranslate>Казуто$"*М-м-м-м-м*."@</ToTranslate>
+  </String>
+  <String index="723">
+    <ToTranslate>syur1693</ToTranslate>
+  </String>
+  <String index="724">
+    <ToTranslate>Шури$"А-а-а... м-м-м, хм-м. А теперь? Я играю с вашим языком... вот так."@</ToTranslate>
+  </String>
+  <String index="725">
+    <ToTranslate>$Закладывая руки мне за плечи она начинает всасываться в мой язык... я даже никогда и не надеялся что Шури так осмелеет.@</ToTranslate>
+  </String>
+  <String index="726">
+    <ToTranslate>syur1694</ToTranslate>
+  </String>
+  <String index="727">
+    <ToTranslate>Шури$"Я никогда не смогу привыкнуть к этому... а!? Ум, я хочу продолжать делать это... вечно."@</ToTranslate>
+  </String>
+  <String index="728">
+    <ToTranslate>$Она дрожит от моих действий снизу, но продолжает жадно всасываться в мой язык.@</ToTranslate>
+  </String>
+  <String index="729">
+    <ToTranslate>syur1695</ToTranslate>
+  </String>
+  <String index="730">
+    <ToTranslate>Шури$"Ум-м... а-а-а, ваши губы... восхитительны, язык, губы, рот, м-м-м."@</ToTranslate>
+  </String>
+  <String index="731">
+    <ToTranslate>Казуто$"Твои губы тоже. С тобой я способен кончить от одних поцелуев... хм-м!?"@</ToTranslate>
+  </String>
+  <String index="732">
+    <ToTranslate>syur1696</ToTranslate>
+  </String>
+  <String index="733">
+    <ToTranslate>Шури$"М-м-м-м... ма-а-а."@</ToTranslate>
+  </String>
+  <String index="734">
+    <ToTranslate>$Продолжая дегустировать меня, она улыбнулась.@</ToTranslate>
+  </String>
+  <String index="735">
+    <ToTranslate>Казуто$"Мне не о чём беспокоиться... ни одна нимфа не может быть такой заносчивой и так управлять своим языком."@</ToTranslate>
+  </String>
+  <String index="736">
+    <ToTranslate>syur1697</ToTranslate>
+  </String>
+  <String index="737">
+    <ToTranslate>Шури$"Хм-м... у-у, заносчивой...? Мне так стыдно-о..."@</ToTranslate>
+  </String>
+  <String index="738">
+    <ToTranslate>$Она выглядит пристыженной, но быстро обнимает меня и прижимается лицом к моему плечу.@</ToTranslate>
+  </String>
+  <String index="739">
+    <ToTranslate>Казуто$"Шури, я люблю тебя такой какая ты есть... тебе не нужно быть божественной нимфой... люблю тебя за твою красоту... и сексуальность."@</ToTranslate>
+  </String>
+  <String index="740">
+    <ToTranslate>syur1698</ToTranslate>
+  </String>
+  <String index="741">
+    <ToTranslate>Шури$"Уа-а... а-а, *поцелуй*."@</ToTranslate>
+  </String>
+  <String index="742">
+    <ToTranslate>$Движения её языка повествуют мне о её счастье. Её киска дрогнула, а её язык начал скитаться вдоль всего моего рта.@</ToTranslate>
+  </String>
+  <String index="743">
+    <ToTranslate>syur1699</ToTranslate>
+  </String>
+  <String index="744">
+    <ToTranslate>Шури$"М-м-м...! А-а... м-м,  хм-м."@</ToTranslate>
+  </String>
+  <String index="745">
+    <ToTranslate>Казуто$"М-м-м... Шури. Я действительно могу кончить, ты прекрасно целуешься."@</ToTranslate>
+  </String>
+  <String index="746">
+    <ToTranslate>syur1700</ToTranslate>
+  </String>
+  <String index="747">
+    <ToTranslate>Шури$"Я не против, м-м-м... *поцелуй,* ум... *поцелуй*! Вы правда очень вкусный."@</ToTranslate>
+  </String>
+  <String index="748">
+    <ToTranslate>Казуто$"Не стоит, *поцелуй*, давай сделаем всё как положено...?"@</ToTranslate>
+  </String>
+  <String index="749">
+    <ToTranslate>syur1701</ToTranslate>
+  </String>
+  <String index="750">
+    <ToTranslate>Шури$"Уа-а."@</ToTranslate>
+  </String>
+  <String index="751">
+    <ToTranslate>$Кажись я её немного расстроил... но думаю мы достаточно нацеловались. Поэтому пощекотав её губы своими я лёг на кровать.@</ToTranslate>
+  </String>
+  <String index="752">
+    <ToTranslate>Казуто$"Может на этот раз сама обо мне позаботишься? Просто запрыгни сверху и подразни мой стержень своей киской"@</ToTranslate>
+  </String>
+  <String index="753">
+    <ToTranslate>syur1702</ToTranslate>
+  </String>
+  <String index="754">
+    <ToTranslate>Шури$"Мне...? Мне можно поиграть с вашим членом?"@</ToTranslate>
+  </String>
+  <String index="755">
+    <ToTranslate>$Её голос изменился в ожидании предстоящего удовольствия.@</ToTranslate>
+  </String>
+  <String index="756">
+    <ToTranslate>syur1703</ToTranslate>
+  </String>
+  <String index="757">
+    <ToTranslate>Шури$"Вы позволите мне делать что захочу....? В-вы ведь не знаете, что может случиться. Моё сердце так сильно стучит."@</ToTranslate>
+  </String>
+  <String index="758">
+    <ToTranslate>$От её скачка мне на живот мой член вызвал хлюпающий звук... и этот звук был только началом.@</ToTranslate>
+  </String>
+  <String index="759">
+    <ToTranslate>syur1704</ToTranslate>
+  </String>
+  <String index="760">
+    <ToTranslate>Шури$"Я даже не знаю... уа-а, что же мне делать... а! Ум-м-м, уа-а."@</ToTranslate>
+  </String>
+  <String index="761">
+    <ToTranslate>Казуто$"О-о...!? Не знал, что тебе нравится так быстро!"@</ToTranslate>
+  </String>
+  <String index="762">
+    <ToTranslate>syur1705</ToTranslate>
+  </String>
+  <String index="763">
+    <ToTranslate>Шури$"Я не знаю что происходит, тело движется само по себе! А-а, не могу... у-у, остановись!"@</ToTranslate>
+  </String>
+  <String index="764">
+    <ToTranslate>$Сильно сдавливая меня Шури двигается вверх и вниз, хоть это и вызывает сильные ощущения, никто из нас не выглядит удовлетворённым.@</ToTranslate>
+  </String>
+  <String index="765">
+    <ToTranslate>Казуто$"Я не дам тебе упасть, поэтому не останавливайся! Почувствуй меня и... позволь мне почувствовать тебя!"@</ToTranslate>
+  </String>
+  <String index="766">
+    <ToTranslate>syur1706</ToTranslate>
+  </String>
+  <String index="767">
+    <ToTranslate>Шури$"А-а... у-ум, а-а-а.... хм-м!"@</ToTranslate>
+  </String>
+  <String index="768">
+    <ToTranslate>$Шури немного замедлилась, затем свела наши бёдра вместе и показала мне место нашей с ней связи.@</ToTranslate>
+  </String>
+  <String index="769">
+    <ToTranslate>syur1707</ToTranslate>
+  </String>
+  <String index="770">
+    <ToTranslate>Шури$"Уа-а... не могу остановиться... я двигаюсь не переставая, а-а, Господин."@</ToTranslate>
+  </String>
+  <String index="771">
+    <ToTranslate>Казуто$"Это прекрасные ощущения...! Ты такая горячая внутри и так сильно меня сжимаешь..."@</ToTranslate>
+  </String>
+  <String index="772">
+    <ToTranslate>syur1708</ToTranslate>
+  </String>
+  <String index="773">
+    <ToTranslate>Шури$"А-а... уа-а! Хм-м... а-а-а."@</ToTranslate>
+  </String>
+  <String index="774">
+    <ToTranslate>Казуто$"Я чувствую тебя, и чувствую все твои движения!"@</ToTranslate>
+  </String>
+  <String index="775">
+    <ToTranslate>syur1709</ToTranslate>
+  </String>
+  <String index="776">
+    <ToTranslate>Шури$"Не надо больше... я никогда не чувствовала подобного! А-а, это слишком приятно, я боюсь..."@</ToTranslate>
+  </String>
+  <String index="777">
+    <ToTranslate>$Её движения слишком прерывисты и мой блестящий член успел выскользнуть... прежде чем она успела загнать его снова.@</ToTranslate>
+  </String>
+  <String index="778">
+    <ToTranslate>syur1710</ToTranslate>
+  </String>
+  <String index="779">
+    <ToTranslate>Шури$"Что я делаю? Хм-м... ум, со мной что-то не так. Я уже не понимаю что происходит, м-м!?"@</ToTranslate>
+  </String>
+  <String index="780">
+    <ToTranslate>$Я воспринимаю её своими глазами, ушами и прикосновением, всеми своими чувствами и нереально счастлив возможности быть вместе с ней.@</ToTranslate>
+  </String>
+  <String index="781">
+    <ToTranslate>syur1711</ToTranslate>
+  </String>
+  <String index="782">
+    <ToTranslate>Шури$"Уа-а!? Я почувствовала что-то твёрдое... это так приятно, сделайте так... снова."@</ToTranslate>
+  </String>
+  <String index="783">
+    <ToTranslate>Казуто$"Конечно... только скажи, и я сделаю всё что попросишь."@</ToTranslate>
+  </String>
+  <String index="784">
+    <ToTranslate>syur1712</ToTranslate>
+  </String>
+  <String index="785">
+    <ToTranslate>Шури$"...ум, коснитесь... моей груди, Господин."@</ToTranslate>
+  </String>
+  <String index="786">
+    <ToTranslate>$Глубоко проникнув в неё, как она и хотела, я потянулся к её маленьким выпуклостям.@</ToTranslate>
+  </String>
+  <String index="787">
+    <ToTranslate>syur1713</ToTranslate>
+  </String>
+  <String index="788">
+    <ToTranslate>Шури$"А-а... ум, м-м!"@</ToTranslate>
+  </String>
+  <String index="789">
+    <ToTranslate>Казуто$"Мне нравится твоя грудь, маленькая, но очень тёплая. А ещё, прикасаясь к ним..."@</ToTranslate>
+  </String>
+  <String index="790">
+    <ToTranslate>syur1714</ToTranslate>
+  </String>
+  <String index="791">
+    <ToTranslate>Шури$"Ум-м... у-у, Госопдин..."@</ToTranslate>
+  </String>
+  <String index="792">
+    <ToTranslate>Казуто$"Да, мне нравится, как ты стонешь... позволь мне продолжить."@</ToTranslate>
+  </String>
+  <String index="793">
+    <ToTranslate>$Мне очень нравится трогать её грудь, и нравится проникать в неё. Я начинаю толкать сильнее...@</ToTranslate>
+  </String>
+  <String index="794">
+    <ToTranslate>syur1715</ToTranslate>
+  </String>
+  <String index="795">
+    <ToTranslate>Шури$"Ум, хм-м... Господин, ведь это я должна была доставить вам удовольствие! Уа-а, позвольте мне..."@</ToTranslate>
+  </String>
+  <String index="796">
+    <ToTranslate>Казуто$"Неа, это будет слишком не честно, я тоже хочу сделать тебе что-то приятное."@</ToTranslate>
+  </String>
+  <String index="797">
+    <ToTranslate>$Не могу иначе... желаю, чтобы и она ощутила всю мою страсть, поэтому сам меняю угол проникновения.@</ToTranslate>
+  </String>
+  <String index="798">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="799">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="800">
+    <ToTranslate>ecg_syo10b</ToTranslate>
+  </String>
+  <String index="801">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="802">
+    <ToTranslate>syur1716</ToTranslate>
+  </String>
+  <String index="803">
+    <ToTranslate>Шури$"М-м...!? Уа-а, а-а-а... ум, м-м, это слишком приятно, а!? Хмм, уа-а!"@</ToTranslate>
+  </String>
+  <String index="804">
+    <ToTranslate>$Я использую член для более глубокого проникновения, неустанно нападая на её точку G.@</ToTranslate>
+  </String>
+  <String index="805">
+    <ToTranslate>Казуто$"Хм-м... а-а, фуа-а! Может, попробуешь сжать посильнее?"@</ToTranslate>
+  </String>
+  <String index="806">
+    <ToTranslate>syur1717</ToTranslate>
+  </String>
+  <String index="807">
+    <ToTranslate>Шури$"Это слишком приятно... а!? Не могу... больше... м-м, а-а-а, Господин, что вы задумали?"@</ToTranslate>
+  </String>
+  <String index="808">
+    <ToTranslate>$В принципе ничего особенного, я просто стимулирую её чувствительное место - этого вполне достаточно.@</ToTranslate>
+  </String>
+  <String index="809">
+    <ToTranslate>syur1718</ToTranslate>
+  </String>
+  <String index="810">
+    <ToTranslate>Шури$"Мне страшно...! Я... ум, хм!? Я чувствую сильный жар... внутри!"@</ToTranslate>
+  </String>
+  <String index="811">
+    <ToTranslate>$Она уже не способна сохранять положение и всё её тело раскачивается из стороны в сторону. Я хватаюсь за её грудь с одной стороны и талию с другой.@</ToTranslate>
+  </String>
+  <String index="812">
+    <ToTranslate>syur1719</ToTranslate>
+  </String>
+  <String index="813">
+    <ToTranslate>Шури$"Господин! М-м, а-а... у-у!? М-м, уа-а."@</ToTranslate>
+  </String>
+  <String index="814">
+    <ToTranslate>Казуто$"Этого не нужно бояться. Это нормальный, настоящий секс..."@</ToTranslate>
+  </String>
+  <String index="815">
+    <ToTranslate>syur1720</ToTranslate>
+  </String>
+  <String index="816">
+    <ToTranslate>Шури$"Правда? Боюсь, но мне он..... уа-а!? М-м, а-а-а."@</ToTranslate>
+  </String>
+  <String index="817">
+    <ToTranslate>Казуто$"Да... это лучший секс всей моей жизни..."@</ToTranslate>
+  </String>
+  <String index="818">
+    <ToTranslate>$Я сжал зубы чтобы сдержать нахлынувший на меня поток ощущений, иначе они одолели бы меня за секунды.@</ToTranslate>
+  </String>
+  <String index="819">
+    <ToTranslate>syur1721</ToTranslate>
+  </String>
+  <String index="820">
+    <ToTranslate>Шури$"А-а-а..... я так рада... а-а, что это? Вам так приятно, что вы тоже этим напуганы!?"@</ToTranslate>
+  </String>
+  <String index="821">
+    <ToTranslate>Казуто$"Точно... порой мне кажется что я сейчас лопну." @</ToTranslate>
+  </String>
+  <String index="822">
+    <ToTranslate>$Здесь нечего бояться. Я начал пробиваться в неё сильнее чем когда-либо, попутно разбрызгивая её соки во все стороны.@</ToTranslate>
+  </String>
+  <String index="823">
+    <ToTranslate>syur1722</ToTranslate>
+  </String>
+  <String index="824">
+    <ToTranslate>Шури$"Быстрее... быстрее! Я вот-вот... хм-м... уа-а!?"@</ToTranslate>
+  </String>
+  <String index="825">
+    <ToTranslate>Казуто$"Только не сейчас! Это настолько приятно... мы должны насладиться этим."@</ToTranslate>
+  </String>
+  <String index="826">
+    <ToTranslate>syur1723</ToTranslate>
+  </String>
+  <String index="827">
+    <ToTranslate>Шури$"Не могу... простите меня... я кончаю! Я не могу больше! Я сдаюсь!"@</ToTranslate>
+  </String>
+  <String index="828">
+    <ToTranslate>$Я знал что никто из нас не сможет продержаться ещё больше. Не стоит пытаться выжать ещё больше...@</ToTranslate>
+  </String>
+  <String index="829">
+    <ToTranslate>syur1724</ToTranslate>
+  </String>
+  <String index="830">
+    <ToTranslate>Шури$"Я хочу кончить... вместе с вами! Пожалуйста! Не злитесь на меня! Давайте сделаем это вместе, хм-м, уа-а!"@</ToTranslate>
+  </String>
+  <String index="831">
+    <ToTranslate>$Верно, мы должны разделить этот восторг и закончить всё вместе.@</ToTranslate>
+  </String>
+  <String index="832">
+    <ToTranslate>Казуто$"Хм... хочешь кончит вместе со мной?"@</ToTranslate>
+  </String>
+  <String index="833">
+    <ToTranslate>syur1725</ToTranslate>
+  </String>
+  <String index="834">
+    <ToTranslate>Шури$"Д-да... мы должны... кончить вместе... ум, мм!? Пожалуйста-а."@</ToTranslate>
+  </String>
+  <String index="835">
+    <ToTranslate>Казуто$"Хорошо... м-м! Гх-х, я подожду тебя."@</ToTranslate>
+  </String>
+  <String index="836">
+    <ToTranslate>syur1726</ToTranslate>
+  </String>
+  <String index="837">
+    <ToTranslate>Шури$"Пожалуйста... а!? Уа, а-а."@</ToTranslate>
+  </String>
+  <String index="838">
+    <ToTranslate>Казуто$"Я буду смотреть на твоё лицо в нужное время, я кончу когда ты кончишь... я наполню твой живот своим семенем."@</ToTranslate>
+  </String>
+  <String index="839">
+    <ToTranslate>$Я замедляю свой темп, но по-прежнему трусь о её чувствительные места.@</ToTranslate>
+  </String>
+  <String index="840">
+    <ToTranslate>syur1727</ToTranslate>
+  </String>
+  <String index="841">
+    <ToTranslate>Шури$"Уа!? Я кончу... совсем скоро. А-а, мне правда можно? Мне можно прямо сейчас?"@</ToTranslate>
+  </String>
+  <String index="842">
+    <ToTranslate>Казуто$"Сдерживайся так долго сколько получится... хм-м! Ха-а, и я сделаю это вместе с тобой!"@</ToTranslate>
+  </String>
+  <String index="843">
+    <ToTranslate>$Отчаянно сдерживаясь, гладкие складки её киски сжимают всего меня до самого основания.@</ToTranslate>
+  </String>
+  <String index="844">
+    <ToTranslate>syur1728</ToTranslate>
+  </String>
+  <String index="845">
+    <ToTranslate>Шури$"Я не... могу больше сдерживаться! Уа-а... я... я не могу больше сдерживаться!"@</ToTranslate>
+  </String>
+  <String index="846">
+    <ToTranslate>$Она начала заглатывать ртом воздух, её плечи, щёки и всё лицо было красным, с восторжением всё это время я наблюдаю за ней.@</ToTranslate>
+  </String>
+  <String index="847">
+    <ToTranslate>syur1729</ToTranslate>
+  </String>
+  <String index="848">
+    <ToTranslate>Шури$"Ха-а, а-а... уа!? А-а-а... ум-м...! Уа."@</ToTranslate>
+  </String>
+  <String index="849">
+    <ToTranslate>Казуто$"Гх... ум-м!?"@</ToTranslate>
+  </String>
+  <String index="850">
+    <ToTranslate>$Всё её тело начинает дёргаться. Несмотря на широко открытый рот, её крик так и не смог покинуть её горла.@</ToTranslate>
+  </String>
+  <String index="851">
+    <ToTranslate>syur1730</ToTranslate>
+  </String>
+  <String index="852">
+    <ToTranslate>Шури$"А-а... уа-а, Господин.... м!? Хм... м-м-м. А!?"@</ToTranslate>
+  </String>
+  <String index="853">
+    <ToTranslate>Казуто$"Фух, га-а! Я... кончаю!"@</ToTranslate>
+  </String>
+  <String index="854">
+    <ToTranslate>syur1731</ToTranslate>
+  </String>
+  <String index="855">
+    <ToTranslate>Шури$"Да... я тоже...!? А-а-а!?"@</ToTranslate>
+  </String>
+  <String index="856">
+    <ToTranslate>$Раскачиваясь из стороны в сторону под силой моих проникновений, её спина выгибается назад... Шури сдаётся.@</ToTranslate>
+  </String>
+  <String index="857">
+    <ToTranslate>syur1732</ToTranslate>
+  </String>
+  <String index="858">
+    <ToTranslate>Шури$"Ва-а-а-а... уа-а... а!?"@</ToTranslate>
+  </String>
+  <String index="859">
+    <ToTranslate>flash</ToTranslate>
+  </String>
+  <String index="860">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="861">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="862">
+    <ToTranslate>ecg_syo10d</ToTranslate>
+  </String>
+  <String index="863">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="864">
+    <ToTranslate>Казуто$"Ва-а...! Ух, а-а..."@</ToTranslate>
+  </String>
+  <String index="865">
+    <ToTranslate>syur1733</ToTranslate>
+  </String>
+  <String index="866">
+    <ToTranslate>Шури$"Уа-а..."@</ToTranslate>
+  </String>
+  <String index="867">
+    <ToTranslate>flash</ToTranslate>
+  </String>
+  <String index="868">
+    <ToTranslate>syur1734</ToTranslate>
+  </String>
+  <String index="869">
+    <ToTranslate>Шури$"Фух... уф, фу-ух."@</ToTranslate>
+  </String>
+  <String index="870">
+    <ToTranslate>$Мой член вздрагивает и открывается чтобы заполнить её изнутри своим густым содержимым.@</ToTranslate>
+  </String>
+  <String index="871">
+    <ToTranslate>syur1735</ToTranslate>
+  </String>
+  <String index="872">
+    <ToTranslate>Шури$"Ня... у-у, а-а."@</ToTranslate>
+  </String>
+  <String index="873">
+    <ToTranslate>$Мой оргазм быстро закончился, но тело Шури вздрагивало с каждым моим взбрызгиванием. У меня почти не осталось сил чтобы поддерживать её.@</ToTranslate>
+  </String>
+  <String index="874">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="875">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="876">
+    <ToTranslate>ecg_syo10c</ToTranslate>
+  </String>
+  <String index="877">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="878">
+    <ToTranslate>syur1736</ToTranslate>
+  </String>
+  <String index="879">
+    <ToTranslate>Шури$"Уа-а-а... Господи-ин..."@</ToTranslate>
+  </String>
+  <String index="880">
+    <ToTranslate>Казуто$"Можешь лечь на меня... думаю, я смогу тебя удержать."@</ToTranslate>
+  </String>
+  <String index="881">
+    <ToTranslate>syur1737</ToTranslate>
+  </String>
+  <String index="882">
+    <ToTranslate>Шури$"...вы не собираетесь доставать его?"@</ToTranslate>
+  </String>
+  <String index="883">
+    <ToTranslate>Казуто$"С ним ничего не случиться внутри тебя, не волнуйся."@</ToTranslate>
+  </String>
+  <String index="884">
+    <ToTranslate>$Будто имею собственную волю мой член всё ещё двигается внутри, продолжая пульсировать пока её жадная киска продолжает высасывать всё содержимое.@</ToTranslate>
+  </String>
+  <String index="885">
+    <ToTranslate>syur1738</ToTranslate>
+  </String>
+  <String index="886">
+    <ToTranslate>Шури$"Эхе-хе... м-м *поцелуй*."@</ToTranslate>
+  </String>
+  <String index="887">
+    <ToTranslate>$Поражаюсь тому, что её тело всё ещё дёргается и такое горячее внутри.@</ToTranslate>
+  </String>
+  <String index="888">
+    <ToTranslate>Казуто$"Сегодня и правда было что-то из ряда вон выходящее, никогда не видел тебя такой прежде."@</ToTranslate>
+  </String>
+  <String index="889">
+    <ToTranslate>syur1739</ToTranslate>
+  </String>
+  <String index="890">
+    <ToTranslate>Шури$"Как и вы... так много вышло... и продолжает выходить."@</ToTranslate>
+  </String>
+  <String index="891">
+    <ToTranslate>Казуто$"Это всё по твоей вине, Шури."@</ToTranslate>
+  </String>
+  <String index="892">
+    <ToTranslate>syur1740</ToTranslate>
+  </String>
+  <String index="893">
+    <ToTranslate>Шури$"Вы всё сами решили. Ум-м, у меня не было возможности показать чему я смогла научиться."@</ToTranslate>
+  </String>
+  <String index="894">
+    <ToTranslate>$Хоть не на долго, но Шури надулась, затем улыбнувшись, принялась тереться щекой о моё плечо.@</ToTranslate>
+  </String>
+  <String index="895">
+    <ToTranslate>syur1741</ToTranslate>
+  </String>
+  <String index="896">
+    <ToTranslate>Шури$"И правда, секс может быть таким необычным... я узнаю что-то новое после каждого раза."@</ToTranslate>
+  </String>
+  <String index="897">
+    <ToTranslate>Казуто$"Как и я, сегодня я узнал что-то новое о тебе."@</ToTranslate>
+  </String>
+  <String index="898">
+    <ToTranslate>syur1742</ToTranslate>
+  </String>
+  <String index="899">
+    <ToTranslate>Шури$"У-у, забудьте об этом пожалуйста."@</ToTranslate>
+  </String>
+  <String index="900">
+    <ToTranslate>$Вряд ли, ведь она была такой милой. Мне стоит бережно сохранить это в своей памяти.@</ToTranslate>
+  </String>
+  <String index="901">
+    <ToTranslate>syur1743</ToTranslate>
+  </String>
+  <String index="902">
+    <ToTranslate>Шури$"Фу-ух... кажется, вы наконец-то остановились. Ой, я переполнена. А!?"@</ToTranslate>
+  </String>
+  <String index="903">
+    <ToTranslate>Казуто$"Ха-ха, не стоит спешить."@</ToTranslate>
+  </String>
+  <String index="904">
+    <ToTranslate>$Шури попыталась сдвинуться но... все недавние ощущение снова начли возвращаться.@</ToTranslate>
+  </String>
+  <String index="905">
+    <ToTranslate>$Медленно обняв я поцеловал её в лоб.@</ToTranslate>
+  </String>
+  <String index="906">
+    <ToTranslate>Казуто$"Не волнуйся за лишнее, я излил намного больше внутрь тебя."@</ToTranslate>
+  </String>
+  <String index="907">
+    <ToTranslate>syur1744</ToTranslate>
+  </String>
+  <String index="908">
+    <ToTranslate>Шури$"Даже так, мне очень не хочется отпускать её... как доказательство, я хочу сохранить каждую каплю."@</ToTranslate>
+  </String>
+  <String index="909">
+    <ToTranslate>Казуто$"Ха-ха, м-м..."@</ToTranslate>
+  </String>
+  <String index="910">
+    <ToTranslate>syur1745</ToTranslate>
+  </String>
+  <String index="911">
+    <ToTranslate>Шури$"*Поцелуй...* м-м, а-а."@</ToTranslate>
+  </String>
+  <String index="912">
+    <ToTranslate>$За её слова я захотел поцеловать её ещё раз, но на этот раз её губы сами нашли меня... и тогда наше место единения начало издавать водянистые звуки.@</ToTranslate>
+  </String>
+  <String index="913">
+    <ToTranslate>syur1746</ToTranslate>
+  </String>
+  <String index="914">
+    <ToTranslate>Шури$"Ум.... господин, ваш член не хочет уменьшаться."@</ToTranslate>
+  </String>
+  <String index="915">
+    <ToTranslate>Казуто$"Ты тоже внутри такая же тёплая."@</ToTranslate>
+  </String>
+  <String index="916">
+    <ToTranslate>$Мы смотрим друг другу в глаза, и затем почти одновременно киваем... я так и не смог понять, кто же кивнул первым.@</ToTranslate>
+  </String>
+  <String index="917">
+    <ToTranslate>syur1747</ToTranslate>
+  </String>
+  <String index="918">
+    <ToTranslate>Шури$"Изначально, я пришла сюда чтобы поговорить о сегодняшнем празднике... не думаю что мы скоро сможем вернуться к этому."@</ToTranslate>
+  </String>
+  <String index="919">
+    <ToTranslate>$Поговорить мы сможем чуть позже... сегодняшний же остаток дня я хочу провести в своё удовольствие.@</ToTranslate>
+  </String>
+  <String index="920">
+    <ToTranslate>$Я ещё не всё успел сделать сегодня.@</ToTranslate>
+  </String>
+  <String index="921">
+    <ToTranslate>syur1748</ToTranslate>
+  </String>
+  <String index="922">
+    <ToTranslate>Шури$"Ближе... Господин. *Поцелуй*."@</ToTranslate>
+  </String>
+  <String index="923">
+    <ToTranslate>Казуто$"Конечно... *поцелуй*."@</ToTranslate>
+  </String>
+  <String index="924">
+    <ToTranslate>$Шури улыбнулась мне, она будто невинная дева в костюме божественной нимфы, но сегодня мы связанны крепче любой другой пары.@</ToTranslate>
+  </String>
+  <String index="925">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="926">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="927">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+</DBS>
+
+</poem>

@@ -1,0 +1,27 @@
+<poem>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<DBS>
+  <String index="0">
+    <Origin>�The royal guards are charging in from behind!@</Origin>
+    <ToTranslate>�The royal guards are charging in from behind!@</ToTranslate>
+  </String>
+  <String index="1">
+    <Origin>You suffered �‡</Origin>
+    <ToTranslate>You suffered �‡</ToTranslate>
+  </String>
+  <String index="2">
+    <Origin>_btl_CreateStatusStrB</Origin>
+    <ToTranslate>_btl_CreateStatusStrB</ToTranslate>
+  </String>
+  <String index="3">
+    <Origin>��$</Origin>
+    <ToTranslate>��$</ToTranslate>
+  </String>
+  <String index="4">
+    <Origin>_btl_Troops_GrpChange</Origin>
+    <ToTranslate>_btl_Troops_GrpChange</ToTranslate>
+  </String>
+</DBS>
+
+</poem>

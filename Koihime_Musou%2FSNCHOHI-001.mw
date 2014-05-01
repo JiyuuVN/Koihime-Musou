@@ -1,0 +1,885 @@
+<poem>
+<?xml version="1.0" encoding="UTF-8"?>
+<DBS>
+  <String index="0">
+    <Origin>kyara_kesi</Origin>
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="1">
+    <Origin>bcg_oncastwall_a</Origin>
+    <ToTranslate>bcg_oncastwall_a</ToTranslate>
+  </String>
+  <String index="2">
+    <Origin>_MsgBoxMain_On</Origin>
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="3">
+    <Origin>bgm02</Origin>
+    <ToTranslate>bgm02</ToTranslate>
+  </String>
+  <String index="4">
+    <Origin>$This is like a movie set...... that's the impression I get after taking a walk.@</Origin>
+    <ToTranslate>$Здесь как на съемочной площадке… Это впечатление у меня появилось после прогулки.@</ToTranslate>
+  </String>
+  <String index="5">
+    <Origin>$I can't get used to it that easily. Everything I see and touch is still so unrealistic to me.@</Origin>
+    <ToTranslate>$Мне непросто привыкнуть ко всему этому. Всё, что я вижу и к чему прикасаюсь- так неестественно.@</ToTranslate>
+  </String>
+  <String index="6">
+    <Origin>$I placed my hand against the rampart, cracked from exposure to the wind and rain.@</Origin>
+    <ToTranslate>$Я положил руку на вал, потрескавшийся от ветра и дождя.@</ToTranslate>
+  </String>
+  <String index="7">
+    <Origin>Kazuto$"......It's hard."@</Origin>
+    <ToTranslate>Казуто$«Твёрдый.»@</ToTranslate>
+  </String>
+  <String index="8">
+    <Origin>$And why would it have been paper mache? I knew it wouldn't be, but I was so overwhelmed that I couldn't speak.@</Origin>
+    <ToTranslate>$ Может он из папье-маше? Конечно, я знал, что это не так, но был настолько поражен, что не мог ничего сказать.@</ToTranslate>
+  </String>
+  <String index="9">
+    <Origin>Kazuto$"Hmm? That's......"@</Origin>
+    <ToTranslate>Казуто$«Хмм? Это же...»@</ToTranslate>
+  </String>
+  <String index="10">
+    <Origin>$Just as I began to walk, I saw a small figure on the ramparts, facing the prairie.@</Origin>
+    <ToTranslate>$Едва сделав шаг, я увидел маленькую фигуру, наблюдающую за степью.@</ToTranslate>
+  </String>
+  <String index="11">
+    <Origin>$What struck me most was the pole beside her. At the tip of that pole, there was a naked blade reflecting the sunlight.@</Origin>
+    <ToTranslate>$Больше всего меня поразил посох у неё за спиной. На конце древка был обнаженный клинок, отражающий лучи солнца.@</ToTranslate>
+  </String>
+  <String index="12">
+    <Origin>$She was proud of her Viper Spear...but she didn't wield it properly.@</Origin>
+    <ToTranslate>$Она гордилась своим Копьём Гадюки... но не могла как следует им пользоваться.@</ToTranslate>
+  </String>
+  <String index="13">
+    <Origin>$I found someone to kill time with. Maybe I'll find a way to climb up to the ramparts.@</Origin>
+    <ToTranslate>$Я нашёл кого-то, с кем можно провести время. Возможно, я найду способ забраться на стену вала.@</ToTranslate>
+  </String>
+  <String index="14">
+    <Origin>$Do I see stairs or a ladder......? Oh, there's a staircase.@</Origin>
+    <ToTranslate>$Есть тут где-нибудь лестница?.. О, вот же она.@</ToTranslate>
+  </String>
+  <String index="15">
+    <Origin>_MsgBoxMain_Off</Origin>
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="16">
+    <Origin>kyara_kesi</Origin>
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="17">
+    <Origin>aa</Origin>
+    <ToTranslate>aa</ToTranslate>
+  </String>
+  <String index="18">
+    <Origin>bg_black</Origin>
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="19">
+    <Origin>aa</Origin>
+    <ToTranslate>aa</ToTranslate>
+  </String>
+  <String index="20">
+    <Origin>bcg_oncastwall_a</Origin>
+    <ToTranslate>bcg_oncastwall_a</ToTranslate>
+  </String>
+  <String index="21">
+    <Origin>_MsgBoxMain_On</Origin>
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="22">
+    <Origin>Kazuto$"It's pretty high once I'm up here...... Hey, Rinrin."@</Origin>
+    <ToTranslate>Казуто$«Здесь довольно высоко... Эй, Ринрин.»@</ToTranslate>
+  </String>
+  <String index="23">
+    <Origin>tcg_cho21ja</Origin>
+    <ToTranslate>tcg_cho21ja</ToTranslate>
+  </String>
+  <String index="24">
+    <Origin>tcg_cho21m</Origin>
+    <ToTranslate>tcg_cho21m</ToTranslate>
+  </String>
+  <String index="25">
+    <Origin>bgm04</Origin>
+    <ToTranslate>bgm04</ToTranslate>
+  </String>
+  <String index="26">
+    <Origin>hatena</Origin>
+    <ToTranslate>hatena</ToTranslate>
+  </String>
+  <String index="27">
+    <Origin>rinr0651</Origin>
+    <ToTranslate>rinr0651</ToTranslate>
+  </String>
+  <String index="28">
+    <Origin>Rinrin$"Mmnyah?"@</Origin>
+    <ToTranslate>Ринрин$«Ммня?»@</ToTranslate>
+  </String>
+  <String index="29">
+    <Origin>$Was she a cat? The small figure, Rinrin, turned around towards me in surprise as I came over the top of the stairs.@</Origin>
+    <ToTranslate>$Она что, кошка? Фигурка Ринрин удивленно повернулась ко мне, когда я добрался до вершины лестницы.@</ToTranslate>
+  </String>
+  <String index="30">
+    <Origin>tcg_cho31ja</Origin>
+    <ToTranslate>tcg_cho31ja</ToTranslate>
+  </String>
+  <String index="31">
+    <Origin>tcg_cho31m</Origin>
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="32">
+    <Origin>rinr0652</Origin>
+    <ToTranslate>rinr0652</ToTranslate>
+  </String>
+  <String index="33">
+    <Origin>Rinrin$"Onii-chan. What are you doing? Rinrin didn't call for you."@</Origin>
+    <ToTranslate>Ринрин$«Онии-тян, что ты делаешь? Ринрин не звала тебя.»@</ToTranslate>
+  </String>
+  <String index="34">
+    <Origin>Kazuto$"I didn't come here because you called me. Besides, 'what are you doing' is my line."@</Origin>
+    <ToTranslate>Казуто$«Я пришел не потому, что ты звала меня. Кроме того, ‘что ты делаешь?’ — мои слова.»@</ToTranslate>
+  </String>
+  <String index="35">
+    <Origin>tcg_cho11aa</Origin>
+    <ToTranslate>tcg_cho11aa</ToTranslate>
+  </String>
+  <String index="36">
+    <Origin>tcg_cho11m</Origin>
+    <ToTranslate>tcg_cho11m</ToTranslate>
+  </String>
+  <String index="37">
+    <Origin>rinr0653</Origin>
+    <ToTranslate>rinr0653</ToTranslate>
+  </String>
+  <String index="38">
+    <Origin>Rinrin$"Hmm, did Rinrin do something wrong?"@</Origin>
+    <ToTranslate>Ринрин$«Хмм, Ринрин сделала что-то не так?»@</ToTranslate>
+  </String>
+  <String index="39">
+    <Origin>$I don't think we're talking about the same subject...... Rinrin tilts her head. I can't help thinking she's cute.@</Origin>
+    <ToTranslate>$Не думаю, что мы говорим об одном и том же... Ринрин наклонила голову. Я не могу не думать о том, что она прелестна.@</ToTranslate>
+  </String>
+  <String index="40">
+    <Origin>tcg_cho21da</Origin>
+    <ToTranslate>tcg_cho21da</ToTranslate>
+  </String>
+  <String index="41">
+    <Origin>tcg_cho21m</Origin>
+    <ToTranslate>tcg_cho21m</ToTranslate>
+  </String>
+  <String index="42">
+    <Origin>muka</Origin>
+    <ToTranslate>muka</ToTranslate>
+  </String>
+  <String index="43">
+    <Origin>rinr0654</Origin>
+    <ToTranslate>rinr0654</ToTranslate>
+  </String>
+  <String index="44">
+    <Origin>Rinrin$"Boo, why are you grinning?! How dare you sneak behind Rinrin and have fun all by yourself!"@</Origin>
+    <ToTranslate>Ринрин$«Буу, почему ты ухмыляешься?! Как ты смеешь подкрадываться сзади к Ринрин и веселиться в одиночку!»@</ToTranslate>
+  </String>
+  <String index="45">
+    <Origin>Kazuto$"I'm not sneaking! I'm smiling at you, right in the open."@</Origin>
+    <ToTranslate>Казуто$«Я не подкрадываюсь! Я в открытую смеюсь над тобой.»@</ToTranslate>
+  </String>
+  <String index="46">
+    <Origin>tcg_cho31da</Origin>
+    <ToTranslate>tcg_cho31da</ToTranslate>
+  </String>
+  <String index="47">
+    <Origin>tcg_cho31m</Origin>
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="48">
+    <Origin>rinr0655</Origin>
+    <ToTranslate>rinr0655</ToTranslate>
+  </String>
+  <String index="49">
+    <Origin>Rinrin$"Rinrin's not doing anything fun, though. Rinrin's doing her job as watchman!"@</Origin>
+    <ToTranslate>Ринрин$«Ринрин не делает ничего смешного. Она выполняет свою работу дозорного!»@</ToTranslate>
+  </String>
+  <String index="50">
+    <Origin>Kazuto$"D-Don't swing that around, or I'll fall!"@</Origin>
+    <ToTranslate>Казуто$«Н-не маши так руками, а то я упаду!»@</ToTranslate>
+  </String>
+  <String index="51">
+    <Origin>$Hmm? What did she say?@</Origin>
+    <ToTranslate>$Хм? Что она сказала?@</ToTranslate>
+  </String>
+  <String index="52">
+    <Origin>Kazuto$"Watchman? But the battle just ended. I thought we rid this area of the Yellow Turbans?"@</Origin>
+    <ToTranslate>Казуто$«Дозорный? Но битва уже закончилась. Я думал, мы освободили эту территорию от Жёлтых Повязок?»@</ToTranslate>
+  </String>
+  <String index="53">
+    <Origin>tcg_cho11ea</Origin>
+    <ToTranslate>tcg_cho11ea</ToTranslate>
+  </String>
+  <String index="54">
+    <Origin>tcg_cho11m</Origin>
+    <ToTranslate>tcg_cho11m</ToTranslate>
+  </String>
+  <String index="55">
+    <Origin>rinr0656</Origin>
+    <ToTranslate>rinr0656</ToTranslate>
+  </String>
+  <String index="56">
+    <Origin>Rinrin$"What if they come back?! What if they have tons of reinforcements?!"@</Origin>
+    <ToTranslate>Ринрин$«Что если они вернутся?! Если они приведут подкрепления?!»@</ToTranslate>
+  </String>
+  <String index="57">
+    <Origin>$I projected the horrible image of what Rinrin described in my mind.@</Origin>
+    <ToTranslate>$Я представил себе жуткую картину, которую описала Ринрин.@</ToTranslate>
+  </String>
+  <String index="58">
+    <Origin>Kazuto$"......We'll run."@</Origin>
+    <ToTranslate>Казуто$«Мы убежим.»@</ToTranslate>
+  </String>
+  <String index="59">
+    <Origin>$I answered honestly. But then Rinrin thumped her flat chest.@</Origin>
+    <ToTranslate>$Я ответил честно. Но тогда Ринрин ударила себя в плоскую грудь.@</ToTranslate>
+  </String>
+  <String index="60">
+    <Origin>tcg_cho31ia</Origin>
+    <ToTranslate>tcg_cho31ia</ToTranslate>
+  </String>
+  <String index="61">
+    <Origin>tcg_cho31m</Origin>
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="62">
+    <Origin>rinr0657</Origin>
+    <ToTranslate>rinr0657</ToTranslate>
+  </String>
+  <String index="63">
+    <Origin>Rinrin$"That's what Rinrin's here for. I stand here proudly and say this!"@</Origin>
+    <ToTranslate>Ринрин$«Именно поэтому Ринрин здесь. Я гордо стою здесь и говорю это!»@</ToTranslate>
+  </String>
+  <String index="64">
+    <Origin>$She stood on the edge of the rampart and thrust her Viper Spear into the sky. Then she swung it around.@</Origin>
+    <ToTranslate>$Она стояла на краю вала, направив своё Копье Гадюки в небо. Затем она крутанула его.@</ToTranslate>
+  </String>
+  <String index="65">
+    <Origin>SE010</Origin>
+    <ToTranslate>SE010</ToTranslate>
+  </String>
+  <String index="66">
+    <Origin>tcg_cho61aa</Origin>
+    <ToTranslate>tcg_cho61aa</ToTranslate>
+  </String>
+  <String index="67">
+    <Origin>tcg_cho61m</Origin>
+    <ToTranslate>tcg_cho61m</ToTranslate>
+  </String>
+  <String index="68">
+    <Origin>rinr0658</Origin>
+    <ToTranslate>rinr0658</ToTranslate>
+  </String>
+  <String index="69">
+    <Origin>Rinrin$"Here stands Chouhi, warrior of Yan! Those who wish to become mist upon my spear, come at me!"@</Origin>
+    <ToTranslate>Ринрин$«Здесь находится Чёхи, Воин Ян! Те, кто хотят стать пылью на моём копье, подходите!»@</ToTranslate>
+  </String>
+  <String index="70">
+    <Origin>Kazuto$"!?"@</Origin>
+    <ToTranslate>Казуто$«!?»@</ToTranslate>
+  </String>
+  <String index="71">
+    <Origin>tcg_cho11aa</Origin>
+    <ToTranslate>tcg_cho11aa</ToTranslate>
+  </String>
+  <String index="72">
+    <Origin>tcg_cho11m</Origin>
+    <ToTranslate>tcg_cho11m</ToTranslate>
+  </String>
+  <String index="73">
+    <Origin>rinr0659</Origin>
+    <ToTranslate>rinr0659</ToTranslate>
+  </String>
+  <String index="74">
+    <Origin>Rinrin$"Hee, hee, what do you think? The Yellow Turbans will be shaken up. Don't you think I look cool?"@</Origin>
+    <ToTranslate>Ринрин$«Хе-хе, ну что? Жёлтые Повязки будут в ярости. Как считаешь, я классно выгляжу?»@</ToTranslate>
+  </String>
+  <String index="75">
+    <Origin>Kazuto$"......But before that, all the innocent civilians will scramble away."@</Origin>
+    <ToTranslate>Казуто$«Но сначала, все мирные жители сбегут отсюда.»@</ToTranslate>
+  </String>
+  <String index="76">
+    <Origin>tcg_cho21ja</Origin>
+    <ToTranslate>tcg_cho21ja</ToTranslate>
+  </String>
+  <String index="77">
+    <Origin>tcg_cho21m</Origin>
+    <ToTranslate>tcg_cho21m</ToTranslate>
+  </String>
+  <String index="78">
+    <Origin>hatena</Origin>
+    <ToTranslate>hatena</ToTranslate>
+  </String>
+  <String index="79">
+    <Origin>rinr0660</Origin>
+    <ToTranslate>rinr0660</ToTranslate>
+  </String>
+  <String index="80">
+    <Origin>Rinrin$"Hmmnyah?"@</Origin>
+    <ToTranslate>Ринрин$«Хммня?»@</ToTranslate>
+  </String>
+  <String index="81">
+    <Origin>$I couldn't believe she was able to stand right at the edge. I nervously peeked down from behind her and saw the people scattering away far below.@</Origin>
+    <ToTranslate>$Я не мог поверить, что она может стоять на самом краю. Я с опаской взглянул вниз, позади неё, и увидел расходящихся людей далеко внизу.@</ToTranslate>
+  </String>
+  <String index="82">
+    <Origin>Kazuto$"Anyway...... why don't you come down for now. What will you do if you fall?"@</Origin>
+    <ToTranslate>Казуто$«В любом случае... почему бы тебе не спуститься прямо сейчас. Что будет, если ты упадешь?»@</ToTranslate>
+  </String>
+  <String index="83">
+    <Origin>tcg_cho31ba</Origin>
+    <ToTranslate>tcg_cho31ba</ToTranslate>
+  </String>
+  <String index="84">
+    <Origin>tcg_cho31m</Origin>
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="85">
+    <Origin>rinr0661</Origin>
+    <ToTranslate>rinr0661</ToTranslate>
+  </String>
+  <String index="86">
+    <Origin>Rinrn$"Ah ha hah! Onii-chan, you're a Messenger from Heaven but you're afraid of heights?"@</Origin>
+    <ToTranslate>Ринрин$«Ахаха! Онии-тян, ты Посланник Небес, но при этом боишься высоты?»@</ToTranslate>
+  </String>
+  <String index="87">
+    <Origin>Kazuto$"Sorry. I'm scared of heights like most people."@</Origin>
+    <ToTranslate>Казуто$«Прости. Я боюсь высоты как и большинство людей.»@</ToTranslate>
+  </String>
+  <String index="88">
+    <Origin>tcg_cho31ia</Origin>
+    <ToTranslate>tcg_cho31ia</ToTranslate>
+  </String>
+  <String index="89">
+    <Origin>tcg_cho31m</Origin>
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="90">
+    <Origin>rinr0662</Origin>
+    <ToTranslate>rinr0662</ToTranslate>
+  </String>
+  <String index="91">
+    <Origin>Rinrin$"Nya ha ha, that's odd."@</Origin>
+    <ToTranslate>Ринрин$«Няхаха, это странно.»@</ToTranslate>
+  </String>
+  <String index="92">
+    <Origin>$That's odd?! There's no handrail, and nothing to hold onto. How can she stand at the edge of these ramparts with a smile?@</Origin>
+    <ToTranslate>$Странно?! Здесь нет поручней и не за что держаться. Как она может стоять с улыбкой на самом краю?@</ToTranslate>
+  </String>
+  <String index="93">
+    <Origin>$She's a cat. She has to be a cat or something stupid to like high places.@</Origin>
+    <ToTranslate>$Она кошка. Она несомненно кошка или кто-то достаточно бестолковый, чтобы любить высоту.@</ToTranslate>
+  </String>
+  <String index="94">
+    <Origin>tcg_cho21da</Origin>
+    <ToTranslate>tcg_cho21da</ToTranslate>
+  </String>
+  <String index="95">
+    <Origin>tcg_cho21m</Origin>
+    <ToTranslate>tcg_cho21m</ToTranslate>
+  </String>
+  <String index="96">
+    <Origin>rinr0663</Origin>
+    <ToTranslate>rinr0663</ToTranslate>
+  </String>
+  <String index="97">
+    <Origin>Rinrin$"Boo, Onii-chan, you're no fun."@</Origin>
+    <ToTranslate>Ринрин$"Буу, онии-тян, ты скучный."@</ToTranslate>
+  </String>
+  <String index="98">
+    <Origin>$This has nothing to do with fun! The image I got from historical novels of Chouhi Yokutoku, general with the strength of a thousand warriors, is completely different from this.@</Origin>
+    <ToTranslate>$Здесь нет ничего весёлого! Образ генерала Чёхи Юкитоку, сильного как тысячи воинов, создавшийся у меня в голове из исторических романов, совершенно отличался от того что я вижу перед собой.@</ToTranslate>
+  </String>
+  <String index="99">
+    <Origin>Kazuto$"She's a child...isn't she."@</Origin>
+    <ToTranslate>Казуто$«Она же ребенок... так ведь.»@</ToTranslate>
+  </String>
+  <String index="100">
+    <Origin>tcg_cho21da</Origin>
+    <ToTranslate>tcg_cho21da</ToTranslate>
+  </String>
+  <String index="101">
+    <Origin>tcg_cho21m</Origin>
+    <ToTranslate>tcg_cho21m</ToTranslate>
+  </String>
+  <String index="102">
+    <Origin>muka</Origin>
+    <ToTranslate>muka</ToTranslate>
+  </String>
+  <String index="103">
+    <Origin>rinr0664</Origin>
+    <ToTranslate>rinr0664</ToTranslate>
+  </String>
+  <String index="104">
+    <Origin>Rinrin$"Was that about Rinrin?! How rude!"@</Origin>
+    <ToTranslate>Ринрин$«Это ты о Ринрин?! Как грубо!»@</ToTranslate>
+  </String>
+  <String index="105">
+    <Origin>Kazuto$"What do you mean rude? Just look at yourself. You only reach up to my chest."@</Origin>
+    <ToTranslate>Казуто$«Что здесь грубого? Просто посмотри на себя. Твой рост дотягивает только до моей груди.»@</ToTranslate>
+  </String>
+  <String index="106">
+    <Origin>tcg_cho11ea</Origin>
+    <ToTranslate>tcg_cho11ea</ToTranslate>
+  </String>
+  <String index="107">
+    <Origin>tcg_cho11m</Origin>
+    <ToTranslate>tcg_cho11m</ToTranslate>
+  </String>
+  <String index="108">
+    <Origin>rinr0665</Origin>
+    <ToTranslate>rinr0665</ToTranslate>
+  </String>
+  <String index="109">
+    <Origin>Rinrin$"Rinrin may be small, but she's strong!"@</Origin>
+    <ToTranslate>Ринрин$«Ринрин может и маленькая, но сильная!»@</ToTranslate>
+  </String>
+  <String index="110">
+    <Origin>$Rinrin struggled as I tried to drag her down. I was surprised how thin her waist was when I wrapped my arms around her.@</Origin>
+    <ToTranslate>$Ринрин сопротивлялась, когда я пытался стащить её вниз. Я был удивлён, какой стройной была её талия, когда схватил её.@</ToTranslate>
+  </String>
+  <String index="111">
+    <Origin>tcg_cho21da</Origin>
+    <ToTranslate>tcg_cho21da</ToTranslate>
+  </String>
+  <String index="112">
+    <Origin>tcg_cho21m</Origin>
+    <ToTranslate>tcg_cho21m</ToTranslate>
+  </String>
+  <String index="113">
+    <Origin>rinr0666</Origin>
+    <ToTranslate>rinr0666</ToTranslate>
+  </String>
+  <String index="114">
+    <Origin>Rinrin$"I won't lose to any grownup either! Ah, no, I mean, Rinrin's a grownup too!!"@</Origin>
+    <ToTranslate>Ринрин$«Я не проиграю никому из взрослых! А, нет, Я имела в виду, что Ринрин тоже уже взрослая!»@</ToTranslate>
+  </String>
+  <String index="115">
+    <Origin>$I felt certain that she talked just like a child...@</Origin>
+    <ToTranslate>$Я был уверен,  что она говорила как ребёнок...@</ToTranslate>
+  </String>
+  <String index="116">
+    <Origin>Kazuto$"Aren't you pushing yourself too hard? Even when you're in a battle..."@</Origin>
+    <ToTranslate>Казуто$«Не слишком ли ты давишь на себя? Даже когда ты сражаешься...»@</ToTranslate>
+  </String>
+  <String index="117">
+    <Origin>tcg_cho31ja</Origin>
+    <ToTranslate>tcg_cho31ja</ToTranslate>
+  </String>
+  <String index="118">
+    <Origin>tcg_cho31m</Origin>
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="119">
+    <Origin>rinr0667</Origin>
+    <ToTranslate>rinr0667</ToTranslate>
+  </String>
+  <String index="120">
+    <Origin>Rinrin$"Mnyah? What about pushing too hard?"@</Origin>
+    <ToTranslate>Ринрин$«Мня? О чём ты?»@</ToTranslate>
+  </String>
+  <String index="121">
+    <Origin>Kazuto$"Rinrin, you're pushing yourself too hard! That's why... even though you're fighting in battle, you're scared and want to run away, don't you?"@</Origin>
+    <ToTranslate>Казуто$«Ринрин, ты слишком давишь на себя! Вот почему... даже если ты сражаешься в битве, тебе страшно и хочется убежать, не так ли?»@</ToTranslate>
+  </String>
+  <String index="122">
+    <Origin>SE010</Origin>
+    <ToTranslate>SE010</ToTranslate>
+  </String>
+  <String index="123">
+    <Origin>tcg_cho61aa</Origin>
+    <ToTranslate>tcg_cho61aa</ToTranslate>
+  </String>
+  <String index="124">
+    <Origin>tcg_cho61m</Origin>
+    <ToTranslate>tcg_cho61m</ToTranslate>
+  </String>
+  <String index="125">
+    <Origin>rinr0668</Origin>
+    <ToTranslate>rinr0668</ToTranslate>
+  </String>
+  <String index="126">
+    <Origin>Rinrin$"Not one bit!"@</Origin>
+    <ToTranslate>Ринрин$«Не правда!»@</ToTranslate>
+  </String>
+  <String index="127">
+    <Origin>Kazuto$"I'm dead!?"@</Origin>
+    <ToTranslate>Казуто$«Я умру!?»@</ToTranslate>
+  </String>
+  <String index="128">
+    <Origin>$I jumped back far to dodge the blow from Rinrin's Viper Spear. She moved like a cat, bounding straight onto the edge of the rampart where she stood proud and tall.@</Origin>
+    <ToTranslate>$Я отпрыгнул далеко назад, чтобы увернуться от копья Ринрин. Она двигалась как кошка, находясь на краю вала, где она высоко и величественно стояла до этого.@</ToTranslate>
+  </String>
+  <String index="129">
+    <Origin>tcg_cho11aa</Origin>
+    <ToTranslate>tcg_cho11aa</ToTranslate>
+  </String>
+  <String index="130">
+    <Origin>tcg_cho11m</Origin>
+    <ToTranslate>tcg_cho11m</ToTranslate>
+  </String>
+  <String index="131">
+    <Origin>rinr0669</Origin>
+    <ToTranslate>rinr0669</ToTranslate>
+  </String>
+  <String index="132">
+    <Origin>Rinrin$"Rinrin's a grownup and strong! Strong people have responsibilities. Responsibilities mean you're a grown up!"@</Origin>
+    <ToTranslate>Ринрин$«Ринрин взрослая и сильная! У сильный людей есть обязанности. Обязанности означают, что ты уже взрослый!»@</ToTranslate>
+  </String>
+  <String index="133">
+    <Origin>Kazuto$"Huh.....?"@</Origin>
+    <ToTranslate>Казуту$«Что?»@</ToTranslate>
+  </String>
+  <String index="134">
+    <Origin>tcg_cho31ba</Origin>
+    <ToTranslate>tcg_cho31ba</ToTranslate>
+  </String>
+  <String index="135">
+    <Origin>tcg_cho31m</Origin>
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="136">
+    <Origin>rinr0670</Origin>
+    <ToTranslate>rinr0670</ToTranslate>
+  </String>
+  <String index="137">
+    <Origin>Rinrin$"That's what Aisha said. Strong people like me and Aisha have to help weak people."@</Origin>
+    <ToTranslate>Ринрин$«Айша так сказала. Такие сильные люди, как я и Айша, должны помогать слабым.»@</ToTranslate>
+  </String>
+  <String index="138">
+    <Origin>Kazuto$"......Ah, yeah, that's a very splendid way of thinking."@</Origin>
+    <ToTranslate>Казуто$«Ах да, это замечательный образ мышления.»@</ToTranslate>
+  </String>
+  <String index="139">
+    <Origin>$I couldn't reply with a smile. What she said...wasn't right for an innocent child. It sounded like self-sacrifice.@</Origin>
+    <ToTranslate>$Я не мог ответить улыбкой. То, что она сказала... неправильно для невинного ребёнка. Это звучало как самопожертвование.@</ToTranslate>
+  </String>
+  <String index="140">
+    <Origin>tcg_cho11aa</Origin>
+    <ToTranslate>tcg_cho11aa</ToTranslate>
+  </String>
+  <String index="141">
+    <Origin>tcg_cho11m</Origin>
+    <ToTranslate>tcg_cho11m</ToTranslate>
+  </String>
+  <String index="142">
+    <Origin>rinr0671</Origin>
+    <ToTranslate>rinr0671</ToTranslate>
+  </String>
+  <String index="143">
+    <Origin>Rinrin$"I'm not doing it unwillingly though, just so you know. I want to help weak people, and that's why I'm with Aisha!"@</Origin>
+    <ToTranslate>Ринрин$«Я не делаю этого с неохотой, хотя ты так считаешь. Я хочу помогать слабым людям, и, поэтому, я помогаю Айше!»@</ToTranslate>
+  </String>
+  <String index="144">
+    <Origin>Kazuto$"H-hey...I understand, so please don't go wild on the rampart. You'll fall?!"@</Origin>
+    <ToTranslate>Казуто$«Э-эй...Я понимаю, поэтому не сходи с ума. Ты же упадешь?!"@</ToTranslate>
+  </String>
+  <String index="145">
+    <Origin>tcg_cho11ca</Origin>
+    <ToTranslate>tcg_cho11ca</ToTranslate>
+  </String>
+  <String index="146">
+    <Origin>tcg_cho11m</Origin>
+    <ToTranslate>tcg_cho11m</ToTranslate>
+  </String>
+  <String index="147">
+    <Origin>rinr0672</Origin>
+    <ToTranslate>rinr0672</ToTranslate>
+  </String>
+  <String index="148">
+    <Origin>Rinrin$"Strong people are strong so they can protect the weak. That's why Aisha and Rinrin have to teach those bad guys who don't understand that a lesson!!"@</Origin>
+    <ToTranslate>Ринрин$«Сильные люди сильны, и поэтому они могут защищать слабых . Вот почему Айша и Ринрин должны преподать тем плохим парням хороший урок!!»@</ToTranslate>
+  </String>
+  <String index="149">
+    <Origin>$Her eyes were so sincere my heart wavered...@</Origin>
+    <ToTranslate>$Её взгляд был таким искренним, что моё сердце дрогнуло...@</ToTranslate>
+  </String>
+  <String index="150">
+    <Origin>tcg_cho31ba</Origin>
+    <ToTranslate>tcg_cho31ba</ToTranslate>
+  </String>
+  <String index="151">
+    <Origin>tcg_cho31m</Origin>
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="152">
+    <Origin>rinr0673</Origin>
+    <ToTranslate>rinr0673</ToTranslate>
+  </String>
+  <String index="153">
+    <Origin>Rinrin$"I'll knock out the Yellow Turbans, and when the world is peaceful, we can live happily ever after, right?"@</Origin>
+    <ToTranslate>Ринрин$«Я одолею Жёлтых повязок, и, когда установится мир, мы сможем жить счастливо, правда?»@</ToTranslate>
+  </String>
+  <String index="154">
+    <Origin>Kazuto$"Yeah...... I guess."@</Origin>
+    <ToTranslate>Казуто$«Я думаю… да.»@</ToTranslate>
+  </String>
+  <String index="155">
+    <Origin>tcg_cho11aa</Origin>
+    <ToTranslate>tcg_cho11aa</ToTranslate>
+  </String>
+  <String index="156">
+    <Origin>tcg_cho11m</Origin>
+    <ToTranslate>tcg_cho11m</ToTranslate>
+  </String>
+  <String index="157">
+    <Origin>rinr0674</Origin>
+    <ToTranslate>rinr0674</ToTranslate>
+  </String>
+  <String index="158">
+    <Origin>Rinrin$"And then there will be a happy ending! When everyone can smile, then Rinrin can be happy too!"@</Origin>
+    <ToTranslate>Ринрин$«И всё закончится хорошо! Когда все смогут улыбаться, Ринрин тоже сможет быть счастливой!»@</ToTranslate>
+  </String>
+  <String index="159">
+    <Origin>Kazuto$"Rinrin......"@</Origin>
+    <ToTranslate>Казуто$«Ринрин...»@</ToTranslate>
+  </String>
+  <String index="160">
+    <Origin>tcg_cho11ca</Origin>
+    <ToTranslate>tcg_cho11ca</ToTranslate>
+  </String>
+  <String index="161">
+    <Origin>tcg_cho11m</Origin>
+    <ToTranslate>tcg_cho11m</ToTranslate>
+  </String>
+  <String index="162">
+    <Origin>rinr0675</Origin>
+    <ToTranslate>rinr0675</ToTranslate>
+  </String>
+  <String index="163">
+    <Origin>Rinrin$"That's why Rinrin will never lose her nerve! Rinrin's flames of justice are always burning!"@</Origin>
+    <ToTranslate>Ринрин$«Вот почему Ринрин никогда не испугается! Пламя справедливости Ринрин будет вечно пылать!"@</ToTranslate>
+  </String>
+  <String index="164">
+    <Origin>$Her eyes were blazing as she made that declaration. I think......I'll quickly need to discard my impression of her as a child.@</Origin>
+    <ToTranslate>$Её глаза горели, когда она говорила это. Я думаю... Мне стоит поскорее прекратить считать её ребёнком.@</ToTranslate>
+  </String>
+  <String index="165">
+    <Origin>Kazuto$"I see...... you are amazing and very strong."@</Origin>
+    <ToTranslate>Казуто$"Я вижу... Ты великолепна и очень сильна."@</ToTranslate>
+  </String>
+  <String index="166">
+    <Origin>tcg_cho31ga</Origin>
+    <ToTranslate>tcg_cho31ga</ToTranslate>
+  </String>
+  <String index="167">
+    <Origin>tcg_cho31m</Origin>
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="168">
+    <Origin>rinr0676</Origin>
+    <ToTranslate>rinr0676</ToTranslate>
+  </String>
+  <String index="169">
+    <Origin>Rinrin$"Ah...Eh-heh-heh, You're just now noticing that? Slow."@</Origin>
+    <ToTranslate>Ринрин$«Ах... Хехехе, Ты только сейчас заметил это? Тормоз.»@</ToTranslate>
+  </String>
+  <String index="170">
+    <Origin>$When I rubbed her head, her eyes narrowed in an innocent smile.@</Origin>
+    <ToTranslate>$Когда я потрепал её по голове, ее лицо расплылось в невинной улыбке.@</ToTranslate>
+  </String>
+  <String index="171">
+    <Origin>Kazuto$"But, I think when you're scared, you should be allowed to feel scared. You don't need to make yourself look strong."@</Origin>
+    <ToTranslate>Казуто$«Но, мне кажется, что когда тебе страшно, ты должна бояться. Ты не должна заставлять себя выглядеть сильной.»@</ToTranslate>
+  </String>
+  <String index="172">
+    <Origin>tcg_cho21da</Origin>
+    <ToTranslate>tcg_cho21da</ToTranslate>
+  </String>
+  <String index="173">
+    <Origin>tcg_cho21m</Origin>
+    <ToTranslate>tcg_cho21m</ToTranslate>
+  </String>
+  <String index="174">
+    <Origin>rinr0677</Origin>
+    <ToTranslate>rinr0677</ToTranslate>
+  </String>
+  <String index="175">
+    <Origin>Rinrin$"Rinrin's strong, so she's never scared!"@</Origin>
+    <ToTranslate>Ринрин$«Ринрин сильная, поэтому она никогда не испугается!»@</ToTranslate>
+  </String>
+  <String index="176">
+    <Origin>Kazuto$"...You might die, though."@</Origin>
+    <ToTranslate>Казуто$«Но ты тоже можешь погибнуть.»@</ToTranslate>
+  </String>
+  <String index="177">
+    <Origin>tcg_cho31ia</Origin>
+    <ToTranslate>tcg_cho31ia</ToTranslate>
+  </String>
+  <String index="178">
+    <Origin>tcg_cho31m</Origin>
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="179">
+    <Origin>rinr0678</Origin>
+    <ToTranslate>rinr0678</ToTranslate>
+  </String>
+  <String index="180">
+    <Origin>Rinrin$"No, I won't! Because Rinrin's strong!"@</Origin>
+    <ToTranslate>Ринрин$«Нет, не могу! Потому что Ринрин сильная!»@</ToTranslate>
+  </String>
+  <String index="181">
+    <Origin>$What I found surprisingly strong was not her body, but her heart. I finally realized the even though she looked young, Rinrin was fighting with firm conviction.@</Origin>
+    <ToTranslate>$ Я с удивлением обнаружил, что сильным было не её тело, а сердце. И, наконец, осознал, что, хотя Ринрин и выглядит молодой, ей уже приходилось сражаться за свои убеждения @</ToTranslate>
+  </String>
+  <String index="182">
+    <Origin>$But when I see her smile like this, she's so innocent. I'm confused.@</Origin>
+    <ToTranslate>$Но когда я вижу её улыбку, она так невинна. Я смущен.@</ToTranslate>
+  </String>
+  <String index="183">
+    <Origin>tcg_cho21ia</Origin>
+    <ToTranslate>tcg_cho21ia</ToTranslate>
+  </String>
+  <String index="184">
+    <Origin>tcg_cho21m</Origin>
+    <ToTranslate>tcg_cho21m</ToTranslate>
+  </String>
+  <String index="185">
+    <Origin>rinr0679</Origin>
+    <ToTranslate>rinr0679</ToTranslate>
+  </String>
+  <String index="186">
+    <Origin>Rinrin$"Rinrin has sharp wits! I can tell that you're afraid of battle, aren't you, Onii-chan?"@</Origin>
+    <ToTranslate>Ринрин$«У Ринрин острый ум! Я могу сказать, что ты боишься сражаться, не так ли, Онии-тян?»@</ToTranslate>
+  </String>
+  <String index="187">
+    <Origin>Kazuto$"Sure...... of course."@</Origin>
+    <ToTranslate>Казуто$«Да... ты права.»@</ToTranslate>
+  </String>
+  <String index="188">
+    <Origin>tcg_cho31ba</Origin>
+    <ToTranslate>tcg_cho31ba</ToTranslate>
+  </String>
+  <String index="189">
+    <Origin>tcg_cho31m</Origin>
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="190">
+    <Origin>rinr0680</Origin>
+    <ToTranslate>rinr0680</ToTranslate>
+  </String>
+  <String index="191">
+    <Origin>Rinrin$"You're afraid of many things. That's funny."@</Origin>
+    <ToTranslate>Ринрин$«Ты многого боишься. Это забавно.»@</ToTranslate>
+  </String>
+  <String index="192">
+    <Origin>Kazuto$"It's normal to be afraid of many things!"@</Origin>
+    <ToTranslate>Казуто$«Бояться многих вещей нормально!»@</ToTranslate>
+  </String>
+  <String index="193">
+    <Origin>$I didn't know how to begin understanding this girl. I could tell that even my voice sounded perplexed.@</Origin>
+    <ToTranslate>$Я не знал, как мне начать понимать эту  девочку. Я мог сказать, что даже мой голос звучал неуверенно.@</ToTranslate>
+  </String>
+  <String index="194">
+    <Origin>Kazuto$"You're the funny one. You shouldn't take life and death so lightly."@</Origin>
+    <ToTranslate>Казуто$«Ты смешная. Тебе не следует воспринимать жизнь и смерть так легко.»@</ToTranslate>
+  </String>
+  <String index="195">
+    <Origin>tcg_cho11aa</Origin>
+    <ToTranslate>tcg_cho11aa</ToTranslate>
+  </String>
+  <String index="196">
+    <Origin>tcg_cho11m</Origin>
+    <ToTranslate>tcg_cho11m</ToTranslate>
+  </String>
+  <String index="197">
+    <Origin>rinr0681</Origin>
+    <ToTranslate>rinr0681</ToTranslate>
+  </String>
+  <String index="198">
+    <Origin>Rinrin$"Don't worry, you'll be alright! You won't die, Onii-chan!"@</Origin>
+    <ToTranslate>Ринрин$«Не беспокойся, всё будет хорошо! Ты не умрёшь, Онии-тян!»@ </ToTranslate>
+  </String>
+  <String index="199">
+    <Origin>$Rinrin came down from the rampart and ran up to me, patting me on the back. She was trying to encourage me with her proud smile.@</Origin>
+    <ToTranslate>$Ринрин спустилась с вала, подошла ко мне и похлопала меня по спине. Своей великолепной улыбкой она попыталась поддержать меня.@</ToTranslate>
+  </String>
+  <String index="200">
+    <Origin>tcg_cho31ba</Origin>
+    <ToTranslate>tcg_cho31ba</ToTranslate>
+  </String>
+  <String index="201">
+    <Origin>tcg_cho31m</Origin>
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="202">
+    <Origin>rinr0681b</Origin>
+    <ToTranslate>rinr0681b</ToTranslate>
+  </String>
+  <String index="203">
+    <Origin>rinr0681b</Origin>
+    <ToTranslate>rinr0681b</ToTranslate>
+  </String>
+  <String index="204">
+    <Origin>Rinrin$"Rinrin will do her best to protect you! Aisha and me both, so see, you're safe."@</Origin>
+    <ToTranslate>Ринрин$«Ринрин сделает всё, чтобы защитить тебя! Мы с Айшей сделаем это, так что ты в безопасности.»@</ToTranslate>
+  </String>
+  <String index="205">
+    <Origin>Kazuto$"......Yeah, you're right. I'll do my best so you don't have to work so hard."@</Origin>
+    <ToTranslate>Казуто$«Да, ты права. Я сделаю все возможное, чтобы тебе не пришлось так стараться.»@</ToTranslate>
+  </String>
+  <String index="206">
+    <Origin>$Rinrin's carefree mood brought a smile to my face. She was a very mysterious girl. ...I didn't know she had that power.@</Origin>
+    <ToTranslate>$Беспечность Ринрин заставила меня улыбнуться. Она очень загадочная девушка. Я и не знал что у неё есть эта сила.@</ToTranslate>
+  </String>
+  <String index="207">
+    <Origin>$The power to make everyone smile with her innocence and cheerfulness.@</Origin>
+    <ToTranslate>$Сила, способная заставить всех улыбаться, вместе с её невинностью и жизнерадостностью.@</ToTranslate>
+  </String>
+  <String index="208">
+    <Origin>$......That proves her immaturity.@</Origin>
+    <ToTranslate>$Это доказывает то, что она ещё ребенок.@</ToTranslate>
+  </String>
+  <String index="209">
+    <Origin>$That's what makes me worry about her, what makes me want to protect her.@</Origin>
+    <ToTranslate>$Поэтому я беспокоюсь о ней и хочу защитить её.@</ToTranslate>
+  </String>
+  <String index="210">
+    <Origin>tcg_cho11aa</Origin>
+    <ToTranslate>tcg_cho11aa</ToTranslate>
+  </String>
+  <String index="211">
+    <Origin>tcg_cho11m</Origin>
+    <ToTranslate>tcg_cho11m</ToTranslate>
+  </String>
+  <String index="212">
+    <Origin>rinr0682</Origin>
+    <ToTranslate>rinr0682</ToTranslate>
+  </String>
+  <String index="213">
+    <Origin>Rinrin$"Okay, see you later. Rinrin's going back to being a watchman!"@</Origin>
+    <ToTranslate>Ринрин$«Хорошо, увидимся. Ринрин возвращается на наблюдательный пост!"@</ToTranslate>
+  </String>
+  <String index="214">
+    <Origin>Kazuto$"Sure, see you later."@</Origin>
+    <ToTranslate>Казуто$"Конечно, пока."@</ToTranslate>
+  </String>
+  <String index="215">
+    <Origin>SE027</Origin>
+    <ToTranslate>SE027</ToTranslate>
+  </String>
+  <String index="216">
+    <Origin>$Maybe I'm being presumptuous. If you compare our strength, I wouldn't even measure up to her feet.@</Origin>
+    <ToTranslate>$Наверное, я был слишком самонадеян. Если сравнивать наши силы, я не достиг бы даже уровня её ног.@</ToTranslate>
+  </String>
+  <String index="217">
+    <Origin>_MsgBoxMain_Off</Origin>
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="218">
+    <Origin>kyara_kesi</Origin>
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="219">
+    <Origin>bg_black</Origin>
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+</DBS>
+</poem>

@@ -1,0 +1,75 @@
+<poem>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<DBS>
+  <String index="0">
+    <Origin>�Kan&apos;u unleashes her Ougi!@</Origin>
+    <ToTranslate>�Kan&apos;u unleashes her Ougi!@</ToTranslate>
+  </String>
+  <String index="1">
+    <Origin>_btl_WazaP_efc</Origin>
+    <ToTranslate>_btl_WazaP_efc</ToTranslate>
+  </String>
+  <String index="2">
+    <Origin>�Chouhi unleashes her Ougi!@</Origin>
+    <ToTranslate>�Chouhi unleashes her Ougi!@</ToTranslate>
+  </String>
+  <String index="3">
+    <Origin>_btl_WazaP_efc</Origin>
+    <ToTranslate>_btl_WazaP_efc</ToTranslate>
+  </String>
+  <String index="4">
+    <Origin>�Bachou unleashes her Ougi!@</Origin>
+    <ToTranslate>�Bachou unleashes her Ougi!@</ToTranslate>
+  </String>
+  <String index="5">
+    <Origin>_btl_WazaP_efc</Origin>
+    <ToTranslate>_btl_WazaP_efc</ToTranslate>
+  </String>
+  <String index="6">
+    <Origin>Your troops&apos; morale has soared!@</Origin>
+    <ToTranslate>Your troops&apos; morale has soared!@</ToTranslate>
+  </String>
+  <String index="7">
+    <Origin>Her Viper Spear mows down the enemy troops!�$</Origin>
+    <ToTranslate>Her Viper Spear mows down the enemy troops!�$</ToTranslate>
+  </String>
+  <String index="8">
+    <Origin>�‡</Origin>
+    <ToTranslate>�‡</ToTranslate>
+  </String>
+  <String index="9">
+    <Origin>_btl_CreateStatusStrB</Origin>
+    <ToTranslate>_btl_CreateStatusStrB</ToTranslate>
+  </String>
+  <String index="10">
+    <Origin>���</Origin>
+    <ToTranslate>���</ToTranslate>
+  </String>
+  <String index="11">
+    <Origin>_btl_Troops_GrpChange</Origin>
+    <ToTranslate>_btl_Troops_GrpChange</ToTranslate>
+  </String>
+  <String index="12">
+    <Origin>The dance of her silver blade rips the enemy to shreds!�$</Origin>
+    <ToTranslate>The dance of her silver blade rips the enemy to shreds!�$</ToTranslate>
+  </String>
+  <String index="13">
+    <Origin>�‡</Origin>
+    <ToTranslate>�‡</ToTranslate>
+  </String>
+  <String index="14">
+    <Origin>_btl_CreateStatusStrB</Origin>
+    <ToTranslate>_btl_CreateStatusStrB</ToTranslate>
+  </String>
+  <String index="15">
+    <Origin>���</Origin>
+    <ToTranslate>���</ToTranslate>
+  </String>
+  <String index="16">
+    <Origin>_btl_Troops_GrpChange</Origin>
+    <ToTranslate>_btl_Troops_GrpChange</ToTranslate>
+  </String>
+</DBS>
+
+</poem>

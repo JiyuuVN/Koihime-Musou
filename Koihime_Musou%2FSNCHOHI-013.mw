@@ -1,0 +1,749 @@
+<poem>
+<?xml version="1.0" encoding="UTF-8"?>
+<DBS>
+  <String index="0">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="1">
+    <ToTranslate>bcg_castcorrid_a</ToTranslate>
+  </String>
+  <String index="2">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="3">
+    <ToTranslate>bgm02</ToTranslate>
+  </String>
+  <String index="4">
+    <ToTranslate>$I felt bad for thinking it, but I was starting to prefer riding out on the battlefield. Days when I could run outside screaming were getting more rare.@</ToTranslate>
+  </String>
+  <String index="5">
+    <ToTranslate>$I actually want to run outside and scream once in awhile. The days I&apos;ve been spending lately made me feel that way.@</ToTranslate>
+  </String>
+  <String index="6">
+    <ToTranslate>$Days passed by in an instant... I was spending so many of them locked at my desk, taking care of business.@</ToTranslate>
+  </String>
+  <String index="7">
+    <ToTranslate>$The territory we were controlling was getting too large for me to handle.@</ToTranslate>
+  </String>
+  <String index="8">
+    <ToTranslate>$... though, really, handling it was Shuri and Aisha&apos;s job.@</ToTranslate>
+  </String>
+  <String index="9">
+    <ToTranslate>$I plodded down the long hallway, rubbing my aching shoulder. I was headed for Shuri&apos;s room.@</ToTranslate>
+  </String>
+  <String index="10">
+    <ToTranslate>$She was probably going through her usual business. Aisha had given me a recruitment plan that I needed to check with her.@</ToTranslate>
+  </String>
+  <String index="11">
+    <ToTranslate>$It seemed like the opposite of how things should be, but... I didn&apos;t think about it too hard.@</ToTranslate>
+  </String>
+  <String index="12">
+    <ToTranslate>Kazuto$&quot;She&apos;s like a little Prince Shotoku.&quot;@</ToTranslate>
+  </String>
+  <String index="13">
+    <ToTranslate>$The image of Shuri devoting herself tirelessly to government affairs made my back itch. I admired her, but I didn&apos;t want to be like her.@</ToTranslate>
+  </String>
+  <String index="14">
+    <ToTranslate>$She really was a reliable strategist. I wondered if I should just turn all the political stuff over to her.@</ToTranslate>
+  </String>
+  <String index="15">
+    <ToTranslate>$That would make things so much easier. The days would feel a lot longer.@</ToTranslate>
+  </String>
+  <String index="16">
+    <ToTranslate>rinr1379</ToTranslate>
+  </String>
+  <String index="17">
+    <ToTranslate>Rinrin$&quot;Nooo! Rinrin&apos;s gotta patrol the fortress!&quot;@</ToTranslate>
+  </String>
+  <String index="18">
+    <ToTranslate>$The loud voice interrupted my thoughts. I was prepared to defend myself, when I realized there was no one around.@</ToTranslate>
+  </String>
+  <String index="19">
+    <ToTranslate>$Could it have come from outside? I leaned over to look out the window into the courtyard...@</ToTranslate>
+  </String>
+  <String index="20">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="21">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="22">
+    <ToTranslate>cc</ToTranslate>
+  </String>
+  <String index="23">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="24">
+    <ToTranslate>cc</ToTranslate>
+  </String>
+  <String index="25">
+    <ToTranslate>bcg_castgurden_a</ToTranslate>
+  </String>
+  <String index="26">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="27">
+    <ToTranslate>bgm26</ToTranslate>
+  </String>
+  <String index="28">
+    <ToTranslate>tcg_rr11aa</ToTranslate>
+  </String>
+  <String index="29">
+    <ToTranslate>tcg_rr11m</ToTranslate>
+  </String>
+  <String index="30">
+    <ToTranslate>riri0073</ToTranslate>
+  </String>
+  <String index="31">
+    <ToTranslate>Riri$&quot;Then Riri will help out! Come on, two can do a job quicker than one!&quot;@</ToTranslate>
+  </String>
+  <String index="32">
+    <ToTranslate>tcg_cho31ga</ToTranslate>
+  </String>
+  <String index="33">
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="34">
+    <ToTranslate>rinr1380</ToTranslate>
+  </String>
+  <String index="35">
+    <ToTranslate>Rinrin$&quot;You aren&apos;t a general, so it won&apos;t be a patrol, it&apos;ll be a walk for you.&quot;@</ToTranslate>
+  </String>
+  <String index="36">
+    <ToTranslate>tcg_rr11ga</ToTranslate>
+  </String>
+  <String index="37">
+    <ToTranslate>tcg_rr11m2</ToTranslate>
+  </String>
+  <String index="38">
+    <ToTranslate>riri0074</ToTranslate>
+  </String>
+  <String index="39">
+    <ToTranslate>Riri$&quot;If I&apos;m with a general, it&apos;ll be a patrol.&quot;@</ToTranslate>
+  </String>
+  <String index="40">
+    <ToTranslate>tcg_cho21da</ToTranslate>
+  </String>
+  <String index="41">
+    <ToTranslate>tcg_cho21m</ToTranslate>
+  </String>
+  <String index="42">
+    <ToTranslate>rinr1381</ToTranslate>
+  </String>
+  <String index="43">
+    <ToTranslate>Rinrin$&quot;Nyah, you&apos;re not Rinrin&apos;s lieutenant!&quot;@</ToTranslate>
+  </String>
+  <String index="44">
+    <ToTranslate>tcg_rr11ba</ToTranslate>
+  </String>
+  <String index="45">
+    <ToTranslate>tcg_rr11m</ToTranslate>
+  </String>
+  <String index="46">
+    <ToTranslate>riri0075</ToTranslate>
+  </String>
+  <String index="47">
+    <ToTranslate>Riri$&quot;I can be one for a little while! How do you like that, my general!?&quot;@</ToTranslate>
+  </String>
+  <String index="48">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="49">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="50">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="51">
+    <ToTranslate>bcg_castcorrid_a</ToTranslate>
+  </String>
+  <String index="52">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="53">
+    <ToTranslate>$I could tell Rinrin just couldn&apos;t say no, and I sympathized. I would do the same thing in her position.@</ToTranslate>
+  </String>
+  <String index="54">
+    <ToTranslate>$Maybe she&apos;d know how I felt when she came knocking while I was at work!@</ToTranslate>
+  </String>
+  <String index="55">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="56">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="57">
+    <ToTranslate>cc</ToTranslate>
+  </String>
+  <String index="58">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="59">
+    <ToTranslate>cc</ToTranslate>
+  </String>
+  <String index="60">
+    <ToTranslate>bcg_castgurden_a</ToTranslate>
+  </String>
+  <String index="61">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="62">
+    <ToTranslate>tcg_cho31ga</ToTranslate>
+  </String>
+  <String index="63">
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="64">
+    <ToTranslate>rinr1382</ToTranslate>
+  </String>
+  <String index="65">
+    <ToTranslate>Rinrin$&quot;Oh well... if Aisha sees us, you need to tell her that you&apos;re working with me, okay?&quot;@</ToTranslate>
+  </String>
+  <String index="66">
+    <ToTranslate>tcg_rr11ba</ToTranslate>
+  </String>
+  <String index="67">
+    <ToTranslate>tcg_rr11m</ToTranslate>
+  </String>
+  <String index="68">
+    <ToTranslate>onpu</ToTranslate>
+  </String>
+  <String index="69">
+    <ToTranslate>riri0076</ToTranslate>
+  </String>
+  <String index="70">
+    <ToTranslate>Riri$&quot;Sure! Thanks, Onee-chan.&quot;@</ToTranslate>
+  </String>
+  <String index="71">
+    <ToTranslate>tcg_cho31ba</ToTranslate>
+  </String>
+  <String index="72">
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="73">
+    <ToTranslate>rinr1383</ToTranslate>
+  </String>
+  <String index="74">
+    <ToTranslate>Rinrin$&quot;Call me General!&quot;@</ToTranslate>
+  </String>
+  <String index="75">
+    <ToTranslate>$They had a deal. Riri-chan jumped onto Rinrin gleefully. Rinrin hugged her and rubbed her head.@</ToTranslate>
+  </String>
+  <String index="76">
+    <ToTranslate>$They really were close. Shion must have been pleased.@</ToTranslate>
+  </String>
+  <String index="77">
+    <ToTranslate>tcg_cho11aa</ToTranslate>
+  </String>
+  <String index="78">
+    <ToTranslate>tcg_cho11m</ToTranslate>
+  </String>
+  <String index="79">
+    <ToTranslate>rinr1384</ToTranslate>
+  </String>
+  <String index="80">
+    <ToTranslate>Rinrin$&quot;You&apos;re my comrade Shion&apos;s daughter, so Rinrin will give you a pass. But that means you gotta listen to me, okay?&quot;@</ToTranslate>
+  </String>
+  <String index="81">
+    <ToTranslate>tcg_rr11aa</ToTranslate>
+  </String>
+  <String index="82">
+    <ToTranslate>tcg_rr11m</ToTranslate>
+  </String>
+  <String index="83">
+    <ToTranslate>riri0077</ToTranslate>
+  </String>
+  <String index="84">
+    <ToTranslate>Riri$&quot;Okay.&quot;@</ToTranslate>
+  </String>
+  <String index="85">
+    <ToTranslate>$Generally, everyone else treated Rinrin like a child... she was reveling in her chance to play the big sister.@</ToTranslate>
+  </String>
+  <String index="86">
+    <ToTranslate>tcg_rr11fa</ToTranslate>
+  </String>
+  <String index="87">
+    <ToTranslate>tcg_rr11m</ToTranslate>
+  </String>
+  <String index="88">
+    <ToTranslate>riri0078</ToTranslate>
+  </String>
+  <String index="89">
+    <ToTranslate>Riri$&quot;So? What kind of job are we doing today? We better hurry or someone might see us and think we&apos;re just playing.&quot;@</ToTranslate>
+  </String>
+  <String index="90">
+    <ToTranslate>$Actually, it looked like Riri-chan was the one in control.@</ToTranslate>
+  </String>
+  <String index="91">
+    <ToTranslate>tcg_cho41ha</ToTranslate>
+  </String>
+  <String index="92">
+    <ToTranslate>tcg_cho41m</ToTranslate>
+  </String>
+  <String index="93">
+    <ToTranslate>rinr1385</ToTranslate>
+  </String>
+  <String index="94">
+    <ToTranslate>Rinrin$&quot;Oh no! If they thought Rinrin was playing, then Onii-chan would make his sad face.&quot;@</ToTranslate>
+  </String>
+  <String index="95">
+    <ToTranslate>tcg_rr11ba</ToTranslate>
+  </String>
+  <String index="96">
+    <ToTranslate>tcg_rr11m</ToTranslate>
+  </String>
+  <String index="97">
+    <ToTranslate>riri0079</ToTranslate>
+  </String>
+  <String index="98">
+    <ToTranslate>Riri$&quot;Hee-hee-hee.&quot;@</ToTranslate>
+  </String>
+  <String index="99">
+    <ToTranslate>tcg_cho11ca</ToTranslate>
+  </String>
+  <String index="100">
+    <ToTranslate>tcg_cho11m</ToTranslate>
+  </String>
+  <String index="101">
+    <ToTranslate>rinr1386</ToTranslate>
+  </String>
+  <String index="102">
+    <ToTranslate>Rinrin$&quot;Hey, Rinrin&apos;s being serious now!&quot;@</ToTranslate>
+  </String>
+  <String index="103">
+    <ToTranslate>tcg_rr11aa</ToTranslate>
+  </String>
+  <String index="104">
+    <ToTranslate>tcg_rr11m</ToTranslate>
+  </String>
+  <String index="105">
+    <ToTranslate>riri0080</ToTranslate>
+  </String>
+  <String index="106">
+    <ToTranslate>Riri$&quot;It&apos;s just, you always talk about My Lord, Onee-chan.&quot;@</ToTranslate>
+  </String>
+  <String index="107">
+    <ToTranslate>tcg_cho41na</ToTranslate>
+  </String>
+  <String index="108">
+    <ToTranslate>tcg_cho41m</ToTranslate>
+  </String>
+  <String index="109">
+    <ToTranslate>rinr1387</ToTranslate>
+  </String>
+  <String index="110">
+    <ToTranslate>Rinrin$&quot;Nyah!? That&apos;s just &apos;cause Onii-chan is Rinrin&apos;s boss and he&apos;s the Grand Administrator. It&apos;s not weird or anything!&quot;@</ToTranslate>
+  </String>
+  <String index="111">
+    <ToTranslate>$Riri covered her mouth and giggled. Rinrin got flustered in a way that wasn&apos;t very general-like.@</ToTranslate>
+  </String>
+  <String index="112">
+    <ToTranslate>tcg_rr11fa</ToTranslate>
+  </String>
+  <String index="113">
+    <ToTranslate>tcg_rr11m</ToTranslate>
+  </String>
+  <String index="114">
+    <ToTranslate>riri0081</ToTranslate>
+  </String>
+  <String index="115">
+    <ToTranslate>Riri$&quot;I was wondering... Onee-chan, are you My Lord&apos;s girlfriend?&quot;@</ToTranslate>
+  </String>
+  <String index="116">
+    <ToTranslate>tcg_cho31ma</ToTranslate>
+  </String>
+  <String index="117">
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="118">
+    <ToTranslate>rinr1388</ToTranslate>
+  </String>
+  <String index="119">
+    <ToTranslate>Rinrin$&quot;Eh? Hee-hee... why are you asking me that all of a sudden? That&apos;s a secret.&quot;@</ToTranslate>
+  </String>
+  <String index="120">
+    <ToTranslate>tcg_rr11ga</ToTranslate>
+  </String>
+  <String index="121">
+    <ToTranslate>tcg_rr11m2</ToTranslate>
+  </String>
+  <String index="122">
+    <ToTranslate>riri0082</ToTranslate>
+  </String>
+  <String index="123">
+    <ToTranslate>Riri$&quot;You can&apos;t keep it a secret, tell me.&quot;@</ToTranslate>
+  </String>
+  <String index="124">
+    <ToTranslate>tcg_cho31oa</ToTranslate>
+  </String>
+  <String index="125">
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="126">
+    <ToTranslate>rinr1389</ToTranslate>
+  </String>
+  <String index="127">
+    <ToTranslate>Rinrin$&quot;Onii-chan said to keep it a secret, so it&apos;s a secret! All our kisses are secrets, too!&quot;@</ToTranslate>
+  </String>
+  <String index="128">
+    <ToTranslate>$What!?@</ToTranslate>
+  </String>
+  <String index="129">
+    <ToTranslate>tcg_rr21ca</ToTranslate>
+  </String>
+  <String index="130">
+    <ToTranslate>tcg_rr21m</ToTranslate>
+  </String>
+  <String index="131">
+    <ToTranslate>riri0083</ToTranslate>
+  </String>
+  <String index="132">
+    <ToTranslate>Riri$&quot;Wow! Onee-chan, do you kiss with My Lord?&quot;@</ToTranslate>
+  </String>
+  <String index="133">
+    <ToTranslate>tcg_cho41na</ToTranslate>
+  </String>
+  <String index="134">
+    <ToTranslate>tcg_cho41m</ToTranslate>
+  </String>
+  <String index="135">
+    <ToTranslate>rinr1390</ToTranslate>
+  </String>
+  <String index="136">
+    <ToTranslate>Rinrin$&quot;Hyah!? That was nothing. Rinrin didn&apos;t say anything!&quot;@</ToTranslate>
+  </String>
+  <String index="137">
+    <ToTranslate>$It was too late to backpedal. For a moment, I could see the Shion in Riri-chan.@</ToTranslate>
+  </String>
+  <String index="138">
+    <ToTranslate>tcg_rr11ba</ToTranslate>
+  </String>
+  <String index="139">
+    <ToTranslate>tcg_rr11m</ToTranslate>
+  </String>
+  <String index="140">
+    <ToTranslate>riri0084</ToTranslate>
+  </String>
+  <String index="141">
+    <ToTranslate>Riri$&quot;I already heard it! So if you don&apos;t want me to tell anyone, you gotta tell me the truth.&quot;@</ToTranslate>
+  </String>
+  <String index="142">
+    <ToTranslate>$Riri&apos;s eyes shone, like an expert lawyer cornering a frightened witness.@</ToTranslate>
+  </String>
+  <String index="143">
+    <ToTranslate>tcg_cho21da</ToTranslate>
+  </String>
+  <String index="144">
+    <ToTranslate>tcg_cho21m</ToTranslate>
+  </String>
+  <String index="145">
+    <ToTranslate>rinr1391</ToTranslate>
+  </String>
+  <String index="146">
+    <ToTranslate>Rinrin$&quot;Riri, you&apos;re supposed to be my lieutenant, you gotta listen to Rinrin!&quot;@</ToTranslate>
+  </String>
+  <String index="147">
+    <ToTranslate>tcg_rr11aa</ToTranslate>
+  </String>
+  <String index="148">
+    <ToTranslate>tcg_rr11m</ToTranslate>
+  </String>
+  <String index="149">
+    <ToTranslate>riri0085</ToTranslate>
+  </String>
+  <String index="150">
+    <ToTranslate>Riri$&quot;I will if you tell me. Come on, tell me.&quot;@</ToTranslate>
+  </String>
+  <String index="151">
+    <ToTranslate>tcg_cho31oa</ToTranslate>
+  </String>
+  <String index="152">
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="153">
+    <ToTranslate>rinr1392</ToTranslate>
+  </String>
+  <String index="154">
+    <ToTranslate>Rinrin$&quot;You won&apos;t tell anyone?&quot;@</ToTranslate>
+  </String>
+  <String index="155">
+    <ToTranslate>tcg_rr11ba</ToTranslate>
+  </String>
+  <String index="156">
+    <ToTranslate>tcg_rr11m</ToTranslate>
+  </String>
+  <String index="157">
+    <ToTranslate>riri0086</ToTranslate>
+  </String>
+  <String index="158">
+    <ToTranslate>Riri$&quot;No way!&quot;@</ToTranslate>
+  </String>
+  <String index="159">
+    <ToTranslate>tcg_cho11ca</ToTranslate>
+  </String>
+  <String index="160">
+    <ToTranslate>tcg_cho11m</ToTranslate>
+  </String>
+  <String index="161">
+    <ToTranslate>rinr1393</ToTranslate>
+  </String>
+  <String index="162">
+    <ToTranslate>Rinrin$&quot;Are you really, really sure? You can&apos;t even tell your mom, okay?&quot;@</ToTranslate>
+  </String>
+  <String index="163">
+    <ToTranslate>tcg_rr11aa</ToTranslate>
+  </String>
+  <String index="164">
+    <ToTranslate>tcg_rr11m</ToTranslate>
+  </String>
+  <String index="165">
+    <ToTranslate>riri0087</ToTranslate>
+  </String>
+  <String index="166">
+    <ToTranslate>Riri$&quot;I know, it&apos;s a total secret! So now tell me, please!&quot;@</ToTranslate>
+  </String>
+  <String index="167">
+    <ToTranslate>tcg_cho31ga</ToTranslate>
+  </String>
+  <String index="168">
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="169">
+    <ToTranslate>rinr1394</ToTranslate>
+  </String>
+  <String index="170">
+    <ToTranslate>Rinrin$&quot;Oooo...&quot;@</ToTranslate>
+  </String>
+  <String index="171">
+    <ToTranslate>$After a tense moment, Rinrin put up the white flag. She looked all around, but she was so distracted she didn&apos;t notice me watching from the window.@</ToTranslate>
+  </String>
+  <String index="172">
+    <ToTranslate>tcg_cho31ma</ToTranslate>
+  </String>
+  <String index="173">
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="174">
+    <ToTranslate>rinr1395</ToTranslate>
+  </String>
+  <String index="175">
+    <ToTranslate>Rinrin$&quot;Nyahahaha! You were right all along, Riri. Rinrin and Onii-chan are dating!&quot;@</ToTranslate>
+  </String>
+  <String index="176">
+    <ToTranslate>$WHAAAAAAAAAAAAT!?@</ToTranslate>
+  </String>
+  <String index="177">
+    <ToTranslate>tcg_rr11ba</ToTranslate>
+  </String>
+  <String index="178">
+    <ToTranslate>tcg_rr11m</ToTranslate>
+  </String>
+  <String index="179">
+    <ToTranslate>riri0088</ToTranslate>
+  </String>
+  <String index="180">
+    <ToTranslate>Riri$&quot;Wow, I knew it! You&apos;re so lucky...&quot;@</ToTranslate>
+  </String>
+  <String index="181">
+    <ToTranslate>$I groaned as I realized she had given us up so easily... but then, I did like Rinrin, and Rinrin liked me.@</ToTranslate>
+  </String>
+  <String index="182">
+    <ToTranslate>tcg_cho21oa</ToTranslate>
+  </String>
+  <String index="183">
+    <ToTranslate>tcg_cho21m</ToTranslate>
+  </String>
+  <String index="184">
+    <ToTranslate>rinr1396</ToTranslate>
+  </String>
+  <String index="185">
+    <ToTranslate>Rinrin$&quot;Nyah? What do you mean, lucky!? Are you in love with Onii-chan too?&quot;@</ToTranslate>
+  </String>
+  <String index="186">
+    <ToTranslate>tcg_rr11aa</ToTranslate>
+  </String>
+  <String index="187">
+    <ToTranslate>tcg_rr11m</ToTranslate>
+  </String>
+  <String index="188">
+    <ToTranslate>riri0089</ToTranslate>
+  </String>
+  <String index="189">
+    <ToTranslate>Riri$&quot;Sure I do! But it&apos;s a different type of love from yours, I think.&quot;@</ToTranslate>
+  </String>
+  <String index="190">
+    <ToTranslate>$Having them discuss me so lightly was making me dizzy. Riri-chan tilted her head.@</ToTranslate>
+  </String>
+  <String index="191">
+    <ToTranslate>tcg_rr11ba</ToTranslate>
+  </String>
+  <String index="192">
+    <ToTranslate>tcg_rr11m</ToTranslate>
+  </String>
+  <String index="193">
+    <ToTranslate>riri0090</ToTranslate>
+  </String>
+  <String index="194">
+    <ToTranslate>Riri$&quot;Riri loves him like a dad! I love when he&apos;s really nice and holds me up high.&quot;@</ToTranslate>
+  </String>
+  <String index="195">
+    <ToTranslate>tcg_cho31ma</ToTranslate>
+  </String>
+  <String index="196">
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="197">
+    <ToTranslate>rinr1397</ToTranslate>
+  </String>
+  <String index="198">
+    <ToTranslate>Rinrin$&quot;Nyahahaha, that&apos;s &apos;cause you&apos;re still a kid, Riri... whew.&quot;@</ToTranslate>
+  </String>
+  <String index="199">
+    <ToTranslate>tcg_rr11fa</ToTranslate>
+  </String>
+  <String index="200">
+    <ToTranslate>tcg_rr11m</ToTranslate>
+  </String>
+  <String index="201">
+    <ToTranslate>riri0091</ToTranslate>
+  </String>
+  <String index="202">
+    <ToTranslate>Riri$&quot;Maybe... or maybe I don&apos;t want to kiss him &apos;cause I just don&apos;t think he&apos;s attractive.&quot;@</ToTranslate>
+  </String>
+  <String index="203">
+    <ToTranslate>$It was a blow to my pride, hearing that I wasn&apos;t attractive. Then again, she was just a kid.@</ToTranslate>
+  </String>
+  <String index="204">
+    <ToTranslate>tcg_cho21ia</ToTranslate>
+  </String>
+  <String index="205">
+    <ToTranslate>tcg_cho21m</ToTranslate>
+  </String>
+  <String index="206">
+    <ToTranslate>rinr1398</ToTranslate>
+  </String>
+  <String index="207">
+    <ToTranslate>Rinrin$&quot;You just don&apos;t understand Onii-chan&apos;s attractiveness &apos;cause you&apos;re still a kid, Riri.&quot;@</ToTranslate>
+  </String>
+  <String index="208">
+    <ToTranslate>tcg_rr11ga</ToTranslate>
+  </String>
+  <String index="209">
+    <ToTranslate>tcg_rr11m2</ToTranslate>
+  </String>
+  <String index="210">
+    <ToTranslate>muka</ToTranslate>
+  </String>
+  <String index="211">
+    <ToTranslate>riri0092</ToTranslate>
+  </String>
+  <String index="212">
+    <ToTranslate>Riri$&quot;Riri&apos;s not a kiiiid!&quot;@</ToTranslate>
+  </String>
+  <String index="213">
+    <ToTranslate>tcg_cho31ma</ToTranslate>
+  </String>
+  <String index="214">
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="215">
+    <ToTranslate>rinr1399</ToTranslate>
+  </String>
+  <String index="216">
+    <ToTranslate>Rinrin$&quot;Oh, yes you are! When you fall in love for real, you want to kiss.&quot;@</ToTranslate>
+  </String>
+  <String index="217">
+    <ToTranslate>riri0093</ToTranslate>
+  </String>
+  <String index="218">
+    <ToTranslate>Riri$&quot;But My Lord isn&apos;t attractive! And Riri is a grown-up!&quot;@</ToTranslate>
+  </String>
+  <String index="219">
+    <ToTranslate>tcg_cho21ia</ToTranslate>
+  </String>
+  <String index="220">
+    <ToTranslate>tcg_cho21m</ToTranslate>
+  </String>
+  <String index="221">
+    <ToTranslate>rinr1400</ToTranslate>
+  </String>
+  <String index="222">
+    <ToTranslate>Rinrin$&quot;No, you&apos;re still half-grown!&quot;@</ToTranslate>
+  </String>
+  <String index="223">
+    <ToTranslate>$Rinrin was remembering her role as big sister. She poked at Riri-chan&apos;s puffed up cheeks.@</ToTranslate>
+  </String>
+  <String index="224">
+    <ToTranslate>riri0094</ToTranslate>
+  </String>
+  <String index="225">
+    <ToTranslate>Riri$&quot;Mmmm, you aren&apos;t even that much taller than me, Onee-chan!&quot;@</ToTranslate>
+  </String>
+  <String index="226">
+    <ToTranslate>tcg_cho11ea</ToTranslate>
+  </String>
+  <String index="227">
+    <ToTranslate>tcg_cho11m</ToTranslate>
+  </String>
+  <String index="228">
+    <ToTranslate>rinr1401</ToTranslate>
+  </String>
+  <String index="229">
+    <ToTranslate>Rinrin$&quot;Don&apos;t talk about my height! I&apos;m gonna beat you up!&quot;@</ToTranslate>
+  </String>
+  <String index="230">
+    <ToTranslate>tcg_rr21ca</ToTranslate>
+  </String>
+  <String index="231">
+    <ToTranslate>tcg_rr21m</ToTranslate>
+  </String>
+  <String index="232">
+    <ToTranslate>riri0095</ToTranslate>
+  </String>
+  <String index="233">
+    <ToTranslate>Riri$&quot;Eek, please forgive me, my general!&quot;@</ToTranslate>
+  </String>
+  <String index="234">
+    <ToTranslate>$They began chasing each other... I began to worry they might see me watching if they came my way.@</ToTranslate>
+  </String>
+  <String index="235">
+    <ToTranslate>$Reluctantly, I pulled my head inside.@</ToTranslate>
+  </String>
+  <String index="236">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="237">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="238">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="239">
+    <ToTranslate>bcg_castcorrid_a</ToTranslate>
+  </String>
+  <String index="240">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="241">
+    <ToTranslate>$I closed the window and said a prayer that Aisha wouldn&apos;t see them...@</ToTranslate>
+  </String>
+  <String index="242">
+    <ToTranslate>$... because anyone who happened by would definitely think they were just playing.@</ToTranslate>
+  </String>
+  <String index="243">
+    <ToTranslate>Kazuto$&quot;She&apos;s my girlfriend, huh...? Hmmm.&quot;@</ToTranslate>
+  </String>
+  <String index="244">
+    <ToTranslate>$All of a sudden, I remembered that I had been on my way to Shuri&apos;s room. Time to hurry...!@</ToTranslate>
+  </String>
+  <String index="245">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="246">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="247">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+</DBS>
+</poem>

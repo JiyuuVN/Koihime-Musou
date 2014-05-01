@@ -1,0 +1,615 @@
+[[Koihime Musou/Прогресс перевода/Сюжет|[Назад]]]
+<poem>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<DBS>
+  <String index="0">
+    <ToTranslate>bcg_wasteland_a</ToTranslate>
+  </String>
+  <String index="1">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="2">
+    <ToTranslate>bgm23</ToTranslate>
+  </String>
+  <String index="3">
+    <ToTranslate>$После нападения на Жёлтых Тюрбанов армии Косонсан, инициатива перешла в нашу сторону.@</ToTranslate>
+  </String>
+  <String index="4">
+    <ToTranslate>$Шури и другие не дали им никакого шанса сбежать.@</ToTranslate>
+  </String>
+  <String index="5">
+    <ToTranslate>$Они быстро реорганизовали наши обороняющиеся войска и немедленно перешли в наступление.@</ToTranslate>
+  </String>
+  <String index="6">
+    <ToTranslate>$На им мастерство было приятно смотреть.@</ToTranslate>
+  </String>
+  <String index="7">
+    <ToTranslate>$Как и следовало ожидать, только Аиша, Чоухи, Шокатсурё и Чёун могли быть на такое способны.@</ToTranslate>
+  </String>
+  <String index="8">
+    <ToTranslate>$Я немного разочаровался в себе как в мужчине, который не способен что-то сделать...@</ToTranslate>
+  </String>
+  <String index="9">
+    <ToTranslate>$В любом случае, я позволил армии Косонсан преследовать остатки убегающих Жёлтых Тюрбанов, и когда вместе с Аишей вернулась Чёун, я окликнул её.@</ToTranslate>
+  </String>
+  <String index="10">
+    <ToTranslate>Казуто$"Вы молодцы. Не ранены?"@</ToTranslate>
+  </String>
+  <String index="11">
+    <ToTranslate>bgm03</ToTranslate>
+  </String>
+  <String index="12">
+    <ToTranslate>tcg_cun11ba</ToTranslate>
+  </String>
+  <String index="13">
+    <ToTranslate>tcg_cun11m</ToTranslate>
+  </String>
+  <String index="14">
+    <ToTranslate>chou0035</ToTranslate>
+  </String>
+  <String index="15">
+    <ToTranslate>Чёун$"Ах, Хонго-доно. Благодарю за заботу. К счастью, я не пострадала."@</ToTranslate>
+  </String>
+  <String index="16">
+    <ToTranslate>Казуто$"Я рад. Но... Чёун-сан, это было очень безрассудно."@</ToTranslate>
+  </String>
+  <String index="17">
+    <ToTranslate>tcg_cun31ea</ToTranslate>
+  </String>
+  <String index="18">
+    <ToTranslate>tcg_cun31m</ToTranslate>
+  </String>
+  <String index="19">
+    <ToTranslate>chou0036</ToTranslate>
+  </String>
+  <String index="20">
+    <ToTranslate>Чёун$"Это не попадает в категорию *безрассудно*. Намного важнее...хмм? Откуда тебе известно моё имя?"@</ToTranslate>
+  </String>
+  <String index="21">
+    <ToTranslate>Казуто$"Косонсан сказала. Она сказала, что ты была её вспомогательным генералом."@</ToTranslate>
+  </String>
+  <String index="22">
+    <ToTranslate>tcg_cun11aa</ToTranslate>
+  </String>
+  <String index="23">
+    <ToTranslate>tcg_cun11m</ToTranslate>
+  </String>
+  <String index="24">
+    <ToTranslate>chou0037</ToTranslate>
+  </String>
+  <String index="25">
+    <ToTranslate>Чёун$"Да. Можно и так сказать. Однако, к сожалению, сомневаюсь, что Хакукей-доно сможет быть и в дальнейшем моим Лордом."@</ToTranslate>
+  </String>
+  <String index="26">
+    <ToTranslate>tcg_kan21da</ToTranslate>
+  </String>
+  <String index="27">
+    <ToTranslate>tcg_kan21m</ToTranslate>
+  </String>
+  <String index="28">
+    <ToTranslate>aisy0135</ToTranslate>
+  </String>
+  <String index="29">
+    <ToTranslate>Аиша$"Разве это правильно?"@</ToTranslate>
+  </String>
+  <String index="30">
+    <ToTranslate>tcg_cun31fa</ToTranslate>
+  </String>
+  <String index="31">
+    <ToTranslate>tcg_cun31m</ToTranslate>
+  </String>
+  <String index="32">
+    <ToTranslate>chou0038</ToTranslate>
+  </String>
+  <String index="33">
+    <ToTranslate>Чёун$"Да. Она конечно способная, но ей никогда не стать Императором, способным защитить людей и править этим миром. Она храбрая, но чтобы быть героем ей чего-то не хватает."@</ToTranslate>
+  </String>
+  <String index="34">
+    <ToTranslate>tcg_cho31da</ToTranslate>
+  </String>
+  <String index="35">
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="36">
+    <ToTranslate>rinr0089</ToTranslate>
+  </String>
+  <String index="37">
+    <ToTranslate>Ринрин$"Как грубо."@</ToTranslate>
+  </String>
+  <String index="38">
+    <ToTranslate>tcg_cun11aa</ToTranslate>
+  </String>
+  <String index="39">
+    <ToTranslate>tcg_cun11m</ToTranslate>
+  </String>
+  <String index="40">
+    <ToTranslate>chou0039</ToTranslate>
+  </String>
+  <String index="41">
+    <ToTranslate>Чёун$"Что? Я просто говорю правду. ...ну, есть только несколько людей, у которых есть то что нужно, для того чтобы стать героем."@</ToTranslate>
+  </String>
+  <String index="42">
+    <ToTranslate>tcg_syo21da</ToTranslate>
+  </String>
+  <String index="43">
+    <ToTranslate>tcg_syo21m</ToTranslate>
+  </String>
+  <String index="44">
+    <ToTranslate>syur0040</ToTranslate>
+  </String>
+  <String index="45">
+    <ToTranslate>Шури$"Правда? Ты говоришь о..."@</ToTranslate>
+  </String>
+  <String index="46">
+    <ToTranslate>tcg_cun31ea</ToTranslate>
+  </String>
+  <String index="47">
+    <ToTranslate>tcg_cun31m</ToTranslate>
+  </String>
+  <String index="48">
+    <ToTranslate>chou0040</ToTranslate>
+  </String>
+  <String index="49">
+    <ToTranslate>Чёун$"Да. Сначала это Соу Соу из Ги. Очень мало людей способных разглядеть таланты в других и эффективно использовать этих людей ."@</ToTranslate>
+  </String>
+  <String index="50">
+    <ToTranslate>tcg_cho31ja</ToTranslate>
+  </String>
+  <String index="51">
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="52">
+    <ToTranslate>rinr0090</ToTranslate>
+  </String>
+  <String index="53">
+    <ToTranslate>Ринрин$"Кто ещё?"@</ToTranslate>
+  </String>
+  <String index="54">
+    <ToTranslate>tcg_cun31ia</ToTranslate>
+  </String>
+  <String index="55">
+    <ToTranslate>tcg_cun31m</ToTranslate>
+  </String>
+  <String index="56">
+    <ToTranslate>chou0041</ToTranslate>
+  </String>
+  <String index="57">
+    <ToTranslate>Чёун$"Сонкен из Го. ...ну, если сравнивать с Сонсаку из предыдущего поколения, Сонкен довольно консервативна, но она намного сильнее чем кажется."@</ToTranslate>
+  </String>
+  <String index="58">
+    <ToTranslate>tcg_cun31ea</ToTranslate>
+  </String>
+  <String index="59">
+    <ToTranslate>tcg_cun31m</ToTranslate>
+  </String>
+  <String index="60">
+    <ToTranslate>chou0042</ToTranslate>
+  </String>
+  <String index="61">
+    <ToTranslate>Чёун$"Если она сможет разбудить в себе героя, то на это будет очень интересно посмотреть. И последний..."@</ToTranslate>
+  </String>
+  <String index="62">
+    <ToTranslate>tcg_kan11ca</ToTranslate>
+  </String>
+  <String index="63">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="64">
+    <ToTranslate>aisy0136</ToTranslate>
+  </String>
+  <String index="65">
+    <ToTranslate>Аиша$"Наш Господин, конечно же!"@</ToTranslate>
+  </String>
+  <String index="66">
+    <ToTranslate>tcg_cun11aa</ToTranslate>
+  </String>
+  <String index="67">
+    <ToTranslate>tcg_cun11m</ToTranslate>
+  </String>
+  <String index="68">
+    <ToTranslate>chou0043</ToTranslate>
+  </String>
+  <String index="69">
+    <ToTranslate>Чёун$"Хм. Да. Ты, Хонго-доно, тот, кто стал известен в Ючжоу как Посланник Небес."@</ToTranslate>
+  </String>
+  <String index="70">
+    <ToTranslate>Казуто$"Кто, я?"@</ToTranslate>
+  </String>
+  <String index="71">
+    <ToTranslate>tcg_kan11aa</ToTranslate>
+  </String>
+  <String index="72">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="73">
+    <ToTranslate>aisy0137</ToTranslate>
+  </String>
+  <String index="74">
+    <ToTranslate>Аиша$"Почему вы так удивляетесь? Вспомните о своём благосклонном управлении районом Чжо и изгнании бесчисленной толпы Жёлтых Тюрбанов."@</ToTranslate>
+  </String>
+  <String index="75">
+    <ToTranslate>Аиша$"Конечно же, люди будут восхвалять вас как великодушного правителя, Мой Господин."@</ToTranslate>
+  </String>
+  <String index="76">
+    <ToTranslate>Казуто$"Но это всё благодаря тебе и Ринрин..."@</ToTranslate>
+  </String>
+  <String index="77">
+    <ToTranslate>tcg_syo11ba</ToTranslate>
+  </String>
+  <String index="78">
+    <ToTranslate>tcg_syo11m</ToTranslate>
+  </String>
+  <String index="79">
+    <ToTranslate>syur0041</ToTranslate>
+  </String>
+  <String index="80">
+    <ToTranslate>Шури$"Вспомните великих мудрецов, Яо, Шунь, а также великого императора Лю Бан. Все они были великодушными правителями, которые правильно использовали своих вассалов и тоже стали героями."@</ToTranslate>
+  </String>
+  <String index="81">
+    <ToTranslate>Шури$"Вот почему, Мой Господин, когда-нибудь вы тоже станете великим героем."@</ToTranslate>
+  </String>
+  <String index="82">
+    <ToTranslate>Казуто$"Я, стану героем, а?"@</ToTranslate>
+  </String>
+  <String index="83">
+    <ToTranslate>$Всё ещё не уверен в том что смогу, но я рад, что Аиша и другие так это утверждают.@</ToTranslate>
+  </String>
+  <String index="84">
+    <ToTranslate>Казуто$"Было бы здорово. Кстати, Чёун-сан, что теперь собираешься делать? Вернёшься к Косонсан?"@</ToTranslate>
+  </String>
+  <String index="85">
+    <ToTranslate>tcg_cun31ea</ToTranslate>
+  </String>
+  <String index="86">
+    <ToTranslate>tcg_cun31m</ToTranslate>
+  </String>
+  <String index="87">
+    <ToTranslate>chou0044</ToTranslate>
+  </String>
+  <String index="88">
+    <ToTranslate>Чёун$"Не вижу в этом смысла. Думаю, какое-то время я буду путешествовать по континенту и посмотрю, если ли другие герои, которым бы я могла служить."@</ToTranslate>
+  </String>
+  <String index="89">
+    <ToTranslate>tcg_kan21aa</ToTranslate>
+  </String>
+  <String index="90">
+    <ToTranslate>tcg_kan21m</ToTranslate>
+  </String>
+  <String index="91">
+    <ToTranslate>aisy0138</ToTranslate>
+  </String>
+  <String index="92">
+    <ToTranslate>Аиша$"Если ты ищешь героя, разве один из них не прямо здесь?"@</ToTranslate>
+  </String>
+  <String index="93">
+    <ToTranslate>tcg_cun11aa</ToTranslate>
+  </String>
+  <String index="94">
+    <ToTranslate>tcg_cun11m</ToTranslate>
+  </String>
+  <String index="95">
+    <ToTranslate>chou0045</ToTranslate>
+  </String>
+  <String index="96">
+    <ToTranslate>Чёун$"Ху-ху, верно."@</ToTranslate>
+  </String>
+  <String index="97">
+    <ToTranslate>$Чёун взглянула на меня и улыбнулась.@</ToTranslate>
+  </String>
+  <String index="98">
+    <ToTranslate>Казуто$"......если ты не против, я бы хотел, чтобы ты присоединилась к нам."@</ToTranslate>
+  </String>
+  <String index="99">
+    <ToTranslate>tcg_cun11ka</ToTranslate>
+  </String>
+  <String index="100">
+    <ToTranslate>tcg_cun11m</ToTranslate>
+  </String>
+  <String index="101">
+    <ToTranslate>chou0046</ToTranslate>
+  </String>
+  <String index="102">
+    <ToTranslate>Чёун$"Я ценю твоё предложение. ......но, как я уже говорила. Я не приму обратно своих слов."@</ToTranslate>
+  </String>
+  <String index="103">
+    <ToTranslate>tcg_cho31da</ToTranslate>
+  </String>
+  <String index="104">
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="105">
+    <ToTranslate>rinr0091</ToTranslate>
+  </String>
+  <String index="106">
+    <ToTranslate>Ринрин$"Она на удивление упрямая."@</ToTranslate>
+  </String>
+  <String index="107">
+    <ToTranslate>tcg_cun31fa</ToTranslate>
+  </String>
+  <String index="108">
+    <ToTranslate>tcg_cun31m</ToTranslate>
+  </String>
+  <String index="109">
+    <ToTranslate>chou0047</ToTranslate>
+  </String>
+  <String index="110">
+    <ToTranslate>Чёун$"Да, такая уж я есть. Время от времени я замечаю в себе такую особенность, но...я хочу самостоятельно найти кого-то достойного и служить ему."@</ToTranslate>
+  </String>
+  <String index="111">
+    <ToTranslate>tcg_cun21ca</ToTranslate>
+  </String>
+  <String index="112">
+    <ToTranslate>tcg_cun21m</ToTranslate>
+  </String>
+  <String index="113">
+    <ToTranslate>chou0048</ToTranslate>
+  </String>
+  <String index="114">
+    <ToTranslate>Чёун$"Кроме того, я ещё многому должна научиться. Я должна узнать, что сейчас происходит на этом континенте и как он изменится."@</ToTranslate>
+  </String>
+  <String index="115">
+    <ToTranslate>tcg_kan31ka</ToTranslate>
+  </String>
+  <String index="116">
+    <ToTranslate>tcg_kan31m</ToTranslate>
+  </String>
+  <String index="117">
+    <ToTranslate>aisy0139</ToTranslate>
+  </String>
+  <String index="118">
+    <ToTranslate>Аиша$"Ясно...какая потеря."@</ToTranslate>
+  </String>
+  <String index="119">
+    <ToTranslate>tcg_cun11aa</ToTranslate>
+  </String>
+  <String index="120">
+    <ToTranslate>tcg_cun11m</ToTranslate>
+  </String>
+  <String index="121">
+    <ToTranslate>chou0049</ToTranslate>
+  </String>
+  <String index="122">
+    <ToTranslate>Чёун$"Да. Кану-доно. Было бы великой честью сражаться вместе с тобой."@</ToTranslate>
+  </String>
+  <String index="123">
+    <ToTranslate>tcg_kan11aa</ToTranslate>
+  </String>
+  <String index="124">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="125">
+    <ToTranslate>aisy0140</ToTranslate>
+  </String>
+  <String index="126">
+    <ToTranslate>Аиша$"И для меня. Была рада сражаться вместе с кем-то таким же как я. ......мы ещё встретимся?"@</ToTranslate>
+  </String>
+  <String index="127">
+    <ToTranslate>tcg_cun11ba</ToTranslate>
+  </String>
+  <String index="128">
+    <ToTranslate>tcg_cun11m</ToTranslate>
+  </String>
+  <String index="129">
+    <ToTranslate>chou0050</ToTranslate>
+  </String>
+  <String index="130">
+    <ToTranslate>Чёун$"Да. Я обещаю. Хотя..."@</ToTranslate>
+  </String>
+  <String index="131">
+    <ToTranslate>$Говоря это Чёун смотрела на меня.@</ToTranslate>
+  </String>
+  <String index="132">
+    <ToTranslate>tcg_cun31ea</ToTranslate>
+  </String>
+  <String index="133">
+    <ToTranslate>tcg_cun31m</ToTranslate>
+  </String>
+  <String index="134">
+    <ToTranslate>chou0051</ToTranslate>
+  </String>
+  <String index="135">
+    <ToTranslate>Чёун$"Это время может настать раньше чем вы думаете."@</ToTranslate>
+  </String>
+  <String index="136">
+    <ToTranslate>tcg_cho31ma</ToTranslate>
+  </String>
+  <String index="137">
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="138">
+    <ToTranslate>rinr0092</ToTranslate>
+  </String>
+  <String index="139">
+    <ToTranslate>Ринрин$"Надеюсь на это."@</ToTranslate>
+  </String>
+  <String index="140">
+    <ToTranslate>tcg_syo11aa</ToTranslate>
+  </String>
+  <String index="141">
+    <ToTranslate>tcg_syo11m</ToTranslate>
+  </String>
+  <String index="142">
+    <ToTranslate>syur0042</ToTranslate>
+  </String>
+  <String index="143">
+    <ToTranslate>Шури$"Да. Чёун-сан, ваш способ сражения просто удивительный. ......я бы хотела чтобы мы могли сражаться вместе..."@</ToTranslate>
+  </String>
+  <String index="144">
+    <ToTranslate>tcg_cun11aa</ToTranslate>
+  </String>
+  <String index="145">
+    <ToTranslate>tcg_cun11m</ToTranslate>
+  </String>
+  <String index="146">
+    <ToTranslate>chou0052</ToTranslate>
+  </String>
+  <String index="147">
+    <ToTranslate>Чёун$"Спасибо. Но позвольте мне уйти. Простите..."@</ToTranslate>
+  </String>
+  <String index="148">
+    <ToTranslate>Казуто$"Не нужно извиняться. А если так? Если ты не найдёшь подходящего человека во время своего путешествия, то почему бы тебе не вернуться к нам?"@</ToTranslate>
+  </String>
+  <String index="149">
+    <ToTranslate>Казуто$"Мы будем ждать... всегда."@</ToTranslate>
+  </String>
+  <String index="150">
+    <ToTranslate>tcg_cun11ba</ToTranslate>
+  </String>
+  <String index="151">
+    <ToTranslate>tcg_cun11m</ToTranslate>
+  </String>
+  <String index="152">
+    <ToTranslate>chou0053</ToTranslate>
+  </String>
+  <String index="153">
+    <ToTranslate>Чёун$"Да... если так произойдёт, то с удовольствием."@</ToTranslate>
+  </String>
+  <String index="154">
+    <ToTranslate>$Чёун уверенно кинула.@</ToTranslate>
+  </String>
+  <String index="155">
+    <ToTranslate>tcg_cun11aa</ToTranslate>
+  </String>
+  <String index="156">
+    <ToTranslate>tcg_cun11m</ToTranslate>
+  </String>
+  <String index="157">
+    <ToTranslate>chou0054</ToTranslate>
+  </String>
+  <String index="158">
+    <ToTranslate>Чёун$"Теперь...прощайтеl."@</ToTranslate>
+  </String>
+  <String index="159">
+    <ToTranslate>Она повернулась, и ушла, оставляя позади себя вьющиеся красивые волосы.@</ToTranslate>
+  </String>
+  <String index="160">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="161">
+    <ToTranslate>bb</ToTranslate>
+  </String>
+  <String index="162">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="163">
+    <ToTranslate>bb</ToTranslate>
+  </String>
+  <String index="164">
+    <ToTranslate>bcg_wasteland_a</ToTranslate>
+  </String>
+  <String index="165">
+    <ToTranslate>tcg_kan11aa</ToTranslate>
+  </String>
+  <String index="166">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="167">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="168">
+    <ToTranslate>bgm07</ToTranslate>
+  </String>
+  <String index="169">
+    <ToTranslate>aisy0141</ToTranslate>
+  </String>
+  <String index="170">
+    <ToTranslate>Аиша$"Какое несчастье."@</ToTranslate>
+  </String>
+  <String index="171">
+    <ToTranslate>Казуто$"Знаю, но мы не можем остановить её. ......однажды она обязательно вернётся к нам. Я верю в это и буду ждать её."@</ToTranslate>
+  </String>
+  <String index="172">
+    <ToTranslate>tcg_kan31ha</ToTranslate>
+  </String>
+  <String index="173">
+    <ToTranslate>tcg_kan31m</ToTranslate>
+  </String>
+  <String index="174">
+    <ToTranslate>aisy0142</ToTranslate>
+  </String>
+  <String index="175">
+    <ToTranslate>Аиша$"А? ......похоже вы сильно привязались к ней."@</ToTranslate>
+  </String>
+  <String index="176">
+    <ToTranslate>Казуто$"Аа? Ох...это так заметно?"@</ToTranslate>
+  </String>
+  <String index="177">
+    <ToTranslate>tcg_kan31la</ToTranslate>
+  </String>
+  <String index="178">
+    <ToTranslate>tcg_kan31m</ToTranslate>
+  </String>
+  <String index="179">
+    <ToTranslate>aisy0143</ToTranslate>
+  </String>
+  <String index="180">
+    <ToTranslate>Аиша$"Немного..."@</ToTranslate>
+  </String>
+  <String index="181">
+    <ToTranslate>tcg_cho31ia</ToTranslate>
+  </String>
+  <String index="182">
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="183">
+    <ToTranslate>rinr0093</ToTranslate>
+  </String>
+  <String index="184">
+    <ToTranslate>Ринрин$"Няхаха! Аиша снова изображает ревность!"@</ToTranslate>
+  </String>
+  <String index="185">
+    <ToTranslate>tcg_kan31ga</ToTranslate>
+  </String>
+  <String index="186">
+    <ToTranslate>tcg_kan31m</ToTranslate>
+  </String>
+  <String index="187">
+    <ToTranslate>aisy0144</ToTranslate>
+  </String>
+  <String index="188">
+    <ToTranslate>Аиша$"Я-я не ревную! Совершенно нет!"@</ToTranslate>
+  </String>
+  <String index="189">
+    <ToTranslate>tcg_syo11ba</ToTranslate>
+  </String>
+  <String index="190">
+    <ToTranslate>tcg_syo11m</ToTranslate>
+  </String>
+  <String index="191">
+    <ToTranslate>syur0043</ToTranslate>
+  </String>
+  <String index="192">
+    <ToTranslate>Шури$"У-ху-ху, Аиша-сан, у вас всё лицо покраснело."@</ToTranslate>
+  </String>
+  <String index="193">
+    <ToTranslate>tcg_kan11sa</ToTranslate>
+  </String>
+  <String index="194">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="195">
+    <ToTranslate>aisy0145</ToTranslate>
+  </String>
+  <String index="196">
+    <ToTranslate>Аиша$"И ты туда-же, Шури? Я снова повторю это вам, на каком основании я должна ревновать?!"@</ToTranslate>
+  </String>
+  <String index="197">
+    <ToTranslate>bg33</ToTranslate>
+  </String>
+  <String index="198">
+    <ToTranslate>$Мы были втянуты в очередной жестокий бой с дальнейшим выяснением наших отношений. Пока я невольно слушал их спор, я начал думать о нашем будущем...@</ToTranslate>
+  </String>
+  <String index="199">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="200">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="201">
+    <ToTranslate>_kyotenphase</ToTranslate>
+  </String>
+</DBS>
+
+</poem>
+[[Koihime Musou/Прогресс перевода/Сюжет|[Назад]]]

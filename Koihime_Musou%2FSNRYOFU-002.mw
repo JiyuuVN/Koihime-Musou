@@ -1,0 +1,1639 @@
+ И опять мой говно перевод, надеюсь икар и демон его поправят :) Особо печальные моменты помечены символом №
+<br>
+[[Koihime Musou/Персонажи/Побочные|[Назад]]]
+{{Не Трожь!|Predtech}}
+
+<pre>
+
+
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<DBS>
+<String index="0">
+ <Origin>bcg_heroroom_a</Origin>
+ <ToTranslate>bcg_heroroom_a</ToTranslate>
+ </String>
+<String index="1">
+ <Origin>_MsgBoxMain_On</Origin>
+ <ToTranslate>_MsgBoxMain_On</ToTranslate>
+ </String>
+<String index="2">
+ <Origin>bgm02</Origin>
+ <ToTranslate>bgm02</ToTranslate>
+ </String>
+<String index="3">
+ <Origin>SE062</Origin>
+ <ToTranslate>SE062</ToTranslate>
+ </String>
+<String index="4">
+ <Origin>tcg_kan11ca</Origin>
+ <ToTranslate>tcg_kan11ca</ToTranslate>
+ </String>
+<String index="5">
+ <Origin>tcg_kan11m</Origin>
+ <ToTranslate>tcg_kan11m</ToTranslate>
+ </String>
+<String index="6">
+ <Origin>aisy2825</Origin>
+ <ToTranslate>aisy2825</ToTranslate>
+ </String>
+<String index="7">
+ <Origin>Aisha$"Pardon me for interrupting your work, My Lord."@</Origin>
+ <ToTranslate>Айша$Господин простите, что отвлекаю от работы.@</ToTranslate>
+ </String>
+<String index="8">
+ <Origin>Kazuto$"Ugh... huh? Ugh."@</Origin>
+ <ToTranslate>Казуто$Угх... что?@</ToTranslate>
+ </String>
+<String index="9">
+ <Origin>$I responded with a grunt, glaring at the mountain of paperwork before me.@</Origin>
+ <ToTranslate>$Я ответил, бормоча, глядя на всю эту кучу документов передо мною.@</ToTranslate>
+ </String>
+<String index="10">
+ <Origin>$If only it had been Rinrin instead. She would have actually cheered me up...@</Origin>
+ <ToTranslate>$Если бы вместо неё была Ринрин. Она взбодрила бы меня...@</ToTranslate>
+ </String>
+<String index="11">
+ <Origin>tcg_kan31ka</Origin>
+ <ToTranslate>tcg_kan31ka</ToTranslate>
+ </String>
+<String index="12">
+ <Origin>tcg_kan31m</Origin>
+ <ToTranslate>tcg_kan31m</ToTranslate>
+ </String>
+<String index="13">
+ <Origin>aisy2826</Origin>
+ <ToTranslate>aisy2826</ToTranslate>
+ </String>
+<String index="14">
+ <Origin>Aisha$"I see the work has exhausted you. Unfortunately, as Grand Administrator, these matters do require your personal judgment, so there is no way to avoid it."@</Origin>
+ <ToTranslate>Айша$Я смотрю, работа вас утомила. К несчастью вы правитель, а эти вопросы требуют вашего личного одобрения, поэтому этого ни как не избежать.@</ToTranslate>
+ </String>
+<String index="15">
+ <Origin>Kazuto$"Yeah... don't worry about it."@</Origin>
+ <ToTranslate>Казуто$Да... Не переживай.@</ToTranslate>
+ </String>
+<String index="16">
+ <Origin>$She seemed to have something on her mind. I had no idea what it could have been.@</Origin>
+ <ToTranslate>$Похоже, она чем-то озабочена. Без понятия, что же это может быть.@</ToTranslate>
+ </String>
+<String index="17">
+ <Origin>Kazuto$"So, did you need something?"@</Origin>
+ <ToTranslate>Казуто$Так что тебе надо?@</ToTranslate>
+ </String>
+<String index="18">
+ <Origin>tcg_kan11ca</Origin>
+ <ToTranslate>tcg_kan11ca</ToTranslate>
+ </String>
+<String index="19">
+ <Origin>tcg_kan11m</Origin>
+ <ToTranslate>tcg_kan11m</ToTranslate>
+ </String>
+<String index="20">
+ <Origin>aisy2827</Origin>
+ <ToTranslate>aisy2827</ToTranslate>
+ </String>
+<String index="21">
+ <Origin>Aisha$"Ah, well... now that I see how tired you are, I hesitate to say. Please understand, this is in no way a compromise of my devotion to you..."@</Origin>
+ <ToTranslate>Айша$Ах,ну... теперь я вижу как вы устали, мне теперь неловко просить. Пожалуйста, поймите, я не пользуюсь вашим доверием, моя преданность вам...@</ToTranslate>
+ </String>
+<String index="22">
+ <Origin>Kazuto$"Just tell me what's going on, please." @</Origin>
+ <ToTranslate>Казуто$Просто скажи мне что происходит.@</ToTranslate>
+ </String>
+<String index="23">
+ <Origin>$I was so tired, I must have sounded more irritated than I meant to. It only made Aisha more tense.@</Origin>
+ <ToTranslate>$Я так устал, похоже, мой голос прозвучал раздраженней, чем должен был. От этого напряжение Айши ещё больше напряглась.@</ToTranslate>
+ </String>
+<String index="24">
+ <Origin>tcg_kan31ka</Origin>
+ <ToTranslate>tcg_kan31ka</ToTranslate>
+ </String>
+<String index="25">
+ <Origin>tcg_kan31m</Origin>
+ <ToTranslate>tcg_kan31m</ToTranslate>
+ </String>
+<String index="26">
+ <Origin>aisy2828</Origin>
+ <ToTranslate>aisy2828</ToTranslate>
+ </String>
+<String index="27">
+ <Origin>Aisha$"You may finish your morning work first, but after that... would you please assist with today's patrol around the city?" @</Origin>
+ <ToTranslate>Айша$Сначала закончи с утренней работой, но потом... ты не мог бы мне помочь с патрулированием города?@</ToTranslate>
+ </String>
+<String index="28">
+ <Origin>Kazuto$"Patrol?"@</Origin>
+ <ToTranslate>Казуто$Обходом?@</ToTranslate>
+ </String>
+<String index="29">
+ <Origin>tcg_kan11ca</Origin>
+ <ToTranslate>tcg_kan11ca</ToTranslate>
+ </String>
+<String index="30">
+ <Origin>tcg_kan11m</Origin>
+ <ToTranslate>tcg_kan11m</ToTranslate>
+ </String>
+<String index="31">
+ <Origin>aisy2829</Origin>
+ <ToTranslate>aisy2829</ToTranslate>
+ </String>
+<String index="32">
+ <Origin>Aisha$"Yes."@</Origin>
+ <ToTranslate>Айша$Да.@</ToTranslate>
+ </String>
+<String index="33">
+ <Origin>$She continued to stand at attention, unmoving. Something was off. I broke down the mountain of completed documents to look directly at her.@</Origin>
+ <ToTranslate>$Она продолжала стоять смирно. Что-то не так. Я сдвинул кучу документов, чтобы посмотреть прямо на неё.@</ToTranslate>
+ </String>
+<String index="34">
+ <Origin>Kazuto$"Don't we have enough people patrolling already? And as I recall, there's already you, Rinrin, and Sui supervising them." @</Origin>
+ <ToTranslate>Kazuto$"Разве у нас недостаточно людей патрулирует город? И на сколько я помню Ринрин и Суй командуют ними.@</ToTranslate>
+ </String>
+<String index="35">
+ <Origin>tcg_kan31ka</Origin>
+ <ToTranslate>tcg_kan31ka</ToTranslate>
+ </String>
+<String index="36">
+ <Origin>tcg_kan31m</Origin>
+ <ToTranslate>tcg_kan31m</ToTranslate>
+ </String>
+<String index="37">
+ <Origin>aisy2830</Origin>
+ <ToTranslate>aisy2830</ToTranslate>
+ </String>
+<String index="38">
+ <Origin>Aisha$".................."@</Origin>
+ <ToTranslate>Айша$...@</ToTranslate>
+ </String>
+<String index="39">
+ <Origin>Kazuto$"You want me to go out there this afternoon? Let me check the schedule."Ѓ@@</Origin>
+ <ToTranslate>Казуто$Ты хочешь, чтобы я пошёл с тобой после обеда? Сейчас гляну на график.Ѓ@@</ToTranslate>
+ </String>
+<String index="40">
+ <Origin>$I checked the patrol rotation schedule for each general's unit.@</Origin>
+ <ToTranslate>$Я проверил график передвижения патрулей каждого генерала.@</ToTranslate>
+ </String>
+<String index="41">
+ <Origin>Kazuto$"Ren is supposed to be in charge today... she can't go?" @</Origin>
+ <ToTranslate>Казуто$Сегодня Рэн ответсвенная... она не могла уйти?@</ToTranslate>
+ </String>
+<String index="42">
+ <Origin>tcg_kan31ha</Origin>
+ <ToTranslate>tcg_kan31ha</ToTranslate>
+ </String>
+<String index="43">
+ <Origin>tcg_kan31m</Origin>
+ <ToTranslate>tcg_kan31m</ToTranslate>
+ </String>
+<String index="44">
+ <Origin>aisy2831</Origin>
+ <ToTranslate>aisy2831</ToTranslate>
+ </String>
+<String index="45">
+ <Origin>Aisha$"... she's missing."@</Origin>
+ <ToTranslate>Айша$... Она пропала.@</ToTranslate>
+ </String>
+<String index="46">
+ <Origin>Kazuto$"I see. She's missing... wait, what!?"@</Origin>
+ <ToTranslate>Казуто$Понятно. Пропала... погоди, что?!@</ToTranslate>
+ </String>
+<String index="47">
+ <Origin>tcg_kan11ma</Origin>
+ <ToTranslate>tcg_kan11ma</ToTranslate>
+ </String>
+<String index="48">
+ <Origin>tcg_kan11m</Origin>
+ <ToTranslate>tcg_kan11m</ToTranslate>
+ </String>
+<String index="49">
+ <Origin>muka</Origin>
+ <ToTranslate>muka</ToTranslate>
+ </String>
+<String index="50">
+ <Origin>aisy2832</Origin>
+ <ToTranslate>aisy2832</ToTranslate>
+ </String>
+<String index="51">
+ <Origin>Aisha$"Don't make me say it again! She's just gone. I don't have any more information than that!"@</Origin>
+ <ToTranslate>Айша$Не заставляй меня повторять! Она просто исчезла. Больше я ничего не знаю.@</ToTranslate>
+ </String>
+<String index="52">
+ <Origin>$Now she was angry at me!@</Origin>
+ <ToTranslate>$Теперь она злится на меня!@</ToTranslate>
+ </String>
+<String index="53">
+ <Origin>tcg_kan11ca</Origin>
+ <ToTranslate>tcg_kan11ca</ToTranslate>
+ </String>
+<String index="54">
+ <Origin>tcg_kan11m</Origin>
+ <ToTranslate>tcg_kan11m</ToTranslate>
+ </String>
+<String index="55">
+ <Origin>aisy2833</Origin>
+ <ToTranslate>aisy2833</ToTranslate>
+ </String>
+<String index="56">
+ <Origin>Aisha$"I told her to go out on patrol today with her soldiers! She's so irresponsible! You have to do something about her!"@</Origin>
+ <ToTranslate>Айша$Я сказала ей идти сегодня со своими солдатами патрулировать город! Она такая безответственная! Ты должен что-то с ней сделать!@</ToTranslate>
+ </String>
+<String index="57">
+ <Origin>$Her fury had my hair standing on end. She was the picture of perfect resentment. I really didn't want to get involved...@</Origin>
+ <ToTranslate>$От её ярости у меня волосы встали дыбом... Словно воплощение ненависти. Я не хочу быть втянутым в это... @</ToTranslate>
+ </String>
+<String index="58">
+ <Origin>Kazuto$"Can't you think of any place she might be?"@</Origin>
+ <ToTranslate>Казуто$Не знаешь где она может быть?@</ToTranslate>
+ </String>
+<String index="59">
+ <Origin>tcg_kan31ha</Origin>
+ <ToTranslate>tcg_kan31ha</ToTranslate>
+ </String>
+<String index="60">
+ <Origin>tcg_kan31m</Origin>
+ <ToTranslate>tcg_kan31m</ToTranslate>
+ </String>
+<String index="61">
+ <Origin>aisy2834</Origin>
+ <ToTranslate>aisy2834</ToTranslate>
+ </String>
+<String index="62">
+ <Origin>Aisha$"No. I'm not her babysitter."@</Origin>
+ <ToTranslate>Айша$Нет. Я не её няня.@</ToTranslate>
+ </String>
+<String index="63">
+ <Origin>Kazuto$"... I'm not the enemy, here."@</Origin>
+ <ToTranslate>Казуто$Я же не враг...@</ToTranslate>
+ </String>
+<String index="64">
+ <Origin>tcg_kan11ea</Origin>
+ <ToTranslate>tcg_kan11ea</ToTranslate>
+ </String>
+<String index="65">
+ <Origin>tcg_kan11m</Origin>
+ <ToTranslate>tcg_kan11m</ToTranslate>
+ </String>
+<String index="66">
+ <Origin>aisy2835</Origin>
+ <ToTranslate>aisy2835</ToTranslate>
+ </String>
+<String index="67">
+ <Origin>Aisha$"Ugh... I'm sorry for bringing personal grudges into this. I'm just concerned that she's not ready to bear the responsibilities of a general." @</Origin>
+ <ToTranslate>Айша$Ах... Извини, что обидела. Я просто беспокоюсь, что она не готова быть генералом.@</ToTranslate>
+ </String>
+<String index="68">
+ <Origin>Kazuto$"Come on, don't ruin that pretty face with all that anger."@</Origin>
+ <ToTranslate>Казуто$Дайвай, не порть милое личико всей этой злобой.@</ToTranslate>
+ </String>
+<String index="69">
+ <Origin>tcg_kan11qa</Origin>
+ <ToTranslate>tcg_kan11qa</ToTranslate>
+ </String>
+<String index="70">
+ <Origin>tcg_kan11m</Origin>
+ <ToTranslate>tcg_kan11m</ToTranslate>
+ </String>
+<String index="71">
+ <Origin>aisy2836</Origin>
+ <ToTranslate>aisy2836</ToTranslate>
+ </String>
+<String index="72">
+ <Origin>Aisha$"Don't try to disguise the issue with your usual flattery! It's your job to assess your soldiers for competency! Don't you understand that!?"@</Origin>
+ <ToTranslate>Айша$Не пытайся уклониться от вопроса с помощью лести! Это твоя работа оценивать, компетентность твоих солдат! Разве ты не понимаешь этого?!@</ToTranslate>
+ </String>
+<String index="73">
+ <Origin>Kazuto$"You don't have to get so angry about it..."@</Origin>
+ <ToTranslate>Казуто$Не стоит так злится по этому поводу...@</ToTranslate>
+ </String>
+<String index="74">
+ <Origin>tcg_kan11ma</Origin>
+ <ToTranslate>tcg_kan11ma</ToTranslate>
+ </String>
+<String index="75">
+ <Origin>tcg_kan11m</Origin>
+ <ToTranslate>tcg_kan11m</ToTranslate>
+ </String>
+<String index="76">
+ <Origin>aisy2837</Origin>
+ <ToTranslate>aisy2837</ToTranslate>
+ </String>
+<String index="77">
+ <Origin>Aisha$"I keep telling you, I'm not angry!"@</Origin>
+ <ToTranslate>Айша$Я устала повторять, я не злюсь!@</ToTranslate>
+ </String>
+<String index="78">
+ <Origin>$She was in a rage... my attempt at calming her had backfired. I held up a placating hand.@</Origin>
+ <ToTranslate>$Она в ярости... попытка успокоить её, возымела обратный эффект. Я поднял руку, чтобы унять её.@</ToTranslate>
+ </String>
+<String index="79">
+ <Origin>Kazuto$"All right. Let's both cool down and try to solve this problem together. Okay?"@</Origin>
+ <ToTranslate>Казуто$Давай остынем и попытаемся решить проблему вместе. Хорошо"@</ToTranslate>
+ </String>
+<String index="80">
+ <Origin>tcg_kan31ha</Origin>
+ <ToTranslate>tcg_kan31ha</ToTranslate>
+ </String>
+<String index="81">
+ <Origin>tcg_kan31m</Origin>
+ <ToTranslate>tcg_kan31m</ToTranslate>
+ </String>
+<String index="82">
+ <Origin>aisy2838</Origin>
+ <ToTranslate>aisy2838</ToTranslate>
+ </String>
+<String index="83">
+ <Origin>Aisha$"......... yes, sir."Ѓ@@</Origin>
+ <ToTranslate>Айша$... да, господин.Ѓ@@</ToTranslate>
+ </String>
+<String index="84">
+ <Origin>$She nodded grudgingly. I was starting to feel like Aisha's punching bag and I wanted it to be over with.@</Origin>
+ <ToTranslate>$Она неохотно кивнула. Я начинаю чувствовать себя боксёрской грушей Айши. Надо с этим покончить.@</ToTranslate>
+ </String>
+<String index="85">
+ <Origin>Kazuto$"Aisha... do you hate Ren?"@</Origin>
+ <ToTranslate>Казуто$Айша... ты ненавидишь Рэн?@</ToTranslate>
+ </String>
+<String index="86">
+ <Origin>tcg_kan21da</Origin>
+ <ToTranslate>tcg_kan21da</ToTranslate>
+ </String>
+<String index="87">
+ <Origin>tcg_kan21m</Origin>
+ <ToTranslate>tcg_kan21m</ToTranslate>
+ </String>
+<String index="88">
+ <Origin>aisy2839</Origin>
+ <ToTranslate>aisy2839</ToTranslate>
+ </String>
+<String index="89">
+ <Origin>Aisha$"What? That question came completely out of nowhere. I wouldn't even know how to answer it." @</Origin>
+ <ToTranslate>Айша$Что? Такого вопроса я не ожидала. Я даже не знаю, как на него ответить.@</ToTranslate>
+ </String>
+<String index="90">
+ <Origin>tcg_kan31ka</Origin>
+ <ToTranslate>tcg_kan31ka</ToTranslate>
+ </String>
+<String index="91">
+ <Origin>tcg_kan31m</Origin>
+ <ToTranslate>tcg_kan31m</ToTranslate>
+ </String>
+<String index="92">
+ <Origin>aisy2840</Origin>
+ <ToTranslate>aisy2840</ToTranslate>
+ </String>
+<String index="93">
+ <Origin>Aisha$"... no, I don't hate her."@</Origin>
+ <ToTranslate>Айша$... нет, я не ненавижу её.@</ToTranslate>
+ </String>
+<String index="94">
+ <Origin>$She avoided my gaze as she answered. It wasn't very persuasive.@</Origin>
+ <ToTranslate>$Это было не очень убедительно. Она избегала моего взгляда, когда отвечала.@</ToTranslate>
+ </String>
+<String index="95">
+ <Origin>Kazuto$"You can tell me if you just hate her. I don't share your feelings, but I won't mind, either."@</Origin>
+ <ToTranslate>Казуто$Можешь сказать мне, если ненавидишь её. Я не разделяю твоих чувств, но я не буду возражать.@</ToTranslate>
+ </String>
+<String index="96">
+ <Origin>tcg_kan31ha</Origin>
+ <ToTranslate>tcg_kan31ha</ToTranslate>
+ </String>
+<String index="97">
+ <Origin>tcg_kan31m</Origin>
+ <ToTranslate>tcg_kan31m</ToTranslate>
+ </String>
+<String index="98">
+ <Origin>aisy2841</Origin>
+ <ToTranslate>aisy2841</ToTranslate>
+ </String>
+<String index="99">
+ <Origin>Aisha$"... why do you always say things like that."@</Origin>
+ <ToTranslate>Айша$... почему ты вечно говоришь такие вещи?@</ToTranslate>
+ </String>
+<String index="100">
+ <Origin>$Aisha wasn't as strong as people thought, but she was still a lot stronger than me.@</Origin>
+ <ToTranslate>$Айша не была так сильна, как думали люди, но она всё ещё была намного сильнее меня.@</ToTranslate>
+ </String>
+<String index="101">
+ <Origin>tcg_kan11aa</Origin>
+ <ToTranslate>tcg_kan11aa</ToTranslate>
+ </String>
+<String index="102">
+ <Origin>tcg_kan11m</Origin>
+ <ToTranslate>tcg_kan11m</ToTranslate>
+ </String>
+<String index="103">
+ <Origin>aisy2842</Origin>
+ <ToTranslate>aisy2842</ToTranslate>
+ </String>
+<String index="104">
+ <Origin>Aisha$"I just want you to discipline her. That's all I'm saying."Ѓ@@</Origin>
+ <ToTranslate>Айша$Я только сказала, что хочу, чтобы ты занялся её дисциплиной.Ѓ@@</ToTranslate>
+ </String>
+<String index="105">
+ <Origin>$She smiled slightly, and met my gaze with confidence.@</Origin>
+ <ToTranslate>$Она слабо улыбнулась, и наши взгляды встретились.@</ToTranslate>
+ </String>
+<String index="106">
+ <Origin>tcg_kan31ha</Origin>
+ <ToTranslate>tcg_kan31ha</ToTranslate>
+ </String>
+<String index="107">
+ <Origin>tcg_kan31m</Origin>
+ <ToTranslate>tcg_kan31m</ToTranslate>
+ </String>
+<String index="108">
+ <Origin>bgm23</Origin>
+ <ToTranslate>bgm23</ToTranslate>
+ </String>
+<String index="109">
+ <Origin>aisy2843</Origin>
+ <ToTranslate>aisy2843</ToTranslate>
+ </String>
+<String index="110">
+ <Origin>Aisha$"I don't hate her... If it seems like my attitude toward her is harsh then..."@</Origin>
+ <ToTranslate>Aisha$Я не ненавижу её... Если, кажется, что я сурова к ней, то...@</ToTranslate>
+ </String>
+<String index="111">
+ <Origin>tcg_kan31ka</Origin>
+ <ToTranslate>tcg_kan31ka</ToTranslate>
+ </String>
+<String index="112">
+ <Origin>tcg_kan31m</Origin>
+ <ToTranslate>tcg_kan31m</ToTranslate>
+ </String>
+<String index="113">
+ <Origin>aisy2844</Origin>
+ <ToTranslate>aisy2844</ToTranslate>
+ </String>
+<String index="114">
+ <Origin>Aisha$"... I imagine it's because I'm angry with myself."@</Origin>
+ <ToTranslate>Айша$Думаю это потому, что я злюсь на себя.@</ToTranslate>
+ </String>
+<String index="115">
+ <Origin>Kazuto$"... what do you mean?"@</Origin>
+ <ToTranslate>Казуто$Что ты имеешь в виду?@</ToTranslate>
+ </String>
+<String index="116">
+ <Origin>aisy2845</Origin>
+ <ToTranslate>aisy2845</ToTranslate>
+ </String>
+<String index="117">
+ <Origin>Aisha$"When I look at Ren... I feel powerless."@</Origin>
+ <ToTranslate>Айша$Когда я смотрю на Рэн... я начинаю чувствовать себя беспомощной. @</ToTranslate>
+ </String>
+<String index="118">
+ <Origin>$Aisha had always been such a confident leader and it was a shock to hear her describe herself as "powerless." My next words caught in my throat.@</Origin>
+ <ToTranslate>$Айша всегда была уверенным в себе лидером, это стало шоком услышать от неё что она "беспомощная". У меня пропал дар речи.@</ToTranslate>
+ </String>
+<String index="119">
+ <Origin>tcg_kan11ca</Origin>
+ <ToTranslate>tcg_kan11ca</ToTranslate>
+ </String>
+<String index="120">
+ <Origin>tcg_kan11m</Origin>
+ <ToTranslate>tcg_kan11m</ToTranslate>
+ </String>
+<String index="121">
+ <Origin>aisy2846</Origin>
+ <ToTranslate>aisy2846</ToTranslate>
+ </String>
+<String index="122">
+ <Origin>Aisha$"It's irritating. I have a reason to fight...I wanted to be strong and I've been fighting until this day."@</Origin>
+ <ToTranslate>Айша$Это раздражает. У меня есть повод для сражений... Я хотела быть сильной, и я сражалась до этого дня.@</ToTranslate>
+ </String>
+<String index="123">
+ <Origin>aisy2847</Origin>
+ <ToTranslate>aisy2847</ToTranslate>
+ </String>
+<String index="124">
+ <Origin>Aisha$"I believe in my convictions and I pull strength from that." @</Origin>
+ <ToTranslate>Айша$Я верю, в свои убеждения и черпаю из них силу. @</ToTranslate>
+ </String>
+<String index="125">
+ <Origin>Kazuto$"... ah."@</Origin>
+ <ToTranslate>Казуто$... ах.@</ToTranslate>
+ </String>
+<String index="126">
+ <Origin>tcg_kan31ha</Origin>
+ <ToTranslate>tcg_kan31ha</ToTranslate>
+ </String>
+<String index="127">
+ <Origin>tcg_kan31m</Origin>
+ <ToTranslate>tcg_kan31m</ToTranslate>
+ </String>
+<String index="128">
+ <Origin>aisy2848</Origin>
+ <ToTranslate>aisy2848</ToTranslate>
+ </String>
+<String index="129">
+ <Origin>Aisha$"But Ren has no convictions... she's like a wild beast."@</Origin>
+ <ToTranslate>Айша$Но у Рэн нету никаких убеждений... она как дикий зверь.@</ToTranslate>
+ </String>
+<String index="130">
+ <Origin>aisy2849</Origin>
+ <ToTranslate>aisy2849</ToTranslate>
+ </String>
+<String index="131">
+ <Origin>Aisha$"Her power is a match for Rinrin and myself, but she only uses it for herself. Power like hers could save so many lives."@</Origin>
+ <ToTranslate>Айша$Она сильная как Ринрин и я, но она использует её для себя. Её сила смогла бы спасти множество жизней. №@</ToTranslate>
+ </String>
+<String index="132">
+ <Origin>tcg_kan31ka</Origin>
+ <ToTranslate>tcg_kan31ka</ToTranslate>
+ </String>
+<String index="133">
+ <Origin>tcg_kan31m</Origin>
+ <ToTranslate>tcg_kan31m</ToTranslate>
+ </String>
+<String index="134">
+ <Origin>aisy2850</Origin>
+ <ToTranslate>aisy2850</ToTranslate>
+ </String>
+<String index="135">
+ <Origin>Aisha$"I can't understand why providence would chose to give power to someone like her." @</Origin>
+ <ToTranslate>Айша$Не пойму, почему судьба наделила такой силой, кого-то вроде неё. @</ToTranslate>
+ </String>
+<String index="136">
+ <Origin>$I could tell she had been thinking this over for a long time. She paused only briefly before resuming.@</Origin>
+ <ToTranslate>$Она, похоже, долго об этом размышляла. Она на мгновение остановилась, а затем подолжила.@</ToTranslate>
+ </String>
+<String index="137">
+ <Origin>tcg_kan11ca</Origin>
+ <ToTranslate>tcg_kan11ca</ToTranslate>
+ </String>
+<String index="138">
+ <Origin>tcg_kan11m</Origin>
+ <ToTranslate>tcg_kan11m</ToTranslate>
+ </String>
+<String index="139">
+ <Origin>aisy2851</Origin>
+ <ToTranslate>aisy2851</ToTranslate>
+ </String>
+<String index="140">
+ <Origin>Aisha$"I... envy her. That's the real reason I'm irritated."@</Origin>
+ <ToTranslate>Айша$Я... завидую ей. Этот настоящая причина, по которой я злюсь.@</ToTranslate>
+ </String>
+<String index="141">
+ <Origin>$Aisha's hands balled into trembling fists.@</Origin>
+ <ToTranslate>$Дрожащие руки Айши сжались в кулаки.@</ToTranslate>
+ </String>
+<String index="142">
+ <Origin>Kazuto$"I think I know what you mean."@</Origin>
+ <ToTranslate>Казуто$Думаю я понял, что ты имеешь в виду.@</ToTranslate>
+ </String>
+<String index="143">
+ <Origin>SE074</Origin>
+ <ToTranslate>SE074</ToTranslate>
+ </String>
+<String index="144">
+ <Origin>tcg_kan21da</Origin>
+ <ToTranslate>tcg_kan21da</ToTranslate>
+ </String>
+<String index="145">
+ <Origin>tcg_kan21m</Origin>
+ <ToTranslate>tcg_kan21m</ToTranslate>
+ </String>
+<String index="146">
+ <Origin>aisy2852</Origin>
+ <ToTranslate>aisy2852</ToTranslate>
+ </String>
+<String index="147">
+ <Origin>Aisha$"... My Lord?"@</Origin>
+ <ToTranslate>Айша$...Господин?@</ToTranslate>
+ </String>
+<String index="148">
+ <Origin>$I stood up from my chair. Aisha reacted with exaggerated surprise, drawing away from me.@</Origin>
+ <ToTranslate>$Я встал со стула. Айша сильно удивилась, и отстранилась от меня.@</ToTranslate>
+ </String>
+<String index="149">
+ <Origin>Kazuto$"I'd like to ask you a favor. Promise me you'll think about it."Ѓ@@</Origin>
+ <ToTranslate>Казуто$Я хочу попросить об одолжении. Пообещай, что обдумаешь его.Ѓ@@</ToTranslate>
+ </String>
+<String index="150">
+ <Origin>$I drew close and laid my hand on her shoulder. I really wanted to hug her and stroke her hair.@</Origin>
+ <ToTranslate>$Я подошёл и положил ей руку на плечо. Я очень хотел обнять её и погладить её по голове.@</ToTranslate>
+ </String>
+<String index="151">
+ <Origin>tcg_kan31ja</Origin>
+ <ToTranslate>tcg_kan31ja</ToTranslate>
+ </String>
+<String index="152">
+ <Origin>tcg_kan31m</Origin>
+ <ToTranslate>tcg_kan31m</ToTranslate>
+ </String>
+<String index="153">
+ <Origin>aisy2853</Origin>
+ <ToTranslate>aisy2853</ToTranslate>
+ </String>
+<String index="154">
+ <Origin>Aisha$"... what is it?"@</Origin>
+ <ToTranslate>Айша$... Что?@</ToTranslate>
+ </String>
+<String index="155">
+ <Origin>Kazuto$"Ren's always been fighting alone... she's had no soldiers to back her up."@</Origin>
+ <ToTranslate>Казуто$Рэн всегда сражалась в одиночку... у неё не было солдат, которые смогли бы прикрыть её (тыл).@</ToTranslate>
+ </String>
+<String index="156">
+ <Origin>tcg_kan31ka</Origin>
+ <ToTranslate>tcg_kan31ka</ToTranslate>
+ </String>
+<String index="157">
+ <Origin>tcg_kan31m</Origin>
+ <ToTranslate>tcg_kan31m</ToTranslate>
+ </String>
+<String index="158">
+ <Origin>aisy2854</Origin>
+ <ToTranslate>aisy2854</ToTranslate>
+ </String>
+<String index="159">
+ <Origin>Aisha$"Yes... because she doesn't need any help."@</Origin>
+ <ToTranslate>Айша$Конечно... ведь ей никакая помощь не нужна.@</ToTranslate>
+ </String>
+<String index="160">
+ <Origin>Kazuto$"Er, that's not what I'm trying to say."@</Origin>
+ <ToTranslate>Казто$Эх, я не это пытаюсь сказать.@</ToTranslate>
+ </String>
+<String index="161">
+ <Origin>$Her eyes were narrowed dubiously. I looked at her, trying to get back on track.@</Origin>
+ <ToTranslate>$В её глазах читалось сомнение. Я посмотрел на неё и попытался вернуть разговор в прежнее русло.@</ToTranslate>
+ </String>
+<String index="162">
+ <Origin>Kazuto$"When I speak to her, and watch her... I'm not sure she values anything. Maybe not even herself." @</Origin>
+ <ToTranslate>Казуто$"Когда я смотрел на неё и говорил с ней... не уверен, что она ценит что либо. Возможно и себя тоже.@</ToTranslate>
+ </String>
+<String index="163">
+ <Origin>tcg_kan21da</Origin>
+ <ToTranslate>tcg_kan21da</ToTranslate>
+ </String>
+<String index="164">
+ <Origin>tcg_kan21m</Origin>
+ <ToTranslate>tcg_kan21m</ToTranslate>
+ </String>
+<String index="165">
+ <Origin>aisy2855</Origin>
+ <ToTranslate>aisy2855</ToTranslate>
+ </String>
+<String index="166">
+ <Origin>Aisha$"......?"@</Origin>
+ <ToTranslate>Айша$?..@</ToTranslate>
+ </String>
+<String index="167">
+ <Origin>Kazuto$"I don't think she's ever had any friends, or anyone to protect." @</Origin>
+ <ToTranslate>Казуто$Кажется у неё никогда ни кого не было, даже друзей, не кого было защитить. @</ToTranslate>
+ </String>
+<String index="168">
+ <Origin>$I figured Aisha would understand what a sad thing that was.@</Origin>
+ <ToTranslate>$Полагаю, Айша поймёт как это грустно.</ToTranslate>
+ </String>
+<String index="169">
+ <Origin>Kazuto$"It's only natural that she doesn't know how to use her power for someone else."@</Origin>
+ <ToTranslate>Казуто$Это естественно, что она не знает как использовать свою силу для защиты других.@</ToTranslate>
+ </String>
+<String index="170">
+ <Origin>tcg_kan31ha</Origin>
+ <ToTranslate>tcg_kan31ha</ToTranslate>
+ </String>
+<String index="171">
+ <Origin>tcg_kan31m</Origin>
+ <ToTranslate>tcg_kan31m</ToTranslate>
+ </String>
+<String index="172">
+ <Origin>aisy2856</Origin>
+ <ToTranslate>aisy2856</ToTranslate>
+ </String>
+<String index="173">
+ <Origin>Aisha$"... that is, assuming your assumption is accurate."@</Origin>
+ <ToTranslate>Айша$... Это если предположить, что твоё предположение верное.@</ToTranslate>
+ </String>
+<String index="174">
+ <Origin>Kazuto$"Yeah, I might be wrong."@</Origin>
+ <ToTranslate>Казуто$Да, я могу ошибаться.@</ToTranslate>
+ </String>
+<String index="175">
+ <Origin>$I spoke jokingly and patted her lightly on the shoulder.@</Origin>
+ <ToTranslate>$ Я говорил в шутку и слегка похлопал её по плечу.@</ToTranslate>
+ </String>
+<String index="176">
+ <Origin>Kazuto$"But neither of us can know for sure. Ren is the only one who knows what's going on in her heart."@</Origin>
+ <ToTranslate>Казуто$Но ни кто не знает наверняка. Рэн единственная кто знает, что происходит в её сердце.@</ToTranslate>
+ </String>
+<String index="177">
+ <Origin>tcg_kan11ea</Origin>
+ <ToTranslate>tcg_kan11ea</ToTranslate>
+ </String>
+<String index="178">
+ <Origin>tcg_kan11m</Origin>
+ <ToTranslate>tcg_kan11m</ToTranslate>
+ </String>
+<String index="179">
+ <Origin>aisy2857</Origin>
+ <ToTranslate>aisy2857</ToTranslate>
+ </String>
+<String index="180">
+ <Origin>Aisha$"Don't change the subject... she still needs to be disciplined." @</Origin>
+ <ToTranslate>Айша$Не меняй тему... её всё равно следует дисциплинировать. @</ToTranslate>
+ </String>
+<String index="181">
+ <Origin>Kazuto$"I'll talk with her if it comes to that. I don't think she's going to stay the way she is. I'm optimistic about it."@</Origin>
+ <ToTranslate>Казуто$Если на то пошло, я поговорю с ней. Не думаю, что она будет следовать по тому пути. Я надеюсь на это.@</ToTranslate>
+ </String>
+<String index="182">
+ <Origin>tcg_kan31ka</Origin>
+ <ToTranslate>tcg_kan31ka</ToTranslate>
+ </String>
+<String index="183">
+ <Origin>tcg_kan31m</Origin>
+ <ToTranslate>tcg_kan31m</ToTranslate>
+ </String>
+<String index="184">
+ <Origin>bgm03</Origin>
+ <ToTranslate>bgm03</ToTranslate>
+ </String>
+<String index="185">
+ <Origin>aisy2858</Origin>
+ <ToTranslate>aisy2858</ToTranslate>
+ </String>
+<String index="186">
+ <Origin>Aisha$"... that's also typical of you."@</Origin>
+ <ToTranslate>Айша$... Так типично для тебя. (так похоже на тебя)@</ToTranslate>
+ </String>
+<String index="187">
+ <Origin>Kazuto$"Look, people change. If this place becomes a home she doesn't want to lose... if she starts to think of you as friends... I'm sure she will too." @</Origin>
+ <ToTranslate>Казуто$Послушай, люди меняются. Если это место станет для неё домом, который она не хочет потерять... если вы подружитесь... уверен, она изменится.@</ToTranslate>
+ </String>
+<String index="188">
+ <Origin>$Ren would have to choose her own way of living... I prayed it would be the right one.@</Origin>
+ <ToTranslate>$Рэн придётся выбирать свой жизненный путь... молюсь, что она выберет правильный.@</ToTranslate>
+ </String>
+<String index="189">
+ <Origin>tcg_kan31ha</Origin>
+ <ToTranslate>tcg_kan31ha</ToTranslate>
+ </String>
+<String index="190">
+ <Origin>tcg_kan31m</Origin>
+ <ToTranslate>tcg_kan31m</ToTranslate>
+ </String>
+<String index="191">
+ <Origin>aisy2859</Origin>
+ <ToTranslate>aisy2859</ToTranslate>
+ </String>
+<String index="192">
+ <Origin>Aisha$"So you're saying... it's up to us? We should try to change her way of thinking?"@</Origin>
+ <ToTranslate>Айша$Так ты это нам говоришь?.. Мы должны попробовать изменить её образ мышления?@</ToTranslate>
+ </String>
+<String index="193">
+ <Origin>Kazuto$"Well, we shouldn't force it. Let's just take it one day at a time." @</Origin>
+ <ToTranslate>Казуто$Ну, мы не должны заставлять её.№ Let's just take it one day at a time." @</ToTranslate>
+ </String>
+<String index="194">
+ <Origin>$I could at least trust Ren that much.@</Origin>
+ <ToTranslate>$По крайней мере, я настолько могу доверять Рэн.@</ToTranslate>
+ </String>
+<String index="195">
+ <Origin>Kazuto$"Did you know that Ren has a very childlike side? If you talk to her, you might find you like being around her."@</Origin>
+ <ToTranslate>Казуто$Знаешь у Рэн есть и очень детские стороны? Если поговоришь с ней, может тебе и понравится быть с ней.@</ToTranslate>
+ </String>
+<String index="196">
+ <Origin>tcg_kan11ca</Origin>
+ <ToTranslate>tcg_kan11ca</ToTranslate>
+ </String>
+<String index="197">
+ <Origin>tcg_kan11m</Origin>
+ <ToTranslate>tcg_kan11m</ToTranslate>
+ </String>
+<String index="198">
+ <Origin>aisy2860</Origin>
+ <ToTranslate>aisy2860</ToTranslate>
+ </String>
+<String index="199">
+ <Origin>Aisha$"I can't believe what you're saying..."@</Origin>
+ <ToTranslate>Айша$Не могу поверить в твои слова...@</ToTranslate>
+ </String>
+<String index="200">
+ <Origin>Kazuto$"Just trust me!"@</Origin>
+ <ToTranslate>Казуто$Просто верь мне!@</ToTranslate>
+ </String>
+<String index="201">
+ <Origin>tcg_kan31la</Origin>
+ <ToTranslate>tcg_kan31la</ToTranslate>
+ </String>
+<String index="202">
+ <Origin>tcg_kan31m</Origin>
+ <ToTranslate>tcg_kan31m</ToTranslate>
+ </String>
+<String index="203">
+ <Origin>aisy2861</Origin>
+ <ToTranslate>aisy2861</ToTranslate>
+ </String>
+<String index="204">
+ <Origin>Aisha$"Well... if you insist, My Lord, I'll try to keep your words in mind."@</Origin>
+ <ToTranslate>Айша$Ну... если вы настаиваете господин, я постараюсь запомнить ваши слова.@</ToTranslate>
+ </String>
+<String index="205">
+ <Origin>$She was fidgeting. She must have been embarrassed. My hand was still on her shoulder as her eyebrows drew together thoughtfully.@</Origin>
+ <ToTranslate>$Она ёрзала, должно быть, это из-за волнения. Моя рука по-прежнему лежала на её плече. Она думала, и её брови сдвинулись в задумчивости. (ужас получился№)@</ToTranslate>
+ </String>
+<String index="206">
+ <Origin>tcg_kan11ca</Origin>
+ <ToTranslate>tcg_kan11ca</ToTranslate>
+ </String>
+<String index="207">
+ <Origin>tcg_kan11m</Origin>
+ <ToTranslate>tcg_kan11m</ToTranslate>
+ </String>
+<String index="208">
+ <Origin>aisy2862</Origin>
+ <ToTranslate>aisy2862</ToTranslate>
+ </String>
+<String index="209">
+ <Origin>Aisha$"I'm sorry for taking your time... as far as what I asked you earlier..."@</Origin>
+ <ToTranslate>Айша$Извини, что отвлекла... и насчёт того, что я спрашивала до этого...@</ToTranslate>
+ </String>
+<String index="210">
+ <Origin>Kazuto$"Oh, about the patrol? I got it."@</Origin>
+ <ToTranslate>Казуто$А, насчёт патруля? Я понял.@</ToTranslate>
+ </String>
+<String index="211">
+ <Origin>tcg_kan11aa</Origin>
+ <ToTranslate>tcg_kan11aa</ToTranslate>
+ </String>
+<String index="212">
+ <Origin>tcg_kan11m</Origin>
+ <ToTranslate>tcg_kan11m</ToTranslate>
+ </String>
+<String index="213">
+ <Origin>aisy2863</Origin>
+ <ToTranslate>aisy2863</ToTranslate>
+ </String>
+<String index="214">
+ <Origin>Aisha$"Yes. Thank you very much."@</Origin>
+ <ToTranslate>Айша$Да, большое спасибо.@</ToTranslate>
+ </String>
+<String index="215">
+ <Origin>$She spoke quickly, bowed, then moved to the door, clearly embarrassed.@</Origin>
+ <ToTranslate>$Она быстро сказала, поклонилась и пошла к двери, при этом казалась явно, смущённой.@</ToTranslate>
+ </String>
+<String index="216">
+ <Origin>$I saw her off.@</Origin>
+ <ToTranslate>$Я отвёл от неё взгляд.@</ToTranslate>
+ </String>
+<String index="217">
+ <Origin>$... suddenly, I didn't feel like going back to my mountain of paperwork.@</Origin>
+ <ToTranslate>$... неожиданно я понял, что не могу вернуться к работе, с этой горой документов.@</ToTranslate>
+ </String>
+<String index="218">
+ <Origin>Kazuto$"She's missing..."@</Origin>
+ <ToTranslate>Казуто$Она пропала...@</ToTranslate>
+ </String>
+<String index="219">
+ <Origin>$I had to defend her however I could... but where could she have gone?@</Origin>
+ <ToTranslate>$Я должен был защитить её... но куда она могла пойти?@</ToTranslate>
+ </String>
+<String index="220">
+ <Origin>_MsgBoxMain_Off</Origin>
+ <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+ </String>
+<String index="221">
+ <Origin>bb</Origin>
+ <ToTranslate>bb</ToTranslate>
+ </String>
+<String index="222">
+ <Origin>bg_black</Origin>
+ <ToTranslate>bg_black</ToTranslate>
+ </String>
+<String index="223">
+ <Origin>bb</Origin>
+ <ToTranslate>bb</ToTranslate>
+ </String>
+<String index="224">
+ <Origin>bcg_town_a</Origin>
+ <ToTranslate>bcg_town_a</ToTranslate>
+ </String>
+<String index="225">
+ <Origin>_MsgBoxMain_On</Origin>
+ <ToTranslate>_MsgBoxMain_On</ToTranslate>
+ </String>
+<String index="226">
+ <Origin>bgm02</Origin>
+ <ToTranslate>bgm02</ToTranslate>
+ </String>
+<String index="227">
+ <Origin>SE078</Origin>
+ <ToTranslate>SE078</ToTranslate>
+ </String>
+<String index="228">
+ <Origin>$I couldn't help but worry about her... there was no way I could concentrate on work in this state.@</Origin>
+ <ToTranslate>$Я волновался, но не мог помочь... в таком состоянии я не мог сосредоточиться на работе.@</ToTranslate>
+ </String>
+<String index="229">
+ <Origin>$There was still a ways to go, but I really needed a break.@</Origin>
+ <ToTranslate>$№Были ещё варианты, но мне нужно передохнуть. There was still a ways to go, but I really needed a break.@</ToTranslate>
+ </String>
+<String index="230">
+ <Origin>$I had gone out to the city to do the patrol and cheer myself up. It was crowded as usual.@</Origin>
+ <ToTranslate>$Я пошёл патрулировать город, и заодно взбодриться. Было людно, как и всегда @</ToTranslate>
+ </String>
+<String index="231">
+ <Origin>Kazuto$"It's lively again today. I guess this is what Shuri was talking about. All the new merchants are bringing the city back to life."@</Origin>
+ <ToTranslate>Казуто$Сегодня снова много народу. Похоже, об этом и говорила Шури. Все эти новые торговцы возвращают город к жизни.@</ToTranslate>
+ </String>
+<String index="232">
+ <Origin>$The men Aisha had sent to patrol were so dedicated to their duty that they wouldn't even respond.@</Origin>
+ <ToTranslate>$Люди, которых Айша отправила патрулировать, были настолько преданы своему делу, что даже ничего не докладывали.@</ToTranslate>
+ </String>
+<String index="233">
+ <Origin>$I heard the sounds of playful voices and looked up.@</Origin>
+ <ToTranslate>$Я услышал радостные детские голоса детские, и посмотрел.@</ToTranslate>
+ </String>
+<String index="234">
+ <Origin>$A group of children were playing tag...@</Origin>
+ <ToTranslate>$Кучка детворы играла в салки...@</ToTranslate>
+ </String>
+<String index="235">
+ <Origin>tcg_ryo11ea</Origin>
+ <ToTranslate>tcg_ryo11ea</ToTranslate>
+ </String>
+<String index="236">
+ <Origin>tcg_ryo11m</Origin>
+ <ToTranslate>tcg_ryo11m</ToTranslate>
+ </String>
+<String index="237">
+ <Origin>ren_0115</Origin>
+ <ToTranslate>ren_0115</ToTranslate>
+ </String>
+<String index="238">
+ <Origin>Ren$"..............."@</Origin>
+ <ToTranslate>Рэн$...@</ToTranslate>
+ </String>
+<String index="239">
+ <Origin>$I watched them darting in and out among the crowd...@</Origin>
+ <ToTranslate>$Я видел их вбегающими и выбегающими из толпы...@</ToTranslate>
+ </String>
+<String index="240">
+ <Origin>$... then I saw a familiar face, standing there alone.@</Origin>
+ <ToTranslate>$... затем я увидел знакомое лицо, она стояла там в одиночестве.@</ToTranslate>
+ </String>
+<String index="241">
+ <Origin>Kazuto$"... Ren?"@</Origin>
+ <ToTranslate>Казуто$...Рэн?@</ToTranslate>
+ </String>
+<String index="242">
+ <Origin>tcg_ryo21ga</Origin>
+ <ToTranslate>tcg_ryo21ga</ToTranslate>
+ </String>
+<String index="243">
+ <Origin>tcg_ryo21m</Origin>
+ <ToTranslate>tcg_ryo21m</ToTranslate>
+ </String>
+<String index="244">
+ <Origin>ren_0116</Origin>
+ <ToTranslate>ren_0116</ToTranslate>
+ </String>
+<String index="245">
+ <Origin>Ren$"......?"@</Origin>
+ <ToTranslate>Рэн$?..</ToTranslate>
+ </String>
+<String index="246">
+ <Origin>$It was her. As I called her name, her eyes flicked first toward me, then to the group of soldiers behind me.@</Origin>
+ <ToTranslate>$Это была она. Я позвал её, и она посмотрела сначала на меня, затем на группу солдат позади меня.@</ToTranslate>
+ </String>
+<String index="247">
+ <Origin>tcg_ryo11aa</Origin>
+ <ToTranslate>tcg_ryo11aa</ToTranslate>
+ </String>
+<String index="248">
+ <Origin>tcg_ryo11m</Origin>
+ <ToTranslate>tcg_ryo11m</ToTranslate>
+ </String>
+<String index="249">
+ <Origin>ren_0117</Origin>
+ <ToTranslate>ren_0117</ToTranslate>
+ </String>
+<String index="250">
+ <Origin>Ren$"... you're not taking a walk."@</Origin>
+ <ToTranslate>Рэн$... ты не гуляешь.@</ToTranslate>
+ </String>
+<String index="251">
+ <Origin>$It was just as I thought. She didn't really care...@</Origin>
+ <ToTranslate>$Как, я и думал. Ей всё равно...@</ToTranslate>
+ </String>
+<String index="252">
+ <Origin>Kazuto$"Hey! Don't go back to just standing there! Would you at least ask me why I'm here?"@</Origin>
+ <ToTranslate>Казуто$Ты так и будешь там стоять?! Может, хотя бы спросишь, почему я здесь?@</ToTranslate>
+ </String>
+<String index="253">
+ <Origin>tcg_ryo21aa</Origin>
+ <ToTranslate>tcg_ryo21aa</ToTranslate>
+ </String>
+<String index="254">
+ <Origin>tcg_ryo21m</Origin>
+ <ToTranslate>tcg_ryo21m</ToTranslate>
+ </String>
+<String index="255">
+ <Origin>ren_0118</Origin>
+ <ToTranslate>ren_0118</ToTranslate>
+ </String>
+<String index="256">
+ <Origin>Ren$"... why are you here?"@</Origin>
+ <ToTranslate>Рэн$... почему ты здесь?@</ToTranslate>
+ </String>
+<String index="257">
+ <Origin>$That wasn't what I wanted. I told the soldiers to wait for me for a little while.@</Origin>
+ <ToTranslate>$Это не то, что я хотел. Я сказал солдатам, чтобы подождали ещё немного.@</ToTranslate>
+ </String>
+<String index="258">
+ <Origin>Kazuto$"You were supposed to be on patrol, right? Aisha's furious with you because you took off without doing your job."@</Origin>
+ <ToTranslate>Казуто$Ты ведь должна патрулировать, верно? Айша в ярости, потому, что ты не выполняешь свою работу.@</ToTranslate>
+ </String>
+<String index="259">
+ <Origin>tcg_ryo41ka</Origin>
+ <ToTranslate>tcg_ryo41ka</ToTranslate>
+ </String>
+<String index="260">
+ <Origin>tcg_ryo41m</Origin>
+ <ToTranslate>tcg_ryo41m</ToTranslate>
+ </String>
+<String index="261">
+ <Origin>ren_0119</Origin>
+ <ToTranslate>ren_0119</ToTranslate>
+ </String>
+<String index="262">
+ <Origin>Ren$"...... (*Nod.*)"@</Origin>
+ <ToTranslate>Рэн$...*Кивает*"@</ToTranslate>
+ </String>
+<String index="263">
+ <Origin>$She wasn't listening to me. She nodded, but seemed more interested in something behind me. It was a tea shop.@</Origin>
+ <ToTranslate>$Она меня совсем не слушает. Она кивнула, но, похоже, её интересует что-то позади меня. Это чайная лавка.@</ToTranslate>
+ </String>
+<String index="264">
+ <Origin>Kazuto$"Are you hungry?"@</Origin>
+ <ToTranslate>Казуто$Ты голодна?@</ToTranslate>
+ </String>
+<String index="265">
+ <Origin>tcg_ryo11ea</Origin>
+ <ToTranslate>tcg_ryo11ea</ToTranslate>
+ </String>
+<String index="266">
+ <Origin>tcg_ryo11m</Origin>
+ <ToTranslate>tcg_ryo11m</ToTranslate>
+ </String>
+<String index="267">
+ <Origin>ren_0120</Origin>
+ <ToTranslate>ren_0120</ToTranslate>
+ </String>
+<String index="268">
+ <Origin>Ren$"...... no."@</Origin>
+ <ToTranslate>Рэн$... нет.@</ToTranslate>
+ </String>
+<String index="269">
+ <Origin>$But her eyes were still locked on the tea shop.@</Origin>
+ <ToTranslate>$Но, она по-прежнему смотрела на лавку.@</ToTranslate>
+ </String>
+<String index="270">
+ <Origin>Kazuto$"Ah, well... I want you to join us on our patrol. I'll take care of Aisha."@</Origin>
+ <ToTranslate>Казуто$А, ну... Я хочу, чтобы ты присоединилась к патрулю. Об Айше я позабочусь.@</ToTranslate>
+ </String>
+<String index="271">
+ <Origin>tcg_ryo21aa</Origin>
+ <ToTranslate>tcg_ryo21aa</ToTranslate>
+ </String>
+<String index="272">
+ <Origin>tcg_ryo21m</Origin>
+ <ToTranslate>tcg_ryo21m</ToTranslate>
+ </String>
+<String index="273">
+ <Origin>ren_0121</Origin>
+ <ToTranslate>ren_0121</ToTranslate>
+ </String>
+<String index="274">
+ <Origin>Ren$"...... food."@</Origin>
+ <ToTranslate>Рэн$... еда.@</ToTranslate>
+ </String>
+<String index="275">
+ <Origin>$Did she just say "food"!?@</Origin>
+ <ToTranslate>$Она, что сказала "еда"?!@</ToTranslate>
+ </String>
+<String index="276">
+ <Origin>Kazuto$"If you're hungry, just tell me."@</Origin>
+ <ToTranslate>Казуто$Если ты голодная просто скажи мне.@</ToTranslate>
+ </String>
+<String index="277">
+ <Origin>tcg_ryo11aa</Origin>
+ <ToTranslate>tcg_ryo11aa</ToTranslate>
+ </String>
+<String index="278">
+ <Origin>tcg_ryo11m</Origin>
+ <ToTranslate>tcg_ryo11m</ToTranslate>
+ </String>
+<String index="279">
+ <Origin>ren_0122</Origin>
+ <ToTranslate>ren_0122</ToTranslate>
+ </String>
+<String index="280">
+ <Origin>Ren$"...... I'm not hungry."@</Origin>
+ <ToTranslate>Рэн$... Я не голодна.@</ToTranslate>
+ </String>
+<String index="281">
+ <Origin>Kazuto$"Then why don't you come with us? We're aiming to get back to the palace by sunset."@</Origin>
+ <ToTranslate>Казуто$Тогда почему бы не пойти с нами? Мы собираемся вернуться во дворец до заката.@</ToTranslate>
+ </String>
+<String index="282">
+ <Origin>$Rrrrrrrrrrrrrrrumble....@</Origin>
+ <ToTranslate>$Уррррррр...@</ToTranslate>
+ </String>
+<String index="283">
+ <Origin>tcg_ryo21la</Origin>
+ <ToTranslate>tcg_ryo21la</ToTranslate>
+ </String>
+<String index="284">
+ <Origin>tcg_ryo21m</Origin>
+ <ToTranslate>tcg_ryo21m</ToTranslate>
+ </String>
+<String index="285">
+ <Origin>ren_0123</Origin>
+ <ToTranslate>ren_0123</ToTranslate>
+ </String>
+<String index="286">
+ <Origin>Ren$"............"@</Origin>
+ <ToTranslate>Рэн$...@</ToTranslate>
+ </String>
+<String index="287">
+ <Origin>$For a moment I thought it was thunder, but it was just her stomach growling.@</Origin>
+ <ToTranslate>$На мгновение мне показалось, что это гром, но это просто заурчало у неё в животе.@</ToTranslate>
+ </String>
+<String index="288">
+ <Origin>Kazuto$"I'll go get a pork bun for you, but you have to patrol with us after you eat, okay?"@</Origin>
+ <ToTranslate>Казуто$Я пойду куплю тебе свиных булочек, но как поешь, пойдёшь с нами патрулировать, хорошо?@</ToTranslate>
+ </String>
+<String index="289">
+ <Origin>tcg_ryo41ka</Origin>
+ <ToTranslate>tcg_ryo41ka</ToTranslate>
+ </String>
+<String index="290">
+ <Origin>tcg_ryo41m</Origin>
+ <ToTranslate>tcg_ryo41m</ToTranslate>
+ </String>
+<String index="291">
+ <Origin>ren_0124</Origin>
+ <ToTranslate>ren_0124</ToTranslate>
+ </String>
+<String index="292">
+ <Origin>Ren$"...... (*Nod.*)"Ѓ@@</Origin>
+ <ToTranslate>Рэн$... *Кивает.*"Ѓ@@</ToTranslate>
+ </String>
+<String index="293">
+ <Origin>_MsgBoxMain_Off</Origin>
+ <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+ </String>
+<String index="294">
+ <Origin>bb</Origin>
+ <ToTranslate>bb</ToTranslate>
+ </String>
+<String index="295">
+ <Origin>bg_black</Origin>
+ <ToTranslate>bg_black</ToTranslate>
+ </String>
+<String index="296">
+ <Origin>bb</Origin>
+ <ToTranslate>bb</ToTranslate>
+ </String>
+<String index="297">
+ <Origin>bcg_town_a</Origin>
+ <ToTranslate>bcg_town_a</ToTranslate>
+ </String>
+<String index="298">
+ <Origin>_MsgBoxMain_On</Origin>
+ <ToTranslate>_MsgBoxMain_On</ToTranslate>
+ </String>
+<String index="299">
+ <Origin>bgm26</Origin>
+ <ToTranslate>bgm26</ToTranslate>
+ </String>
+<String index="300">
+ <Origin>$I bought her a pork bun with what change I had. It smelled delicious, but I managed to save it for her.@</Origin>
+ <ToTranslate>$ Я купил её булочек на всю мелочь, что у меня была. Они вкусно пахнут, но я решил оставить их ей.@</ToTranslate>
+ </String>
+<String index="301">
+ <Origin>Kazuto$"Here you go."@</Origin>
+ <ToTranslate>Казуто$Вот.@</ToTranslate>
+ </String>
+<String index="302">
+ <Origin>tcg_ryo21aa</Origin>
+ <ToTranslate>tcg_ryo21aa</ToTranslate>
+ </String>
+<String index="303">
+ <Origin>tcg_ryo21m</Origin>
+ <ToTranslate>tcg_ryo21m</ToTranslate>
+ </String>
+<String index="304">
+ <Origin>ren_0125</Origin>
+ <ToTranslate>ren_0125</ToTranslate>
+ </String>
+<String index="305">
+ <Origin>Ren$"*Munch, munch, munch...*"@</Origin>
+ <ToTranslate>Рэн$*Чавк, чавк, чавк...*@</ToTranslate>
+ </String>
+<String index="306">
+ <Origin>$She began eating the moment it was in her hands. She was emotionless as always on the outside, but I smiled, knowing she was happy.@</Origin>
+ <ToTranslate>$Как только булочки оказались у неё в руках, она начала есть их. Она как всегда не выказывала эмоций на улице, но я улыбнулся ей, зная, что она довольна.@</ToTranslate>
+ </String>
+<String index="307">
+ <Origin>Kazuto$"You can keep eating, but we have to get back to work."@</Origin>
+ <ToTranslate>Казуто$Ты можешь продолжать есть, но нам пора дальше делать работу.@</ToTranslate>
+ </String>
+<String index="308">
+ <Origin>tcg_ryo41ka</Origin>
+ <ToTranslate>tcg_ryo41ka</ToTranslate>
+ </String>
+<String index="309">
+ <Origin>tcg_ryo41m</Origin>
+ <ToTranslate>tcg_ryo41m</ToTranslate>
+ </String>
+<String index="310">
+ <Origin>ren_0126</Origin>
+ <ToTranslate>ren_0126</ToTranslate>
+ </String>
+<String index="311">
+ <Origin>Ren$"*Munch.*"@</Origin>
+ <ToTranslate>Рэн$*Чавк*@</ToTranslate>
+ </String>
+<String index="312">
+ <Origin>$She nodded. I started to think she might concentrate on work as long as she was fed.@</Origin>
+ <ToTranslate>$Она кивнула. Я начал думать, что она может сосредоточиться на работе, когда хорошенько поест.@</ToTranslate>
+ </String>
+<String index="313">
+ <Origin>$With that thought in mind, I led her back to the patrol troop.@</Origin>
+ <ToTranslate>$С этими мыслями я повёл её на наш маршрут.@</ToTranslate>
+ </String>
+<String index="314">
+ <Origin>Kazuto$"Sorry for the wait. We're heading for the north gate, right? We need to get back before sunset..."@</Origin>
+ <ToTranslate>Казуто$Извините за задержку. Мы направляемся к северным вратам, верно? Мы должны вернуться до заката...@</ToTranslate>
+ </String>
+<String index="315">
+ <Origin>$Pull...@</Origin>
+ <ToTranslate>$*Тянет*@</ToTranslate>
+ </String>
+<String index="316">
+ <Origin>Kazuto$"... Ren-san, don't tell me you want to go home now that you're full." @</Origin>
+ <ToTranslate>Казуто$Рэн-сан... только не говори мне, что ты наелась и хочешь пойти домой. @</ToTranslate>
+ </String>
+<String index="317">
+ <Origin>tcg_ryo11ea</Origin>
+ <ToTranslate>tcg_ryo11ea</ToTranslate>
+ </String>
+<String index="318">
+ <Origin>tcg_ryo11m</Origin>
+ <ToTranslate>tcg_ryo11m</ToTranslate>
+ </String>
+<String index="319">
+ <Origin>$I turned back to her nervously... but my concern was unnecessary. Ren was looking away from the palace, toward the food stalls.@</Origin>
+ <ToTranslate>$Я, нервничая, повернулся к ней... но я зря переживал. Рэн смотрела на лавки с едой, а не в сторону дворца.@</ToTranslate>
+ </String>
+<String index="320">
+ <Origin>Kazuto$"... you want that?"@</Origin>
+ <ToTranslate>Казуто$... ты этого хочешь?@</ToTranslate>
+ </String>
+<String index="321">
+ <Origin>$I pointed toward the barbecue stand.@</Origin>
+ <ToTranslate>$Я указал на прилавок с барбекю.@</ToTranslate>
+ </String>
+<String index="322">
+ <Origin>tcg_ryo21aa</Origin>
+ <ToTranslate>tcg_ryo21aa</ToTranslate>
+ </String>
+<String index="323">
+ <Origin>tcg_ryo21m</Origin>
+ <ToTranslate>tcg_ryo21m</ToTranslate>
+ </String>
+<String index="324">
+ <Origin>ren_0127</Origin>
+ <ToTranslate>ren_0127</ToTranslate>
+ </String>
+<String index="325">
+ <Origin>Ren$"I ate a little... now I'm hungrier."@</Origin>
+ <ToTranslate>Рэн$Я немного перекусила... теперь я проголодалась.@</ToTranslate>
+ </String>
+<String index="326">
+ <Origin>Kazuto$"Why didn't you say that earlier!? Okay... sorry, guys. Wait a little longer." @</Origin>
+ <ToTranslate>Казуто$Почему ты не сказала об этом раньше?! Хорошо... извините парни. Подождите ещё немного. @</ToTranslate>
+ </String>
+<String index="327">
+ <Origin>$I made a U-turn and bought a bit of barbecued meat from the stall. I thought one portion would be enough.@</Origin>
+ <ToTranslate>$Я развернулся и купил в лавке порцию барбекю. Думаю, одной порции будет достаточно.@</ToTranslate>
+ </String>
+<String index="328">
+ <Origin>tcg_ryo11aa</Origin>
+ <ToTranslate>tcg_ryo11aa</ToTranslate>
+ </String>
+<String index="329">
+ <Origin>tcg_ryo11m</Origin>
+ <ToTranslate>tcg_ryo11m</ToTranslate>
+ </String>
+<String index="330">
+ <Origin>ren_0128</Origin>
+ <ToTranslate>ren_0128</ToTranslate>
+ </String>
+<String index="331">
+ <Origin>Ren$"...... hmm."@</Origin>
+ <ToTranslate>Рэн$...хмм.@</ToTranslate>
+ </String>
+<String index="332">
+ <Origin>Kazuto$"Eat slowly. Don't finish it too fast."@</Origin>
+ <ToTranslate>Казуто$Ешь не спеша. Не надо торопиться.@</ToTranslate>
+ </String>
+<String index="333">
+ <Origin>$I handed her the bamboo basket, thinking it should be enough...@</Origin>
+ <ToTranslate>$Я дал ей бамбуковую корзину, думая, что этого ей хватит...@</ToTranslate>
+ </String>
+<String index="334">
+ <Origin>tcg_zsh11aa</Origin>
+ <ToTranslate>tcg_zsh11aa</ToTranslate>
+ </String>
+<String index="335">
+ <Origin>tcg_zsh11m</Origin>
+ <ToTranslate>tcg_zsh11m</ToTranslate>
+ </String>
+<String index="336">
+ <Origin>Soldier$"We should hurry up, Kazuto-sama." @</Origin>
+ <ToTranslate>Солдат$Казуто-сама, нам надо поторапливаться.@</ToTranslate>
+ </String>
+<String index="337">
+ <Origin>Kazuto$"... I'm sorry."@</Origin>
+ <ToTranslate>Казуто$...Извините.@</ToTranslate>
+ </String>
+<String index="338">
+ <Origin>$I wished I didn't have to apologize to them. The awkwardness was palpable as we resumed walking.@</Origin>
+ <ToTranslate>$Я мог бы и не извиняться перед ними. Мы продолжили наш путь, но я себя чувствовал неловко.@</ToTranslate>
+ </String>
+<String index="339">
+ <Origin>tcg_ryo21aa</Origin>
+ <ToTranslate>tcg_ryo21aa</ToTranslate>
+ </String>
+<String index="340">
+ <Origin>tcg_ryo21m</Origin>
+ <ToTranslate>tcg_ryo21m</ToTranslate>
+ </String>
+<String index="341">
+ <Origin>ren_0129</Origin>
+ <ToTranslate>ren_0129</ToTranslate>
+ </String>
+<String index="342">
+ <Origin>Ren$"*Munch, munch... nod.*"@</Origin>
+ <ToTranslate>Рэн$Чавк, чавк, чавк... *кивает*@</ToTranslate>
+ </String>
+<String index="343">
+ <Origin>$I watched her stuff the food into her cheeks, chipmunk-like. We were going to the north gate, weren't we?@</Origin>
+ <ToTranslate>$Я смотрел, как она набивала рот едой, прямо как бурундучок. Мы ведь направляемся к северным воротам?@</ToTranslate>
+ </String>
+<String index="344">
+ <Origin>$Pull...@</Origin>
+ <ToTranslate>$*Тянет*@</ToTranslate>
+ </String>
+<String index="345">
+ <Origin>tcg_ryo11aa</Origin>
+ <ToTranslate>tcg_ryo11aa</ToTranslate>
+ </String>
+<String index="346">
+ <Origin>tcg_ryo11m</Origin>
+ <ToTranslate>tcg_ryo11m</ToTranslate>
+ </String>
+<String index="347">
+ <Origin>ren_0130</Origin>
+ <ToTranslate>ren_0130</ToTranslate>
+ </String>
+<String index="348">
+ <Origin>Ren$"More buns......"@</Origin>
+ <ToTranslate>Рэн$Ещё булочек...@</ToTranslate>
+ </String>
+<String index="349">
+ <Origin>Kazuto$"I told you to eat slowly!"@</Origin>
+ <ToTranslate>Казуто$Я же сказал тебе, есть не спеша!@</ToTranslate>
+ </String>
+<String index="350">
+ <Origin>tcg_ryo11ea</Origin>
+ <ToTranslate>tcg_ryo11ea</ToTranslate>
+ </String>
+<String index="351">
+ <Origin>tcg_ryo11m</Origin>
+ <ToTranslate>tcg_ryo11m</ToTranslate>
+ </String>
+<String index="352">
+ <Origin>ren_0131</Origin>
+ <ToTranslate>ren_0131</ToTranslate>
+ </String>
+<String index="353">
+ <Origin>Ren$"I'll eat slowly."@</Origin>
+ <ToTranslate>Рэн$Я ела медленно.@</ToTranslate>
+ </String>
+<String index="354">
+ <Origin>$She pulled at my sleeve and pointed at the stall. She was like a small child.@</Origin>
+ <ToTranslate>$Она потянула меня за рукав и показала на лавку. Ведёт себя словно ребёнок.@</ToTranslate>
+ </String>
+<String index="355">
+ <Origin>tcg_ryo21aa</Origin>
+ <ToTranslate>tcg_ryo21aa</ToTranslate>
+ </String>
+<String index="356">
+ <Origin>tcg_ryo21m</Origin>
+ <ToTranslate>tcg_ryo21m</ToTranslate>
+ </String>
+<String index="357">
+ <Origin>ren_0132</Origin>
+ <ToTranslate>ren_0132</ToTranslate>
+ </String>
+<String index="358">
+ <Origin>Ren$"I think I could eat those buns slowly..."@</Origin>
+ <ToTranslate>Рэн$Думаю, я смогу съесть эти булочки не спеша...@</ToTranslate>
+ </String>
+<String index="359">
+ <Origin>$She was developing a taste for them.@</Origin>
+ <ToTranslate>$Она попробовала их.@</ToTranslate>
+ </String>
+<String index="360">
+ <Origin>$I once heard a saying, "Never feed a stray dog, it'll follow you everywhere."@</Origin>
+ <ToTranslate>$ Мама говорила: "Никогда не корми бродячую собаку, иначе она за тобой увяжется".@</ToTranslate>
+ </String>
+<String index="361">
+ <Origin>$My mother told me that. Nevertheless, I headed toward the stall, unable to deny her.@</Origin>
+ <ToTranslate>$Но я не смог устоять, и сходил в лавку.@</ToTranslate>
+ </String>
+<String index="362">
+ <Origin>_MsgBoxMain_Off</Origin>
+ <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+ </String>
+<String index="363">
+ <Origin>bb</Origin>
+ <ToTranslate>bb</ToTranslate>
+ </String>
+<String index="364">
+ <Origin>bg_black</Origin>
+ <ToTranslate>bg_black</ToTranslate>
+ </String>
+<String index="365">
+ <Origin>_MsgBoxMain_On</Origin>
+ <ToTranslate>_MsgBoxMain_On</ToTranslate>
+ </String>
+<String index="366">
+ <Origin>$I had a feeling that even the stewed meat buns wouldn't be enough to calm her rumbling stomach.@</Origin>
+ <ToTranslate>$Похоже, этих мясных булочек не хватит, чтобы накормить её.@</ToTranslate>
+ </String>
+<String index="367">
+ <Origin>$Each delicious smell that wafted in on the breeze was a sign of trouble. Each time, she would pull at my sleeve.@</Origin>
+ <ToTranslate>$Любой запах вкусной еды, предвещает проблемы. Каждый раз она будет тянуть меня за рукав.@</ToTranslate>
+ </String>
+<String index="368">
+ <Origin>_MsgBoxMain_Off</Origin>
+ <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+ </String>
+<String index="369">
+ <Origin>bb</Origin>
+ <ToTranslate>bb</ToTranslate>
+ </String>
+<String index="370">
+ <Origin>bcg_town_a</Origin>
+ <ToTranslate>bcg_town_a</ToTranslate>
+ </String>
+<String index="371">
+ <Origin>_MsgBoxMain_On</Origin>
+ <ToTranslate>_MsgBoxMain_On</ToTranslate>
+ </String>
+<String index="372">
+ <Origin>tcg_ryo11aa</Origin>
+ <ToTranslate>tcg_ryo11aa</ToTranslate>
+ </String>
+<String index="373">
+ <Origin>tcg_ryo11m</Origin>
+ <ToTranslate>tcg_ryo11m</ToTranslate>
+ </String>
+<String index="374">
+ <Origin>ren_0133</Origin>
+ <ToTranslate>ren_0133</ToTranslate>
+ </String>
+<String index="375">
+ <Origin>Ren$"*Munch, munch, munch...*"@</Origin>
+ <ToTranslate>Рэн$*Чавк, чавк, чавк...*@</ToTranslate>
+ </String>
+<String index="376">
+ <Origin>$My change was going to run out at this rate... she had no intention of eating slowly as I requested.@</Origin>
+ <ToTranslate>$№My change was going to run out at this rate... she had no intention of eating slowly as I requested.@</ToTranslate>
+ </String>
+<String index="377">
+ <Origin>Kazuto$"You should be full by now."@</Origin>
+ <ToTranslate>Казуто$Теперь ты должно быть наелась.@</ToTranslate>
+ </String>
+<String index="378">
+ <Origin>tcg_ryo21aa</Origin>
+ <ToTranslate>tcg_ryo21aa</ToTranslate>
+ </String>
+<String index="379">
+ <Origin>tcg_ryo21m</Origin>
+ <ToTranslate>tcg_ryo21m</ToTranslate>
+ </String>
+<String index="380">
+ <Origin>ren_0134</Origin>
+ <ToTranslate>ren_0134</ToTranslate>
+ </String>
+<String index="381">
+ <Origin>Ren$"....... no."Ѓ@@</Origin>
+ <ToTranslate>Рэн$Нет..."Ѓ@@</ToTranslate>
+ </String>
+<String index="382">
+ <Origin>$Her reply was immediate. Now my job was in jeopardy as well as my wallet. We were moving at a snail's pace.@</Origin>
+ <ToTranslate>$Она немедленно ответила . Теперь моя работа под угрозой. Мы шли очень медленно.(не спеша, со скоростью улитки)№ @</ToTranslate>
+ </String>
+<String index="383">
+ <Origin>$Our patrol was turning into a leisurely stroll.@</Origin>
+ <ToTranslate>$Наше патрулирование, превращалось в прогулку.@</ToTranslate>
+ </String>
+<String index="384">
+ <Origin>tcg_zsh11aa</Origin>
+ <ToTranslate>tcg_zsh11aa</ToTranslate>
+ </String>
+<String index="385">
+ <Origin>tcg_zsh11m</Origin>
+ <ToTranslate>tcg_zsh11m</ToTranslate>
+ </String>
+<String index="386">
+ <Origin>Soldier$"Kazuto-sama..."@</Origin>
+ <ToTranslate>Солдат$Казуто-сама...@</ToTranslate>
+ </String>
+<String index="387">
+ <Origin>$I could feel the soldiers' eyes boring holes into my back. I hoped they wouldn't tell Aisha about this.@</Origin>
+ <ToTranslate>$Я чувствовал, как солдаты сверлили меня своими взглядами. Надеюсь, они ничего не расскажут Айше.@</ToTranslate>
+ </String>
+<String index="388">
+ <Origin>Kazuto$"How about we eat a proper meal later? We need to do our patrol. Look out for anyone who seems suspicious..."@</Origin>
+ <ToTranslate>Казуто$Может, позже поедим нормально? Нам надо закончить с патрулированием. Обращай внимание на тех, кто выглядит подозрительно...@</ToTranslate>
+ </String>
+<String index="389">
+ <Origin>tcg_ryo11aa</Origin>
+ <ToTranslate>tcg_ryo11aa</ToTranslate>
+ </String>
+<String index="390">
+ <Origin>tcg_ryo11m</Origin>
+ <ToTranslate>tcg_ryo11m</ToTranslate>
+ </String>
+<String index="391">
+ <Origin>ren_0135</Origin>
+ <ToTranslate>ren_0135</ToTranslate>
+ </String>
+<String index="392">
+ <Origin>Ren$"I like patrolling... I'll do this job right next time."@</Origin>
+ <ToTranslate>Рэн$Мне нравится патрулировать... В следующий раз я пойду.@</ToTranslate>
+ </String>
+<String index="393">
+ <Origin>Kazuto$"... that's good to know."@</Origin>
+ <ToTranslate>Казуто$Это хорошо.@</ToTranslate>
+ </String>
+<String index="394">
+ <Origin>tcg_ryo21aa</Origin>
+ <ToTranslate>tcg_ryo21aa</ToTranslate>
+ </String>
+<String index="395">
+ <Origin>tcg_ryo21m</Origin>
+ <ToTranslate>tcg_ryo21m</ToTranslate>
+ </String>
+<String index="396">
+ <Origin>ren_0136</Origin>
+ <ToTranslate>ren_0136</ToTranslate>
+ </String>
+<String index="397">
+ <Origin>Ren$"Tastes good."@</Origin>
+ <ToTranslate>Рэн$Вкусно.@</ToTranslate>
+ </String>
+<String index="398">
+ <Origin>Kazuto$"... I'm glad."@</Origin>
+ <ToTranslate>Kazuto$Я рад...@</ToTranslate>
+ </String>
+<String index="399">
+ <Origin>tcg_ryo21fa</Origin>
+ <ToTranslate>tcg_ryo21fa</ToTranslate>
+ </String>
+<String index="400">
+ <Origin>tcg_ryo21m</Origin>
+ <ToTranslate>tcg_ryo21m</ToTranslate>
+ </String>
+<String index="401">
+ <Origin>ren_0137</Origin>
+ <ToTranslate>ren_0137</ToTranslate>
+ </String>
+<String index="402">
+ <Origin>Ren$"Me too."@</Origin>
+ <ToTranslate>Рэн$Я тоже.@</ToTranslate>
+ </String>
+<String index="403">
+ <Origin>$But she was still traveling at her own slow pace... I knew I couldn't win.@</Origin>
+ <ToTranslate>$Но она продолжала идти своим неспешным шагом... я знал, что не смогу победить. @</ToTranslate>
+ </String>
+<String index="404">
+ <Origin>_MsgBoxMain_Off</Origin>
+ <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+ </String>
+<String index="405">
+ <Origin>bg_black</Origin>
+ <ToTranslate>bg_black</ToTranslate>
+ </String>
+ </DBS>
+
+
+</pre>
+[[Koihime Musou/Персонажи/Побочные|[Назад]]]

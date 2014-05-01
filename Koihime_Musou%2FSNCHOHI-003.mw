@@ -1,0 +1,622 @@
+<poem>
+<?xml version="1.0" encoding="UTF-8"?>
+<DBS>
+  <String index="0">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="1">
+    <ToTranslate>bcg_castgurden_a</ToTranslate>
+  </String>
+  <String index="2">
+    <ToTranslate>SE010</ToTranslate>
+  </String>
+  <String index="3">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="4">
+    <ToTranslate>bgm04</ToTranslate>
+  </String>
+  <String index="5">
+    <ToTranslate>$Я больше не удивлялся звукам, которые слышал. Я мог представить картину в своей голове: её оружие, Копьё Гадюки рассекает воздух.@</ToTranslate>
+  </String>
+  <String index="6">
+    <ToTranslate>$Я вышел во двор через нелепую парадную дверь... и увидел ту картину, которую представлял.@</ToTranslate>
+  </String>
+  <String index="7">
+    <ToTranslate>tcg_cho61aa</ToTranslate>
+  </String>
+  <String index="8">
+    <ToTranslate>tcg_cho61m</ToTranslate>
+  </String>
+  <String index="9">
+    <ToTranslate>rinr0718</ToTranslate>
+  </String>
+  <String index="10">
+    <ToTranslate>Ринрин$«Уйя, таа!»@</ToTranslate>
+  </String>
+  <String index="11">
+    <ToTranslate>SE009</ToTranslate>
+  </String>
+  <String index="12">
+    <ToTranslate>$Я обнаружил Ринрин во дворе, летающую и скачущую вокруг, размахиващюей своим Копьём Гадюки так, как будто оно было продолжением её руки.@</ToTranslate>
+  </String>
+  <String index="13">
+    <ToTranslate>Казуто$«Эй, Ринрин, ты, конечно, упорно работаешь, не так ли?»@</ToTranslate>
+  </String>
+  <String index="14">
+    <ToTranslate>tcg_cho51aa</ToTranslate>
+  </String>
+  <String index="15">
+    <ToTranslate>tcg_cho51m</ToTranslate>
+  </String>
+  <String index="16">
+    <ToTranslate>rinr0719</ToTranslate>
+  </String>
+  <String index="17">
+    <ToTranslate>Ринрин$«Ня? Как ты можешь заметить, Ринрин тренируется. Не мешай мне,   Онии-тян.»@</ToTranslate>
+  </String>
+  <String index="18">
+    <ToTranslate>Казуто$«Хорошо.»@</ToTranslate>
+  </String>
+  <String index="19">
+    <ToTranslate>$Поразительно... она даже не сбила дыхание. Ринрин быстро взглянула на меня, но затем вернулась к тренировке. Её глаза сверкали как лезвия.@</ToTranslate>
+  </String>
+  <String index="20">
+    <ToTranslate>$В такое время её окружает аура отважного генерала.@</ToTranslate>
+  </String>
+  <String index="21">
+    <ToTranslate>SE009</ToTranslate>
+  </String>
+  <String index="22">
+    <ToTranslate>tcg_cho61aa</ToTranslate>
+  </String>
+  <String index="23">
+    <ToTranslate>tcg_cho61m</ToTranslate>
+  </String>
+  <String index="24">
+    <ToTranslate>rinr0720</ToTranslate>
+  </String>
+  <String index="25">
+    <ToTranslate>Ринрин$"Хм, нн...... уйя, тта!"@</ToTranslate>
+  </String>
+  <String index="26">
+    <ToTranslate>$Если её клинок даже случайно заденет меня, я умру. Поэтому я решил сесть в тени дерева.@</ToTranslate>
+  </String>
+  <String index="27">
+    <ToTranslate>Казуто$«Великолепно. Как тебе удается так долго с лёгкостью управляться с копьём?»@</ToTranslate>
+  </String>
+  <String index="28">
+    <ToTranslate>tcg_cho31da</ToTranslate>
+  </String>
+  <String index="29">
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="30">
+    <ToTranslate>rinr0721</ToTranslate>
+  </String>
+  <String index="31">
+    <ToTranslate>Ринрин$«Ммм... Ринрин тренируется, но ты пытаешься помешать мне.»@</ToTranslate>
+  </String>
+  <String index="32">
+    <ToTranslate>Казуто$«Я только хочу тебе помочь. Если ты истинный мастер боевых искусств, то такая вещь не нарушит твою концентрацию.»@</ToTranslate>
+  </String>
+  <String index="33">
+    <ToTranslate>tcg_cho11ca</ToTranslate>
+  </String>
+  <String index="34">
+    <ToTranslate>tcg_cho11m</ToTranslate>
+  </String>
+  <String index="35">
+    <ToTranslate>rinr0722</ToTranslate>
+  </String>
+  <String index="36">
+    <ToTranslate>Ринрин$«Гррр, я воспринимаю это как вызов Ринрин!»@</ToTranslate>
+  </String>
+  <String index="37">
+    <ToTranslate>SE011</ToTranslate>
+  </String>
+  <String index="38">
+    <ToTranslate>tcg_cho61aa</ToTranslate>
+  </String>
+  <String index="39">
+    <ToTranslate>tcg_cho61m</ToTranslate>
+  </String>
+  <String index="40">
+    <ToTranslate>$Чёрт!!! Н-нет, это дело чести. Я не могу позволить ей увидеть, то что я запаниковал... Я попытался сохранить своё достоинство, и последовал за копьём Гадюки, которое почти оцарапало мне кончик носа и глаза.@</ToTranslate>
+  </String>
+  <String index="41">
+    <ToTranslate>tcg_cho31da</ToTranslate>
+  </String>
+  <String index="42">
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="43">
+    <ToTranslate>rinr0723</ToTranslate>
+  </String>
+  <String index="44">
+    <ToTranslate>Ринрин$«Я думала ты описаешься от страха... Как скучно. Я думаю, ты тоже кое-чему научился, да?»@</ToTranslate>
+  </String>
+  <String index="45">
+    <ToTranslate>Казуто$«Я буду добр к тебе и посчитаю, что ты сделала это не со зла. Луше бы тебе поблагодарить меня.»@</ToTranslate>
+  </String>
+  <String index="46">
+    <ToTranslate>$Ха! Я сказал это лишь потому, что знал, насколько хороша Ринрин.@</ToTranslate>
+  </String>
+  <String index="47">
+    <ToTranslate>SE009</ToTranslate>
+  </String>
+  <String index="48">
+    <ToTranslate>tcg_cho61aa</ToTranslate>
+  </String>
+  <String index="49">
+    <ToTranslate>tcg_cho61m</ToTranslate>
+  </String>
+  <String index="50">
+    <ToTranslate>rinr0724</ToTranslate>
+  </String>
+  <String index="51">
+    <ToTranslate>Ринрин$«Оо...... рря! Ях, та, та.»@</ToTranslate>
+  </String>
+  <String index="52">
+    <ToTranslate>$Она по-прежнему великолепна. Её копьё нарисовало дугу, пронзило одну точку, и замерло как на картине.@</ToTranslate>
+  </String>
+  <String index="53">
+    <ToTranslate>Казуто$«Это не твой собственный стиль, я прав?»@</ToTranslate>
+  </String>
+  <String index="54">
+    <ToTranslate>$Пока я увлечённо за ней наблюдал, естественный вопрос  сорвался с моих губ.@</ToTranslate>
+  </String>
+  <String index="55">
+    <ToTranslate>tcg_cho21ja</ToTranslate>
+  </String>
+  <String index="56">
+    <ToTranslate>tcg_cho21m</ToTranslate>
+  </String>
+  <String index="57">
+    <ToTranslate>hatena</ToTranslate>
+  </String>
+  <String index="58">
+    <ToTranslate>rinr0725</ToTranslate>
+  </String>
+  <String index="59">
+    <ToTranslate>Ринрин$«Мня? Что подразумеваешь под собственным стилем? Моё оружие — Копьё Гадюки.»@</ToTranslate>
+  </String>
+  <String index="60">
+    <ToTranslate>Казуто$«Нет, я не это имел в виду... Эту технику ты не сама выучила, не так ли? Судя по тому, что я вижу, у этой техники есть разновидности.»@</ToTranslate>
+  </String>
+  <String index="61">
+    <ToTranslate>tcg_cho31ja</ToTranslate>
+  </String>
+  <String index="62">
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="63">
+    <ToTranslate>rinr0726</ToTranslate>
+  </String>
+  <String index="64">
+    <ToTranslate>Ринрин$«Хохо, у тебя верный глаз, Онии-тян.»@</ToTranslate>
+  </String>
+  <String index="65">
+    <ToTranslate>$Я не знаю, правильно ли она произнесла фразу... но всё в порядке. Я счастлив, что она похвалила меня.@</ToTranslate>
+  </String>
+  <String index="66">
+    <ToTranslate>Казуто$«Это значит, что тебя кто-то этому научил, да? Ты не сможешь меня обмануть.»@</ToTranslate>
+  </String>
+  <String index="67">
+    <ToTranslate>tcg_cho11aa</ToTranslate>
+  </String>
+  <String index="68">
+    <ToTranslate>tcg_cho11m</ToTranslate>
+  </String>
+  <String index="69">
+    <ToTranslate>rinr0727</ToTranslate>
+  </String>
+  <String index="70">
+    <ToTranslate>Ринрин$«Ты видишь меня насквозь! Это правда, Ринрин... Да! Нет, не только моя.»@</ToTranslate>
+  </String>
+  <String index="71">
+    <ToTranslate>$Она крутанула своё копье... и когда я осторожно взгянул на него, то увидел некоторые детали. Она крутила его в каждую сторону одинаковое число раз.@</ToTranslate>
+  </String>
+  <String index="72">
+    <ToTranslate>tcg_cho31ja</ToTranslate>
+  </String>
+  <String index="73">
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="74">
+    <ToTranslate>rinr0728</ToTranslate>
+  </String>
+  <String index="75">
+    <ToTranslate>Ринрин$«Я уже говорила тебе об этом? Ринрин из той же деревни, что и Айша. В этой деревне... Да!»@</ToTranslate>
+  </String>
+  <String index="76">
+    <ToTranslate>SE010</ToTranslate>
+  </String>
+  <String index="77">
+    <ToTranslate>tcg_cho31ba</ToTranslate>
+  </String>
+  <String index="78">
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="79">
+    <ToTranslate>rinr0729</ToTranslate>
+  </String>
+  <String index="80">
+    <ToTranslate>Ринрин$«Один человек был членом армии императора. Этот человек... обучил меня.»@</ToTranslate>
+  </String>
+  <String index="81">
+    <ToTranslate>Казуто$«Член Императорской армии...... солдат, да? И она научила не только тебя, но и Айшу... Она, должно быть, очень хороша.»@</ToTranslate>
+  </String>
+  <String index="82">
+    <ToTranslate>tcg_cho31ga</ToTranslate>
+  </String>
+  <String index="83">
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="84">
+    <ToTranslate>rinr0730</ToTranslate>
+  </String>
+  <String index="85">
+    <ToTranslate>Ринрин$«Да! Ни Айша, ни Ринрин ни разу не смогли победить её.»@</ToTranslate>
+  </String>
+  <String index="86">
+    <ToTranslate>Казуто$«Э-это значит, что она сильнее тебя и Айши!?»@</ToTranslate>
+  </String>
+  <String index="87">
+    <ToTranslate>tcg_cho11aa</ToTranslate>
+  </String>
+  <String index="88">
+    <ToTranslate>tcg_cho11m</ToTranslate>
+  </String>
+  <String index="89">
+    <ToTranslate>rinr0731</ToTranslate>
+  </String>
+  <String index="90">
+    <ToTranslate>Ринрин$«Да, я думаю. Наш учитель очень силён.»@</ToTranslate>
+  </String>
+  <String index="91">
+    <ToTranslate>Казуто$«Я понимаю, я не знал этого. Вам очень повезло. Так этот человек был тоже из вашей деревни?»@</ToTranslate>
+  </String>
+  <String index="92">
+    <ToTranslate>tcg_cho31ja</ToTranslate>
+  </String>
+  <String index="93">
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="94">
+    <ToTranslate>rinr0732</ToTranslate>
+  </String>
+  <String index="95">
+    <ToTranslate>Ринрин$«Хмм?»@</ToTranslate>
+  </String>
+  <String index="96">
+    <ToTranslate>$Это был первый раз... Всего на секунду я увидел покачивающийся конец Копья Гадюки.@</ToTranslate>
+  </String>
+  <String index="97">
+    <ToTranslate>tcg_cho31ga</ToTranslate>
+  </String>
+  <String index="98">
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="99">
+    <ToTranslate>bgm05</ToTranslate>
+  </String>
+  <String index="100">
+    <ToTranslate>rinr0733</ToTranslate>
+  </String>
+  <String index="101">
+    <ToTranslate>Ринрин$«Ринрин и Айша были особенными. Отец Айши и наш учитель были очень близки.»@</ToTranslate>
+  </String>
+  <String index="102">
+    <ToTranslate>Казуто$«Я понимаю...»@</ToTranslate>
+  </String>
+  <String index="103">
+    <ToTranslate>tcg_cho11fa</ToTranslate>
+  </String>
+  <String index="104">
+    <ToTranslate>tcg_cho11m</ToTranslate>
+  </String>
+  <String index="105">
+    <ToTranslate>tenten</ToTranslate>
+  </String>
+  <String index="106">
+    <ToTranslate>rinr0734</ToTranslate>
+  </String>
+  <String index="107">
+    <ToTranslate>Ринрин$"Мы были особенными учениками."@</ToTranslate>
+  </String>
+  <String index="108">
+    <ToTranslate>$Ринрин говорила в прошедшем времени. Сейчас я понял причину, по которой её копьё остановилось.@</ToTranslate>
+  </String>
+  <String index="109">
+    <ToTranslate>$Это правда, Родители Ринрин погибли в этой войне......@</ToTranslate>
+  </String>
+  <String index="110">
+    <ToTranslate>tcg_cho21ia</ToTranslate>
+  </String>
+  <String index="111">
+    <ToTranslate>tcg_cho21m</ToTranslate>
+  </String>
+  <String index="112">
+    <ToTranslate>rinr0735</ToTranslate>
+  </String>
+  <String index="113">
+    <ToTranslate>Ринрин$"Онии-тян, ты выглядишь странно. Как-то необычно."@</ToTranslate>
+  </String>
+  <String index="114">
+    <ToTranslate>Казуто$"Да? Что это ты вдруг сказала?"@</ToTranslate>
+  </String>
+  <String index="115">
+    <ToTranslate>SE011</ToTranslate>
+  </String>
+  <String index="116">
+    <ToTranslate>tcg_cho61aa</ToTranslate>
+  </String>
+  <String index="117">
+    <ToTranslate>tcg_cho61m</ToTranslate>
+  </String>
+  <String index="118">
+    <ToTranslate>rinr0736</ToTranslate>
+  </String>
+  <String index="119">
+    <ToTranslate>Ринрин$"Да! Ей, ей, ня!!"@</ToTranslate>
+  </String>
+  <String index="120">
+    <ToTranslate>$Она увидела сквозь мое замешательство ощущение вины... Вот почему она действует энергичнее, чем до этого.@</ToTranslate>
+  </String>
+  <String index="121">
+    <ToTranslate>tcg_cho31ga</ToTranslate>
+  </String>
+  <String index="122">
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="123">
+    <ToTranslate>rinr0737</ToTranslate>
+  </String>
+  <String index="124">
+    <ToTranslate>Ринрин$"Если бы я смогла победить моего учителя сейчас...... нет, я уверена, что она бы сказала, что Ринрин и Айше еще многому надо научиться."@</ToTranslate>
+  </String>
+  <String index="125">
+    <ToTranslate>tcg_cho11pa</ToTranslate>
+  </String>
+  <String index="126">
+    <ToTranslate>tcg_cho11m</ToTranslate>
+  </String>
+  <String index="127">
+    <ToTranslate>rinr0738</ToTranslate>
+  </String>
+  <String index="128">
+    <ToTranslate>Ринрин$"Нам всё ещё многому надо научиться... да!"@</ToTranslate>
+  </String>
+  <String index="129">
+    <ToTranslate>SE009</ToTranslate>
+  </String>
+  <String index="130">
+    <ToTranslate>tcg_cho61aa</ToTranslate>
+  </String>
+  <String index="131">
+    <ToTranslate>tcg_cho61m</ToTranslate>
+  </String>
+  <String index="132">
+    <ToTranslate>$Копьё Гадюки гордилось успехами своего хозяина и теми, кто уже был на небесах.@</ToTranslate>
+  </String>
+  <String index="133">
+    <ToTranslate>$После этого я тихо наблюдал за тренировкой Ринрин.@</ToTranslate>
+  </String>
+  <String index="134">
+    <ToTranslate>tcg_cho11pa</ToTranslate>
+  </String>
+  <String index="135">
+    <ToTranslate>tcg_cho11m</ToTranslate>
+  </String>
+  <String index="136">
+    <ToTranslate>rinr0739</ToTranslate>
+  </String>
+  <String index="137">
+    <ToTranslate>Ринрин$"Этого недостаточно! Я должна работать ещё усерднее. Иначе мой учитель будет разочарован."@</ToTranslate>
+  </String>
+  <String index="138">
+    <ToTranslate>$Я старался не показывать того, что вновь стал испытывать уважение к её силе, а также облегчение.@</ToTranslate>
+  </String>
+  <String index="139">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="140">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="141">
+    <ToTranslate>bb</ToTranslate>
+  </String>
+  <String index="142">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="143">
+    <ToTranslate>bb</ToTranslate>
+  </String>
+  <String index="144">
+    <ToTranslate>bcg_castgurden_a</ToTranslate>
+  </String>
+  <String index="145">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="146">
+    <ToTranslate>bgm04</ToTranslate>
+  </String>
+  <String index="147">
+    <ToTranslate>tcg_cho31ga</ToTranslate>
+  </String>
+  <String index="148">
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="149">
+    <ToTranslate>rinr0740</ToTranslate>
+  </String>
+  <String index="150">
+    <ToTranslate>Ринрин$"Фуух, я устала!"@</ToTranslate>
+  </String>
+  <String index="151">
+    <ToTranslate>$Ринрин бросила своё копье Гадюки, и оно несогласно лязгнуло о землю, пока она шла ко мне.@</ToTranslate>
+  </String>
+  <String index="152">
+    <ToTranslate>Казуто$"Хорошая работа. Сюда."@</ToTranslate>
+  </String>
+  <String index="153">
+    <ToTranslate>$Я бросил ей бамбуковую флягу с чистой ключевой водой, которую дала мне Айша.@</ToTranslate>
+  </String>
+  <String index="154">
+    <ToTranslate>tcg_cho31ba</ToTranslate>
+  </String>
+  <String index="155">
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="156">
+    <ToTranslate>rinr0741</ToTranslate>
+  </String>
+  <String index="157">
+    <ToTranslate>Ринрин$"Спасибо! Бульк, бульк, бульк... хаах, то что нужно."@</ToTranslate>
+  </String>
+  <String index="158">
+    <ToTranslate>$Она подбросила флягу, поймала её, а затем перевернула... Ха-ха, Держу пари, она уже всё выпила.@</ToTranslate>
+  </String>
+  <String index="159">
+    <ToTranslate>Казуто$«И? Теперь, когда твоя тренировка закончилась, что ты собираешься делать? Айша сказала, что в это время она в дозоре, да?»@</ToTranslate>
+  </String>
+  <String index="160">
+    <ToTranslate>tcg_cho21ia</ToTranslate>
+  </String>
+  <String index="161">
+    <ToTranslate>tcg_cho21m</ToTranslate>
+  </String>
+  <String index="162">
+    <ToTranslate>rinr0742</ToTranslate>
+  </String>
+  <String index="163">
+    <ToTranslate>Ринрин$«Ринрин собирается вздремнуть. Я устала, поэтому настало время отдохнуть.»@</ToTranslate>
+  </String>
+  <String index="164">
+    <ToTranslate>$Вздремнуть, да? Я поймал флягу, которую она бросила мне. Но я всё ещё не хотел покидать её.@</ToTranslate>
+  </String>
+  <String index="165">
+    <ToTranslate>Казуто$«Быть может, я присоединюсь к твоему отдыху.»@</ToTranslate>
+  </String>
+  <String index="166">
+    <ToTranslate>tcg_cho11aa</ToTranslate>
+  </String>
+  <String index="167">
+    <ToTranslate>tcg_cho11m</ToTranslate>
+  </String>
+  <String index="168">
+    <ToTranslate>onpu</ToTranslate>
+  </String>
+  <String index="169">
+    <ToTranslate>rinr0743</ToTranslate>
+  </String>
+  <String index="170">
+    <ToTranslate>Ринрин$«Да, конечно! Давай, пойдём вместе вздремнём в комнате Ринрин!»@</ToTranslate>
+  </String>
+  <String index="171">
+    <ToTranslate>$В её комнате!?@</ToTranslate>
+  </String>
+  <String index="172">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="173">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="174">
+    <ToTranslate>aa</ToTranslate>
+  </String>
+  <String index="175">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="176">
+    <ToTranslate>aa</ToTranslate>
+  </String>
+  <String index="177">
+    <ToTranslate>bcg_generoom_a</ToTranslate>
+  </String>
+  <String index="178">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="179">
+    <ToTranslate>bgm23</ToTranslate>
+  </String>
+  <String index="180">
+    <ToTranslate>$Всего на секунду, моё сердце стало с волнением биться. Мне стоило бы устыдиться.@</ToTranslate>
+  </String>
+  <String index="181">
+    <ToTranslate>rinr0744</ToTranslate>
+  </String>
+  <String index="182">
+    <ToTranslate>Ринрин$«Зззз... ммм.»@</ToTranslate>
+  </String>
+  <String index="183">
+    <ToTranslate>$Ринрин мирно спала, используя мою руку как подушку. Сначала, даже небольшое движение её головы заставляло моё сердце вздрагивать.@</ToTranslate>
+  </String>
+  <String index="184">
+    <ToTranslate>$Но сейчас, я даже совершенно спокойно могу пальцами расчёсывать её волосы.@</ToTranslate>
+  </String>
+  <String index="185">
+    <ToTranslate>$Я чувствовал её запах... запах солнца от её волос. Внезапное чувство, пробудившееся во мне, заставило меня положить свою щеку рядом с ней.@</ToTranslate>
+  </String>
+  <String index="186">
+    <ToTranslate>$Я уверен, для других, мы выглядели как брат и сестра.@</ToTranslate>
+  </String>
+  <String index="187">
+    <ToTranslate>$...@</ToTranslate>
+  </String>
+  <String index="188">
+    <ToTranslate>$Я надеюсь, что не выгляжу как её отец.@</ToTranslate>
+  </String>
+  <String index="189">
+    <ToTranslate>rinr0745</ToTranslate>
+  </String>
+  <String index="190">
+    <ToTranslate>Ринрин$"Я больше... не могу ничего съесть."@</ToTranslate>
+  </String>
+  <String index="191">
+    <ToTranslate>Казуто$"Хех."@</ToTranslate>
+  </String>
+  <String index="192">
+    <ToTranslate>$Когда она спит у неё такой невинный вид. Я должен стыдиться своих порочных мыслей в отношении этого ангельского создания.@</ToTranslate>
+  </String>
+  <String index="193">
+    <ToTranslate>rinr0746</ToTranslate>
+  </String>
+  <String index="194">
+    <ToTranslate>Ринрин$"Онии... hyan, мммм."@</ToTranslate>
+  </String>
+  <String index="195">
+    <ToTranslate>$Так моё сердце действительно может остановиться! Чёрт, у неё крошечная грудь, но она несомненно мягкая.@</ToTranslate>
+  </String>
+  <String index="196">
+    <ToTranslate>Казуто$"Одна овечка, вторая..."@</ToTranslate>
+  </String>
+  <String index="197">
+    <ToTranslate>$Я словно на американских горках чувств. Как только я закрываю глаза, чувства сразу начинают тревожить меня.@</ToTranslate>
+  </String>
+  <String index="198">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="199">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="200">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="201">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="202">
+    <ToTranslate>$Из-за этого отдыха, мы пропустили военный совет... и, конечно, Айша 
+позднее устроила нам головомойку.@</ToTranslate>
+  </String>
+  <String index="203">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="204">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+</DBS>
+
+</poem>

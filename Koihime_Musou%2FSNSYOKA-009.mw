@@ -1,0 +1,2505 @@
+<poem>
+<?xml version="1.0" encoding="UTF-8"?>
+<DBS>
+  <String index="0">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="1">
+    <ToTranslate>bcg_heroroom_a</ToTranslate>
+  </String>
+  <String index="2">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="3">
+    <ToTranslate>bgm02</ToTranslate>
+  </String>
+  <String index="4">
+    <ToTranslate>$Так и знал, не зря с самого утра я заподозрил неладное.@</ToTranslate>
+  </String>
+  <String index="5">
+    <ToTranslate>$Если точнее, то оно дало о себе знать ещё со вчерашнего вечера, а заодно зарядило меня порцией озноба.@</ToTranslate>
+  </String>
+  <String index="6">
+    <ToTranslate>$Я решил чем бы оно ни было, но оно исчезнет к утру... но я ошибался.@</ToTranslate>
+  </String>
+  <String index="7">
+    <ToTranslate>$Озноб к утру не только никуда не ушёл, но и привёл в гости дикую головную боль.@</ToTranslate>
+  </String>
+  <String index="8">
+    <ToTranslate>Казуто$"Шморг....."@</ToTranslate>
+  </String>
+  <String index="9">
+    <ToTranslate>$О, уже и насморк тут как тут, похоже что это простуда.@</ToTranslate>
+  </String>
+  <String index="10">
+    <ToTranslate>$Холодный пот заставляет меня съёжится, и пульсирующая головная боль только усиливается.@</ToTranslate>
+  </String>
+  <String index="11">
+    <ToTranslate>$Передо мной как всегда никогда не заканчивающаяся груда бумаг... мне ещё нужно разобраться со всеми этими бюрократическими пережитками.@</ToTranslate>
+  </String>
+  <String index="12">
+    <ToTranslate>Казуто$"Хотяб с самыми срочными успеть разобраться..."@</ToTranslate>
+  </String>
+  <String index="13">
+    <ToTranslate>$Я попытался прочитать один из документов, но мои глаза перестали различать символы.@</ToTranslate>
+  </String>
+  <String index="14">
+    <ToTranslate>$Только силой воли мне ещё удаётся сдержать обморок прямо на рабочем месте.@</ToTranslate>
+  </String>
+  <String index="15">
+    <ToTranslate>SE057</ToTranslate>
+  </String>
+  <String index="16">
+    <ToTranslate>tcg_syo11aa</ToTranslate>
+  </String>
+  <String index="17">
+    <ToTranslate>tcg_syo11m</ToTranslate>
+  </String>
+  <String index="18">
+    <ToTranslate>syur1365</ToTranslate>
+  </String>
+  <String index="19">
+    <ToTranslate>Шури$"Господин, позвольте войти."@</ToTranslate>
+  </String>
+  <String index="20">
+    <ToTranslate>$После отчаянных попыток рассмотреть пару других документов я услышал голос Шури за дверью.@</ToTranslate>
+  </String>
+  <String index="21">
+    <ToTranslate>tcg_syo41ea</ToTranslate>
+  </String>
+  <String index="22">
+    <ToTranslate>tcg_syo41m</ToTranslate>
+  </String>
+  <String index="23">
+    <ToTranslate>syur1366</ToTranslate>
+  </String>
+  <String index="24">
+    <ToTranslate>Шури$"Я должна вам кое-что сообщить. Или вам уже сообщили? Это о таинственных повстанцах, появляющихся в южных районах..."@</ToTranslate>
+  </String>
+  <String index="25">
+    <ToTranslate>Казуто$"Д-да... я уже слышал о них. Они стали часто появляться в тамошних сёлах...?"@</ToTranslate>
+  </String>
+  <String index="26">
+    <ToTranslate>tcg_syo21ja</ToTranslate>
+  </String>
+  <String index="27">
+    <ToTranslate>tcg_syo21m</ToTranslate>
+  </String>
+  <String index="28">
+    <ToTranslate>syur1367</ToTranslate>
+  </String>
+  <String index="29">
+    <ToTranslate>Шури$"Да... ум, Господин?"@</ToTranslate>
+  </String>
+  <String index="30">
+    <ToTranslate>Казуто$"............а? Что-то ещё?"@</ToTranslate>
+  </String>
+  <String index="31">
+    <ToTranslate>$Шури подошла ко мне. Похоже, она чем-то встревожена... не думаю, что мне удастся скрыть своё состояние.@</ToTranslate>
+  </String>
+  <String index="32">
+    <ToTranslate>syur1368</ToTranslate>
+  </String>
+  <String index="33">
+    <ToTranslate>Шури$"Вы плохо выглядите. Неужели вы заболели?"@</ToTranslate>
+  </String>
+  <String index="34">
+    <ToTranslate>Казуто$"Аха-ха, так ты заметила. От тебя ничего не утаишь."@</ToTranslate>
+  </String>
+  <String index="35">
+    <ToTranslate>syur1369</ToTranslate>
+  </String>
+  <String index="36">
+    <ToTranslate>Шури$"Любой бы заметил. Вы побледнели... и сейчас схожи с Ринрин и Суи, когда их Айша ловит на месте преступления."@</ToTranslate>
+  </String>
+  <String index="37">
+    <ToTranslate>Казуто$"С чего такое сравнивание...? *кашель*."@</ToTranslate>
+  </String>
+  <String index="38">
+    <ToTranslate>tcg_syo21ca</ToTranslate>
+  </String>
+  <String index="39">
+    <ToTranslate>tcg_syo21m</ToTranslate>
+  </String>
+  <String index="40">
+    <ToTranslate>syur1370</ToTranslate>
+  </String>
+  <String index="41">
+    <ToTranslate>Шури$"Господин?!"@</ToTranslate>
+  </String>
+  <String index="42">
+    <ToTranslate>Казуто$"Я не умру. Не волнуйся... немножко покашляю и всё пройдёт."@</ToTranslate>
+  </String>
+  <String index="43">
+    <ToTranslate>tcg_syo21ja</ToTranslate>
+  </String>
+  <String index="44">
+    <ToTranslate>tcg_syo21m</ToTranslate>
+  </String>
+  <String index="45">
+    <ToTranslate>syur1371</ToTranslate>
+  </String>
+  <String index="46">
+    <ToTranslate>Шури$"Не похоже, что это просто простуда..."@</ToTranslate>
+  </String>
+  <String index="47">
+    <ToTranslate>$Честно, у Шури такой вид, что она вот-вот разревётся.@</ToTranslate>
+  </String>
+  <String index="48">
+    <ToTranslate>Казуто$"Она не помешает моей работе. Что там насчёт повстанцев? Вот сейчас ими и займусь."@</ToTranslate>
+  </String>
+  <String index="49">
+    <ToTranslate>$Я медленно вылез из кресла... какие-то шаги неуверенные, будто иду по облаку.@</ToTranslate>
+  </String>
+  <String index="50">
+    <ToTranslate>$Во чёрт. Только я об этом подумал, но было уже поздно.@</ToTranslate>
+  </String>
+  <String index="51">
+    <ToTranslate>SE037</ToTranslate>
+  </String>
+  <String index="52">
+    <ToTranslate>yure_t</ToTranslate>
+  </String>
+  <String index="53">
+    <ToTranslate>tcg_syo21ca</ToTranslate>
+  </String>
+  <String index="54">
+    <ToTranslate>tcg_syo21m</ToTranslate>
+  </String>
+  <String index="55">
+    <ToTranslate>syur1372</ToTranslate>
+  </String>
+  <String index="56">
+    <ToTranslate>Шури$"Господин?! Пожалуйста держитесь."@</ToTranslate>
+  </String>
+  <String index="57">
+    <ToTranslate>$На мгновение я потерял себя, но вдруг почувствовал мягкое тепло, поддерживающее меня.@</ToTranslate>
+  </String>
+  <String index="58">
+    <ToTranslate>Казуто$"Чёрт... прости, Шури."@</ToTranslate>
+  </String>
+  <String index="59">
+    <ToTranslate>tcg_syo21ta</ToTranslate>
+  </String>
+  <String index="60">
+    <ToTranslate>tcg_syo21m</ToTranslate>
+  </String>
+  <String index="61">
+    <ToTranslate>syur1373</ToTranslate>
+  </String>
+  <String index="62">
+    <ToTranslate>Шури$"Нельзя же так?! И не извиняйтесь! Ум-м... можете встать?"@</ToTranslate>
+  </String>
+  <String index="63">
+    <ToTranslate>$Кажись она рассердилась. Пусть так, но мне придётся воспользоваться её помощью, даже с её малым ростом.@</ToTranslate>
+  </String>
+  <String index="64">
+    <ToTranslate>Казуто$"Мне правда жаль... похоже, мне немного хуже чем самому казалось."@</ToTranslate>
+  </String>
+  <String index="65">
+    <ToTranslate>syur1374</ToTranslate>
+  </String>
+  <String index="66">
+    <ToTranslate>Шури$"Пожалуйтса. Обопритесь об меня. У-ум... вы немедленно должны лечь в постель."@</ToTranslate>
+  </String>
+  <String index="67">
+    <ToTranslate>$Пусть она и невелика ростом, но в её плече ощущается надёжность. Она поддерживает меня, не давая упасть.@</ToTranslate>
+  </String>
+  <String index="68">
+    <ToTranslate>syur1375</ToTranslate>
+  </String>
+  <String index="69">
+    <ToTranslate>Шури$"Ха-а, у-у... почти пришли, пожалуйста, держитесь крепче."@</ToTranslate>
+  </String>
+  <String index="70">
+    <ToTranslate>$Шури помогла мне добраться до моей кровати.@</ToTranslate>
+  </String>
+  <String index="71">
+    <ToTranslate>$Я жалок.@</ToTranslate>
+  </String>
+  <String index="72">
+    <ToTranslate>tcg_syo41ga</ToTranslate>
+  </String>
+  <String index="73">
+    <ToTranslate>tcg_syo41m</ToTranslate>
+  </String>
+  <String index="74">
+    <ToTranslate>syur1376</ToTranslate>
+  </String>
+  <String index="75">
+    <ToTranslate>Шури$"Пожа-луйста..... вот. Фу-ух."@</ToTranslate>
+  </String>
+  <String index="76">
+    <ToTranslate>$И положила меня на кровать... я взял её за руку.@</ToTranslate>
+  </String>
+  <String index="77">
+    <ToTranslate>Казуто$"Прости, что я сейчас совсем бесполезен..."@</ToTranslate>
+  </String>
+  <String index="78">
+    <ToTranslate>tcg_syo21ja</ToTranslate>
+  </String>
+  <String index="79">
+    <ToTranslate>tcg_syo21m</ToTranslate>
+  </String>
+  <String index="80">
+    <ToTranslate>syur1377</ToTranslate>
+  </String>
+  <String index="81">
+    <ToTranslate>Шури$"Вы ведь тоже человек. Никто вокруг не позволит вам ходить в таком состоянии, в том числе и я."@</ToTranslate>
+  </String>
+  <String index="82">
+    <ToTranslate>Казуто$"Ха-ха, только не злись."@</ToTranslate>
+  </String>
+  <String index="83">
+    <ToTranslate>tcg_syo31na</ToTranslate>
+  </String>
+  <String index="84">
+    <ToTranslate>tcg_syo31m</ToTranslate>
+  </String>
+  <String index="85">
+    <ToTranslate>muka</ToTranslate>
+  </String>
+  <String index="86">
+    <ToTranslate>syur1378</ToTranslate>
+  </String>
+  <String index="87">
+    <ToTranslate>Шури$"Я и не злюсь, но сильно расстраиваюсь, когда вы пытаетесь что-то скрыть от меня. Хотя бы потому что я одна из ваших вассалов, я всегда должна помогать вам когда у вас трудности."@</ToTranslate>
+  </String>
+  <String index="88">
+    <ToTranslate>$Пусть её голос и громче обычного, но он всё равно полон заботы. Мне и возразить то толком ей нечего.@</ToTranslate>
+  </String>
+  <String index="89">
+    <ToTranslate>tcg_syo11aa</ToTranslate>
+  </String>
+  <String index="90">
+    <ToTranslate>tcg_syo11m</ToTranslate>
+  </String>
+  <String index="91">
+    <ToTranslate>syur1379</ToTranslate>
+  </String>
+  <String index="92">
+    <ToTranslate>Шури$"Я немедленно кого-нибудь позову. Пожалуйста, оставайтесь здесь и подождите меня."@</ToTranslate>
+  </String>
+  <String index="93">
+    <ToTranslate>Казуто$"Эм, постой ка."@</ToTranslate>
+  </String>
+  <String index="94">
+    <ToTranslate>$Я остановил её, потому как решил, что не стоит впутывать в это кого-то ещё.@</ToTranslate>
+  </String>
+  <String index="95">
+    <ToTranslate>Казуто$"Не стоит заставлять беспокоиться всех остальных... пожалуйста, не рассказывай никому больше."@</ToTranslate>
+  </String>
+  <String index="96">
+    <ToTranslate>tcg_syo21ja</ToTranslate>
+  </String>
+  <String index="97">
+    <ToTranslate>tcg_syo21m</ToTranslate>
+  </String>
+  <String index="98">
+    <ToTranslate>syur1380</ToTranslate>
+  </String>
+  <String index="99">
+    <ToTranslate>Шури$"Господин?!"@</ToTranslate>
+  </String>
+  <String index="100">
+    <ToTranslate>Казуто$"Ну пожалуйста. Это обычная простуда... всё пройдёт за день или два. Если Айши или Сэй узнают об этом, то обязательно раздуют из неё начало конца света."@</ToTranslate>
+  </String>
+  <String index="101">
+    <ToTranslate>syur1381</ToTranslate>
+  </String>
+  <String index="102">
+    <ToTranslate>Шури$"Тогда... возможно и так, но..."@</ToTranslate>
+  </String>
+  <String index="103">
+    <ToTranslate>$Я улыбнулся в попытках развеять её настороженость, одна лишь её забота уже начала меня исцелять.@</ToTranslate>
+  </String>
+  <String index="104">
+    <ToTranslate>Казуто$"Хорошо было бы, если наша армия не беспокоилась хотя бы за меня, правда? Достаточно и того, что никто не знает, что сулит нам завтрашний день."@</ToTranslate>
+  </String>
+  <String index="105">
+    <ToTranslate>tcg_syo11ga</ToTranslate>
+  </String>
+  <String index="106">
+    <ToTranslate>tcg_syo11m</ToTranslate>
+  </String>
+  <String index="107">
+    <ToTranslate>syur1382</ToTranslate>
+  </String>
+  <String index="108">
+    <ToTranslate>Шури$"Ум.... да, я понимаю, что вы хотите сказать."@</ToTranslate>
+  </String>
+  <String index="109">
+    <ToTranslate>Казуто$"Пожалуйста, без особой причины, не стоит впутывать всех остальных?"@</ToTranslate>
+  </String>
+  <String index="110">
+    <ToTranslate>tcg_syo21ja</ToTranslate>
+  </String>
+  <String index="111">
+    <ToTranslate>tcg_syo21m</ToTranslate>
+  </String>
+  <String index="112">
+    <ToTranslate>syur1383</ToTranslate>
+  </String>
+  <String index="113">
+    <ToTranslate>Шури$"Они очень разозляться если узнают об этом."@</ToTranslate>
+  </String>
+  <String index="114">
+    <ToTranslate>Казуто$"Значит, ты поможешь мне в этом? Мне станет только хуже, если узнаю что заставил их волноваться. Плохо уже то, что я втянул тебя во всё это." @</ToTranslate>
+  </String>
+  <String index="115">
+    <ToTranslate>tcg_syo11la</ToTranslate>
+  </String>
+  <String index="116">
+    <ToTranslate>tcg_syo11m</ToTranslate>
+  </String>
+  <String index="117">
+    <ToTranslate>syur1384</ToTranslate>
+  </String>
+  <String index="118">
+    <ToTranslate>Шури$"Пожалуйста, не волнуйтесь об этом, я рада, что смогу вам помочь."@</ToTranslate>
+  </String>
+  <String index="119">
+    <ToTranslate>$Она улыбнулась и вернулась ко мне, а затем начала гладить мою грудь через одежду.@</ToTranslate>
+  </String>
+  <String index="120">
+    <ToTranslate>tcg_syo21fa</ToTranslate>
+  </String>
+  <String index="121">
+    <ToTranslate>tcg_syo21m</ToTranslate>
+  </String>
+  <String index="122">
+    <ToTranslate>syur1385</ToTranslate>
+  </String>
+  <String index="123">
+    <ToTranslate>Шури$"Знаю что это неправильно... но я рада, что этот секрет останется только между нами."@</ToTranslate>
+  </String>
+  <String index="124">
+    <ToTranslate>Казуто$"Ха-ха, верно, это будет нашим секретом."@</ToTranslate>
+  </String>
+  <String index="125">
+    <ToTranslate>tcg_syo21ta</ToTranslate>
+  </String>
+  <String index="126">
+    <ToTranslate>tcg_syo21m</ToTranslate>
+  </String>
+  <String index="127">
+    <ToTranslate>syur1386</ToTranslate>
+  </String>
+  <String index="128">
+    <ToTranslate>Шури$"Простите, что говорю странные вещи, когда вы больны..."@</ToTranslate>
+  </String>
+  <String index="129">
+    <ToTranslate>$Мне удалось прикоснуться к её лицу, и только тогда-то я понял что она едва ли не плачет.@</ToTranslate>
+  </String>
+  <String index="130">
+    <ToTranslate>tcg_syo21fa</ToTranslate>
+  </String>
+  <String index="131">
+    <ToTranslate>tcg_syo21m</ToTranslate>
+  </String>
+  <String index="132">
+    <ToTranslate>syur1387</ToTranslate>
+  </String>
+  <String index="133">
+    <ToTranslate>Шури$"А-а..."@</ToTranslate>
+  </String>
+  <String index="134">
+    <ToTranslate>Казуто$"Не извиняйся, мне уже гораздо лучше. Всего-то нужно, чтобы наша тайна ею и осталась до самого конца, *кашель, кашель...*!"@</ToTranslate>
+  </String>
+  <String index="135">
+    <ToTranslate>$Я не хотел пугать её, но... но неожиданный кашель всё испортил.@</ToTranslate>
+  </String>
+  <String index="136">
+    <ToTranslate>tcg_syo21ma</ToTranslate>
+  </String>
+  <String index="137">
+    <ToTranslate>tcg_syo21m</ToTranslate>
+  </String>
+  <String index="138">
+    <ToTranslate>syur1388</ToTranslate>
+  </String>
+  <String index="139">
+    <ToTranslate>Шури$"Вы в порядке?!"@</ToTranslate>
+  </String>
+  <String index="140">
+    <ToTranslate>Казуто$"*Кашель...* как видишь, ещё не очень. Прости... мне нужно отдохнуть."@</ToTranslate>
+  </String>
+  <String index="141">
+    <ToTranslate>tcg_syo21ta</ToTranslate>
+  </String>
+  <String index="142">
+    <ToTranslate>tcg_syo21m</ToTranslate>
+  </String>
+  <String index="143">
+    <ToTranslate>syur1389</ToTranslate>
+  </String>
+  <String index="144">
+    <ToTranslate>Шури$"Хорошо, пожалуйста, ни о чём не волнуйтесь... позовите меня если что-нибудь будет нужно, и я тотчас прибегу."@</ToTranslate>
+  </String>
+  <String index="145">
+    <ToTranslate>$Это что же, громко заорать тоеть? Шури слишком заботлива, одна лишь мысль об этом согревает меня.@</ToTranslate>
+  </String>
+  <String index="146">
+    <ToTranslate>Казуто$"Конечно..."@</ToTranslate>
+  </String>
+  <String index="147">
+    <ToTranslate>$Тепло наполняет моё сердце... кажется, что я и не болен вовсе, закрывая глаза, мне становится легко на душе.@</ToTranslate>
+  </String>
+  <String index="148">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="149">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="150">
+    <ToTranslate>dd</ToTranslate>
+  </String>
+  <String index="151">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="152">
+    <ToTranslate>bcg_heroroom_a</ToTranslate>
+  </String>
+  <String index="153">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="154">
+    <ToTranslate>bgm05</ToTranslate>
+  </String>
+  <String index="155">
+    <ToTranslate>tcg_syo21ja</ToTranslate>
+  </String>
+  <String index="156">
+    <ToTranslate>tcg_syo21m</ToTranslate>
+  </String>
+  <String index="157">
+    <ToTranslate>syur1390</ToTranslate>
+  </String>
+  <String index="158">
+    <ToTranslate>Шури$"А он правда выздоровеет... хава?! У него была высокая температура! Авава, и лоб сильно потел."@</ToTranslate>
+  </String>
+  <String index="159">
+    <ToTranslate>syur1391</ToTranslate>
+  </String>
+  <String index="160">
+    <ToTranslate>Шури$"Должно быть ему сложно приспособится к новым условиям... мне так стыдно, что я не подумала об этом раньше."@</ToTranslate>
+  </String>
+  <String index="161">
+    <ToTranslate>tcg_syo11ga</ToTranslate>
+  </String>
+  <String index="162">
+    <ToTranslate>tcg_syo11m</ToTranslate>
+  </String>
+  <String index="163">
+    <ToTranslate>syur1392</ToTranslate>
+  </String>
+  <String index="164">
+    <ToTranslate>Шури$"Имею ли я право и дальше оставаться его вассалом..."@</ToTranslate>
+  </String>
+  <String index="165">
+    <ToTranslate>tcg_syo11aa</ToTranslate>
+  </String>
+  <String index="166">
+    <ToTranslate>tcg_syo11m</ToTranslate>
+  </String>
+  <String index="167">
+    <ToTranslate>syur1393</ToTranslate>
+  </String>
+  <String index="168">
+    <ToTranslate>Шури$"Сейчас уже ничего не изменишь, поэтому я сама дожна сделать всё возможное!"@</ToTranslate>
+  </String>
+  <String index="169">
+    <ToTranslate>syur1394</ToTranslate>
+  </String>
+  <String index="170">
+    <ToTranslate>Шури$"Я обязательно что-нибудь придумаю, чтобы ему стало лучше."@</ToTranslate>
+  </String>
+  <String index="171">
+    <ToTranslate>tcg_syo11ba</ToTranslate>
+  </String>
+  <String index="172">
+    <ToTranslate>tcg_syo11m</ToTranslate>
+  </String>
+  <String index="173">
+    <ToTranslate>syur1395</ToTranslate>
+  </String>
+  <String index="174">
+    <ToTranslate>Шури$"...я скоро вернусь. Пожалуйста, подождите немного." @</ToTranslate>
+  </String>
+  <String index="175">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="176">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="177">
+    <ToTranslate>aa</ToTranslate>
+  </String>
+  <String index="178">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="179">
+    <ToTranslate>aa</ToTranslate>
+  </String>
+  <String index="180">
+    <ToTranslate>bcg_castcorrid_a</ToTranslate>
+  </String>
+  <String index="181">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="182">
+    <ToTranslate>bgm03</ToTranslate>
+  </String>
+  <String index="183">
+    <ToTranslate>tcg_syo12aa</ToTranslate>
+  </String>
+  <String index="184">
+    <ToTranslate>tcg_syo12m</ToTranslate>
+  </String>
+  <String index="185">
+    <ToTranslate>syur1396</ToTranslate>
+  </String>
+  <String index="186">
+    <ToTranslate>Шури$"Так, я готова... здесь начинается самое сложное. Но это желание Господина, поэтому нельзя допустить, чтобы кто-то увидел меня..."@</ToTranslate>
+  </String>
+  <String index="187">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="188">
+    <ToTranslate>tcg_cun11da</ToTranslate>
+  </String>
+  <String index="189">
+    <ToTranslate>tcg_cun11m</ToTranslate>
+  </String>
+  <String index="190">
+    <ToTranslate>sei_2393</ToTranslate>
+  </String>
+  <String index="191">
+    <ToTranslate>Сэй$"Шури?"@</ToTranslate>
+  </String>
+  <String index="192">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="193">
+    <ToTranslate>tcg_syo22ca</ToTranslate>
+  </String>
+  <String index="194">
+    <ToTranslate>tcg_syo22m</ToTranslate>
+  </String>
+  <String index="195">
+    <ToTranslate>tcg_cun11da</ToTranslate>
+  </String>
+  <String index="196">
+    <ToTranslate>tcg_cun11m</ToTranslate>
+  </String>
+  <String index="197">
+    <ToTranslate>syur1397</ToTranslate>
+  </String>
+  <String index="198">
+    <ToTranslate>Шури$"Хаува?!"@</ToTranslate>
+  </String>
+  <String index="199">
+    <ToTranslate>sei_2394</ToTranslate>
+  </String>
+  <String index="200">
+    <ToTranslate>Сэй$"Хм. Ты всегда говоришь *хаува* людям при стрече? Ум-м? И для чего тебе этот рюкзак? Собираешься в путешествие?"@</ToTranslate>
+  </String>
+  <String index="201">
+    <ToTranslate>tcg_syo22ma</ToTranslate>
+  </String>
+  <String index="202">
+    <ToTranslate>tcg_syo22m</ToTranslate>
+  </String>
+  <String index="203">
+    <ToTranslate>syur1398</ToTranslate>
+  </String>
+  <String index="204">
+    <ToTranslate>Шури$"К-конечно же нет. Эм, это..... самое что ни на есть тривиальнишее задание из всех."@</ToTranslate>
+  </String>
+  <String index="205">
+    <ToTranslate>tcg_syo22ja</ToTranslate>
+  </String>
+  <String index="206">
+    <ToTranslate>tcg_syo22m</ToTranslate>
+  </String>
+  <String index="207">
+    <ToTranslate>syur1399</ToTranslate>
+  </String>
+  <String index="208">
+    <ToTranslate>Шури$"В лесу..."@</ToTranslate>
+  </String>
+  <String index="209">
+    <ToTranslate>tcg_cun21ca</ToTranslate>
+  </String>
+  <String index="210">
+    <ToTranslate>tcg_cun21m</ToTranslate>
+  </String>
+  <String index="211">
+    <ToTranslate>sei_2395</ToTranslate>
+  </String>
+  <String index="212">
+    <ToTranslate>Сэй$"Ну, если всё настолько тривиально, то я буду вынуждена остановить тебя."@</ToTranslate>
+  </String>
+  <String index="213">
+    <ToTranslate>tcg_syo22ta</ToTranslate>
+  </String>
+  <String index="214">
+    <ToTranslate>tcg_syo22m</ToTranslate>
+  </String>
+  <String index="215">
+    <ToTranslate>syur1400</ToTranslate>
+  </String>
+  <String index="216">
+    <ToTranslate>Шури$"Хау..."@</ToTranslate>
+  </String>
+  <String index="217">
+    <ToTranslate>sei_2396</ToTranslate>
+  </String>
+  <String index="218">
+    <ToTranslate>Сэй$"Пусть в соседних городах уровень безопасности и вырос, но разбойников между ними ещё никто не отменял."@</ToTranslate>
+  </String>
+  <String index="219">
+    <ToTranslate>sei_2397</ToTranslate>
+  </String>
+  <String index="220">
+    <ToTranslate>Сэй$"К тому же, и в этом лесу в который ты собираешься."@</ToTranslate>
+  </String>
+  <String index="221">
+    <ToTranslate>tcg_syo22ma</ToTranslate>
+  </String>
+  <String index="222">
+    <ToTranslate>tcg_syo22m</ToTranslate>
+  </String>
+  <String index="223">
+    <ToTranslate>syur1401</ToTranslate>
+  </String>
+  <String index="224">
+    <ToTranslate>Шури$"Уу-у, н-но, не стоит за меня волноваться! Я справлюсь, потому... потому что начала учиться искусству меча."@</ToTranslate>
+  </String>
+  <String index="225">
+    <ToTranslate>tcg_cun31fa</ToTranslate>
+  </String>
+  <String index="226">
+    <ToTranslate>tcg_cun31m</ToTranslate>
+  </String>
+  <String index="227">
+    <ToTranslate>sei_2398</ToTranslate>
+  </String>
+  <String index="228">
+    <ToTranslate>Сэй$"...мм-м."@</ToTranslate>
+  </String>
+  <String index="229">
+    <ToTranslate>tcg_syo22ta</ToTranslate>
+  </String>
+  <String index="230">
+    <ToTranslate>tcg_syo22m</ToTranslate>
+  </String>
+  <String index="231">
+    <ToTranslate>ase</ToTranslate>
+  </String>
+  <String index="232">
+    <ToTranslate>syur1402</ToTranslate>
+  </String>
+  <String index="233">
+    <ToTranslate>Шури$"Хау-у... из всех в округе, меня нашла именно Сэй. Не думаю, что мне удасться её обмануть..."@</ToTranslate>
+  </String>
+  <String index="234">
+    <ToTranslate>tcg_cun31ea</ToTranslate>
+  </String>
+  <String index="235">
+    <ToTranslate>tcg_cun31m</ToTranslate>
+  </String>
+  <String index="236">
+    <ToTranslate>sei_2399</ToTranslate>
+  </String>
+  <String index="237">
+    <ToTranslate>Сэй$"...очень любопытно, и зачем тебе понадобилось обманывать меня. Можешь мне рассказать обо всём по-пути."@</ToTranslate>
+  </String>
+  <String index="238">
+    <ToTranslate>tcg_syo22ca</ToTranslate>
+  </String>
+  <String index="239">
+    <ToTranslate>tcg_syo22m</ToTranslate>
+  </String>
+  <String index="240">
+    <ToTranslate>syur1403</ToTranslate>
+  </String>
+  <String index="241">
+    <ToTranslate>Шури$"Что?!"@</ToTranslate>
+  </String>
+  <String index="242">
+    <ToTranslate>tcg_cun11aa</ToTranslate>
+  </String>
+  <String index="243">
+    <ToTranslate>tcg_cun11m</ToTranslate>
+  </String>
+  <String index="244">
+    <ToTranslate>sei_2400</ToTranslate>
+  </String>
+  <String index="245">
+    <ToTranslate>Сэй$"Чем-бы оно ни было, но оно дело срочное, правда? Тогда я буду твоим гидом."@</ToTranslate>
+  </String>
+  <String index="246">
+    <ToTranslate>syur1404</ToTranslate>
+  </String>
+  <String index="247">
+    <ToTranslate>Шури$"Э-э? Нет... не настолько важное, чтобы отнимать ваше время! Чистая правда!"@</ToTranslate>
+  </String>
+  <String index="248">
+    <ToTranslate>tcg_cun31ea</ToTranslate>
+  </String>
+  <String index="249">
+    <ToTranslate>tcg_cun31m</ToTranslate>
+  </String>
+  <String index="250">
+    <ToTranslate>sei_2401</ToTranslate>
+  </String>
+  <String index="251">
+    <ToTranslate>Сэй$"...хм. Но важное настолько, что заставляет тебя быть настолько упорной."@</ToTranslate>  
+  </String>
+  <String index="252">
+    <ToTranslate>tcg_syo22pa</ToTranslate>
+  </String>
+  <String index="253">
+    <ToTranslate>tcg_syo22m</ToTranslate>
+  </String>
+  <String index="254">
+    <ToTranslate>syur1405</ToTranslate>
+  </String>
+  <String index="255">
+    <ToTranslate>Шури$"Говорю же, всё не настолько важно!"@</ToTranslate>
+  </String>
+  <String index="256">
+    <ToTranslate>tcg_cun11aa</ToTranslate>
+  </String>
+  <String index="257">
+    <ToTranslate>tcg_cun11m</ToTranslate>
+  </String>
+  <String index="258">
+    <ToTranslate>sei_2402</ToTranslate>
+  </String>
+  <String index="259">
+    <ToTranslate>Сэй$"Замётано, я и не собиралась заставлять тебя рассказывать мне." @</ToTranslate>
+  </String>
+  <String index="260">
+    <ToTranslate>tcg_syo22ma</ToTranslate>
+  </String>
+  <String index="261">
+    <ToTranslate>tcg_syo22m</ToTranslate>
+  </String>
+  <String index="262">
+    <ToTranslate>syur1406</ToTranslate>
+  </String>
+  <String index="263">
+    <ToTranslate>Шури$"Ай?"@</ToTranslate>
+  </String>
+  <String index="264">
+    <ToTranslate>tcg_cun11ba</ToTranslate>
+  </String>
+  <String index="265">
+    <ToTranslate>tcg_cun11m</ToTranslate>
+  </String>
+  <String index="266">
+    <ToTranslate>sei_2403</ToTranslate>
+  </String>
+  <String index="267">
+    <ToTranslate>Сэй$"Пожалуй я останусь здесь."@</ToTranslate>
+  </String>
+  <String index="268">
+    <ToTranslate>tcg_cun21ca</ToTranslate>
+  </String>
+  <String index="269">
+    <ToTranslate>tcg_cun21m</ToTranslate>
+  </String>
+  <String index="270">
+    <ToTranslate>sei_2404</ToTranslate>
+  </String>
+  <String index="271">
+    <ToTranslate>Сэй$"...но Шури наш незаменимый стратег. Пожалуйста, не стоит забывать об этом... и соблюдай осторожность."@</ToTranslate>
+  </String>
+  <String index="272">
+    <ToTranslate>tcg_syo12ga</ToTranslate>
+  </String>
+  <String index="273">
+    <ToTranslate>tcg_syo12m</ToTranslate>
+  </String>
+  <String index="274">
+    <ToTranslate>syur1407</ToTranslate>
+  </String>
+  <String index="275">
+    <ToTranslate>Шури$"...да."@</ToTranslate>
+  </String>
+  <String index="276">
+    <ToTranslate>tcg_syo12aa</ToTranslate>
+  </String>
+  <String index="277">
+    <ToTranslate>tcg_syo12m</ToTranslate>
+  </String>
+  <String index="278">
+    <ToTranslate>syur1408</ToTranslate>
+  </String>
+  <String index="279">
+    <ToTranslate>Шури$"Большое спасибо. Но... но, думаю, время от времени я должна что-то делсть сама."@</ToTranslate>
+  </String>
+  <String index="280">
+    <ToTranslate>tcg_syo22ja</ToTranslate>
+  </String>
+  <String index="281">
+    <ToTranslate>tcg_syo22m</ToTranslate>
+  </String>
+  <String index="282">
+    <ToTranslate>syur1409</ToTranslate>
+  </String>
+  <String index="283">
+    <ToTranslate>Шури$"Особенно когда у Господина непри—га-а-а?! Ничего! Совсем ничего!"@</ToTranslate>
+  </String>
+  <String index="284">
+    <ToTranslate>tcg_cun31na</ToTranslate>
+  </String>
+  <String index="285">
+    <ToTranslate>tcg_cun31m</ToTranslate>
+  </String>
+  <String index="286">
+    <ToTranslate>sei_2405</ToTranslate>
+  </String>
+  <String index="287">
+    <ToTranslate>Сэй$"..."@</ToTranslate>
+  </String>
+  <String index="288">
+    <ToTranslate>tcg_syo22ma</ToTranslate>
+  </String>
+  <String index="289">
+    <ToTranslate>tcg_syo22m</ToTranslate>
+  </String>
+  <String index="290">
+    <ToTranslate>syur1410</ToTranslate>
+  </String>
+  <String index="291">
+    <ToTranslate>Шури$"Хау-у, мне пора-а!"@</ToTranslate>
+  </String>
+  <String index="292">
+    <ToTranslate>SE027</ToTranslate>
+  </String>
+  <String index="293">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="294">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="295">
+    <ToTranslate>bb</ToTranslate>
+  </String>
+  <String index="296">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="297">
+    <ToTranslate>bb</ToTranslate>
+  </String>
+  <String index="298">
+    <ToTranslate>bcg_castcorrid_a</ToTranslate>
+  </String>
+  <String index="299">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="300">
+    <ToTranslate>bgm06</ToTranslate>
+  </String>
+  <String index="301">
+    <ToTranslate>tcg_cun31ea</ToTranslate>
+  </String>
+  <String index="302">
+    <ToTranslate>tcg_cun31m</ToTranslate>
+  </String>
+  <String index="303">
+    <ToTranslate>sei_2406</ToTranslate>
+  </String>
+  <String index="304">
+    <ToTranslate>Сэй$"...не удивительно, что она ведёт себя странно. Господин тоже вовлечён в это, а? Если судить по её резвости, это что-то очень срочное."@</ToTranslate>
+  </String>
+  <String index="305">
+    <ToTranslate>tcg_cun31ia</ToTranslate>
+  </String>
+  <String index="306">
+    <ToTranslate>tcg_cun31m</ToTranslate>
+  </String>
+  <String index="307">
+    <ToTranslate>sei_2407</ToTranslate>
+  </String>
+  <String index="308">
+    <ToTranslate>Сэй$"Моё любопытство не позволить улизнуть чему-то подобному – тоесть, всё ради нашего Господина."@</ToTranslate>
+  </String>
+  <String index="309">
+    <ToTranslate>tcg_cun31ea</ToTranslate>
+  </String>
+  <String index="310">
+    <ToTranslate>tcg_cun31m</ToTranslate>
+  </String>
+  <String index="311">
+    <ToTranslate>sei_2408</ToTranslate>
+  </String>
+  <String index="312">
+    <ToTranslate>Сэй$"Но она была против попутчиков. Хм-м..."@</ToTranslate>
+  </String>
+  <String index="313">
+    <ToTranslate>sei_2409</ToTranslate>
+  </String>
+  <String index="314">
+    <ToTranslate>Сэй$"В лес значится, да?"@</ToTranslate>
+  </String>
+  <String index="315">
+    <ToTranslate>sei_2410</ToTranslate>
+  </String>
+  <String index="316">
+    <ToTranslate>Сэй$"...и спрятаться там будет не сложно."@</ToTranslate>
+  </String>
+  <String index="317">
+    <ToTranslate>tcg_cun31ia</ToTranslate>
+  </String>
+  <String index="318">
+    <ToTranslate>tcg_cun31m</ToTranslate>
+  </String>
+  <String index="319">
+    <ToTranslate>sei_2411</ToTranslate>
+  </String>
+  <String index="320">
+    <ToTranslate>Сэй$"Хи-хи... хи-хи-хи..."@</ToTranslate>
+  </String>
+  <String index="321">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="322">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="323">
+    <ToTranslate>aa</ToTranslate>
+  </String>
+  <String index="324">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="325">
+    <ToTranslate>aa</ToTranslate>
+  </String>
+  <String index="326">
+    <ToTranslate>bcg_forest_a</ToTranslate>
+  </String>
+  <String index="327">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="328">
+    <ToTranslate>bgm05</ToTranslate>
+  </String>
+  <String index="329">
+    <ToTranslate>tcg_syo42ga</ToTranslate>
+  </String>
+  <String index="330">
+    <ToTranslate>tcg_syo42m</ToTranslate>
+  </String>
+  <String index="331">
+    <ToTranslate>syur1411</ToTranslate>
+  </String>
+  <String index="332">
+    <ToTranslate>Шури$"Фух, фу-ух, у-у... у, почему я такая слабая?"@</ToTranslate>
+  </String>
+  <String index="333">
+    <ToTranslate>SE044</ToTranslate>
+  </String>
+  <String index="334">
+    <ToTranslate>tcg_syo22ja</ToTranslate>
+  </String>
+  <String index="335">
+    <ToTranslate>tcg_syo22m</ToTranslate>
+  </String>
+  <String index="336">
+    <ToTranslate>syur1412</ToTranslate>
+  </String>
+  <String index="337">
+    <ToTranslate>Шури$"У-у-у... здесь его тоже нет. Если я найду Xian Xi Ge Gen и Gui Qi Huang Jing, то смогу создать хорошее лекарство..."@</ToTranslate>
+  </String>
+  <String index="338">
+    <ToTranslate>tcg_syo12ga</ToTranslate>
+  </String>
+  <String index="339">
+    <ToTranslate>tcg_syo12m</ToTranslate>
+  </String>
+  <String index="340">
+    <ToTranslate>syur1413</ToTranslate>
+  </String>
+  <String index="341">
+    <ToTranslate>Шури$"И время года не удачное... надеюсь, что смогу найти хотя бы по одному экземпляру. Ещё."@</ToTranslate>
+  </String>
+  <String index="342">
+    <ToTranslate>SE044</ToTranslate>
+  </String>
+  <String index="343">
+    <ToTranslate>tcg_syo22ta</ToTranslate>
+  </String>
+  <String index="344">
+    <ToTranslate>tcg_syo22m</ToTranslate>
+  </String>
+  <String index="345">
+    <ToTranslate>syur1414</ToTranslate>
+  </String>
+  <String index="346">
+    <ToTranslate>Шури$"Ай?! Я поцарапалась о кору дерева. Больно. Фух, у-уф."@</ToTranslate>
+  </String>
+  <String index="347">
+    <ToTranslate>tcg_syo22ja</ToTranslate>
+  </String>
+  <String index="348">
+    <ToTranslate>tcg_syo22m</ToTranslate>
+  </String>
+  <String index="349">
+    <ToTranslate>syur1415</ToTranslate>
+  </String>
+  <String index="350">
+    <ToTranslate>Шури$"Ау-у... здесь тоже нет. Наверное, стоит зайти глубже."@</ToTranslate>
+  </String>
+  <String index="351">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="352">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="353">
+    <ToTranslate>aa</ToTranslate>
+  </String>
+  <String index="354">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="355">
+    <ToTranslate>aa</ToTranslate>
+  </String>
+  <String index="356">
+    <ToTranslate>bcg_forest_a</ToTranslate>
+  </String>
+  <String index="357">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="358">
+    <ToTranslate>tcg_syo22ja</ToTranslate>
+  </String>
+  <String index="359">
+    <ToTranslate>tcg_syo22m</ToTranslate>
+  </String>
+  <String index="360">
+    <ToTranslate>syur1416</ToTranslate>
+  </String>
+  <String index="361">
+    <ToTranslate>Шури$"У-у... и здесь нет... о? Когда я успела зайти настолько далеко...?"@</ToTranslate>
+  </String>
+  <String index="362">
+    <ToTranslate>syur1417</ToTranslate>
+  </String>
+  <String index="363">
+    <ToTranslate>Шури$"Здесь так темно. Хау-у, что же мне делать...?"@</ToTranslate>
+  </String>
+  <String index="364">
+    <ToTranslate>syur1418</ToTranslate>
+  </String>
+  <String index="365">
+    <ToTranslate>Шури$"Наверное, мне стоит вернуться...? Но может быть впереди мне удасться найти что-нибудь."@</ToTranslate>
+  </String>
+  <String index="366">
+    <ToTranslate>tcg_syo12ga</ToTranslate>
+  </String>
+  <String index="367">
+    <ToTranslate>tcg_syo12m</ToTranslate>
+  </String>
+  <String index="368">
+    <ToTranslate>syur1419</ToTranslate>
+  </String>
+  <String index="369">
+    <ToTranslate>Шури$"Что же мне делать...?"@</ToTranslate>
+  </String>
+  <String index="370">
+    <ToTranslate>SE044</ToTranslate>
+  </String>
+  <String index="371">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="372">
+    <ToTranslate>tcg_syo12ga</ToTranslate>
+  </String>
+  <String index="373">
+    <ToTranslate>tcg_syo12m</ToTranslate>
+  </String>
+  <String index="374">
+    <ToTranslate>tcg_zo111aa</ToTranslate>
+  </String>
+  <String index="375">
+    <ToTranslate>tcg_zo111m</ToTranslate>
+  </String>
+  <String index="376">
+    <ToTranslate>Бро$"Вон, смотрите, вы тоже видите? Вон тот аппетитный кролик, как я и говорил."@</ToTranslate>
+  </String>
+  <String index="377">
+    <ToTranslate>tcg_syo22ca</ToTranslate>
+  </String>
+  <String index="378">
+    <ToTranslate>tcg_syo22m</ToTranslate>
+  </String>
+  <String index="379">
+    <ToTranslate>bgm18</ToTranslate>
+  </String>
+  <String index="380">
+    <ToTranslate>syur1420</ToTranslate>
+  </String>
+  <String index="381">
+    <ToTranslate>Шури$"Хава-а...?!"@</ToTranslate>
+  </String>
+  <String index="382">
+    <ToTranslate>tcg_zo211aa</ToTranslate>
+  </String>
+  <String index="383">
+    <ToTranslate>tcg_zo211m</ToTranslate>
+  </String>
+  <String index="384">
+    <ToTranslate>Кусок$"В-верно... ге-хе-хе, такой мелкий, пушистый, и похоже очень вкусный."@</ToTranslate>
+  </String>
+  <String index="385">
+    <ToTranslate>syur1421</ToTranslate>
+  </String>
+  <String index="386">
+    <ToTranslate>Шури$"Ава-ва-ва...?! В-вы кто такие?"@</ToTranslate>
+  </String>
+  <String index="387">
+    <ToTranslate>tcg_zo311ea</ToTranslate>
+  </String>
+  <String index="388">
+    <ToTranslate>tcg_zo311m</ToTranslate>
+  </String>
+  <String index="389">
+    <ToTranslate>Шкет$"Мы кто? Хе-хе. Она дрожит... прикольно."@</ToTranslate>
+  </String>
+  <String index="390">
+    <ToTranslate>tcg_zo111aa</ToTranslate>
+  </String>
+  <String index="391">
+    <ToTranslate>tcg_zo111m</ToTranslate>
+  </String>
+  <String index="392">
+    <ToTranslate>Пахан$"Дорогая одежда. Может быть, она дочь богатого торговца?"@</ToTranslate>
+  </String>
+  <String index="393">
+    <ToTranslate>tcg_zo211aa</ToTranslate>
+  </String>
+  <String index="394">
+    <ToTranslate>tcg_zo211m</ToTranslate>
+  </String>
+  <String index="395">
+    <ToTranslate>Кусок$"Ге-хе-хе. А мы можем её съесть, Пахан?"@</ToTranslate>
+  </String>
+  <String index="396">
+    <ToTranslate>tcg_zo311aa</ToTranslate>
+  </String>
+  <String index="397">
+    <ToTranslate>tcg_zo311m</ToTranslate>
+  </String>
+  <String index="398">
+    <ToTranslate>Шкет$"Мы точно сможем продать задорого её шмотки, Пахан. Нам круто свезло."@</ToTranslate>
+  </String>
+  <String index="399">
+    <ToTranslate>tcg_zo111aa</ToTranslate>
+  </String>
+  <String index="400">
+    <ToTranslate>tcg_zo111m</ToTranslate>
+  </String>
+  <String index="401">
+    <ToTranslate>Пахан$"Да, давненько нам уже так не везло."@</ToTranslate>
+  </String>
+  <String index="402">
+    <ToTranslate>SE014</ToTranslate>
+  </String>
+  <String index="403">
+    <ToTranslate>tcg_syo12ga</ToTranslate>
+  </String>
+  <String index="404">
+    <ToTranslate>tcg_syo12m</ToTranslate>
+  </String>
+  <String index="405">
+    <ToTranslate>syur1422</ToTranslate>
+  </String>
+  <String index="406">
+    <ToTranslate>Шури$"У... у-у... не подходите ко мне! Пожалуйста, не приближайтесь!"@</ToTranslate>
+  </String>
+  <String index="407">
+    <ToTranslate>Пахан$"Решила что мы испугаемся хотя бы потому что у тебя есть этот меч? Смотри случайно сама не поранься."@</ToTranslate>
+  </String>
+  <String index="408">
+    <ToTranslate>tcg_zo211aa</ToTranslate>
+  </String>
+  <String index="409">
+    <ToTranslate>tcg_zo211m</ToTranslate>
+  </String>
+  <String index="410">
+    <ToTranslate>Кусок$"Д-да. Просто молчать в твоих же интересах! И мы надлежащим образом о тебе позаботимся."@</ToTranslate>
+  </String>
+  <String index="411">
+    <ToTranslate>tcg_syo22ta</ToTranslate>
+  </String>
+  <String index="412">
+    <ToTranslate>tcg_syo22m</ToTranslate>
+  </String>
+  <String index="413">
+    <ToTranslate>syur1423</ToTranslate>
+  </String>
+  <String index="414">
+    <ToTranslate>Шури $"У... а-а-а."@</ToTranslate>
+  </String>
+  <String index="415">
+    <ToTranslate>tcg_zo311ea</ToTranslate>
+  </String>
+  <String index="416">
+    <ToTranslate>tcg_zo311m</ToTranslate>
+  </String>
+  <String index="417">
+    <ToTranslate>Шкет$"Я буду вторым после Пахана, а ты последним, тому как тебя вообще не волнует когда где и с кем."@</ToTranslate>
+  </String>
+  <String index="418">
+    <ToTranslate>tcg_zo211aa</ToTranslate>
+  </String>
+  <String index="419">
+    <ToTranslate>tcg_zo211m</ToTranslate>
+  </String>
+  <String index="420">
+    <ToTranslate>Кусок$"Эй, это не честно... я хочу быть первым."@</ToTranslate>
+  </String>
+  <String index="421">
+    <ToTranslate>tcg_zo111aa</ToTranslate>
+  </String>
+  <String index="422">
+    <ToTranslate>tcg_zo111m</ToTranslate>
+  </String>
+  <String index="423">
+    <ToTranslate>Пахан$"Мать вашу заткнулись оба! Сначала схватите её!"@</ToTranslate>
+  </String>
+  <String index="424">
+    <ToTranslate>tcg_zo211aa</ToTranslate>
+  </String>
+  <String index="425">
+    <ToTranslate>tcg_zo211m</ToTranslate>
+  </String>
+  <String index="426">
+    <ToTranslate>Кусок$"Да босс. Ты пойдёшь с нами..."@</ToTranslate>
+  </String>
+  <String index="427">
+    <ToTranslate>tcg_syo22ma</ToTranslate>
+  </String>
+  <String index="428">
+    <ToTranslate>tcg_syo22m</ToTranslate>
+  </String>
+  <String index="429">
+    <ToTranslate>syur1424</ToTranslate>
+  </String>
+  <String index="430">
+    <ToTranslate>Шури$"Не приближайтесь!"@</ToTranslate>
+  </String>
+  <String index="431">
+    <ToTranslate>SE007</ToTranslate>
+  </String>
+  <String index="432">
+    <ToTranslate>Кусок$"Гах?! Эй, больно же..."@</ToTranslate>
+  </String>
+  <String index="433">
+    <ToTranslate>SE009</ToTranslate>
+  </String>
+  <String index="434">
+    <ToTranslate>tcg_syo22ta</ToTranslate>
+  </String>
+  <String index="435">
+    <ToTranslate>tcg_syo22m</ToTranslate>
+  </String>
+  <String index="436">
+    <ToTranslate>syur1425</ToTranslate>
+  </String>
+  <String index="437">
+    <ToTranslate>Шури$"Убирайтесь! Т-только Господину позволено прикасаться ко мне! Не-е-ет! Не подходите ко мне!!"@</ToTranslate>
+  </String>
+  <String index="438">
+    <ToTranslate>tcg_zo311ba</ToTranslate>
+  </String>
+  <String index="439">
+    <ToTranslate>tcg_zo311m</ToTranslate>
+  </String>
+  <String index="440">
+    <ToTranslate>Шкет$"Не бойтесь её! Она просто машет мечом! Кусок, зайди сбоку!!"@</ToTranslate>
+  </String>
+  <String index="441">
+    <ToTranslate>tcg_zo211aa</ToTranslate>
+  </String>
+  <String index="442">
+    <ToTranslate>tcg_zo211m</ToTranslate>
+  </String>
+  <String index="443">
+    <ToTranslate>Fasto$"Д-да, сейчас сделаю!"@</ToTranslate>
+  </String>
+  <String index="444">
+    <ToTranslate>SE038</ToTranslate>
+  </String>
+  <String index="445">
+    <ToTranslate>syur1426</ToTranslate>
+  </String>
+  <String index="446">
+    <ToTranslate>Шури$"А-а?!"@</ToTranslate>
+  </String>
+  <String index="447">
+    <ToTranslate>Кусок$"Как? Уже упала, но я ведь ещё ничего и не сделал. Ге-хе-хе, дай-ка мне свою опасную штуку."@</ToTranslate>
+  </String>
+  <String index="448">
+    <ToTranslate>tcg_syo22ta</ToTranslate>
+  </String>
+  <String index="449">
+    <ToTranslate>tcg_syo22m</ToTranslate>
+  </String>
+  <String index="450">
+    <ToTranslate>syur1427</ToTranslate>
+  </String>
+  <String index="451">
+    <ToTranslate>Шури$"Нет... уходите..."@</ToTranslate>
+  </String>
+  <String index="452">
+    <ToTranslate>Кусок$"Не можем. Гех, попалась..."@</ToTranslate>
+  </String>
+  <String index="453">
+    <ToTranslate>SE044</ToTranslate>
+  </String>
+  <String index="454">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="455">
+    <ToTranslate>tcg_cun22ga</ToTranslate>
+  </String>
+  <String index="456">
+    <ToTranslate>tcg_cun22m</ToTranslate>
+  </String>
+  <String index="457">
+    <ToTranslate>bgm11</ToTranslate>
+  </String>
+  <String index="458">
+    <ToTranslate>sei_2412</ToTranslate>
+  </String>
+  <String index="459">
+    <ToTranslate>???$"Стоять!"@</ToTranslate>
+  </String>
+  <String index="460">
+    <ToTranslate>tcg_zo111ca</ToTranslate>
+  </String>
+  <String index="461">
+    <ToTranslate>tcg_zo111m</ToTranslate>
+  </String>
+  <String index="462">
+    <ToTranslate>Пахан$"Какого...? Э-это ещё кто?!"@</ToTranslate>
+  </String>
+  <String index="463">
+    <ToTranslate>tcg_syo22ma</ToTranslate>
+  </String>
+  <String index="464">
+    <ToTranslate>tcg_syo22m</ToTranslate>
+  </String>
+  <String index="465">
+    <ToTranslate>syur1428</ToTranslate>
+  </String>
+  <String index="466">
+    <ToTranslate>Шури$"Ты же...!"@</ToTranslate>
+  </String>
+  <String index="467">
+    <ToTranslate>tcg_cun32ea</ToTranslate>
+  </String>
+  <String index="468">
+    <ToTranslate>tcg_cun32m</ToTranslate>
+  </String>
+  <String index="469">
+    <ToTranslate>sei_2413</ToTranslate>
+  </String>
+  <String index="470">
+    <ToTranslate>???$"Останавливать насилие, побеждать зло, наказывать злодеев и защищать дев......люди зовут это справедливостью!"@</ToTranslate>
+  </String>
+  <String index="471">
+    <ToTranslate>tcg_syo22ja</ToTranslate>
+  </String>
+  <String index="472">
+    <ToTranslate>tcg_syo22m</ToTranslate>
+  </String>
+  <String index="473">
+    <ToTranslate>syur1429</ToTranslate>
+  </String>
+  <String index="474">
+    <ToTranslate>Шури$"...?"@</ToTranslate>
+  </String>
+  <String index="475">
+    <ToTranslate>tcg_zo211aa</ToTranslate>
+  </String>
+  <String index="476">
+    <ToTranslate>tcg_zo211m</ToTranslate>
+  </String>
+  <String index="477">
+    <ToTranslate>Кусок$"Э-это что лозунг какой-то? И вообще, ты кто такая?"@</ToTranslate>
+  </String>
+  <String index="478">
+    <ToTranslate>tcg_cun22ga</ToTranslate>
+  </String>
+  <String index="479">
+    <ToTranslate>tcg_cun22m</ToTranslate>
+  </String>
+  <String index="480">
+    <ToTranslate>sei_2414</ToTranslate>
+  </String>
+  <String index="481">
+    <ToTranslate>???$"Я не обязана называться кретинам с развитием ниже пустынных крыс! Тоу!"@</ToTranslate>
+  </String>
+  <String index="482">
+    <ToTranslate>SE010</ToTranslate>
+  </String>
+  <String index="483">
+    <ToTranslate>Кусок$"Взлетела?!"@</ToTranslate>
+  </String>
+  <String index="484">
+    <ToTranslate>tcg_zo311ba</ToTranslate>
+  </String>
+  <String index="485">
+    <ToTranslate>tcg_zo311m</ToTranslate>
+  </String>
+  <String index="486">
+    <ToTranslate>Шкет$"Кретин! Не пялься на неё... гаха?!"@</ToTranslate>
+  </String>
+  <String index="487">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="488">
+    <ToTranslate>tcg_cun52aa</ToTranslate>
+  </String>
+  <String index="489">
+    <ToTranslate>tcg_cun52m</ToTranslate>
+  </String>
+  <String index="490">
+    <ToTranslate>SE004</ToTranslate>
+  </String>
+  <String index="491">
+    <ToTranslate>yure_t</ToTranslate>
+  </String>
+  <String index="492">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="493">
+    <ToTranslate>tcg_zo111da</ToTranslate>
+  </String>
+  <String index="494">
+    <ToTranslate>tcg_zo111m</ToTranslate>
+  </String>
+  <String index="495">
+    <ToTranslate>Пахан$"Ургх?!"@</ToTranslate>
+  </String>
+  <String index="496">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="497">
+    <ToTranslate>tcg_zo211aa</ToTranslate>
+  </String>
+  <String index="498">
+    <ToTranslate>tcg_zo211m</ToTranslate>
+  </String>
+  <String index="499">
+    <ToTranslate>Кусок$"П-Пахан... гх... сучка!"@</ToTranslate>
+  </String>
+  <String index="500">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="501">
+    <ToTranslate>SE010</ToTranslate>
+  </String>
+  <String index="502">
+    <ToTranslate>yure_t</ToTranslate>
+  </String>
+  <String index="503">
+    <ToTranslate>tcg_cun52aa</ToTranslate>
+  </String>
+  <String index="504">
+    <ToTranslate>tcg_cun52m</ToTranslate>
+  </String>
+  <String index="505">
+    <ToTranslate>sei_2415</ToTranslate>
+  </String>
+  <String index="506">
+    <ToTranslate>???$"Медленно!"@</ToTranslate>
+  </String>
+  <String index="507">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="508">
+    <ToTranslate>SE004</ToTranslate>
+  </String>
+  <String index="509">
+    <ToTranslate>yure_t</ToTranslate>
+  </String>
+  <String index="510">
+    <ToTranslate>tcg_zo211aa</ToTranslate>
+  </String>
+  <String index="511">
+    <ToTranslate>tcg_zo211m</ToTranslate>
+  </String>
+  <String index="512">
+    <ToTranslate>Кусок$"Арх, ух, чёрт..."@</ToTranslate>
+  </String>
+  <String index="513">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="514">
+    <ToTranslate>tcg_cun42aa</ToTranslate>
+  </String>
+  <String index="515">
+    <ToTranslate>tcg_cun42m</ToTranslate>
+  </String>
+  <String index="516">
+    <ToTranslate>sei_2416</ToTranslate>
+  </String>
+  <String index="517">
+    <ToTranslate>???$"Хах... не хочу запачкать драгоценное копьё мерзкой кровью... но если вы настаиваете, то придётся это сделать."@</ToTranslate>
+  </String>
+  <String index="518">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="519">
+    <ToTranslate>tcg_zo111ca</ToTranslate>
+  </String>
+  <String index="520">
+    <ToTranslate>tcg_zo111m</ToTranslate>
+  </String>
+  <String index="521">
+    <ToTranslate>Пахан$"Чё-ё-ёрт! Просто следите за мной!"@</ToTranslate>
+  </String>
+  <String index="522">
+    <ToTranslate>tcg_cun32ea</ToTranslate>
+  </String>
+  <String index="523">
+    <ToTranslate>tcg_cun32m</ToTranslate>
+  </String>
+  <String index="524">
+    <ToTranslate>sei_2417</ToTranslate>
+  </String>
+  <String index="525">
+    <ToTranslate>???$"Ещё чего. Мне будут сниться кошмары, если я запомню ваши уродливые лица."@</ToTranslate>
+  </String>
+  <String index="526">
+    <ToTranslate>tcg_zo211aa</ToTranslate>
+  </String>
+  <String index="527">
+    <ToTranslate>tcg_zo211m</ToTranslate>
+  </String>
+  <String index="528">
+    <ToTranslate>Кусок$"О-о-о, и за мной тоже!"@</ToTranslate>
+  </String>
+  <String index="529">
+    <ToTranslate>SE076</ToTranslate>
+  </String>
+  <String index="530">
+    <ToTranslate>tcg_cun12da</ToTranslate>
+  </String>
+  <String index="531">
+    <ToTranslate>tcg_cun12m</ToTranslate>
+  </String>
+  <String index="532">
+    <ToTranslate>sei_2418</ToTranslate>
+  </String>
+  <String index="533">
+    <ToTranslate>???$"Я же сказала, что не хочу даже запоминать вас... вы глухие? Эй... фырк, они убежали."@</ToTranslate>
+  </String>
+  <String index="534">
+    <ToTranslate>tcg_cun22ca</ToTranslate>
+  </String>
+  <String index="535">
+    <ToTranslate>tcg_cun22m</ToTranslate>
+  </String>
+  <String index="536">
+    <ToTranslate>bgm28</ToTranslate>
+  </String>
+  <String index="537">
+    <ToTranslate>sei_2419</ToTranslate>
+  </String>
+  <String index="538">
+    <ToTranslate>???$"Эти леса кишат подобным сбродом. И вполне предсказуемо, что зайдя сюда можно столкнуться с ними... следует быть более осторожной, Шури, э-э... юная дева." @</ToTranslate>
+  </String>
+  <String index="539">
+    <ToTranslate>tcg_syo22pa</ToTranslate>
+  </String>
+  <String index="540">
+    <ToTranslate>tcg_syo22m</ToTranslate>
+  </String>
+  <String index="541">
+    <ToTranslate>syur1430</ToTranslate>
+  </String>
+  <String index="542">
+    <ToTranslate>Шури$"Фух, спасибо... вы спасли меня."@</ToTranslate>
+  </String>
+  <String index="543">
+    <ToTranslate>tcg_cun32na</ToTranslate>
+  </String>
+  <String index="544">
+    <ToTranslate>tcg_cun32m</ToTranslate>
+  </String>
+  <String index="545">
+    <ToTranslate>sei_2420</ToTranslate>
+  </String>
+  <String index="546">
+    <ToTranslate>???$"Не нужно благодарностей. Я защитнк справедливости и это моя обязанность--"@</ToTranslate>
+  </String>
+  <String index="547">
+    <ToTranslate>tcg_syo12aa</ToTranslate>
+  </String>
+  <String index="548">
+    <ToTranslate>tcg_syo12m</ToTranslate>
+  </String>
+  <String index="549">
+    <ToTranslate>syur1431</ToTranslate>
+  </String>
+  <String index="550">
+    <ToTranslate>Шури$"Сэй-сан."@</ToTranslate>
+  </String>
+  <String index="551">
+    <ToTranslate>tcg_cun12da</ToTranslate>
+  </String>
+  <String index="552">
+    <ToTranslate>tcg_cun12m</ToTranslate>
+  </String>
+  <String index="553">
+    <ToTranslate>sei_2421</ToTranslate>
+  </String>
+  <String index="554">
+    <ToTranslate>???$"Ум?! Что-что-то сказали? Я совершенно никак не связана с этим очароветельным именем."@</ToTranslate>
+  </String>
+  <String index="555">
+    <ToTranslate>tcg_syo22ca</ToTranslate>
+  </String>
+  <String index="556">
+    <ToTranslate>tcg_syo22m</ToTranslate>
+  </String>
+  <String index="557">
+    <ToTranslate>syur1432</ToTranslate>
+  </String>
+  <String index="558">
+    <ToTranslate>Шури$"Э-э...?! Х-хотите сказать, что скрываете свою личину за этой маской...?" @</ToTranslate>
+  </String>
+  <String index="559">
+    <ToTranslate>tcg_cun12ja</ToTranslate>
+  </String>
+  <String index="560">
+    <ToTranslate>tcg_cun12m</ToTranslate>
+  </String>
+  <String index="561">
+    <ToTranslate>sei_2422</ToTranslate>
+  </String>
+  <String index="562">
+    <ToTranslate>???$"Скрываю личину? Я совершенно не понимаю вас юная дева."@</ToTranslate>
+  </String>
+  <String index="563">
+    <ToTranslate>tcg_syo22da</ToTranslate>
+  </String>
+  <String index="564">
+    <ToTranslate>tcg_syo22m</ToTranslate>
+  </String>
+  <String index="565">
+    <ToTranslate>syur1433</ToTranslate>
+  </String>
+  <String index="566">
+    <ToTranslate>Шури$"Но ведь копьё... а ещё голос..."@</ToTranslate>
+  </String>
+  <String index="567">
+    <ToTranslate>tcg_cun22ma</ToTranslate>
+  </String>
+  <String index="568">
+    <ToTranslate>tcg_cun22m</ToTranslate>
+  </String>
+  <String index="569">
+    <ToTranslate>sei_2423</ToTranslate>
+  </String>
+  <String index="570">
+    <ToTranslate>???$"Это покажется странным... но уверенна, вы меня с кем-то спутали. И моё имя совсем не Чёун Ширью."@</ToTranslate>
+  </String>
+  <String index="571">
+    <ToTranslate>tcg_syo22ja</ToTranslate>
+  </String>
+  <String index="572">
+    <ToTranslate>tcg_syo22m</ToTranslate>
+  </String>
+  <String index="573">
+    <ToTranslate>syur1434</ToTranslate>
+  </String>
+  <String index="574">
+    <ToTranslate>Шури$"...я ведь ещё не упоминала вашего имени."@</ToTranslate>
+  </String>
+  <String index="575">
+    <ToTranslate>tcg_cun12ja</ToTranslate>
+  </String>
+  <String index="576">
+    <ToTranslate>tcg_cun12m</ToTranslate>
+  </String>
+  <String index="577">
+    <ToTranslate>sei_2424</ToTranslate>
+  </String>
+  <String index="578">
+    <ToTranslate>???$"Ум-м, как страшно... пытаетесь обмануть меня льстивыми речами? Хм-м, у вас ничего не получится."@</ToTranslate>
+  </String>
+  <String index="579">
+    <ToTranslate>tcg_syo12ga</ToTranslate>
+  </String>
+  <String index="580">
+    <ToTranslate>tcg_syo12m</ToTranslate>
+  </String>
+  <String index="581">
+    <ToTranslate>syur1435</ToTranslate>
+  </String>
+  <String index="582">
+    <ToTranslate>Шури$"А маску вы надели от того что я просила не ходить за мной?"@</ToTranslate>
+  </String>
+  <String index="583">
+    <ToTranslate>tcg_cun22ma</ToTranslate>
+  </String>
+  <String index="584">
+    <ToTranslate>tcg_cun22m</ToTranslate>
+  </String>
+  <String index="585">
+    <ToTranslate>sei_2425</ToTranslate>
+  </String>
+  <String index="586">
+    <ToTranslate>???$"И не нужно так удивляться! Нет, я не великий полководец Чёун Ширью. Я просто подражаю ей как дань уважения."@</ToTranslate>
+  </String>
+  <String index="587">
+    <ToTranslate>tcg_syo22da</ToTranslate>
+  </String>
+  <String index="588">
+    <ToTranslate>tcg_syo22m</ToTranslate>
+  </String>
+  <String index="589">
+    <ToTranslate>syur1436</ToTranslate>
+  </String>
+  <String index="590">
+    <ToTranslate>Шури$"Как, голос, рост и даже оружие?" @</ToTranslate>
+  </String>
+  <String index="591">
+    <ToTranslate>tcg_cun12ja</ToTranslate>
+  </String>
+  <String index="592">
+    <ToTranslate>tcg_cun12m</ToTranslate>
+  </String>
+  <String index="593">
+    <ToTranslate>sei_2426</ToTranslate>
+  </String>
+  <String index="594">
+    <ToTranslate>???$"Ну конечно же! Упорство, страсть, работа над собой и любая мечта станет реальностью!"@</ToTranslate>
+  </String>
+  <String index="595">
+    <ToTranslate>tcg_syo12la</ToTranslate>
+  </String>
+  <String index="596">
+    <ToTranslate>tcg_syo12m</ToTranslate>
+  </String>
+  <String index="597">
+    <ToTranslate>syur1437</ToTranslate>
+  </String>
+  <String index="598">
+    <ToTranslate>Шури$"Сэй-сан, никогда прежде вне видела вас настолько напуганной."@</ToTranslate>
+  </String>
+  <String index="599">
+    <ToTranslate>tcg_cun22ma</ToTranslate>
+  </String>
+  <String index="600">
+    <ToTranslate>tcg_cun22m</ToTranslate>
+  </String>
+  <String index="601">
+    <ToTranslate>sei_2427</ToTranslate>
+  </String>
+  <String index="602">
+    <ToTranslate>???$"Да нет же! Я-я... я чемпион правосудия, Менма Маска из Королевства Менмы!"@</ToTranslate>
+  </String>
+  <String index="603">
+    <ToTranslate>SE070</ToTranslate>
+  </String>
+  <String index="604">
+    <ToTranslate>tcg_syo12ga</ToTranslate>
+  </String>
+  <String index="605">
+    <ToTranslate>tcg_syo12m</ToTranslate>
+  </String>
+  <String index="606">
+    <ToTranslate>ase</ToTranslate>
+  </String>
+  <String index="607">
+    <ToTranslate>syur1438</ToTranslate>
+  </String>
+  <String index="608">
+    <ToTranslate>Шури$"...уа-а."@</ToTranslate>
+  </String>
+  <String index="609">
+    <ToTranslate>sei_2428</ToTranslate>
+  </String>
+  <String index="610">
+    <ToTranslate>Менма Маска$"Что ещё за уа-а?! Ты смеешь смеяться надо мною, пришедшей из дальних земель, дабы побороть зло?" @</ToTranslate>
+  </String>
+  <String index="611">
+    <ToTranslate>tcg_syo22ca</ToTranslate>
+  </String>
+  <String index="612">
+    <ToTranslate>tcg_syo22m</ToTranslate>
+  </String>
+  <String index="613">
+    <ToTranslate>syur1439</ToTranslate>
+  </String>
+  <String index="614">
+    <ToTranslate>Шури$"Н-нет! Б-благодарю вас за спасение меня от бандитов... э-эм, Маска Менма-сан?"@</ToTranslate>
+  </String>
+  <String index="615">
+    <ToTranslate>tcg_cun12ja</ToTranslate>
+  </String>
+  <String index="616">
+    <ToTranslate>tcg_cun12m</ToTranslate>
+  </String>
+  <String index="617">
+    <ToTranslate>sei_2429</ToTranslate>
+  </String>
+  <String index="618">
+    <ToTranslate>Менма Маска$"Не знаю, почему вы закончили фразу вопросительной интонацией. Но я рада, что ты всё поняла. А ведь всё могло быть иначе, а, Шури?"@</ToTranslate>
+  </String>
+  <String index="619">
+    <ToTranslate>syur1440</ToTranslate>
+  </String>
+  <String index="620">
+    <ToTranslate>Шури$"Шури?"@</ToTranslate>
+  </String>
+  <String index="621">
+    <ToTranslate>sei_2430</ToTranslate>
+  </String>
+  <String index="622">
+    <ToTranslate>Менма Маска$"Акха... ведь всё могло быть иначе, юная дева?"@</ToTranslate>
+  </String>
+  <String index="623">
+    <ToTranslate>tcg_syo12ga</ToTranslate>
+  </String>
+  <String index="624">
+    <ToTranslate>tcg_syo12m</ToTranslate>
+  </String>
+  <String index="625">
+    <ToTranslate>syur1441</ToTranslate>
+  </String>
+  <String index="626">
+    <ToTranslate>Шури$"Выкрутилась значит..."@</ToTranslate>
+  </String>
+  <String index="627">
+    <ToTranslate>tcg_cun12ja</ToTranslate>
+  </String>
+  <String index="628">
+    <ToTranslate>tcg_cun12m</ToTranslate>
+  </String>
+  <String index="629">
+    <ToTranslate>sei_2431</ToTranslate>
+  </String>
+  <String index="630">
+    <ToTranslate>Менма Маска$"В-возможно где-то поблизости скрывается ещё одна шайка бандитов. Если у вас ещё здесь есть какое-то дело, вам лучше поскорее его закончить и вернуться домой."@</ToTranslate>
+  </String>
+  <String index="631">
+    <ToTranslate>tcg_syo12ba</ToTranslate>
+  </String>
+  <String index="632">
+    <ToTranslate>tcg_syo12m</ToTranslate>
+  </String>
+  <String index="633">
+    <ToTranslate>syur1442</ToTranslate>
+  </String>
+  <String index="634">
+    <ToTranslate>Шури$"Да. Большое спасибо... Сэ... Менма-сан."@</ToTranslate>
+  </String>
+  <String index="635">
+    <ToTranslate>tcg_cun22ma</ToTranslate>
+  </String>
+  <String index="636">
+    <ToTranslate>tcg_cun22m</ToTranslate>
+  </String>
+  <String index="637">
+    <ToTranslate>sei_2432</ToTranslate>
+  </String>
+  <String index="638">
+    <ToTranslate>Менма Маска$"Верно. У меня есть ещё одно дело... прощайте!"@</ToTranslate>
+  </String>
+  <String index="639">
+    <ToTranslate>SE026</ToTranslate>
+  </String>
+  <String index="640">
+    <ToTranslate>SE044</ToTranslate>
+  </String>
+  <String index="641">
+    <ToTranslate>tcg_syo22ma</ToTranslate>
+  </String>
+  <String index="642">
+    <ToTranslate>tcg_syo22m</ToTranslate>
+  </String>
+  <String index="643">
+    <ToTranslate>bgm05</ToTranslate>
+  </String>
+  <String index="644">
+    <ToTranslate>syur1443</ToTranslate>
+  </String>
+  <String index="645">
+    <ToTranslate>Шури$"Ха-ха...! Ещё одно дело в кустах? Если присмотреться, то её можно заметить."@</ToTranslate>
+  </String>
+  <String index="646">
+    <ToTranslate>tcg_syo12ka</ToTranslate>
+  </String>
+  <String index="647">
+    <ToTranslate>tcg_syo12m</ToTranslate>
+  </String>
+  <String index="648">
+    <ToTranslate>syur1444</ToTranslate>
+  </String>
+  <String index="649">
+    <ToTranslate>Шури$"Эхе. Она так и будет шпионить за мной? ...Сэй-сан хорошая."@</ToTranslate>
+  </String>
+  <String index="650">
+    <ToTranslate>tcg_syo12ba</ToTranslate>
+  </String>
+  <String index="651">
+    <ToTranslate>tcg_syo12m</ToTranslate>
+  </String>
+  <String index="652">
+    <ToTranslate>syur1445</ToTranslate>
+  </String>
+  <String index="653">
+    <ToTranslate>Шури$"Ну... мне всё ещё нужно найти травы чтобы вылечить Господина!"@</ToTranslate>
+  </String>
+  <String index="654">
+    <ToTranslate>SE044</ToTranslate>
+  </String>
+  <String index="655">
+    <ToTranslate>tcg_syo22ja</ToTranslate>
+  </String>
+  <String index="656">
+    <ToTranslate>tcg_syo22m</ToTranslate>
+  </String>
+  <String index="657">
+    <ToTranslate>syur1446</ToTranslate>
+  </String>
+  <String index="658">
+    <ToTranslate>Шури$"Ой, нет. Он ведь хотел, чтобы его болезнь оставалась тайной. Но сейчас мне нечегео опасаться, ведь я же в лесу."@</ToTranslate>
+  </String>
+  <String index="659">
+    <ToTranslate>tcg_syo12ba</ToTranslate>
+  </String>
+  <String index="660">
+    <ToTranslate>tcg_syo12m</ToTranslate>
+  </String>
+  <String index="661">
+    <ToTranslate>syur1447</ToTranslate>
+  </String>
+  <String index="662">
+    <ToTranslate>Шури$"Необходимо найти травы, я должна поискать ещё глубже в лесу."@</ToTranslate>
+  </String>
+  <String index="663">
+    <ToTranslate>SE044</ToTranslate>
+  </String>
+  <String index="664">
+    <ToTranslate>tcg_syo22fa</ToTranslate>
+  </String>
+  <String index="665">
+    <ToTranslate>tcg_syo22m</ToTranslate>
+  </String>
+  <String index="666">
+    <ToTranslate>syur1448</ToTranslate>
+  </String>
+  <String index="667">
+    <ToTranslate>Шури$"Простите что обременяю вас... пожалуйста, поддержите меня ещё немного, Сэй-сан."@</ToTranslate>
+  </String>
+  <String index="668">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="669">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="670">
+    <ToTranslate>bb</ToTranslate>
+  </String>
+  <String index="671">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="672">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="673">
+    <ToTranslate>bgm23</ToTranslate>
+  </String>
+  <String index="674">
+    <ToTranslate>$Сколько я уже сплю?@</ToTranslate>
+  </String>
+  <String index="675">
+    <ToTranslate>$Кажется я что-то слышу.@</ToTranslate>
+  </String>
+  <String index="676">
+    <ToTranslate>SE088</ToTranslate>
+  </String>
+  <String index="677">
+    <ToTranslate>$Какой-то тихий расслабляющий шум, и воздух наполняется запахом трав.@</ToTranslate>
+  </String>
+  <String index="678">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="679">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="680">
+    <ToTranslate>bcg_heroroom_c</ToTranslate>
+  </String>
+  <String index="681">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="682">
+    <ToTranslate>$Я с трудом приподнимаю опухшие веди и вижу как Шури разливает что-то в чайные чашки.@</ToTranslate>
+  </String>
+  <String index="683">
+    <ToTranslate>Казуто$"...Шури? Как, уже ночь, долго же я спал."@</ToTranslate>
+  </String>
+  <String index="684">
+    <ToTranslate>tcg_syo21ma</ToTranslate>
+  </String>
+  <String index="685">
+    <ToTranslate>tcg_syo21m</ToTranslate>
+  </String>
+  <String index="686">
+    <ToTranslate>syur1449</ToTranslate>
+  </String>
+  <String index="687">
+    <ToTranslate>Шури$"Господин, вы проснулись? Ой-ой-ой, вы всё ещё бледны. Вам лучше?"@</ToTranslate>
+  </String>
+  <String index="688">
+    <ToTranslate>$Я попытался ответить... но закашлял.@</ToTranslate>
+  </String>
+  <String index="689">
+    <ToTranslate>Казуто$"*Кашель*. Чувствую себя немного неуверенно и голова всё ещё болит... похоже, так просто оно не уйдёт."@</ToTranslate>
+  </String>
+  <String index="690">
+    <ToTranslate>tcg_syo21ja</ToTranslate>
+  </String>
+  <String index="691">
+    <ToTranslate>tcg_syo21m</ToTranslate>
+  </String>
+  <String index="692">
+    <ToTranslate>syur1450</ToTranslate>
+  </String>
+  <String index="693">
+    <ToTranslate>Шури$"Пожалуйста, не вставайте. Вы должны лежать."@</ToTranslate>
+  </String>
+  <String index="694">
+    <ToTranslate>$Шури поставила, поднос и бросилась ко мне, а затем снова уложила в кровать.@</ToTranslate>
+  </String>
+  <String index="695">
+    <ToTranslate>Казуто$"Обращаешся со мной как со смертельно больным... от этого мне становится только хуже."@</ToTranslate>
+  </String>
+  <String index="696">
+    <ToTranslate>tcg_syo31na</ToTranslate>
+  </String>
+  <String index="697">
+    <ToTranslate>tcg_syo31m</ToTranslate>
+  </String>
+  <String index="698">
+    <ToTranslate>syur1451</ToTranslate>
+  </String>
+  <String index="699">
+    <ToTranslate>Шури$"Дело не в серьёзности болезни! К тому же вы действительно больны."@</ToTranslate>
+  </String>
+  <String index="700">
+    <ToTranslate>$Возражать бесполезно. Я смирился и остался в кровати, а Шури пошла к подносу чтобы принести мне чаю.@</ToTranslate>
+  </String>
+  <String index="701">
+    <ToTranslate>tcg_syo11aa</ToTranslate>
+  </String>
+  <String index="702">
+    <ToTranslate>tcg_syo11m</ToTranslate>
+  </String>
+  <String index="703">
+    <ToTranslate>syur1452</ToTranslate>
+  </String>
+  <String index="704">
+    <ToTranslate>Шури$"Вот, прошу вас, выпейте."@</ToTranslate>
+  </String>
+  <String index="705">
+    <ToTranslate>Казуто$"Спасибо... это чай?"@</ToTranslate>
+  </String>
+  <String index="706">
+    <ToTranslate>$Тот самый запах. Я вдохнул аромат чайной чаши...... хм-м, пахнет свежей зеленью.@</ToTranslate>
+  </String>
+  <String index="707">
+    <ToTranslate>syur1453</ToTranslate>
+  </String>
+  <String index="708">
+    <ToTranslate>Шури$"Это настой лекарственных трав, он используется при простудах."@</ToTranslate>
+  </String>
+  <String index="709">
+    <ToTranslate>Казуто$"Лекарственных, да...? Приятный запах."@</ToTranslate>
+  </String>
+  <String index="710">
+    <ToTranslate>tcg_syo11ba</ToTranslate>
+  </String>
+  <String index="711">
+    <ToTranslate>tcg_syo11m</ToTranslate>
+  </String>
+  <String index="712">
+    <ToTranslate>syur1454</ToTranslate>
+  </String>
+  <String index="713">
+    <ToTranslate>Шури$"Ахаха. Думаете, если лекарственные значит должны жутко пахнуть?"@</ToTranslate>
+  </String>
+  <String index="714">
+    <ToTranslate>Казуто$"Верно. Разве большинство трав не такие? Хм... а что это за травы?"@</ToTranslate>
+  </String>
+  <String index="715">
+    <ToTranslate>tcg_syo11aa</ToTranslate>
+  </String>
+  <String index="716">
+    <ToTranslate>tcg_syo11m</ToTranslate>
+  </String>
+  <String index="717">
+    <ToTranslate>syur1455</ToTranslate>
+  </String>
+  <String index="718">
+    <ToTranslate>Шури$"Эти травы предотвращают потерю сил во время болезни. Легенда гласит, что мудрец исполнит танец радости когда отыщет её."@</ToTranslate>
+  </String>
+  <String index="719">
+    <ToTranslate>$Представляю Шури и её танец радости заместь мудреца... её яркая улыбка только усиливает этот эфект.@</ToTranslate>
+  </String>
+  <String index="720">
+    <ToTranslate>Казуто$"Лечебные травы... прям как в одной из РПГ игр..."@</ToTranslate>
+  </String>
+  <String index="721">
+    <ToTranslate>tcg_syo21da</ToTranslate>
+  </String>
+  <String index="722">
+    <ToTranslate>tcg_syo21m</ToTranslate>
+  </String>
+  <String index="723">
+    <ToTranslate>syur1456</ToTranslate>
+  </String>
+  <String index="724">
+    <ToTranslate>Шури$"Эр пэ ге?"@</ToTranslate>
+  </String>
+  <String index="725">
+    <ToTranslate>Казуто$"Ой, не обращай внимания... хм, не знал что в наших закромах есть подобное, а это значит что никто больше не заболеет." @</ToTranslate>
+  </String>
+  <String index="726">
+    <ToTranslate>tcg_syo11ba</ToTranslate>
+  </String>
+  <String index="727">
+    <ToTranslate>tcg_syo11m</ToTranslate>
+  </String>
+  <String index="728">
+    <ToTranslate>syur1457</ToTranslate>
+  </String>
+  <String index="729">
+    <ToTranslate>Шури$"Эхе-хе... вот, пейте пока горячий."@</ToTranslate>
+  </String>
+  <String index="730">
+    <ToTranslate>Казуто$"Ум, спасиб. *Бульк* хм."@</ToTranslate>
+  </String>
+  <String index="731">
+    <ToTranslate>$Я выпил всё залпом, и приятное тепло начало согревать моё тело.@</ToTranslate>
+  </String>
+  <String index="732">
+    <ToTranslate>Казуто$"По вкусу как чай."@</ToTranslate>
+  </String>
+  <String index="733">
+    <ToTranslate>syur1458</ToTranslate>
+  </String>
+  <String index="734">
+    <ToTranslate>Шури$"Хе-хе. Верно, это и есть чай, вот, выпейте ещё одну."@</ToTranslate>
+  </String>
+  <String index="735">
+    <ToTranslate>$Ещё одну? Шури налила ещё одну... хмм?!@</ToTranslate>
+  </String>
+  <String index="736">
+    <ToTranslate>Казуто$"У-ужасный запах! Пожалуй я пас, что-то у меня плохое предчувствие."@</ToTranslate>
+  </String>
+  <String index="737">
+    <ToTranslate>tcg_syo31ha</ToTranslate>
+  </String>
+  <String index="738">
+    <ToTranslate>tcg_syo31m</ToTranslate>
+  </String>
+  <String index="739">
+    <ToTranslate>syur1459</ToTranslate>
+  </String>
+  <String index="740">
+    <ToTranslate>Шури$"Нет, он очень важен! Это лекарство от простуды."@</ToTranslate>
+  </String>
+  <String index="741">
+    <ToTranslate>$Как-то не вдохновляет меня такое пояснение.....а вот забивающий нос запах просто ужасен.@</ToTranslate>
+  </String>
+  <String index="742">
+    <ToTranslate>tcg_syo11ba</ToTranslate>
+  </String>
+  <String index="743">
+    <ToTranslate>tcg_syo11m</ToTranslate>
+  </String>
+  <String index="744">
+    <ToTranslate>syur1460</ToTranslate>
+  </String>
+  <String index="745">
+    <ToTranslate>Шури$"Вот."@</ToTranslate>
+  </String>
+  <String index="746">
+    <ToTranslate>$Улыбка Шури развеяла все мои сомнения... это не честно.@</ToTranslate>
+  </String>
+  <String index="747">
+    <ToTranslate>Казуто$"Ладно... *бульк!*"@</ToTranslate>
+  </String>
+  <String index="748">
+    <ToTranslate>$Я закрываю нос и залпом выпиваю микстуру. Гах?!@</ToTranslate>
+  </String>
+  <String index="749">
+    <ToTranslate>Казуто$"Отвратительно!"@</ToTranslate>
+  </String>
+  <String index="750">
+    <ToTranslate>tcg_syo21da</ToTranslate>
+  </String>
+  <String index="751">
+    <ToTranslate>tcg_syo21m</ToTranslate>
+  </String>
+  <String index="752">
+    <ToTranslate>syur1461</ToTranslate>
+  </String>
+  <String index="753">
+    <ToTranslate>Шури $"Уа-а, вам уже лучше." @</ToTranslate>
+  </String>
+  <String index="754">
+    <ToTranslate>$Хватит прыгать от радости! Меня же наизнанку выворачивает! Чёрт... до чего же горький, вкус хуже некуда.@</ToTranslate>
+  </String>
+  <String index="755">
+    <ToTranslate>tcg_syo11ba</ToTranslate>
+  </String>
+  <String index="756">
+    <ToTranslate>tcg_syo11m</ToTranslate>
+  </String>
+  <String index="757">
+    <ToTranslate>syur1462</ToTranslate>
+  </String>
+  <String index="758">
+    <ToTranslate>Шури$"Настоящее лекарство обязано быть горьким. Хе-хе, вам сразу же станет лучше."@</ToTranslate>
+  </String>
+  <String index="759">
+    <ToTranslate>Казуто$"Очень надеюсь."@</ToTranslate>
+  </String>
+  <String index="760">
+    <ToTranslate>$Мне остаётся только улыбнуться, отдать пустую чашу и снова забраться в кровать.@</ToTranslate>
+  </String>
+  <String index="761">
+    <ToTranslate>tcg_syo11aa</ToTranslate>
+  </String>
+  <String index="762">
+    <ToTranslate>tcg_syo11m</ToTranslate>
+  </String>
+  <String index="763">
+    <ToTranslate>syur1463</ToTranslate>
+  </String>
+  <String index="764">
+    <ToTranslate>Шури$"Хе-хе, хороший мальчик. А теперь нужно немного поспать и дать лекарству проявить себя."@</ToTranslate>
+  </String>
+  <String index="765">
+    <ToTranslate>Казуто$"Конечно... спасибо за всё... уа-х."@</ToTranslate>
+  </String>
+  <String index="766">
+    <ToTranslate>tcg_syo11ba</ToTranslate>
+  </String>
+  <String index="767">
+    <ToTranslate>tcg_syo11m</ToTranslate>
+  </String>
+  <String index="768">
+    <ToTranslate>syur1464</ToTranslate>
+  </String>
+  <String index="769">
+    <ToTranslate>Шури$"Да-а, позвольте помочь вам."@</ToTranslate>
+  </String>
+  <String index="770">
+    <ToTranslate>$Пусть делает что хочет, я закрываю глаза прежде чем она натягивает одеяло мне на плечи...... и чувствую, как всё тело куда то проваливается.@</ToTranslate>
+  </String>
+  <String index="771">
+    <ToTranslate>tcg_syo21fa</ToTranslate>
+  </String>
+  <String index="772">
+    <ToTranslate>tcg_syo21m</ToTranslate>
+  </String>
+  <String index="773">
+    <ToTranslate>syur1465</ToTranslate>
+  </String>
+  <String index="774">
+    <ToTranslate>Шури$"Спокойной ночи, Господин. Надеюсь, вам станет..."@</ToTranslate>
+  </String>
+  <String index="775">
+    <ToTranslate>$Я засыпаю прежде чем она успевает закончить.@</ToTranslate>
+  </String>
+  <String index="776">
+    <ToTranslate>$............@</ToTranslate>
+  </String>
+  <String index="777">
+    <ToTranslate>$...@</ToTranslate>
+  </String>
+  <String index="778">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="779">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="780">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="781">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="782">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="783">
+    <ToTranslate>BG_White</ToTranslate>
+  </String>
+  <String index="784">
+    <ToTranslate>bcg_heroroom_a</ToTranslate>
+  </String>
+  <String index="785">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="786">
+    <ToTranslate>bgm07</ToTranslate>
+  </String>
+  <String index="787">
+    <ToTranslate>Казуто$"Га... а? Мм-м... хорошо выспался. На дворе уже утро."@</ToTranslate>
+  </String>
+  <String index="788">
+    <ToTranslate>$Через окно с улицы проникает яркий солнечный свет и доносится чириканье воробьёв.@</ToTranslate>
+  </String>
+  <String index="789">
+    <ToTranslate>$Чувствую себя прекрасно, ничего не болит, и головную боль как рукой сняло.@</ToTranslate>
+  </String>
+  <String index="790">
+    <ToTranslate>$Я уж решил что заболел всерьёз и надолго, но простуда прошла всего за одну ночь. Я полон сил и энергии.@</ToTranslate>
+  </String>
+  <String index="791">
+    <ToTranslate>$Тот травяной чай отлично сработал. Наверное, Шури стоит запатентовать его...@</ToTranslate>
+  </String>
+  <String index="792">
+    <ToTranslate>syur1466</ToTranslate>
+  </String>
+  <String index="793">
+    <ToTranslate>Шури$"Zzzzz..."@</ToTranslate>
+  </String>
+  <String index="794">
+    <ToTranslate>$Что это было? Ощущаю, какую-то тяжесть на своих коленях.@</ToTranslate>
+  </String>
+  <String index="795">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="796">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="797">
+    <ToTranslate>ecg_syo07a</ToTranslate>
+  </String>
+  <String index="798">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="799">
+    <ToTranslate>syur1467</ToTranslate>
+  </String>
+  <String index="800">
+    <ToTranslate>Шури$"У-ум... zzz, zzz."@</ToTranslate>
+  </String>
+  <String index="801">
+    <ToTranslate>$Шури спит, сидя возле кровати и опираясь на мои колени.@</ToTranslate>
+  </String>
+  <String index="802">
+    <ToTranslate>$Это полотенце у неё в руках? Наверное, она всю ночь вытирала им пот с моего лба.@</ToTranslate>
+  </String>
+  <String index="803">
+    <ToTranslate>syur1468</ToTranslate>
+  </String>
+  <String index="804">
+    <ToTranslate>Шури$"Zzz..."@</ToTranslate>
+  </String>
+  <String index="805">
+    <ToTranslate>Казуто$"...я очень признателен."@</ToTranslate>
+  </String>
+  <String index="806">
+    <ToTranslate>$Скорее всего она всю ночь смотрела за мной пока не заснула.@</ToTranslate>
+  </String>
+  <String index="807">
+    <ToTranslate>syur1469</ToTranslate>
+  </String>
+  <String index="808">
+    <ToTranslate>Шури$"Господин..."@</ToTranslate>
+  </String>
+  <String index="809">
+    <ToTranslate>$Она что, и во сне ухаживает за мной? Она нахмурилась, тогда я решил пощекотать её меж бровей.@</ToTranslate>
+  </String>
+  <String index="810">
+    <ToTranslate>syur1470</ToTranslate>
+  </String>
+  <String index="811">
+    <ToTranslate>Шури$"...а-а."@</ToTranslate>
+  </String>
+  <String index="812">
+    <ToTranslate>$Вот, её лицо абсолютно расслаблено. Я начинаю медленно вылезать из кровати.@</ToTranslate>
+  </String>
+  <String index="813">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="814">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="815">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="816">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="817">
+    <ToTranslate>$Нельзя же позволить ей простудиться, я аккуратно беру её и ложу на кровать.@</ToTranslate>
+  </String>
+  <String index="818">
+    <ToTranslate>syur1471</ToTranslate>
+  </String>
+  <String index="819">
+    <ToTranslate>Шури$"Ум... мм."@</ToTranslate>
+  </String>
+  <String index="820">
+    <ToTranslate>$Неосознанно она обхватывает меня, немного замешкавшись, мне удаётся уложить её на кровать.@</ToTranslate>
+  </String>
+  <String index="821">
+    <ToTranslate>Казуто$"А сейчас и тебе необходимо хорошо отдохнуть..."@</ToTranslate>
+  </String>
+  <String index="822">
+    <ToTranslate>syur1472</ToTranslate>
+  </String>
+  <String index="823">
+    <ToTranslate>Шури$"Умм."@</ToTranslate>
+  </String>
+  <String index="824">
+    <ToTranslate>$Я поцеловал её в лоб, принёс новое одеяло и укрыл её им.@</ToTranslate>
+  </String>
+  <String index="825">
+    <ToTranslate>$Мне следует закончить все недоделанные дела, чтоб хоть как-то уменьшить свой долг благодарности к ней.@</ToTranslate>
+  </String>
+  <String index="826">
+    <ToTranslate>$Надеюсь, я успею закончить прежде чем она успеет проснуться.@</ToTranslate>
+  </String>
+  <String index="827">
+    <ToTranslate>syur1473</ToTranslate>
+  </String>
+  <String index="828">
+    <ToTranslate>Шури$"Zzz, zzzz..."@</ToTranslate>
+  </String>
+  <String index="829">
+    <ToTranslate>$И нельзя выглядеть уставшим когда я буду её благодарить... поехали!@</ToTranslate>
+  </String>
+  <String index="830">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="831">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="832">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+</DBS>
+
+</poem>

@@ -1,0 +1,504 @@
+<poem>
+<?xml version="1.0" encoding="UTF-8"?>
+<DBS>
+  <String index="0">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="1">
+    <ToTranslate>bcg_castcorrid_a</ToTranslate>
+  </String>
+  <String index="2">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="3">
+    <ToTranslate>bgm23</ToTranslate>
+  </String>
+  <String index="4">
+    <ToTranslate>tcg_koc11aa</ToTranslate>
+  </String>
+  <String index="5">
+    <ToTranslate>tcg_koc11m</ToTranslate>
+  </String>
+  <String index="6">
+    <ToTranslate>shio0456</ToTranslate>
+  </String>
+  <String index="7">
+    <ToTranslate>Сион$"Вот так, на сегодня это все документы, я обязательно передам их Шури-чан."@</ToTranslate>
+  </String>
+  <String index="8">
+    <ToTranslate>Казуто$"Да, спасибо."@</ToTranslate>
+  </String>
+  <String index="9">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="10">
+    <ToTranslate>$Все сегодняшние заботы уже позади! Сион исчезла в глубинах коридора, дав мне возможность расслабиться в своём одиночестве.@</ToTranslate>
+  </String>
+  <String index="11">
+    <ToTranslate>$Как же приятно.@</ToTranslate>
+  </String>
+  <String index="12">
+    <ToTranslate>$Сегодня плечи уже не болят как бывало прежде.@</ToTranslate>
+  </String>
+  <String index="13">
+    <ToTranslate>Казуто$"Начинаю привыкать к своей должности......"@</ToTranslate>
+  </String>
+  <String index="14">
+    <ToTranslate>$С первых дней пребывания мне столькому пришлось научиться, но сейчас я уже привык к повседневным государственным делам.@</ToTranslate>
+  </String>
+  <String index="15">
+    <ToTranslate>$Сколько мне ещё предстоит здесь пробыть?@</ToTranslate>
+  </String>
+  <String index="16">
+    <ToTranslate>$Остаётся надеяться что мне повезёт, и я пробуду здесь ещё какое-то время......@</ToTranslate>
+  </String>
+  <String index="17">
+    <ToTranslate>$Сражений стало значительно меньше, и у нас появилось много послевоенных забот, а значит и куча бумажек, которые мне ещё предстоят.@</ToTranslate>
+  </String>
+  <String index="18">
+    <ToTranslate>$Как бы хотелось, чтобы однажды на эти земли пришёл настоящий мир.@</ToTranslate>
+  </String>
+  <String index="19">
+    <ToTranslate>Казуто$"............"@</ToTranslate>
+  </String>
+  <String index="20">
+    <ToTranslate>$Но после его наступления, будет ли у меня право по-прежнему оставаться здесь?@</ToTranslate>
+  </String>
+  <String index="21">
+    <ToTranslate>$Я не принадлежу этой земле. Я прибыл сюда неожиданно, и сражался вплоть до этого дня.@</ToTranslate>
+  </String>
+  <String index="22">
+    <ToTranslate>$Теперь я могу расслабиться, и меня не покидает чувство опасения, что эти дни могут когда-то закончиться.@</ToTranslate>
+  </String>
+  <String index="23">
+    <ToTranslate>$Я слишком многое приобрёл в этом мире.@</ToTranslate>
+  </String>
+  <String index="24">
+    <ToTranslate>$И это совсем не богатство и слава.@</ToTranslate>
+  </String>
+  <String index="25">
+    <ToTranslate>$И пусть здесь нет магазинов и телевидения, многое в этом мире для меня непонятно, но......@</ToTranslate>
+  </String>
+  <String index="26">
+    <ToTranslate>$Я приобрёл здесь много драгоценных друзей.....@</ToTranslate>
+  </String>
+  <String index="27">
+    <ToTranslate>Казуто$"......Айша."@</ToTranslate>
+  </String>
+  <String index="28">
+    <ToTranslate>$И здесь я нашёл любовь своей жизни.@</ToTranslate>
+  </String>
+  <String index="29">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="30">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="31">
+    <ToTranslate>aa</ToTranslate>
+  </String>
+  <String index="32">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="33">
+    <ToTranslate>aa</ToTranslate>
+  </String>
+  <String index="34">
+    <ToTranslate>bcg_oncastwall_a</ToTranslate>
+  </String>
+  <String index="35">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="36">
+    <ToTranslate>$Я осознал что сжал кулаки, ещё чуть и я начну истекать кровью от ногтей, впившихся в кожу....... я должен выйти наружу и подышать свежим воздухом.@</ToTranslate>
+  </String>
+  <String index="37">
+    <ToTranslate>$Возможно, тёплое солнце сможет развеять мою тоску.@</ToTranslate>
+  </String>
+  <String index="38">
+    <ToTranslate>$Выйдя из комнаты я побрёл к городским стенам.@</ToTranslate>
+  </String>
+  <String index="39">
+    <ToTranslate>tcg_kan21aa</ToTranslate>
+  </String>
+  <String index="40">
+    <ToTranslate>tcg_kan21m</ToTranslate>
+  </String>
+  <String index="41">
+    <ToTranslate>bgm24</ToTranslate>
+  </String>
+  <String index="42">
+    <ToTranslate>aisy2780</ToTranslate>
+  </String>
+  <String index="43">
+    <ToTranslate>Айша$"Ая...... что вы делаете в подобном месте?"@</ToTranslate>
+  </String>
+  <String index="44">
+    <ToTranslate>$Уверен, это чудо, что я смог столкнуться с ней в таком месте, в то время как на душе мне было так плохо.@</ToTranslate>
+  </String>
+  <String index="45">
+    <ToTranslate>Казуто$"Да ничего в принципе, а ты что?" @</ToTranslate>
+  </String>
+  <String index="46">
+    <ToTranslate>tcg_kan21ba</ToTranslate>
+  </String>
+  <String index="47">
+    <ToTranslate>tcg_kan21m</ToTranslate>
+  </String>
+  <String index="48">
+    <ToTranslate>aisy2781</ToTranslate>
+  </String>
+  <String index="49">
+    <ToTranslate>Айша$"А я решила взять перерыв......"@</ToTranslate>
+  </String>
+  <String index="50">
+    <ToTranslate>$Прямо маленькое чудо.@</ToTranslate>
+  </String>
+  <String index="51">
+    <ToTranslate>$Она смотрит на меня, рукою пряча волосы от дуновения ветра.@</ToTranslate>
+  </String>
+  <String index="52">
+    <ToTranslate>$Ранее мысли о ней повергли меня в отчаяние, а теперь она словно свет разгоняет моё беспокойство.@</ToTranslate>
+  </String>
+  <String index="53">
+    <ToTranslate>tcg_kan21aa</ToTranslate>
+  </String>
+  <String index="54">
+    <ToTranslate>tcg_kan21m</ToTranslate>
+  </String>
+  <String index="55">
+    <ToTranslate>aisy2782</ToTranslate>
+  </String>
+  <String index="56">
+    <ToTranslate>Айша$"Вид отсюда сильно изменился......."@</ToTranslate>
+  </String>
+  <String index="57">
+    <ToTranslate>$Я подошёл и стал рядом с ней.@</ToTranslate>
+  </String>
+  <String index="58">
+    <ToTranslate>$Здесь я могу ощутить цветочный аромат её волос.@</ToTranslate>
+  </String>
+  <String index="59">
+    <ToTranslate>Казуто$"Ты права....... раньше там была пустая земля."@</ToTranslate>
+  </String>
+  <String index="60">
+    <ToTranslate>tcg_kan21ba</ToTranslate>
+  </String>
+  <String index="61">
+    <ToTranslate>tcg_kan21m</ToTranslate>
+  </String>
+  <String index="62">
+    <ToTranslate>aisy2783</ToTranslate>
+  </String>
+  <String index="63">
+    <ToTranslate>Айша$"Люди продолжат обихаживать её пока будут здесь жить. И вы тот, кто дал им такую возможность."@</ToTranslate>
+  </String>
+  <String index="64">
+    <ToTranslate>bgm25</ToTranslate>
+  </String>
+  <String index="65">
+    <ToTranslate>Казуто$"Ой, да ладно......"@</ToTranslate>
+  </String>
+  <String index="66">
+    <ToTranslate>$Я серьёзно.Ѓ@@</ToTranslate>
+  </String>
+  <String index="67">
+    <ToTranslate>$С удивлённым видом, Айша посмотрела на меня.@</ToTranslate>
+  </String>
+  <String index="68">
+    <ToTranslate>Казуто$"Но есть кое-что, что совсем не изменилось......"@</ToTranslate>
+  </String>
+  <String index="69">
+    <ToTranslate>$По крайней мере, я очень надеюсь на это.@</ToTranslate>
+  </String>
+  <String index="70">
+    <ToTranslate>$Я крепко сжал её руку.@</ToTranslate>
+  </String>
+  <String index="71">
+    <ToTranslate>tcg_kan21pa</ToTranslate>
+  </String>
+  <String index="72">
+    <ToTranslate>tcg_kan21m</ToTranslate>
+  </String>
+  <String index="73">
+    <ToTranslate>aisy2784</ToTranslate>
+  </String>
+  <String index="74">
+    <ToTranslate>Айша$"И что же это?"@</ToTranslate>
+  </String>
+  <String index="75">
+    <ToTranslate>Казуто$"Это мои чувства к тебе."@</ToTranslate>
+  </String>
+  <String index="76">
+    <ToTranslate>tcg_kan31ga</ToTranslate>
+  </String>
+  <String index="77">
+    <ToTranslate>tcg_kan31m</ToTranslate>
+  </String>
+  <String index="78">
+    <ToTranslate>aisy2785</ToTranslate>
+  </String>
+  <String index="79">
+    <ToTranslate>Айша$"Ч-что это!? Вы удивили меня...... это шутка?"@</ToTranslate>
+  </String>
+  <String index="80">
+    <ToTranslate>Казуто$"Нет, я вполне серьёзен......"@</ToTranslate>
+  </String>
+  <String index="81">
+    <ToTranslate>tcg_kan21pa</ToTranslate>
+  </String>
+  <String index="82">
+    <ToTranslate>tcg_kan21m</ToTranslate>
+  </String>
+  <String index="83">
+    <ToTranslate>aisy2786</ToTranslate>
+  </String>
+  <String index="84">
+    <ToTranslate>Айша$"Господин? Вы объясните мне что происходит?"@</ToTranslate>
+  </String>
+  <String index="85">
+    <ToTranslate>$Явно запутавшись, она уставилась на меня.@</ToTranslate>
+  </String>
+  <String index="86">
+    <ToTranslate>Казуто$"Ты меня любишь, Айша?"@</ToTranslate>
+  </String>
+  <String index="87">
+    <ToTranslate>$Я попытался ей улыбнуться.@</ToTranslate>
+  </String>
+  <String index="88">
+    <ToTranslate>$Возможно, это прозвучало как шутка, но я был вполне серьёзен.@</ToTranslate>
+  </String>
+  <String index="89">
+    <ToTranslate>tcg_kan21ia</ToTranslate>
+  </String>
+  <String index="90">
+    <ToTranslate>tcg_kan21m</ToTranslate>
+  </String>
+  <String index="91">
+    <ToTranslate>aisy2787</ToTranslate>
+  </String>
+  <String index="92">
+    <ToTranslate>Айша$"Моя любовь к вам никогда не изменится."@</ToTranslate>
+  </String>
+  <String index="93">
+    <ToTranslate>Казуто$"Я рад....."@</ToTranslate>
+  </String>
+  <String index="94">
+    <ToTranslate>$Я итак знал что она скажет, но захотел услышать это ещё раз.@</ToTranslate>
+  </String>
+  <String index="95">
+    <ToTranslate>Казуто$"Ха-ха...... когда ты говоришь так прямо, чувствую, что начинаю краснеть."@</ToTranslate>
+  </String>
+  <String index="96">
+    <ToTranslate>tcg_kan21oa</ToTranslate>
+  </String>
+  <String index="97">
+    <ToTranslate>tcg_kan21m</ToTranslate>
+  </String>
+  <String index="98">
+    <ToTranslate>aisy2788</ToTranslate>
+  </String>
+  <String index="99">
+    <ToTranslate>Айша$"Вы ведь меня сами спросили. У-у......как всегда, ведёте себя весьма странно, Господин."@</ToTranslate>
+  </String>
+  <String index="100">
+    <ToTranslate>Казуто$"Мне просто захотелось спросить тебя."@</ToTranslate>
+  </String>
+  <String index="101">
+    <ToTranslate>$Я должен был убедиться, хочу ли я, в самом деле, остаться в этом мире......@</ToTranslate>
+  </String>
+  <String index="102">
+    <ToTranslate>Казуто$"Ты сделала из меня посланника небес. И ты первая, кто поверила в меня..... считая меня героем, который сможет спасти эту страну."@</ToTranslate>
+  </String>
+  <String index="103">
+    <ToTranslate>tcg_kan21aa</ToTranslate>
+  </String>
+  <String index="104">
+    <ToTranslate>tcg_kan21m</ToTranslate>
+  </String>
+  <String index="105">
+    <ToTranslate>aisy2789</ToTranslate>
+  </String>
+  <String index="106">
+    <ToTranslate>Айша$"И это оказалось правдой. Разве нет?"@</ToTranslate>
+  </String>
+  <String index="107">
+    <ToTranslate>Казуто$"Эм..... я тут подумал."@</ToTranslate>
+  </String>
+  <String index="108">
+    <ToTranslate>tcg_kan21da</ToTranslate>
+  </String>
+  <String index="109">
+    <ToTranslate>tcg_kan21m</ToTranslate>
+  </String>
+  <String index="110">
+    <ToTranslate>aisy2790</ToTranslate>
+  </String>
+  <String index="111">
+    <ToTranslate>Айша$"......?"@</ToTranslate>
+  </String>
+  <String index="112">
+    <ToTranslate>Казуто$"Ты должна меня выслушать. Что если бы я оказался самым обычным парнем...... без всяких талантов, и......"@</ToTranslate>
+  </String>
+  <String index="113">
+    <ToTranslate>$Голос дрожит, я должен успокоиться.@</ToTranslate>
+  </String>
+  <String index="114">
+    <ToTranslate>Казуто$"Что если бы существовал другой, лишённый войн ...самый обычный мир... и я в нём самый обычный горожанин.... в таком случае......"@</ToTranslate>
+  </String>
+  <String index="115">
+    <ToTranslate>tcg_kan31ka</ToTranslate>
+  </String>
+  <String index="116">
+    <ToTranslate>tcg_kan31m</ToTranslate>
+  </String>
+  <String index="117">
+    <ToTranslate>aisy2791</ToTranslate>
+  </String>
+  <String index="118">
+    <ToTranslate>Айша$"Не понимаю к чему вы ведёте......"@</ToTranslate>
+  </String>
+  <String index="119">
+    <ToTranslate>Казуто$"Тогда... ты бы смогла меня полюбить?" @</ToTranslate>
+  </String>
+  <String index="120">
+    <ToTranslate>$Наконец-то я подобрался к вопросу на который боюсь знать ответ, но моя нерешительность заставила меня сказать это.@</ToTranslate>
+  </String>
+  <String index="121">
+    <ToTranslate>tcg_kan21na</ToTranslate>
+  </String>
+  <String index="122">
+    <ToTranslate>tcg_kan21m</ToTranslate>
+  </String>
+  <String index="123">
+    <ToTranslate>aisy2792</ToTranslate>
+  </String>
+  <String index="124">
+    <ToTranslate>Айша$"Я не понимаю что вы говорите, но что бы ни случилось, мои чувства к вам никогда не изменяться......"@</ToTranslate>
+  </String>
+  <String index="125">
+    <ToTranslate>$Очередной паузы ей хватает, чтобы направить мою руку к своей груди.@</ToTranslate>
+  </String>
+  <String index="126">
+    <ToTranslate>tcg_kan21oa</ToTranslate>
+  </String>
+  <String index="127">
+    <ToTranslate>tcg_kan21m</ToTranslate>
+  </String>
+  <String index="128">
+    <ToTranslate>aisy2793</ToTranslate>
+  </String>
+  <String index="129">
+    <ToTranslate>Айша$"Правда в том, что вы со мной здесь и сейчас. Вы вели меня, и привели эту страну к миру."@</ToTranslate>
+  </String>
+  <String index="130">
+    <ToTranslate>Казуто$"Я сам ничего не сделал...... ведь всё время сражались именно вы, а не я."@</ToTranslate>
+  </String>
+  <String index="131">
+    <ToTranslate>aisy2794</ToTranslate>
+  </String>
+  <String index="132">
+    <ToTranslate>Айша$"Но именно вы собрали нас вместе, и никто другой бы не смог этого сделать."@</ToTranslate>
+  </String>
+  <String index="133">
+    <ToTranslate>Казуто$"......Айша."@</ToTranslate>
+  </String>
+  <String index="134">
+    <ToTranslate>tcg_kan11na</ToTranslate>
+  </String>
+  <String index="135">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="136">
+    <ToTranslate>aisy2795</ToTranslate>
+  </String>
+  <String index="137">
+    <ToTranslate>Айша$"Я всегда была рядом и наблюдала за вами, и я горжусь, что смогла добраться сюда вместе с вами." @</ToTranslate>
+  </String>
+  <String index="138">
+    <ToTranslate>$Я ожидал услышать и это тоже...... как же я её люблю.@</ToTranslate>
+  </String>
+  <String index="139">
+    <ToTranslate>$Она не из тех, кто цепляется за славу или же состояние, а самая обычная честная девушка.@</ToTranslate>
+  </String>
+  <String index="140">
+    <ToTranslate>tcg_kan21na</ToTranslate>
+  </String>
+  <String index="141">
+    <ToTranslate>tcg_kan21m</ToTranslate>
+  </String>
+  <String index="142">
+    <ToTranslate>bgm24</ToTranslate>
+  </String>
+  <String index="143">
+    <ToTranslate>aisy2796</ToTranslate>
+  </String>
+  <String index="144">
+    <ToTranslate>Айша$"Моё сердце всегда будет с вами. И когда сбудутся наши надежды о мире, единственным моим желанием будет остаться рядом с вами......"@</ToTranslate>
+  </String>
+  <String index="145">
+    <ToTranslate>Казуто$"Спасибо тебе....... и я чувствую то же самое. Хочу остаться с тобой навсегда."@</ToTranslate>
+  </String>
+  <String index="146">
+    <ToTranslate>tcg_kan21oa</ToTranslate>
+  </String>
+  <String index="147">
+    <ToTranslate>tcg_kan21m</ToTranslate>
+  </String>
+  <String index="148">
+    <ToTranslate>aisy2797</ToTranslate>
+  </String>
+  <String index="149">
+    <ToTranslate>Айша$"Я рада......"@</ToTranslate>
+  </String>
+  <String index="150">
+    <ToTranslate>$Я знал каков будет её ответ, но по-прежнему хотел услышать его.@</ToTranslate>
+  </String>
+  <String index="151">
+    <ToTranslate>$Теперь, мне не о чем больше грустить.@</ToTranslate>
+  </String>
+  <String index="152">
+    <ToTranslate>$Я точно знаю чего хочу...... я взбунтую против самого Бога, если он вновь попытается изменить мою судьбу.@</ToTranslate>
+  </String>
+  <String index="153">
+    <ToTranslate>tcg_kan21na</ToTranslate>
+  </String>
+  <String index="154">
+    <ToTranslate>tcg_kan21m</ToTranslate>
+  </String>
+  <String index="155">
+    <ToTranslate>aisy2798</ToTranslate>
+  </String>
+  <String index="156">
+    <ToTranslate>Айша$"Мы можем остаться здесь ещё не намного? Вы ведь не сильно заняты?"@</ToTranslate>
+  </String>
+  <String index="157">
+    <ToTranslate>Казуто$"А ты сама, Айша?"@</ToTranslate>
+  </String>
+  <String index="158">
+    <ToTranslate>tcg_kan21ia</ToTranslate>
+  </String>
+  <String index="159">
+    <ToTranslate>tcg_kan21m</ToTranslate>
+  </String>
+  <String index="160">
+    <ToTranslate>aisy2799</ToTranslate>
+  </String>
+  <String index="161">
+    <ToTranslate>Айша$"Эхе-хе... я весь сказала только что. Моё стремление быть рядом с вами......"@</ToTranslate>
+  </String>
+  <String index="162">
+    <ToTranslate>$Я собираюсь остаться с ней навсегда...... не зависимо что ждёт меня в будущем......@</ToTranslate>
+  </String>
+  <String index="163">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="164">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="165">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+</DBS>
+
+</poem>

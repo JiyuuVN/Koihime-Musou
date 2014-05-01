@@ -1,0 +1,486 @@
+<poem>
+<?xml version="1.0" encoding="UTF-8"?>
+<DBS>
+  <String index="0">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="1">
+    <ToTranslate>bcg_castgurden_a</ToTranslate>
+  </String>
+  <String index="2">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="3">
+    <ToTranslate>bgm02</ToTranslate>
+  </String>
+  <String index="4">
+    <ToTranslate>SE028</ToTranslate>
+  </String>
+  <String index="5">
+    <ToTranslate>$Я решил пойти прогуляться по дворцовому саду. Резкий аромат трав сразу же ударил мне в нос.@</ToTranslate>
+  </String>
+  <String index="6">
+    <ToTranslate>$Теперь то я уж точно не потеряюсь среди всей этой зелени.@</ToTranslate>
+  </String>
+  <String index="7">
+    <ToTranslate>$Здесь всё вокруг выглядит одинаково, и нет ничего выразительного, чтобы я смог использовать в качестве ориентира.@</ToTranslate>
+  </String>
+  <String index="8">
+    <ToTranslate>$Даже так, я начал быстро привыкать к этому миру.@</ToTranslate>
+  </String>
+  <String index="9">
+    <ToTranslate>$В своём мире я никогда не видел таких спокойных, красивых и залитых солнцем, пейзажей.@</ToTranslate>
+  </String>
+  <String index="10">
+    <ToTranslate>$Звуки шелеста листьев на ветру.@</ToTranslate>
+  </String>
+  <String index="11">
+    <ToTranslate>syur0800</ToTranslate>
+  </String>
+  <String index="12">
+    <ToTranslate>Шури $"............"@</ToTranslate>
+  </String>
+  <String index="13">
+    <ToTranslate>$Она так естественно вписывалась в этот пейзаж, что я едва смог заметить её.@</ToTranslate>
+  </String>
+  <String index="14">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="15">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="16">
+    <ToTranslate>ecg_syo01a</ToTranslate>
+  </String>
+  <String index="17">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="18">
+    <ToTranslate>bgm05</ToTranslate>
+  </String>
+  <String index="19">
+    <ToTranslate>Казуто$"Шури, читаешь в тени дерева? Это похвально."@</ToTranslate>
+  </String>
+  <String index="20">
+    <ToTranslate>$Шури читает какую-то книгу в тени деревьев, расположенных на краю сада.@</ToTranslate>
+  </String>
+  <String index="21">
+    <ToTranslate>syur0801</ToTranslate>
+  </String>
+  <String index="22">
+    <ToTranslate>Шури$"А-а-а...?! Господин?"@</ToTranslate>
+  </String>
+  <String index="23">
+    <ToTranslate>Казуто $"Ой, не стоит так реагировать. Пожалуйста, продолжай."@</ToTranslate>
+  </String>
+  <String index="24">
+    <ToTranslate>$Шури попыталась резко вскочить, но я остановил её.@</ToTranslate>
+  </String>
+  <String index="25">
+    <ToTranslate>syur0802</ToTranslate>
+  </String>
+  <String index="26">
+    <ToTranslate>Шури$"Хава, ха-ва-ва......"@</ToTranslate>
+  </String>
+  <String index="27">
+    <ToTranslate>$Всё ещё удерживая её рукой я попытался сесть рядом...... хм? Почему она так на меня смотритt?@</ToTranslate>
+  </String>
+  <String index="28">
+    <ToTranslate>Казуто$"У меня сейчас перерыв. Можно сесть рядом?"@</ToTranslate>
+  </String>
+  <String index="29">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="30">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="31">
+    <ToTranslate>ecg_syo01c</ToTranslate>
+  </String>
+  <String index="32">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="33">
+    <ToTranslate>syur0803</ToTranslate>
+  </String>
+  <String index="34">
+    <ToTranslate>Шури$"Д-да, пжста... пожалуйста."@</ToTranslate>
+  </String>
+  <String index="35">
+    <ToTranslate>$Похоже, она так испугалась, что если бы увидела меня впервые, вполне могла бы потерять сознание. Сделав несколько движений, она подвинулась, что бы я смог сесть.@</ToTranslate>
+  </String>
+  <String index="36">
+    <ToTranslate>syur0804</ToTranslate>
+  </String>
+  <String index="37">
+    <ToTranslate>Шури$"Хг...... ху-ух, фу-ух......"@</ToTranslate>
+  </String>
+  <String index="38">
+    <ToTranslate>$Она делает несколько резких вдохов..... надеюсь, не потому что она злиться на меня......@</ToTranslate>
+  </String>
+  <String index="39">
+    <ToTranslate>Казуто$"Чего читаешь? Что-нибудь весёлое?"@</ToTranslate>
+  </String>
+  <String index="40">
+    <ToTranslate>$Говоря по правде, меня это не очень-то интересует......но я должен чем-то развеять молчание.@</ToTranslate>
+  </String>
+  <String index="41">
+    <ToTranslate>syur0805</ToTranslate>
+  </String>
+  <String index="42">
+    <ToTranslate>Шури$"А? Ничего особенного...... у-у, так стыдно...... простите, простите меня."@</ToTranslate>
+  </String>
+  <String index="43">
+    <ToTranslate>$За что она извиняется? Была бы она парнем я бы мог подумать, что это ещё порно журнал какой...... стоп, в этом мире же нет порно журналов.@</ToTranslate>
+  </String>
+  <String index="44">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="45">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="46">
+    <ToTranslate>ecg_syo01b</ToTranslate>
+  </String>
+  <String index="47">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="48">
+    <ToTranslate>syur0806</ToTranslate>
+  </String>
+  <String index="49">
+    <ToTranslate>Шури$"Это Летопись Весны и Осени Лу Ши...... это должно быть скучно для кого-то вроде вас, знающего как устроен мир."@</ToTranslate>
+  </String>
+  <String index="50">
+    <ToTranslate>Казуто$"Как устроен мир? Ну спасибо. Я, конечно, польщён, но таких знаний от меня не получишь даже под прессом."@</ToTranslate>
+  </String>
+  <String index="51">
+    <ToTranslate>syur0807</ToTranslate>
+  </String>
+  <String index="52">
+    <ToTranslate>Шури$"П-прессом? Немного неясно...... ой, такие слова используют на небесах?"@</ToTranslate>
+  </String>
+  <String index="53">
+    <ToTranslate>$Эм...... Шокацурё Комэй БЫЛ известным китайским мудрецом. И она должна быть одной из самых лучших......@</ToTranslate>
+  </String>
+  <String index="54">
+    <ToTranslate>$Но она выглядит расстроенной..... возможно, она нервничает?@</ToTranslate>
+  </String>
+  <String index="55">
+    <ToTranslate>Казуто$"В любом случае, не стоит так нервничать! Я не кусаюсь."@</ToTranslate>
+  </String>
+  <String index="56">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="57">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="58">
+    <ToTranslate>ecg_syo01c</ToTranslate>
+  </String>
+  <String index="59">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="60">
+    <ToTranslate>syur0808</ToTranslate>
+  </String>
+  <String index="61">
+    <ToTranslate>Шури$"Да, мне очень даль......"@</ToTranslate>
+  </String>
+  <String index="62">
+    <ToTranslate>$Умм...... пора менять тему.@</ToTranslate>
+  </String>
+  <String index="63">
+    <ToTranslate>$Иначе, Шури и дальше будет казаться подавленной.@</ToTranslate>
+  </String>
+  <String index="64">
+    <ToTranslate>Казуто$"Итак, расскажи о себе."@</ToTranslate>
+  </String>
+  <String index="65">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="66">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="67">
+    <ToTranslate>ecg_syo01a</ToTranslate>
+  </String>
+  <String index="68">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="69">
+    <ToTranslate>syur0809</ToTranslate>
+  </String>
+  <String index="70">
+    <ToTranslate>Шури$"Рассказать о себе?"@</ToTranslate>
+  </String>
+  <String index="71">
+    <ToTranslate>Казуто$"Именно. Говорят, ты ходила в школу, но захотела использовать свои знания в настоящем мире и поэтому решилась отправиться на поле боя?" @</ToTranslate>
+  </String>
+  <String index="72">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="73">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="74">
+    <ToTranslate>ecg_syo01b</ToTranslate>
+  </String>
+  <String index="75">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="76">
+    <ToTranslate>syur0810</ToTranslate>
+  </String>
+  <String index="77">
+    <ToTranslate>Шури $"Так и есть. Когда я была маленькой, я училась в частной школе у учителя Суйко......" @</ToTranslate>
+  </String>
+  <String index="78">
+    <ToTranslate>Казуто$"Учитель Суйко? Случаем...... также не известного как учитель Шибаки?" @</ToTranslate>
+  </String>
+  <String index="79">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="80">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="81">
+    <ToTranslate>ecg_syo01a</ToTranslate>
+  </String>
+  <String index="82">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="83">
+    <ToTranslate>syur0811</ToTranslate>
+  </String>
+  <String index="84">
+    <ToTranslate>Шури$"Ха-ва?! Вы знакомы с учителем......?"@</ToTranslate>
+  </String>
+  <String index="85">
+    <ToTranslate>$Оп, прямо в центр. Этот мир сильно схож с описанным в романе о троецарствии...... опять совпадение.@</ToTranslate>
+  </String>
+  <String index="86">
+    <ToTranslate>Казуто$"Только имя. Так мы никогда не встречались...... и, он и правда, настолько стар?"@</ToTranslate>
+  </String>
+  <String index="87">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="88">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="89">
+    <ToTranslate>ecg_syo01b</ToTranslate>
+  </String>
+  <String index="90">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="91">
+    <ToTranslate>syur0812</ToTranslate>
+  </String>
+  <String index="92">
+    <ToTranslate>Шури $"......она бы сильно разозлилась если бы слышала вас. Она очень красивая женщина."@</ToTranslate>
+  </String>
+  <String index="93">
+    <ToTranslate>$Не совпадение. Я в замешательстве......@</ToTranslate>
+  </String>
+  <String index="94">
+    <ToTranslate>syur0813</ToTranslate>
+  </String>
+  <String index="95">
+    <ToTranslate>Шури$"В-вы неправы...... скорее всего, вы с кем-то спутали её, не так ли? Иногда, некоторые люди бывают сильно схожи друг с другом."@</ToTranslate>
+  </String>
+  <String index="96">
+    <ToTranslate>Казуто$"Сам то я лично никогда не встречал ни того ни другую...... ну, это сложно объяснить."@</ToTranslate>
+  </String>
+  <String index="97">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="98">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="99">
+    <ToTranslate>ecg_syo01c</ToTranslate>
+  </String>
+  <String index="100">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="101">
+    <ToTranslate>syur0814</ToTranslate>
+  </String>
+  <String index="102">
+    <ToTranslate>Шури$"Простите. Должно быть, я мешаю вам......"@</ToTranslate>
+  </String>
+  <String index="103">
+    <ToTranslate>$Понятия не имею, за что она извиняется, но...... ну да ладно, просто я ещё не до конца свыкся с устоями этого мира.@</ToTranslate>
+  </String>
+  <String index="104">
+    <ToTranslate>Казуто$"И, что мы будем делать дальше? Как мой личный стратег, можешь что-нибудь посоветовать?"@</ToTranslate>
+  </String>
+  <String index="105">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="106">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="107">
+    <ToTranslate>ecg_syo01d</ToTranslate>
+  </String>
+  <String index="108">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="109">
+    <ToTranslate>syur0815</ToTranslate>
+  </String>
+  <String index="110">
+    <ToTranslate>Шури$"Да......?! Д-а, да!"@</ToTranslate>
+  </String>
+  <String index="111">
+    <ToTranslate>$Она сказала да целых три раза, я всего-то хотел успокоить её...... но её вид стал необычайно серьёзным.@</ToTranslate>
+  </String>
+  <String index="112">
+    <ToTranslate>syur0816</ToTranslate>
+  </String>
+  <String index="113">
+    <ToTranslate>Шури $"Я всё ещё неопытна, но я буду стараться......" @</ToTranslate>
+  </String>
+  <String index="114">
+    <ToTranslate>Казуто$"Аа? Эм, хорошо."@</ToTranslate>
+  </String>
+  <String index="115">
+    <ToTranslate>syur0817</ToTranslate>
+  </String>
+  <String index="116">
+    <ToTranslate>Шури $"У вас уже есть генералы Кану и Чёхи, и они оба имеют ценность тысячи. Сейчас у нашей армии огромный потенциал."@</ToTranslate>
+  </String>
+  <String index="117">
+    <ToTranslate>syur0818</ToTranslate>
+  </String>
+  <String index="118">
+    <ToTranslate>Шури$"И этот потенциал...... ещё развивается. Я считаю, вы должны позволить ему расцвести."@</ToTranslate>
+  </String>
+  <String index="119">
+    <ToTranslate>$Мне остаётся только вздохнуть.Я по-настоящему поражён.@</ToTranslate>
+  </String>
+  <String index="120">
+    <ToTranslate>syur0819</ToTranslate>
+  </String>
+  <String index="121">
+    <ToTranslate>Шури$"Нет надобности в особых стратегиях. Пожалуйста, проявите сострадание к вашей стране, и она вернёт вам тем же, принеся процветание."@</ToTranslate>
+  </String>
+  <String index="122">
+    <ToTranslate>Казуто$"Ухты, Шури, а ты умеешь удивить."@</ToTranslate>
+  </String>
+  <String index="123">
+    <ToTranslate>Казуто$"......знаю, Айша считает, что только я смогу принести мир в это неспокойное время."@</ToTranslate>
+  </String>
+  <String index="124">
+    <ToTranslate>Казуто$"А значит, мне же лучше оправдать все её ожидания, правда?"@</ToTranslate>
+  </String>
+  <String index="125">
+    <ToTranslate>syur0820</ToTranslate>
+  </String>
+  <String index="126">
+    <ToTranslate>Шури$"Да. И я чувствую то же, что и она, и Ринрин, и другие."@</ToTranslate>
+  </String>
+  <String index="127">
+    <ToTranslate>Казуто$"Спасибо. Сделаю всё возможное, чтобы оправдать все ваши ожидания."@</ToTranslate>
+  </String>
+  <String index="128">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="129">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="130">
+    <ToTranslate>ecg_syo01e</ToTranslate>
+  </String>
+  <String index="131">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="132">
+    <ToTranslate>syur0821</ToTranslate>
+  </String>
+  <String index="133">
+    <ToTranslate>Шури$"Я знала...... я сделала правильный выбор......"@</ToTranslate>
+  </String>
+  <String index="134">
+    <ToTranslate>Казуто $"Сделаю всё что смогу. Хотя я и сам толком не знаю, чем смогу быть полезен."@</ToTranslate>
+  </String>
+  <String index="135">
+    <ToTranslate>syur0822</ToTranslate>
+  </String>
+  <String index="136">
+    <ToTranslate>Шури $"У-уу......"@</ToTranslate>
+  </String>
+  <String index="137">
+    <ToTranslate>$Она удивлена....... но я должен быть честным. Потому что одна только уверенность без доказательств это уже просто самоуверенность.@</ToTranslate>
+  </String>
+  <String index="138">
+    <ToTranslate>syur0823</ToTranslate>
+  </String>
+  <String index="139">
+    <ToTranslate>Шури $"Но, но мы всегда будем рядом с вами, поэтому, пожалуйста, не волнуйтесь об этом."@</ToTranslate>
+  </String>
+  <String index="140">
+    <ToTranslate>Казуто$"Спасибо. Я рассчитываю на тебя."@</ToTranslate>
+  </String>
+  <String index="141">
+    <ToTranslate>syur0824</ToTranslate>
+  </String>
+  <String index="142">
+    <ToTranslate>Шури $"Да."@</ToTranslate>
+  </String>
+  <String index="143">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="144">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="145">
+    <ToTranslate>ecg_syo01c</ToTranslate>
+  </String>
+  <String index="146">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="147">
+    <ToTranslate>syur0825</ToTranslate>
+  </String>
+  <String index="148">
+    <ToTranslate>Шури$"Я тоже буду стараться...... не хочу отставать от других девушек......"@</ToTranslate>
+  </String>
+  <String index="149">
+    <ToTranslate>Казуто$"А? Ты что-то сказала?"@</ToTranslate>
+  </String>
+  <String index="150">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="151">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="152">
+    <ToTranslate>ecg_syo01d</ToTranslate>
+  </String>
+  <String index="153">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="154">
+    <ToTranslate>syur0826</ToTranslate>
+  </String>
+  <String index="155">
+    <ToTranslate>Шури$"Н-нет! Совсем ничего! Хе-хе."@</ToTranslate>
+  </String>
+  <String index="156">
+    <ToTranslate>Казуто$"......??"@</ToTranslate>
+  </String>
+  <String index="157">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="158">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="159">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+</DBS>
+
+</poem>

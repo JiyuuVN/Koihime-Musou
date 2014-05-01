@@ -1,0 +1,388 @@
+[[Koihime Musou/Прогресс перевода/Сюжет|[Назад]]]
+<poem>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<DBS>
+  <String index="0">
+    <ToTranslate>SE067</ToTranslate>
+  </String>
+  <String index="1">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="2">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="3">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="4">
+    <ToTranslate>bcg_treelined_a</ToTranslate>
+  </String>
+  <String index="5">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="6">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="7">
+    <ToTranslate>bg_white</ToTranslate>
+  </String>
+  <String index="8">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="9">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="10">
+    <ToTranslate>bcg_treelined_a</ToTranslate>
+  </String>
+  <String index="11">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="12">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="13">
+    <ToTranslate>bg_white</ToTranslate>
+  </String>
+  <String index="14">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="15">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="16">
+    <ToTranslate>bcg_treelined_a</ToTranslate>
+  </String>
+  <String index="17">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="18">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="19">
+    <ToTranslate>bg_white</ToTranslate>
+  </String>
+  <String index="20">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="21">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="22">
+    <ToTranslate>bcg_treelined_a</ToTranslate>
+  </String>
+  <String index="23">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="24">
+    <ToTranslate>bgm24</ToTranslate>
+  </String>
+  <String index="25">
+    <ToTranslate>Казуто$"Ум... м-м-м..."@</ToTranslate>
+  </String>
+  <String index="26">
+    <ToTranslate>tcg_kan31ja</ToTranslate>
+  </String>
+  <String index="27">
+    <ToTranslate>tcg_kan31m</ToTranslate>
+  </String>
+  <String index="28">
+    <ToTranslate>aisy1072</ToTranslate>
+  </String>
+  <String index="29">
+    <ToTranslate>Айша$"Господин......господин!"@</ToTranslate>
+  </String>
+  <String index="30">
+    <ToTranslate>Казуто$"Ум-м... А-Айша...?"@</ToTranslate>
+  </String>
+  <String index="31">
+    <ToTranslate>tcg_kan21ia</ToTranslate>
+  </String>
+  <String index="32">
+    <ToTranslate>tcg_kan21m</ToTranslate>
+  </String>
+  <String index="33">
+    <ToTranslate>aisy1073</ToTranslate>
+  </String>
+  <String index="34">
+    <ToTranslate>Айша$"Ах... хвала богам... вы проснулись..."@</ToTranslate>
+  </String>
+  <String index="35">
+    <ToTranslate>Казуто$"Где я...?"@</ToTranslate>
+  </String>
+  <String index="36">
+    <ToTranslate>tcg_kan31ka</ToTranslate>
+  </String>
+  <String index="37">
+    <ToTranslate>tcg_kan31m</ToTranslate>
+  </String>
+  <String index="38">
+    <ToTranslate>aisy1074</ToTranslate>
+  </String>
+  <String index="39">
+    <ToTranslate>Айша$"Я не знаю... наверное, это другой мир, о которых говорил Чосэн..."@</ToTranslate>
+  </String>
+  <String index="40">
+    <ToTranslate>Казуто$"Другой мир..."@</ToTranslate>
+  </String>
+  <String index="41">
+    <ToTranslate>$Я выслушал Айшу и огляделся.@</ToTranslate>
+  </String>
+  <String index="42">
+    <ToTranslate>Казуто$".........га-а?!"@</ToTranslate>
+  </String>
+  <String index="43">
+    <ToTranslate>tcg_kan21da</ToTranslate>
+  </String>
+  <String index="44">
+    <ToTranslate>tcg_kan21m</ToTranslate>
+  </String>
+  <String index="45">
+    <ToTranslate>aisy1075</ToTranslate>
+  </String>
+  <String index="46">
+    <ToTranslate>Айша$"Что-то случилось?"@</ToTranslate>
+  </String>
+  <String index="47">
+    <ToTranslate>Казуто$"Разве это... академия Франчески!?"@</ToTranslate>
+  </String>
+  <String index="48">
+    <ToTranslate>aisy1076</ToTranslate>
+  </String>
+  <String index="49">
+    <ToTranslate>Айша$"?? Господин, неужели, вы знаете это место?"@</ToTranslate>
+  </String>
+  <String index="50">
+    <ToTranslate>Казуто$"Да... это школа имени святой Франчески, когда то я жил и учился здесь..."@</ToTranslate>
+  </String>
+  <String index="51">
+    <ToTranslate>Казуто$"Так значит, это мой родной мир?"@</ToTranslate>
+  </String>
+  <String index="52">
+    <ToTranslate>tcg_kan11ca</ToTranslate>
+  </String>
+  <String index="53">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="54">
+    <ToTranslate>aisy1077</ToTranslate>
+  </String>
+  <String index="55">
+    <ToTranslate>Айша$"Родной мир...? Значит ли это, это мир небес с которого вы пришли...?"@</ToTranslate>
+  </String>
+  <String index="56">
+    <ToTranslate>Казуто$"Не совсем уверен..."@</ToTranslate>
+  </String>
+  <String index="57">
+    <ToTranslate>$Почему-то это место не кажется мне родным...?@</ToTranslate>
+  </String>
+  <String index="58">
+    <ToTranslate>$И тогда я вновь вспомнил слова Чосэна.@</ToTranslate>
+  </String>
+  <String index="59">
+    <ToTranslate>Казуто$"Что скажешь. Возможно ли, что я сознал новую альтернативную историю, а...?"@</ToTranslate>
+  </String>
+  <String index="60">
+    <ToTranslate>$Альтернативную историю, в которой я вновь попал к святой Франческе.@</ToTranslate>
+  </String>
+  <String index="61">
+    <ToTranslate>$История, в которой я вновь встретил Айшу.@</ToTranslate>
+  </String>
+  <String index="62">
+    <ToTranslate>$И альтернативная история, в которой я вновь вернулся в святую Франческу.@</ToTranslate>
+  </String>
+  <String index="63">
+    <ToTranslate>Казуто$"Так... думаю это Франческа, но уже и не та самая Франческа. ...да, я уверен в этом."@</ToTranslate>
+  </String>
+  <String index="64">
+    <ToTranslate>tcg_kan21da</ToTranslate>
+  </String>
+  <String index="65">
+    <ToTranslate>tcg_kan21m</ToTranslate>
+  </String>
+  <String index="66">
+    <ToTranslate>aisy1078</ToTranslate>
+  </String>
+  <String index="67">
+    <ToTranslate>Айша$"Мы...... в этом мире остались лишь мы двое...?"@</ToTranslate>
+  </String>
+  <String index="68">
+    <ToTranslate>Казуто$"Думаю да."@</ToTranslate>
+  </String>
+  <String index="69">
+    <ToTranslate>Казуто$"......здесь нет Ринрин. А так же Шури. Как и Сэй, Суи и Сион......" @</ToTranslate>
+  </String>
+  <String index="70">
+    <ToTranslate>tcg_kan31ka</ToTranslate>
+  </String>
+  <String index="71">
+    <ToTranslate>tcg_kan31m</ToTranslate>
+  </String>
+  <String index="72">
+    <ToTranslate>aisy1079</ToTranslate>
+  </String>
+  <String index="73">
+    <ToTranslate>Айша$"Они все исчезли, как и говорили Саджи и Укицу...?"@</ToTranslate>
+  </String>
+  <String index="74">
+    <ToTranslate>Казуто$"Нет... не думаю. Если верить словам Чосэна они должны жить в другом мире."@</ToTranslate>
+  </String>
+  <String index="75">
+    <ToTranslate>$Мир, о котором мы совсем ничего не знаем.@</ToTranslate>
+  </String>
+  <String index="76">
+    <ToTranslate>$Мы не сможем увидеть или почувствовать его, но я уверен, что он существует.@</ToTranslate>
+  </String>
+  <String index="77">
+    <ToTranslate>Казуто$"Всё же... сейчас мы совсем одни."@</ToTranslate>
+  </String>
+  <String index="78">
+    <ToTranslate>tcg_kan11na</ToTranslate>
+  </String>
+  <String index="79">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="80">
+    <ToTranslate>aisy1080</ToTranslate>
+  </String>
+  <String index="81">
+    <ToTranslate>Айша$"Да, но... даже если этот мир не тот, из которого вы пришли--"@</ToTranslate>
+  </String>
+  <String index="82">
+    <ToTranslate>tcg_kan21ia</ToTranslate>
+  </String>
+  <String index="83">
+    <ToTranslate>tcg_kan21m</ToTranslate>
+  </String>
+  <String index="84">
+    <ToTranslate>aisy1081</ToTranslate>
+  </String>
+  <String index="85">
+    <ToTranslate>Айша$"Я всегда буду рядом с вами... а вы со мной."@</ToTranslate>
+  </String>
+  <String index="86">
+    <ToTranslate>tcg_kan21oa</ToTranslate>
+  </String>
+  <String index="87">
+    <ToTranslate>tcg_kan21m</ToTranslate>
+  </String>
+  <String index="88">
+    <ToTranslate>aisy1082</ToTranslate>
+  </String>
+  <String index="89">
+    <ToTranslate>Айша$"и больше мне ничего не нужно..." @</ToTranslate>
+  </String>
+  <String index="90">
+    <ToTranslate>tcg_kan21na</ToTranslate>
+  </String>
+  <String index="91">
+    <ToTranslate>tcg_kan21m</ToTranslate>
+  </String>
+  <String index="92">
+    <ToTranslate>aisy1083</ToTranslate>
+  </String>
+  <String index="93">
+    <ToTranslate>Айша$"Уверена, вместе мы сможем преодолеть любые преграды, которые повстречаем..."@</ToTranslate>
+  </String>
+  <String index="94">
+    <ToTranslate>Казуто$"Да, пока мы вместе, для нас нет ничего не возможного."@</ToTranslate>
+  </String>
+  <String index="95">
+    <ToTranslate>$Наше будущее в этом мире вызывает у меня беспокойство.@</ToTranslate>
+  </String>
+  <String index="96">
+    <ToTranslate>$Но вместе, вместе мы всё преодолеем, как и говорила Айша.@</ToTranslate>
+  </String>
+  <String index="97">
+    <ToTranslate>$Потому, что прежде чем оказаться здесь, мы прошли длинный общий путь, поддерживая друг друга.@</ToTranslate>
+  </String>
+  <String index="98">
+    <ToTranslate>Казуто$"Идём домой, Айша. Не уверен, существует ли в этом мире мой дом, но... думаю, всё будет хорошо, как и тогда, когда я впервые повстречал тебя."@</ToTranslate>
+  </String>
+  <String index="99">
+    <ToTranslate>tcg_kan21oa</ToTranslate>
+  </String>
+  <String index="100">
+    <ToTranslate>tcg_kan21m</ToTranslate>
+  </String>
+  <String index="101">
+    <ToTranslate>aisy1084</ToTranslate>
+  </String>
+  <String index="102">
+    <ToTranslate>Айша$"Да, до тех пор пока мы будем вместе..."@</ToTranslate>
+  </String>
+  <String index="103">
+    <ToTranslate>$Потянувшись, я нежно взял Айшу за руку.@</ToTranslate>
+  </String>
+  <String index="104">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="105">
+    <ToTranslate>ecg_kan99a</ToTranslate>
+  </String>
+  <String index="106">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="107">
+    <ToTranslate>aisy1085</ToTranslate>
+  </String>
+  <String index="108">
+    <ToTranslate>Айша$"Идёмте, мой Господин. Мы должны идти вперёд и создать новую историю."@</ToTranslate>
+  </String>
+  <String index="109">
+    <ToTranslate>aisy1086</ToTranslate>
+  </String>
+  <String index="110">
+    <ToTranslate>Айша$"Это будет наша дань нашим друзьям." @</ToTranslate>
+  </String>
+  <String index="111">
+    <ToTranslate>Казуто$"Да..."@</ToTranslate>
+  </String>
+  <String index="112">
+    <ToTranslate>$Вспоминаю дни проведённые со всеми ими.@</ToTranslate>
+  </String>
+  <String index="113">
+    <ToTranslate>$Все они очень дороги мне.@</ToTranslate>
+  </String>
+  <String index="114">
+    <ToTranslate>$Клянусь сделать все грядущие дни одинаково бесценными.@</ToTranslate>
+  </String>
+  <String index="115">
+    <ToTranslate>$Я обязан прожить вместе с Айшей счастливую жизнь.@</ToTranslate>
+  </String>
+  <String index="116">
+    <ToTranslate>$Превратив эти дни в новую историю.@</ToTranslate>
+  </String>
+  <String index="117">
+    <ToTranslate>$Это конец одной истории и начало новой.@</ToTranslate>
+  </String>
+  <String index="118">
+    <ToTranslate>Казуто$"Идём."@</ToTranslate>
+  </String>
+  <String index="119">
+    <ToTranslate>aisy1087</ToTranslate>
+  </String>
+  <String index="120">
+    <ToTranslate>Айша$"Да!"@</ToTranslate>
+  </String>
+  <String index="121">
+    <ToTranslate>$Я отправился рука об руку с женщиной, которую люблю.@</ToTranslate>
+  </String>
+  <String index="122">
+    <ToTranslate>$Мечтая о новой истории и собственной роли в ней......@</ToTranslate>
+  </String>
+  <String index="123">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="124">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="125">
+    <ToTranslate>_credit</ToTranslate>
+  </String>
+</DBS>
+
+
+</poem>
+[[Koihime Musou/Прогресс перевода/Сюжет|[Назад]]]

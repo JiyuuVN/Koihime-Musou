@@ -1,0 +1,832 @@
+[[Koihime Musou/Персонажи/Побочные|[Назад]]]
+{{Не Трожь!|Predtech}}
+<br>Этот надмозг нуждается в серьёзной парвке. --[[Участник:Predtech|Predtech]] 16:20, 13 января 2012 (MSD)
+<pre>
+
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<DBS>
+<String index="0">
+ <ToTranslate>bcg_castgurden_a</ToTranslate>
+ </String>
+<String index="1">
+ <ToTranslate>_MsgBoxMain_On</ToTranslate>
+ </String>
+<String index="2">
+ <ToTranslate>bgm02</ToTranslate>
+ </String>
+<String index="3">
+ <ToTranslate>$Со временем, я привык делать перерыв в работе, когда я чувствовал, что голова вот-вот взорвётся, я уходил.@</ToTranslate>
+ </String>
+<String index="4">
+ <ToTranslate>$Похоже, у Айши не возникает таких проблем, хотя если я буду долго отсутствовать, она будет охотиться за мной словно демон.@</ToTranslate>
+ </String>
+<String index="5">
+ <ToTranslate>$Небо было голубым и ясным, насколько хватало глаз. Я вздохнул полной грудью...@</ToTranslate>
+ </String>
+<String index="6">
+ <ToTranslate>Казуто$Жалко здесь нет торгового автомата.@</ToTranslate>
+ </String>
+<String index="7">
+ <ToTranslate>$Как вспомню о вкусе колы... ладно, не буду портить себе настроение.@</ToTranslate>
+ </String>
+<String index="8">
+ <ToTranslate>$Прежде чем вернуться в свою комнату, я решил прогуляться по саду.@</ToTranslate>
+ </String>
+<String index="9">
+ <ToTranslate>tcg_ryo11aa</ToTranslate>
+ </String>
+<String index="10">
+ <ToTranslate>tcg_ryo11m</ToTranslate>
+ </String>
+<String index="11">
+ <ToTranslate>ren_0169</ToTranslate>
+ </String>
+<String index="12">
+ <ToTranslate>Рэн$...@</ToTranslate>
+ </String>
+<String index="13">
+ <ToTranslate>$Увидев необычный парад, я остановился. Это была Рэн, окруженная толпой кошек и собак.@</ToTranslate>
+ </String>
+<String index="14">
+ <ToTranslate>$Я принял спонтанное решение, и спрятался за деревом.@</ToTranslate>
+ </String>
+<String index="15">
+ <ToTranslate>$У меня не было причин, чтобы не здороваться но... мне стало любопытно, что она будет делать дальше. @</ToTranslate>
+ </String>
+<String index="16">
+ <ToTranslate>$Какая она девушка, когда остаётся одна?@</ToTranslate>
+ </String>
+<String index="17">
+ <ToTranslate>$...@</ToTranslate>
+ </String>
+<String index="18">
+ <ToTranslate>$По-видимому, не сильно отличается...@</ToTranslate>
+ </String>
+<String index="19">
+ <ToTranslate>Секито$Гав! Гав! Гав!@</ToTranslate>
+ </String>
+<String index="20">
+ <ToTranslate>tcg_ryo21aa</ToTranslate>
+ </String>
+<String index="21">
+ <ToTranslate>tcg_ryo21m</ToTranslate>
+ </String>
+<String index="22">
+ <ToTranslate>ren_0170</ToTranslate>
+ </String>
+<String index="23">
+ <ToTranslate>Рэн$Хм...@</ToTranslate>
+ </String>
+<String index="24">
+ <ToTranslate>$Секито махал хвостом. Я дал им отойти достаточно далеко, затем вышел из-за дерева.@</ToTranslate>
+ </String>
+<String index="25">
+ <ToTranslate>$Учитывая её воинское мастерство, она непременно почувствует меня, если я подберусь слишком близко.@</ToTranslate>
+ </String>
+<String index="26">
+ <ToTranslate>$Успокоив дыхание, чувствуя себя словно детективом, я последовал за ней.@</ToTranslate>
+ </String>
+<String index="27">
+ <ToTranslate>Секито$Гав!@</ToTranslate>
+ </String>
+<String index="28">
+ <ToTranslate>tcg_ryo11aa</ToTranslate>
+ </String>
+<String index="29">
+ <ToTranslate>tcg_ryo11m</ToTranslate>
+ </String>
+<String index="30">
+ <ToTranslate>ren_0171</ToTranslate>
+ </String>
+<String index="31">
+ <ToTranslate>Рэн$Не будь таким нетерпеливым. Я дам отдам тебе. Вон там.@</ToTranslate>
+ </String>
+<String index="32">
+ <ToTranslate>Щенок$Гав, гав.@</ToTranslate>
+ </String>
+<String index="33">
+ <ToTranslate>$Его настроение изменилось. Буд-то он всё понял, что она сказала. Кошки и собаки побежали, куда им она указала, там они сели образовав большой круг.@</ToTranslate>
+ </String>
+<String index="34">
+ <ToTranslate>$Пока Рэн шла к центру круга, она что-то искала в кармане.@</ToTranslate>
+ </String>
+<String index="35">
+ <ToTranslate>Собака$Гав! Гав!@</ToTranslate>
+ </String>
+<String index="36">
+ <ToTranslate>$Щенки начали дружно лаять.@</ToTranslate>
+ </String>
+<String index="37">
+ <ToTranslate>Казуто$О... понятно.@</ToTranslate>
+ </String>
+<String index="38">
+ <ToTranslate>$Стоя позади, я смотрел на неё, и начал понимать.@</ToTranslate>
+ </String>
+<String index="39">
+ <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+ </String>
+<String index="40">
+ <ToTranslate>ecg_ryo03a</ToTranslate>
+ </String>
+<String index="41">
+ <ToTranslate>_MsgBoxMain_On</ToTranslate>
+ </String>
+<String index="42">
+ <ToTranslate>bgm05</ToTranslate>
+ </String>
+<String index="43">
+ <ToTranslate>Сэкито$Гав, вуу, ууу,ууу... гав!@</ToTranslate>
+ </String>
+<String index="44">
+ <ToTranslate>ren_0172</ToTranslate>
+ </String>
+<String index="45">
+ <ToTranslate>Рэн$Не ешь слишком быстро...@</ToTranslate>
+ </String>
+<String index="46">
+ <ToTranslate>Щенок$Гав!@</ToTranslate>
+ </String>
+<String index="47">
+ <ToTranslate>ren_0173</ToTranslate>
+ </String>
+<String index="48">
+ <ToTranslate>Рэн$Не надо так грустно лаять. Ещё много еды осталось. Ты можешь поделиться.@</ToTranslate>
+ </String>
+<String index="49">
+ <ToTranslate>Кот$Мяу...@</ToTranslate>
+ </String>
+<String index="50">
+ <ToTranslate>$У них поздний обед. Кошки и собаки собрались вокруг неё, чтобы поесть из её рук.@</ToTranslate>
+ </String>
+<String index="51">
+ <ToTranslate>ren_0174</ToTranslate>
+ </String>
+<String index="52">
+ <ToTranslate>Рэн$Хе-хе-хе, вкусно?..@</ToTranslate>
+ </String>
+<String index="53">
+ <ToTranslate>ren_0175</ToTranslate>
+ </String>
+<String index="54">
+ <ToTranslate>Рэн$Хе-хе-хе.@</ToTranslate>
+ </String>
+<String index="55">
+ <ToTranslate>$Это нежное выражение было тем, что никто во дворце не видел. Невольно, мое сердце начало биться быстрее.@</ToTranslate>
+ </String>
+<String index="56">
+ <ToTranslate>$Мне казалось, что я обнаружил другую её сторону.@</ToTranslate>
+ </String>
+<String index="57">
+ <ToTranslate>Казуто$Рэн... я не знал, что она может быть настолько милой.@</ToTranslate>
+ </String>
+<String index="58">
+ <ToTranslate>$Интересно, почему она скрывала это от нас. Похоже, это хорошее место, чтобы начать.@</ToTranslate>
+ </String>
+<String index="59">
+ <ToTranslate>ren_0176</ToTranslate>
+ </String>
+<String index="60">
+ <ToTranslate>Рэн$Ты ешь слишком быстро...@</ToTranslate>
+ </String>
+<String index="61">
+ <ToTranslate>Секито$Гав, гав, гав!@</ToTranslate>
+ </String>
+<String index="62">
+ <ToTranslate>ren_0177</ToTranslate>
+ </String>
+<String index="63">
+ <ToTranslate>Рэен$Сэкито, ты всё ещё голоден? Ты слишком много ешь. Надо делиться со своими друзьями.@</ToTranslate>
+ </String>
+<String index="64">
+ <ToTranslate>$Похоже, Рэн решили кормить каждого оп отдельности, хоть это и не очень эффективно.@</ToTranslate>
+ </String>
+<String index="65">
+ <ToTranslate>ren_0178</ToTranslate>
+ </String>
+<String index="66">
+ <ToTranslate>Рэн$Ну, давай.@</ToTranslate>
+ </String>
+<String index="67">
+ <ToTranslate>$Рэн искала в кармане ещё угощения. Кошки и собаки, возглавляемые Секито, начали подходить к её руке.@</ToTranslate>
+ </String>
+<String index="68">
+ <ToTranslate>Сэкито$Гав, гав, гав!@</ToTranslate>
+ </String>
+<String index="69">
+ <ToTranslate>ren_0179</ToTranslate>
+ </String>
+<String index="70">
+ <ToTranslate>Рэн$Секито ты уже большой. Надо делиться, с теми, кто младше...@</ToTranslate>
+ </String>
+<String index="71">
+ <ToTranslate>$Она ругала Секито, как мать, воспитывающая эгоистичного ребёнка.@</ToTranslate>
+ </String>
+<String index="72">
+ <ToTranslate>Казуто$Ха-ха... Такими темпами, щенки, точно ничего не получат.@</ToTranslate>
+ </String>
+<String index="73">
+ <ToTranslate>$Мне надоело наблюдать, и я подошёл ближе.@</ToTranslate>
+ </String>
+<String index="74">
+ <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+ </String>
+<String index="75">
+ <ToTranslate>ecg_ryo03c</ToTranslate>
+ </String>
+<String index="76">
+ <ToTranslate>_MsgBoxMain_On</ToTranslate>
+ </String>
+<String index="77">
+ <ToTranslate>ren_0180</ToTranslate>
+ </String>
+<String index="78">
+ <ToTranslate>Рэн$Ох...@</ToTranslate>
+ </String>
+<String index="79">
+ <ToTranslate>Казуто$Привет. Вы ребята всегда вместе.@</ToTranslate>
+ </String>
+<String index="80">
+ <ToTranslate>ren_0181</ToTranslate>
+ </String>
+<String index="81">
+ <ToTranslate>Рэн$*Кивает*Ѓ@@</ToTranslate>
+ </String>
+<String index="82">
+ <ToTranslate>$Она кивнула, и пробормотала что-то. Буд-то её застали делающую, что-то неприличное. Я не смог удержаться и рассмеялся.@</ToTranslate>
+ </String>
+<String index="83">
+ <ToTranslate>ren_0182</ToTranslate>
+ </String>
+<String index="84">
+ <ToTranslate>Рэн$Они покушают, когда он наестся...@</ToTranslate>
+ </String>
+<String index="85">
+ <ToTranslate>Казуто$Что? А, понятно.@</ToTranslate>
+ </String>
+<String index="86">
+ <ToTranslate>$Я стал таким расслабленным, что сразу не смог вспомнить, на какой вопрос она ответила.@</ToTranslate>
+ </String>
+<String index="87">
+ <ToTranslate>$Я был больше заинтересован румянцем, появляющемся на её щеках.@</ToTranslate>
+ </String>
+<String index="88">
+ <ToTranslate>Казуто$Это жестоко, заставлять их ждать. Смотри, у них уже слюнки текут.@</ToTranslate>
+ </String>
+<String index="89">
+ <ToTranslate>Щенок$Урр@</ToTranslate>
+ </String>
+<String index="90">
+ <ToTranslate>$Я решил приободрить их, и погладил ближайшего щенка.@</ToTranslate>
+ </String>
+<String index="91">
+ <ToTranslate>ren_0183</ToTranslate>
+ </String>
+<String index="92">
+ <ToTranslate>Рэн$Если ты так думаешь, можешь покормить их...@</ToTranslate>
+ </String>
+<String index="93">
+ <ToTranslate>Казуто$А? Ты что-то сказала?@</ToTranslate>
+ </String>
+<String index="94">
+ <ToTranslate>ren_0184</ToTranslate>
+ </String>
+<String index="95">
+ <ToTranslate>Рэн$*Кивает*...@</ToTranslate>
+ </String>
+<String index="96">
+ <ToTranslate>$Похоже, сказала. Румянец так и не прошёл у неё.@</ToTranslate>
+ </String>
+<String index="97">
+ <ToTranslate>Казуто$Я тебя отвлекаю?@</ToTranslate>
+ </String>
+<String index="98">
+ <ToTranslate>ren_0185</ToTranslate>
+ </String>
+<String index="99">
+ <ToTranslate>Рэн$*Замотала головой*...@</ToTranslate>
+ </String>
+<String index="100">
+ <ToTranslate>$Она энергично замотала головой. От этого мне полегчало.@</ToTranslate>
+ </String>
+<String index="101">
+ <ToTranslate>ren_0186</ToTranslate>
+ </String>
+<String index="102">
+ <ToTranslate>Рэн$Вот...@</ToTranslate>
+ </String>
+<String index="103">
+ <ToTranslate>$Она взяла из кармана немного сушёного мяса и протянула мне руку.@</ToTranslate>
+ </String>
+<String index="104">
+ <ToTranslate>Казуто$О, ты хочешь, чтобы я тоже покормил их?@</ToTranslate>
+ </String>
+<String index="105">
+ <ToTranslate>ren_0187</ToTranslate>
+ </String>
+<String index="106">
+ <ToTranslate>Рэн$Останься...@</ToTranslate>
+ </String>
+<String index="107">
+ <ToTranslate>$Ну как тут откажешь? Я взял еду.@</ToTranslate>
+ </String>
+<String index="108">
+ <ToTranslate>Щенок$Гав! Гав!@</ToTranslate>
+ </String>
+<String index="109">
+ <ToTranslate>$Те, кто поменьше поняли, что это их шанс. Они смотри на мою руку и скулили.@</ToTranslate>
+ </String>
+<String index="110">
+ <ToTranslate>Казуто$Вы ребята, наверное, проголодались. Вот берите.@</ToTranslate>
+ </String>
+<String index="111">
+ <ToTranslate>Сэкито$Гав?@</ToTranslate>
+ </String>
+<String index="112">
+ <ToTranslate>Казуто$Тебя покормит твоя мама.@</ToTranslate>
+ </String>
+<String index="113">
+ <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+ </String>
+<String index="114">
+ <ToTranslate>ecg_ryo03b</ToTranslate>
+ </String>
+<String index="115">
+ <ToTranslate>_MsgBoxMain_On</ToTranslate>
+ </String>
+<String index="116">
+ <ToTranslate>ren_0188</ToTranslate>
+ </String>
+<String index="117">
+ <ToTranslate>Рэн$Мама?..@</ToTranslate>
+ </String>
+<String index="118">
+ <ToTranslate>$Не стоило говорить так громко. А пытаться объяснить как-то неудобно, я решил не обращать внимания на вопрос.@</ToTranslate>
+ </String>
+<String index="119">
+ <ToTranslate>ren_0189</ToTranslate>
+ </String>
+<String index="120">
+ <ToTranslate>Рэн$Мама...@</ToTranslate>
+ </String>
+<String index="121">
+ <ToTranslate>$Она покраснела ещё больше. Может это игра света? Или мне просто показалось.@</ToTranslate>
+ </String>
+<String index="122">
+ <ToTranslate>Щенок$*Чавк, чавк*, гав, гав, гав!@</ToTranslate>
+ </String>
+<String index="123">
+ <ToTranslate>Казуто$Хороший мальчик. Ешь побольше, и вырасти большим и сильным!@</ToTranslate>
+ </String>
+<String index="124">
+ <ToTranslate>$Я говорил громче, чем следовало, и гладил спину щенка. От смущения видимо я перестарался.@</ToTranslate>
+ </String>
+<String index="125">
+ <ToTranslate>$Что же заставило меня так паниковать?@</ToTranslate>
+ </String>
+<String index="126">
+ <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+ </String>
+<String index="127">
+ <ToTranslate>ecg_ryo03a</ToTranslate>
+ </String>
+<String index="128">
+ <ToTranslate>_MsgBoxMain_On</ToTranslate>
+ </String>
+<String index="129">
+ <ToTranslate>ren_0190</ToTranslate>
+ </String>
+<String index="130">
+ <ToTranslate>Рэн$Папа...@</ToTranslate>
+ </String>
+<String index="131">
+ <ToTranslate>$?!..@</ToTranslate>
+ </String>
+<String index="132">
+ <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+ </String>
+<String index="133">
+ <ToTranslate>ecg_ryo03d</ToTranslate>
+ </String>
+<String index="134">
+ <ToTranslate>_MsgBoxMain_On</ToTranslate>
+ </String>
+<String index="135">
+ <ToTranslate>ren_0191</ToTranslate>
+ </String>
+<String index="136">
+ <ToTranslate>Рэн$...@</ToTranslate>
+ </String>
+<String index="137">
+ <ToTranslate>Казуто$Извини ты что-то сказала? Они громка, лают, я ничего не слышу.@</ToTranslate>
+ </String>
+<String index="138">
+ <ToTranslate>ren_0192</ToTranslate>
+ </String>
+<String index="139">
+ <ToTranslate>Рэн$Кое-что пыталась...@</ToTranslate>
+ </String>
+<String index="140">
+ <ToTranslate>$Сказав это она отвернулась. На самом деле я слышал, что она сказала. Мне не очень хотелось давить на неё.@</ToTranslate>
+ </String>
+<String index="141">
+ <ToTranslate>$Между нами появилась странная напряженность.@</ToTranslate>
+ </String>
+<String index="142">
+ <ToTranslate>Щенок$Урр, гав. *Лизь, лизь*.@</ToTranslate>
+ </String>
+<String index="143">
+ <ToTranslate>Казуто$А?! Щекотно!Ѓ@@</ToTranslate>
+ </String>
+<String index="144">
+ <ToTranslate>$Внезапно, я понял, что в руке уже ничего не осталось. Еды не было, и я не знал, что делать.@</ToTranslate>
+ </String>
+<String index="145">
+ <ToTranslate>Щенок$*Лизь, лизь, лизь*.@</ToTranslate>
+ </String>
+<String index="146">
+ <ToTranslate>Казуто$Ха-ха-ха!@</ToTranslate>
+ </String>
+<String index="147">
+ <ToTranslate>$Я ни разу в жизни так не краснел! Сопя, щенки облизывали мою руку... Мен так щекотно аж тело начинает, сводить.@</ToTranslate>
+ </String>
+<String index="148">
+ <ToTranslate>ren_0193</ToTranslate>
+ </String>
+<String index="149">
+ <ToTranslate>Рэн$"Хе-хе-хе..."@</ToTranslate>
+ </String>
+<String index="150">
+ <ToTranslate>$В поисках помощи я поглядел на неё. Но услышал, как она смеется.@</ToTranslate>
+ </String>
+<String index="151">
+ <ToTranslate>Казуто$Ха-ха-ха!@</ToTranslate>
+ </String>
+<String index="152">
+ <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+ </String>
+<String index="153">
+ <ToTranslate>ecg_ryo03b</ToTranslate>
+ </String>
+<String index="154">
+ <ToTranslate>_MsgBoxMain_On</ToTranslate>
+ </String>
+<String index="155">
+ <ToTranslate>ren_0194</ToTranslate>
+ </String>
+<String index="156">
+ <ToTranslate>Рэн$"Ах..."@</ToTranslate>
+ </String>
+<String index="157">
+ <ToTranslate>$Как только я тоже начал смеяться, она№ As I joined in with her laughter, she became aware of her own.@</ToTranslate>
+ </String>
+<String index="158">
+ <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+ </String>
+<String index="159">
+ <ToTranslate>ecg_ryo03c</ToTranslate>
+ </String>
+<String index="160">
+ <ToTranslate>_MsgBoxMain_On</ToTranslate>
+ </String>
+<String index="161">
+ <ToTranslate>ren_0195</ToTranslate>
+ </String>
+<String index="162">
+ <ToTranslate>Рэн$"......(*Shake, shake, shake.*)"@</ToTranslate>
+ </String>
+<String index="163">
+ <ToTranslate>$ Прежде чем я успел произнести хоть слово, она отрицательно покачала головой. Я даже не понял, с чем она не соглашается, но мне стало ещё веселее(№) @</ToTranslate>
+ </String>
+<String index="164">
+ <ToTranslate>Казуто$Почему ты скрываешь лицо? Ведь ты, наконец, рассмеялась.@</ToTranslate>
+ </String>
+<String index="165">
+ <ToTranslate>ren_0196</ToTranslate>
+ </String>
+<String index="166">
+ <ToTranslate>Рэн$Ты подлый...@</ToTranslate>
+ </String>
+<String index="167">
+ <ToTranslate>Казуто$Что? Я тебе ничего плохо не сделал...@</ToTranslate>
+ </String>
+<String index="168">
+ <ToTranslate>ren_0197</ToTranslate>
+ </String>
+<String index="169">
+ <ToTranslate>Рэн$Ты смеялся...@</ToTranslate>
+ </String>
+<String index="170">
+ <ToTranslate>$Она взглянула на меня... затем снова перевела взгляд на землю. Она насупилась.@</ToTranslate>
+ </String>
+<String index="171">
+ <ToTranslate>ren_0198</ToTranslate>
+ </String>
+<String index="172">
+ <ToTranslate>Рэн$Ты смеялся с меня, когда я смеялась.@</ToTranslate>
+ </String>
+<String index="173">
+ <ToTranslate>$Я не собирался, но её недопонимание развеселило меня ещё сильнее. Мне снова захотелось рассмеяться, но я сдержался.@</ToTranslate>
+ </String>
+<String index="174">
+ <ToTranslate>Казуто$Знаю, я смеялся, но понимаешь, не с тебя. @</ToTranslate>
+ </String>
+<String index="175">
+ <ToTranslate>ren_0199</ToTranslate>
+ </String>
+<String index="176">
+ <ToTranslate>Рэн$?..@</ToTranslate>
+ </String>
+<String index="177">
+ <ToTranslate>Казуто$Я смеялся, потому что я был рад видеть твой смех, и ты была прекрасна.@</ToTranslate>
+ </String>
+<String index="178">
+ <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+ </String>
+<String index="179">
+ <ToTranslate>ecg_ryo03b</ToTranslate>
+ </String>
+<String index="180">
+ <ToTranslate>_MsgBoxMain_On</ToTranslate>
+ </String>
+<String index="181">
+ <ToTranslate>ren_0200</ToTranslate>
+ </String>
+<String index="182">
+ <ToTranslate>Рэн$Прекрасна?..@</ToTranslate>
+ </String>
+<String index="183">
+ <ToTranslate>$Похоже, она отнеслась к этому серьёзно, я кивнул. И уверенно посмотрел ей в глаза.@</ToTranslate>
+ </String>
+<String index="184">
+ <ToTranslate>ren_0201</ToTranslate>
+ </String>
+<String index="185">
+ <ToTranslate>Рэн$...@</ToTranslate>
+ </String>
+<String index="186">
+ <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+ </String>
+<String index="187">
+ <ToTranslate>ecg_ryo03d</ToTranslate>
+ </String>
+<String index="188">
+ <ToTranslate>_MsgBoxMain_On</ToTranslate>
+ </String>
+<String index="189">
+ <ToTranslate>$Поглаживая покрасневшие щёки, Рэн отвернулась.@</ToTranslate>
+ </String>
+<String index="190">
+ <ToTranslate>Казуто$Я не шучу. Ты прекрасна... нет, это странно звучит. Ты очень симпатичная девушка."@</ToTranslate>
+ </String>
+<String index="191">
+ <ToTranslate>ren_0202</ToTranslate>
+ </String>
+<String index="192">
+ <ToTranslate>Рэн$Не правда.@</ToTranslate>
+ </String>
+<String index="193">
+ <ToTranslate>Казуто$Это правда! Я не хочу, чтобы ты смущалась. Я просто хочу чтобы ты смеялась вместе с нами и не отворачивалась...@</ToTranslate>
+ </String>
+<String index="194">
+ <ToTranslate>$Она избегает моего взгляда. Я начал волноваться...@</ToTranslate>
+ </String>
+<String index="195">
+ <ToTranslate>Казуто$... тогда нам всем будет ещё веселее. И это наладит отношения между нами.@</ToTranslate>
+ </String>
+<String index="196">
+ <ToTranslate>$... и всё же, я решился сказать это.@</ToTranslate>
+ </String>
+<String index="197">
+ <ToTranslate>ren_0203</ToTranslate>
+ </String>
+<String index="198">
+ <ToTranslate>Рэн$Я ничего не знала об этом.@</ToTranslate>
+ </String>
+<String index="199">
+ <ToTranslate>Казуто$Что значит, не знала?@</ToTranslate>
+ </String>
+<String index="200">
+ <ToTranslate>Секито$"*Глб№ глотнул.*"@</ToTranslate>
+ </String>
+<String index="201">
+ <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+ </String>
+<String index="202">
+ <ToTranslate>ecg_ryo03a</ToTranslate>
+ </String>
+<String index="203">
+ <ToTranslate>_MsgBoxMain_On</ToTranslate>
+ </String>
+<String index="204">
+ <ToTranslate>ren_0204</ToTranslate>
+ </String>
+<String index="205">
+ <ToTranslate>Рэн$Секито наелся. Время обеда (кормления) подошло к концу...@</ToTranslate>
+ </String>
+<String index="206">
+ <ToTranslate>$Она даже не собиралась узнать как там остальные животные. Она погладила полный живот Секито, при этом по-прежнему избегала моего взгляда.@</ToTranslate>
+ </String>
+<String index="207">
+ <ToTranslate>Казуто$Не надо так стесняться... Я просто хотел...@</ToTranslate>
+ </String>
+<String index="208">
+ <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+ </String>
+<String index="209">
+ <ToTranslate>ecg_ryo03c</ToTranslate>
+ </String>
+<String index="210">
+ <ToTranslate>_MsgBoxMain_On</ToTranslate>
+ </String>
+<String index="211">
+ <ToTranslate>ren_0205</ToTranslate>
+ </String>
+<String index="212">
+ <ToTranslate>Рэн$"......(*Shake, shake, shake!*)"Ѓ@@</ToTranslate>
+ </String>
+<String index="213">
+ <ToTranslate>$№Her denial just confirmed her embarrassment. But the more stubbornly she denied it, the more adorable it made her.@</ToTranslate>
+ </String>
+<String index="214">
+ <ToTranslate>Секито$Гав, гав, гав!@</ToTranslate>
+ </String>
+<String index="215">
+ <ToTranslate>Щенок$Гав!@</ToTranslate>
+ </String>
+<String index="216">
+ <ToTranslate>$Животные будто уловили её чувства и дружно залаяли. Они знают, когда что-то не так с их хозяйкой.@</ToTranslate>
+ </String>
+<String index="217">
+ <ToTranslate>ren_0206</ToTranslate>
+ </String>
+<String index="218">
+ <ToTranslate>Рэн$...@</ToTranslate>
+ </String>
+<String index="219">
+ <ToTranslate>$ Рэн смотрит куда-то в низ. Я не хочу сделать ещё хуже.@</ToTranslate>
+ </String>
+<String index="220">
+ <ToTranslate>Казуто$Надо возвращаться к работе.@</ToTranslate>
+ </String>
+<String index="221">
+ <ToTranslate>$Пришло время уходить. Я почувствовал облегчение, но и разочарование в тоже время... может я был слишком самонадеянным...@</ToTranslate>
+ </String>
+<String index="222">
+ <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+ </String>
+<String index="223">
+ <ToTranslate>ecg_ryo03a</ToTranslate>
+ </String>
+<String index="224">
+ <ToTranslate>_MsgBoxMain_On</ToTranslate>
+ </String>
+<String index="225">
+ <ToTranslate>ren_0207</ToTranslate>
+ </String>
+<String index="226">
+ <ToTranslate>Рэн$Да тебе надо возвращаться к работе...@</ToTranslate>
+ </String>
+<String index="227">
+ <ToTranslate>$... потому что сегодня мне удалось увидеть её другую сторону, женственную...@</ToTranslate>
+ </String>
+<String index="228">
+ <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+ </String>
+<String index="229">
+ <ToTranslate>bg_black</ToTranslate>
+ </String>
+<String index="230">
+ <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+ </String>
+<String index="231">
+ <ToTranslate>ecg_ryo03d</ToTranslate>
+ </String>
+<String index="232">
+ <ToTranslate>_MsgBoxMain_On</ToTranslate>
+ </String>
+<String index="233">
+ <ToTranslate>bgm23</ToTranslate>
+ </String>
+<String index="234">
+ <ToTranslate>ren_0208</ToTranslate>
+ </String>
+<String index="235">
+ <ToTranslate>Ren$Почему у меня так бешено колотится сердце... Когда же оно успокоится?@</ToTranslate>
+ </String>
+<String index="236">
+ <ToTranslate>ren_0209</ToTranslate>
+ </String>
+<String index="237">
+ <ToTranslate>Ren$Не могу перестать думать о нём.@</ToTranslate>
+ </String>
+<String index="238">
+ <ToTranslate>ren_0210</ToTranslate>
+ </String>
+<String index="239">
+ <ToTranslate>Рэн$Это так странно...@</ToTranslate>
+ </String>
+<String index="240">
+ <ToTranslate>Секито$Гав?@</ToTranslate>
+ </String>
+<String index="241">
+ <ToTranslate>ren_0211</ToTranslate>
+ </String>
+<String index="242">
+ <ToTranslate>Рэн$Я... и Господин... не могу ничего понять. @</ToTranslate>
+ </String>
+<String index="243">
+ <ToTranslate>ren_0212</ToTranslate>
+ </String>
+<String index="244">
+ <ToTranslate>Рэн$Я сильная. Я не подчиняюсь ни чьим приказам...@</ToTranslate>
+ </String>
+<String index="245">
+ <ToTranslate>ren_0213</ToTranslate>
+ </String>
+<String index="246">
+ <ToTranslate>Рэн$Все боятся меня. Не понимаю.@</ToTranslate>
+ </String>
+<String index="247">
+ <ToTranslate>ren_0214</ToTranslate>
+ </String>
+<String index="248">
+ <ToTranslate>Рэн$Но...@</ToTranslate>
+ </String>
+<String index="249">
+ <ToTranslate>ren_0215</ToTranslate>
+ </String>
+<String index="250">
+ <ToTranslate>Рэн$Он смеялся.@</ToTranslate>
+ </String>
+<String index="251">
+ <ToTranslate>ren_0216</ToTranslate>
+ </String>
+<String index="252">
+ <ToTranslate>Рэн$Он всегда смеётся. И не боится меня.@</ToTranslate>
+ </String>
+<String index="253">
+ <ToTranslate>ren_0217</ToTranslate>
+ </String>
+<String index="254">
+ <ToTranslate>Рэн$Может только я одна его боюсь...№"...... maybe I'm the one afraid of him."@</ToTranslate>
+ </String>
+<String index="255">
+ <ToTranslate>ren_0218</ToTranslate>
+ </String>
+<String index="256">
+ <ToTranslate>Рэн$Некогда не встречала подобных людей. Он так близко ко мне подход, и зовёт меня по имени, словно друга...@</ToTranslate>
+ </String>
+<String index="257">
+ <ToTranslate>ren_0219</ToTranslate>
+ </String>
+<String index="258">
+ <ToTranslate>Рэн$Это так странно...@</ToTranslate>
+ </String>
+<String index="259">
+ <ToTranslate>ren_0220</ToTranslate>
+ </String>
+<String index="260">
+ <ToTranslate>Рэн$Я не хочу чувствовать его в своём сердце... но он не хочет уходить.@</ToTranslate>
+ </String>
+<String index="261">
+ <ToTranslate>ren_0221</ToTranslate>
+ </String>
+<String index="262">
+ <ToTranslate>Рэн$Моё сердце болит.@</ToTranslate>
+ </String>
+<String index="263">
+ <ToTranslate>ren_0222</ToTranslate>
+ </String>
+<String index="264">
+ <ToTranslate>Рэн$Это так странно...@</ToTranslate>
+ </String>
+<String index="265">
+ <ToTranslate>ren_0223</ToTranslate>
+ </String>
+<String index="266">
+ <ToTranslate>Рэн$Это очень, очень...@</ToTranslate>
+ </String>
+<String index="267">
+ <ToTranslate>ren_0224</ToTranslate>
+ </String>
+<String index="268">
+ <ToTranslate>Рэн$Так странно... просто быть не может.@</ToTranslate>
+ </String>
+<String index="269">
+ <ToTranslate>ren_0225</ToTranslate>
+ </String>
+<String index="270">
+ <ToTranslate>Рэн$Странное... чувство.@</ToTranslate>
+ </String>
+<String index="271">
+ <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+ </String>
+<String index="272">
+ <ToTranslate>bg_black</ToTranslate>
+ </String>
+ </DBS>
+
+
+
+</pre>
+[[Koihime Musou/Персонажи/Побочные|[Назад]]]

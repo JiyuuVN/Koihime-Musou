@@ -1,0 +1,162 @@
+[[Koihime Musou/Прогресс перевода/Сюжет|[Назад]]]
+<poem>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<DBS>
+  <String index="0">
+    <ToTranslate>bcg_sisuikan_a</ToTranslate>
+  </String>
+  <String index="1">
+    <ToTranslate>tcg_sou22ea</ToTranslate>
+  </String>
+  <String index="2">
+    <ToTranslate>tcg_sou22m</ToTranslate>
+  </String>
+  <String index="3">
+    <ToTranslate>tcg_son12ga</ToTranslate>
+  </String>
+  <String index="4">
+    <ToTranslate>tcg_son12m</ToTranslate>
+  </String>
+  <String index="5">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="6">
+    <ToTranslate>sonk0382</ToTranslate>
+  </String>
+  <String index="7">
+    <ToTranslate>Сонкен$"Храбрецы Сон-Ву! Высвободите весь свой гнев! Не дайте Цао-Вэй обойти себя!"@</ToTranslate>
+  </String>
+  <String index="8">
+    <ToTranslate>sous0429</ToTranslate>
+  </String>
+  <String index="9">
+    <ToTranslate>Цаоцао$"Солдаты верные Вэй! Не отставать от войск Сон-Ву! Громите противника с честью Вэй в ваших сердцах!"@</ToTranslate>
+  </String>
+  <String index="10">
+    <ToTranslate>SE048</ToTranslate>
+  </String>
+  <String index="11">
+    <ToTranslate>tcg_son12ba</ToTranslate>
+  </String>
+  <String index="12">
+    <ToTranslate>tcg_son12m</ToTranslate>
+  </String>
+  <String index="13">
+    <ToTranslate>sonk0383</ToTranslate>
+  </String>
+  <String index="14">
+    <ToTranslate>Сонкен$"Фырк. Бросаешь вызов могуществу Сон-Ву, Цаоцао?"@</ToTranslate>
+  </String>
+  <String index="15">
+    <ToTranslate>tcg_sou22ma</ToTranslate>
+  </String>
+  <String index="16">
+    <ToTranslate>tcg_sou22m</ToTranslate>
+  </String>
+  <String index="17">
+    <ToTranslate>sous0430</ToTranslate>
+  </String>
+  <String index="18">
+    <ToTranslate>Цаоцао$"Вызов, тебе? Хе-хе, кажется, ты немного не поняла. Я просто позволяю вам следовать за нами."@</ToTranslate>
+  </String>
+  <String index="19">
+    <ToTranslate>tcg_son12ia</ToTranslate>
+  </String>
+  <String index="20">
+    <ToTranslate>tcg_son12m</ToTranslate>
+  </String>
+  <String index="21">
+    <ToTranslate>sonk0384</ToTranslate>
+  </String>
+  <String index="22">
+    <ToTranslate>Сонкен$"......о, кто-то здесь явно переоценил себя."@</ToTranslate>
+  </String>
+  <String index="23">
+    <ToTranslate>tcg_sou22ba</ToTranslate>
+  </String>
+  <String index="24">
+    <ToTranslate>tcg_sou22m</ToTranslate>
+  </String>
+  <String index="25">
+    <ToTranslate>sous0431</ToTranslate>
+  </String>
+  <String index="26">
+    <ToTranslate>Цаоцао$"Хо? А вот это мои слова."@</ToTranslate>
+  </String>
+  <String index="27">
+    <ToTranslate>sonk0385</ToTranslate>
+  </String>
+  <String index="28">
+    <ToTranslate>Сонкен$"......что ж. Может выясним, кто из нас нужнее Казуто?"@</ToTranslate>
+  </String>
+  <String index="29">
+    <ToTranslate>tcg_sou22ma</ToTranslate>
+  </String>
+  <String index="30">
+    <ToTranslate>tcg_sou22m</ToTranslate>
+  </String>
+  <String index="31">
+    <ToTranslate>sous0432</ToTranslate>
+  </String>
+  <String index="32">
+    <ToTranslate>Цаоцао$"Идёт. ......меня совсем не волнует тот парень, но правитель Цао-Вэй не может проиграть кому-то из Сон-Ву."@</ToTranslate>
+  </String>
+  <String index="33">
+    <ToTranslate>tcg_son12ha</ToTranslate>
+  </String>
+  <String index="34">
+    <ToTranslate>tcg_son12m</ToTranslate>
+  </String>
+  <String index="35">
+    <ToTranslate>sonk0386</ToTranslate>
+  </String>
+  <String index="36">
+    <ToTranslate>Сонкен$"......что-то ты совсем не честна с собой."@</ToTranslate>
+  </String>
+  <String index="37">
+    <ToTranslate>tcg_sou22ga</ToTranslate>
+  </String>
+  <String index="38">
+    <ToTranslate>tcg_sou22m</ToTranslate>
+  </String>
+  <String index="39">
+    <ToTranslate>sous0433</ToTranslate>
+  </String>
+  <String index="40">
+    <ToTranslate>Цаоцао$"......хм. Может, всё же оставишь свои домыслы при себе?"@</ToTranslate>
+  </String>
+  <String index="41">
+    <ToTranslate>tcg_son12ga</ToTranslate>
+  </String>
+  <String index="42">
+    <ToTranslate>tcg_son12m</ToTranslate>
+  </String>
+  <String index="43">
+    <ToTranslate>sonk0387</ToTranslate>
+  </String>
+  <String index="44">
+    <ToTranslate>Сонкен$"......тогда, Цаоцао, это пари."@</ToTranslate>
+  </String>
+  <String index="45">
+    <ToTranslate>tcg_sou22ea</ToTranslate>
+  </String>
+  <String index="46">
+    <ToTranslate>tcg_sou22m</ToTranslate>
+  </String>
+  <String index="47">
+    <ToTranslate>sous0434</ToTranslate>
+  </String>
+  <String index="48">
+    <ToTranslate>Цаоцао$"Хорошо, начнём, Сонкен."@</ToTranslate>
+  </String>
+  <String index="49">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="50">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+</DBS>
+
+</poem>
+[[Koihime Musou/Прогресс перевода/Сюжет|[Назад]]]

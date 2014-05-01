@@ -1,0 +1,163 @@
+<poem>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<DBS>
+  <String index="0">
+    <Origin>_sl_save</Origin>
+    <ToTranslate>_sl_save</ToTranslate>
+  </String>
+  <String index="1">
+    <Origin>_sl_load</Origin>
+    <ToTranslate>_sl_load</ToTranslate>
+  </String>
+  <String index="2">
+    <Origin>dummy</Origin>
+    <ToTranslate>dummy</ToTranslate>
+  </String>
+  <String index="3">
+    <Origin>dummy</Origin>
+    <ToTranslate>dummy</ToTranslate>
+  </String>
+  <String index="4">
+    <Origin>dummy</Origin>
+    <ToTranslate>dummy</ToTranslate>
+  </String>
+  <String index="5">
+    <Origin>dummy</Origin>
+    <ToTranslate>dummy</ToTranslate>
+  </String>
+  <String index="6">
+    <Origin>Are you sure you want to save the data to No:��</Origin>
+    <ToTranslate>Are you sure you want to save the data to No:��</ToTranslate>
+  </String>
+  <String index="7">
+    <Origin>Confirm?</Origin>
+    <ToTranslate>Confirm?</ToTranslate>
+  </String>
+  <String index="8">
+    <Origin>The data was saved to No:��</Origin>
+    <ToTranslate>The data was saved to No:��</ToTranslate>
+  </String>
+  <String index="9">
+    <Origin>Message</Origin>
+    <ToTranslate>Message</ToTranslate>
+  </String>
+  <String index="10">
+    <Origin>Are you sure you want to start from No:��</Origin>
+    <ToTranslate>Are you sure you want to start from No:��</ToTranslate>
+  </String>
+  <String index="11">
+    <Origin>Confirm?</Origin>
+    <ToTranslate>Confirm?</ToTranslate>
+  </String>
+  <String index="12">
+    <Origin>bg_black</Origin>
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="13">
+    <Origin>Are you sure you want to save the data to No:��</Origin>
+    <ToTranslate>Are you sure you want to save the data to No:��</ToTranslate>
+  </String>
+  <String index="14">
+    <Origin>Confirm?</Origin>
+    <ToTranslate>Confirm?</ToTranslate>
+  </String>
+  <String index="15">
+    <Origin>The data was saved to No:��</Origin>
+    <ToTranslate>The data was saved to No:��</ToTranslate>
+  </String>
+  <String index="16">
+    <Origin>Message</Origin>
+    <ToTranslate>Message</ToTranslate>
+  </String>
+  <String index="17">
+    <Origin>Are you sure you want to start from No:��</Origin>
+    <ToTranslate>Are you sure you want to start from No:��</ToTranslate>
+  </String>
+  <String index="18">
+    <Origin>Confirm?</Origin>
+    <ToTranslate>Confirm?</ToTranslate>
+  </String>
+  <String index="19">
+    <Origin>bg_black</Origin>
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="20">
+    <Origin>dummy</Origin>
+    <ToTranslate>dummy</ToTranslate>
+  </String>
+  <String index="21">
+    <Origin>dummy</Origin>
+    <ToTranslate>dummy</ToTranslate>
+  </String>
+  <String index="22">
+    <Origin>dummy</Origin>
+    <ToTranslate>dummy</ToTranslate>
+  </String>
+  <String index="23">
+    <Origin>dummy</Origin>
+    <ToTranslate>dummy</ToTranslate>
+  </String>
+  <String index="24">
+    <Origin>Are you sure you want to save the data to No:��</Origin>
+    <ToTranslate>Are you sure you want to save the data to No:��</ToTranslate>
+  </String>
+  <String index="25">
+    <Origin>Confirm?</Origin>
+    <ToTranslate>Confirm?</ToTranslate>
+  </String>
+  <String index="26">
+    <Origin>The data was saved to No:��</Origin>
+    <ToTranslate>The data was saved to No:��</ToTranslate>
+  </String>
+  <String index="27">
+    <Origin>Message</Origin>
+    <ToTranslate>Message</ToTranslate>
+  </String>
+  <String index="28">
+    <Origin>Are you sure you want to start from No:��</Origin>
+    <ToTranslate>Are you sure you want to start from No:��</ToTranslate>
+  </String>
+  <String index="29">
+    <Origin>Confirm?</Origin>
+    <ToTranslate>Confirm?</ToTranslate>
+  </String>
+  <String index="30">
+    <Origin>bg_black</Origin>
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="31">
+    <Origin>dummy</Origin>
+    <ToTranslate>dummy</ToTranslate>
+  </String>
+  <String index="32">
+    <Origin>dummy</Origin>
+    <ToTranslate>dummy</ToTranslate>
+  </String>
+  <String index="33">
+    <Origin>dummy</Origin>
+    <ToTranslate>dummy</ToTranslate>
+  </String>
+  <String index="34">
+    <Origin>dummy</Origin>
+    <ToTranslate>dummy</ToTranslate>
+  </String>
+  <String index="35">
+    <Origin>dummy</Origin>
+    <ToTranslate>dummy</ToTranslate>
+  </String>
+  <String index="36">
+    <Origin>dummy</Origin>
+    <ToTranslate>dummy</ToTranslate>
+  </String>
+  <String index="37">
+    <Origin>_RCMenuBk</Origin>
+    <ToTranslate>_RCMenuBk</ToTranslate>
+  </String>
+  <String index="38">
+    <Origin>_RCMenuChip</Origin>
+    <ToTranslate>_RCMenuChip</ToTranslate>
+  </String>
+</DBS>
+
+</poem>

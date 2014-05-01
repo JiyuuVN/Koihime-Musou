@@ -1,0 +1,1882 @@
+[[Koihime Musou/Прогресс перевода/Сюжет|[Назад]]]
+<poem>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<DBS>
+  <String index="0">
+    <ToTranslate>bcg_castcorrid_a</ToTranslate>
+  </String>
+  <String index="1">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="2">
+    <ToTranslate>bgm02</ToTranslate>
+  </String>
+  <String index="3">
+    <ToTranslate>$Медленным шагом я бреду по дворцу в поисках Айши, от которой мне необходимо получить пару советов относительно военного дела.@</ToTranslate>
+  </String>
+  <String index="4">
+    <ToTranslate>Казуто$"Где она может быть?"@</ToTranslate>
+  </String>
+  <String index="5">
+    <ToTranslate>$Её не было ни в своей комнате ни зале военных собраний.@</ToTranslate>
+  </String>
+  <String index="6">
+    <ToTranslate>Казуто$"Возможно она на обходе?"@</ToTranslate>
+  </String>
+  <String index="7">
+    <ToTranslate>$И тут я услышал отголоски чьих-то голосов идущих из сада.@</ToTranslate>
+  </String>
+  <String index="8">
+    <ToTranslate>Казуто$"Может Айша там?"@</ToTranslate>
+  </String>
+  <String index="9">
+    <ToTranslate>$Я зашёл в сад чтобы это проверить.@</ToTranslate>
+  </String>
+  <String index="10">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="11">
+    <ToTranslate>aa</ToTranslate>
+  </String>
+  <String index="12">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="13">
+    <ToTranslate>aa</ToTranslate>
+  </String>
+  <String index="14">
+    <ToTranslate>bcg_castgurden_a</ToTranslate>
+  </String>
+  <String index="15">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="16">
+    <ToTranslate>tcg_kan11aa</ToTranslate>
+  </String>
+  <String index="17">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="18">
+    <ToTranslate>bgm26</ToTranslate>
+  </String>
+  <String index="19">
+    <ToTranslate>aisy1134</ToTranslate>
+  </String>
+  <String index="20">
+    <ToTranslate>Айша$"К чему столь внезапная просьба...? Что-то случилось?"@</ToTranslate>
+  </String>
+  <String index="21">
+    <ToTranslate>tcg_cry11ca</ToTranslate>
+  </String>
+  <String index="22">
+    <ToTranslate>tcg_cry11m</ToTranslate>
+  </String>
+  <String index="23">
+    <ToTranslate>chor0502</ToTranslate>
+  </String>
+  <String index="24">
+    <ToTranslate>Чёрьё$"Ой нет-нет. В последнее время у меня не так много возможностей найти достойного оппонента для спарринга, вот я и решила обратиться именно к тебе."@</ToTranslate>
+  </String>
+  <String index="25">
+    <ToTranslate>aisy1135</ToTranslate>
+  </String>
+  <String index="26">
+    <ToTranslate>Айша$"Вот значит как? Хм-м... с другой стороны, неудивительно, ведь тебя называют богиней скорости."@</ToTranslate>
+  </String>
+  <String index="27">
+    <ToTranslate>chor0503</ToTranslate>
+  </String>
+  <String index="28">
+    <ToTranslate>Чёрьё$"Так льстит когда Айша хвалит меня."@</ToTranslate>
+  </String>
+  <String index="29">
+    <ToTranslate>tcg_kan21aa</ToTranslate>
+  </String>
+  <String index="30">
+    <ToTranslate>tcg_kan21m</ToTranslate>
+  </String>
+  <String index="31">
+    <ToTranslate>aisy1136</ToTranslate>
+  </String>
+  <String index="32">
+    <ToTranslate>Айша$"Разумеется, мне тоже давно была нужна особая тренировка, так что я с удовольствием сражусь с тобой."@</ToTranslate>
+  </String>
+  <String index="33">
+    <ToTranslate>chor0504</ToTranslate>
+  </String>
+  <String index="34">
+    <ToTranslate>Чёрьё$"Пасибки."@</ToTranslate>
+  </String>
+  <String index="35">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="36">
+    <ToTranslate>tcg_cry41aa</ToTranslate>
+  </String>
+  <String index="37">
+    <ToTranslate>tcg_cry41m</ToTranslate>
+  </String>
+  <String index="38">
+    <ToTranslate>bgm17</ToTranslate>
+  </String>
+  <String index="39">
+    <ToTranslate>chor0505</ToTranslate>
+  </String>
+  <String index="40">
+    <ToTranslate>Чёрьё$"Тогда... приступим?"@</ToTranslate>
+  </String>
+  <String index="41">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="42">
+    <ToTranslate>tcg_kan11ca</ToTranslate>
+  </String>
+  <String index="43">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="44">
+    <ToTranslate>aisy1137</ToTranslate>
+  </String>
+  <String index="45">
+    <ToTranslate>Айша$"Да."@</ToTranslate>
+  </String>
+  <String index="46">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="47">
+    <ToTranslate>tcg_kan41aa</ToTranslate>
+  </String>
+  <String index="48">
+    <ToTranslate>tcg_kan41m</ToTranslate>
+  </String>
+  <String index="49">
+    <ToTranslate>aisy1138</ToTranslate>
+  </String>
+  <String index="50">
+    <ToTranslate>Айша$"Можешь начинать в любое время."@</ToTranslate>
+  </String>
+  <String index="51">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="52">
+    <ToTranslate>$Обе застыли наготове с оружием, выискивая возможность для нанесения удара.@</ToTranslate>
+  </String>
+  <String index="53">
+    <ToTranslate>SE071</ToTranslate>
+  </String>
+  <String index="54">
+    <ToTranslate>tcg_kan11ca</ToTranslate>
+  </String>
+  <String index="55">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="56">
+    <ToTranslate>tcg_cry11aa</ToTranslate>
+  </String>
+  <String index="57">
+    <ToTranslate>tcg_cry11m</ToTranslate>
+  </String>
+  <String index="58">
+    <ToTranslate>aisy1139</ToTranslate>
+  </String>
+  <String index="59">
+    <ToTranslate>Айша$"Что-то мешает, Сия? Не будешь наступать?" @</ToTranslate>
+  </String>
+  <String index="60">
+    <ToTranslate>tcg_cry21ga</ToTranslate>
+  </String>
+  <String index="61">
+    <ToTranslate>tcg_cry21m</ToTranslate>
+  </String>
+  <String index="62">
+    <ToTranslate>chor0506</ToTranslate>
+  </String>
+  <String index="63">
+    <ToTranslate>Чёрьё$"Только если подвернётся подходящая возможность."@</ToTranslate>
+  </String>
+  <String index="64">
+    <ToTranslate>tcg_kan11ca</ToTranslate>
+  </String>
+  <String index="65">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="66">
+    <ToTranslate>aisy1140</ToTranslate>
+  </String>
+  <String index="67">
+    <ToTranslate>Айша$"Я не собираюсь давать тебе шанс для атаки... если ты не сделаешь этого, то я сама нанесу первый удар."@</ToTranslate>
+  </String>
+  <String index="68">
+    <ToTranslate>chor0507</ToTranslate>
+  </String>
+  <String index="69">
+    <ToTranslate>Чёрьё$"Что ж, попробуй если получится."@</ToTranslate>
+  </String>
+  <String index="70">
+    <ToTranslate>tcg_kan11aa</ToTranslate>
+  </String>
+  <String index="71">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="72">
+    <ToTranslate>aisy1141</ToTranslate>
+  </String>
+  <String index="73">
+    <ToTranslate>Айша$"Хах... любишь похвастаться, значит?"@</ToTranslate>
+  </String>
+  <String index="74">
+    <ToTranslate>chor0508</ToTranslate>
+  </String>
+  <String index="75">
+    <ToTranslate>Чёрьё$"Хе-хе, ровно как и ты."@</ToTranslate>
+  </String>
+  <String index="76">
+    <ToTranslate>$В поисках подходящей возможности для атаки, они обе ходят по кругу, попутно сокращая дистанцию между ними.@</ToTranslate>
+  </String>
+  <String index="77">
+    <ToTranslate>aisy1142</ToTranslate>
+  </String>
+  <String index="78">
+    <ToTranslate>Айша$"Я как то слышала... что ты смастерила некое подобие моего оружия."@</ToTranslate>
+  </String>
+  <String index="79">
+    <ToTranslate>tcg_cry11ca</ToTranslate>
+  </String>
+  <String index="80">
+    <ToTranslate>tcg_cry11m</ToTranslate>
+  </String>
+  <String index="81">
+    <ToTranslate>chor0509</ToTranslate>
+  </String>
+  <String index="82">
+    <ToTranslate>Чёрьё$"Ито так. Повстречав тебя на перевале Халао, я просто влюбилась в тебя."@</ToTranslate>
+  </String>
+  <String index="83">
+    <ToTranslate>aisy1143</ToTranslate>
+  </String>
+  <String index="84">
+    <ToTranslate>Айша$"......"@</ToTranslate>
+  </String>
+  <String index="85">
+    <ToTranslate>tcg_cry21da</ToTranslate>
+  </String>
+  <String index="86">
+    <ToTranslate>tcg_cry21m</ToTranslate>
+  </String>
+  <String index="87">
+    <ToTranslate>chor0510</ToTranslate>
+  </String>
+  <String index="88">
+    <ToTranslate>Чёрьё$"Я даже сменила оружие чтобы получить возможность быть как можно ближе к тебе."@</ToTranslate>
+  </String>
+  <String index="89">
+    <ToTranslate>chor0511</ToTranslate>
+  </String>
+  <String index="90">
+    <ToTranslate>Чёрьё$"Даже если всего лишь на миг, я уже счастлива что ты смотришь мне прямо в глаза... в такие моменты я чувствую что ты моя и только моя."@</ToTranslate>
+  </String>
+  <String index="91">
+    <ToTranslate>tcg_kan11qa</ToTranslate>
+  </String>
+  <String index="92">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="93">
+    <ToTranslate>aisy1144</ToTranslate>
+  </String>
+  <String index="94">
+    <ToTranslate>Айша$"Не шути так..."@</ToTranslate>
+  </String>
+  <String index="95">
+    <ToTranslate>chor0512</ToTranslate>
+  </String>
+  <String index="96">
+    <ToTranslate>Чёрьё$"А кто здесь шутит, я люблю тебя, Айша."@</ToTranslate>
+  </String>
+  <String index="97">
+    <ToTranslate>tcg_kan31ja</ToTranslate>
+  </String>
+  <String index="98">
+    <ToTranslate>tcg_kan31m</ToTranslate>
+  </String>
+  <String index="99">
+    <ToTranslate>aisy1145</ToTranslate>
+  </String>
+  <String index="100">
+    <ToTranslate>Айша$"Ан..."@</ToTranslate>
+  </String>
+  <String index="101">
+    <ToTranslate>tcg_cry11aa</ToTranslate>
+  </String>
+  <String index="102">
+    <ToTranslate>tcg_cry11m</ToTranslate>
+  </String>
+  <String index="103">
+    <ToTranslate>chor0513</ToTranslate>
+  </String>
+  <String index="104">
+    <ToTranslate>Чёрьё$"Попалась!"@</ToTranslate>
+  </String>
+  <String index="105">
+    <ToTranslate>chor0514</ToTranslate>
+  </String>
+  <String index="106">
+    <ToTranslate>Чёрьё$"Дариа-а-а!"@</ToTranslate>
+  </String>
+  <String index="107">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="108">
+    <ToTranslate>ecg_cry01a</ToTranslate>
+  </String>
+  <String index="109">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="110">
+    <ToTranslate>$Занеся над головой собственное лезвие Зелёного Дракона, Чёрьё сделала шаг вперёд.@</ToTranslate>
+  </String>
+  <String index="111">
+    <ToTranslate>bcg_castgurden_a</ToTranslate>
+  </String>
+  <String index="112">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="113">
+    <ToTranslate>tcg_kan11fa</ToTranslate>
+  </String>
+  <String index="114">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="115">
+    <ToTranslate>aisy1146</ToTranslate>
+  </String>
+  <String index="116">
+    <ToTranslate>Айша$"Эи...!"@</ToTranslate>
+  </String>
+  <String index="117">
+    <ToTranslate>battle_harai</ToTranslate>
+  </String>
+  <String index="118">
+    <ToTranslate>SE015</ToTranslate>
+  </String>
+  <String index="119">
+    <ToTranslate>s_yure_y</ToTranslate>
+  </String>
+  <String index="120">
+    <ToTranslate>tcg_kan61aa</ToTranslate>
+  </String>
+  <String index="121">
+    <ToTranslate>tcg_kan61m</ToTranslate>
+  </String>
+  <String index="122">
+    <ToTranslate>aisy1147</ToTranslate>
+  </String>
+  <String index="123">
+    <ToTranslate>Айша$"Гх... решила заговорить меня? Впечатляет, Чёрьё."@</ToTranslate>
+  </String>
+  <String index="124">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="125">
+    <ToTranslate>tcg_cry21da</ToTranslate>
+  </String>
+  <String index="126">
+    <ToTranslate>tcg_cry21m</ToTranslate>
+  </String>
+  <String index="127">
+    <ToTranslate>chor0515</ToTranslate>
+  </String>
+  <String index="128">
+    <ToTranslate>Чёрьё$"Хе-хе. Комплимент значит? Благодарствую."@</ToTranslate>
+  </String>
+  <String index="129">
+    <ToTranslate>tcg_kan11ca</ToTranslate>
+  </String>
+  <String index="130">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="131">
+    <ToTranslate>aisy1148</ToTranslate>
+  </String>
+  <String index="132">
+    <ToTranslate>Айша$"Теперь моя очередь. Смотри, Сия!"@</ToTranslate>
+  </String>
+  <String index="133">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="134">
+    <ToTranslate>tcg_kan91aa</ToTranslate>
+  </String>
+  <String index="135">
+    <ToTranslate>tcg_kan91m</ToTranslate>
+  </String>
+  <String index="136">
+    <ToTranslate>aisy1149</ToTranslate>
+  </String>
+  <String index="137">
+    <ToTranslate>Айша$"Се-е-еи!"@</ToTranslate>
+  </String>
+  <String index="138">
+    <ToTranslate>battle_kesa</ToTranslate>
+  </String>
+  <String index="139">
+    <ToTranslate>SE016</ToTranslate>
+  </String>
+  <String index="140">
+    <ToTranslate>s_yure_r</ToTranslate>
+  </String>
+  <String index="141">
+    <ToTranslate>SE031</ToTranslate>
+  </String>
+  <String index="142">
+    <ToTranslate>tcg_cry61aa</ToTranslate>
+  </String>
+  <String index="143">
+    <ToTranslate>tcg_cry61m</ToTranslate>
+  </String>
+  <String index="144">
+    <ToTranslate>chor0516</ToTranslate>
+  </String>
+  <String index="145">
+    <ToTranslate>Чёрьё$"Гаха...!"@</ToTranslate>
+  </String>
+  <String index="146">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="147">
+    <ToTranslate>tcg_cry11aa</ToTranslate>
+  </String>
+  <String index="148">
+    <ToTranslate>tcg_cry11m</ToTranslate>
+  </String>
+  <String index="149">
+    <ToTranslate>chor0517</ToTranslate>
+  </String>
+  <String index="150">
+    <ToTranslate>Чёрьё$"Фырк... удар силён как всегда, Айша. Без сомнения, тебя не зря зовут Кан Унчё, богиня войны."@</ToTranslate>
+  </String>
+  <String index="151">
+    <ToTranslate>tcg_kan11ca</ToTranslate>
+  </String>
+  <String index="152">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="153">
+    <ToTranslate>aisy1150</ToTranslate>
+  </String>
+  <String index="154">
+    <ToTranslate>Айша$"Могу сказать тебе тоже самое. Раньше я думала, что звание богиня скорости относится к маршевым способностям твоей армии, но..." @</ToTranslate>
+  </String>
+  <String index="155">
+    <ToTranslate>tcg_cry11ca</ToTranslate>
+  </String>
+  <String index="156">
+    <ToTranslate>tcg_cry11m</ToTranslate>
+  </String>
+  <String index="157">
+    <ToTranslate>chor0518</ToTranslate>
+  </String>
+  <String index="158">
+    <ToTranslate>Чёрьё$"Но также касается и моего копья."@</ToTranslate>
+  </String>
+  <String index="159">
+    <ToTranslate>tcg_kan11aa</ToTranslate>
+  </String>
+  <String index="160">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="161">
+    <ToTranslate>aisy1151</ToTranslate>
+  </String>
+  <String index="162">
+    <ToTranslate>Айша$"Ты права, последняя атака почти достала меня."@</ToTranslate>
+  </String>
+  <String index="163">
+    <ToTranslate>tcg_cry31la</ToTranslate>
+  </String>
+  <String index="164">
+    <ToTranslate>tcg_cry31ml</ToTranslate>
+  </String>
+  <String index="165">
+    <ToTranslate>bgm26</ToTranslate>
+  </String>
+  <String index="166">
+    <ToTranslate>chor0519</ToTranslate>
+  </String>
+  <String index="167">
+    <ToTranslate>Чёрьё$"Хе-хе-е... ах, я прямо сияю..."@</ToTranslate>
+  </String>
+  <String index="168">
+    <ToTranslate>tcg_kan11qa</ToTranslate>
+  </String>
+  <String index="169">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="170">
+    <ToTranslate>aisy1152</ToTranslate>
+  </String>
+  <String index="171">
+    <ToTranslate>Айша$"Да ты вся аж трусишься..."@</ToTranslate>
+  </String>
+  <String index="172">
+    <ToTranslate>chor0520</ToTranslate>
+  </String>
+  <String index="173">
+    <ToTranslate>Чёрьё$"Вполне естественно радоваться, когда тот кто тебе нравится хвалит тебя."@</ToTranslate>
+  </String>
+  <String index="174">
+    <ToTranslate>tcg_kan31ga</ToTranslate>
+  </String>
+  <String index="175">
+    <ToTranslate>tcg_kan31m</ToTranslate>
+  </String>
+  <String index="176">
+    <ToTranslate>aisy1153</ToTranslate>
+  </String>
+  <String index="177">
+    <ToTranslate>Айша$"Хватит говорить странные вещи... меня... это смущает."@</ToTranslate>
+  </String>
+  <String index="178">
+    <ToTranslate>tcg_cry11oa</ToTranslate>
+  </String>
+  <String index="179">
+    <ToTranslate>tcg_cry11m</ToTranslate>
+  </String>
+  <String index="180">
+    <ToTranslate>chor0521</ToTranslate>
+  </String>
+  <String index="181">
+    <ToTranslate>Чёрьё$"Бу-у... не могу. Не могу, не могу. Всё, я больше не готова сражаться."@</ToTranslate>
+  </String>
+  <String index="182">
+    <ToTranslate>SE021</ToTranslate>
+  </String>
+  <String index="183">
+    <ToTranslate>tcg_kan21da</ToTranslate>
+  </String>
+  <String index="184">
+    <ToTranslate>tcg_kan21m</ToTranslate>
+  </String>
+  <String index="185">
+    <ToTranslate>aisy1154</ToTranslate>
+  </String>
+  <String index="186">
+    <ToTranslate>Айша$"Почему так? Мы ведь только успели обменяться ударами?"@</ToTranslate>
+  </String>
+  <String index="187">
+    <ToTranslate>tcg_cry31la</ToTranslate>
+  </String>
+  <String index="188">
+    <ToTranslate>tcg_cry31ml</ToTranslate>
+  </String>
+  <String index="189">
+    <ToTranslate>chor0522</ToTranslate>
+  </String>
+  <String index="190">
+    <ToTranslate>Чёрьё$"Айша, я люблю тебя."@</ToTranslate>
+  </String>
+  <String index="191">
+    <ToTranslate>tcg_kan31ga</ToTranslate>
+  </String>
+  <String index="192">
+    <ToTranslate>tcg_kan31m</ToTranslate>
+  </String>
+  <String index="193">
+    <ToTranslate>aisy1155</ToTranslate>
+  </String>
+  <String index="194">
+    <ToTranslate>Айша$"Уа-а!? С-стой? Эй... не лезь ко мне, Сия...!"@</ToTranslate>
+  </String>
+  <String index="195">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="196">
+    <ToTranslate>ecg_cry02a</ToTranslate>
+  </String>
+  <String index="197">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="198">
+    <ToTranslate>bgm20</ToTranslate>
+  </String>
+  <String index="199">
+    <ToTranslate>chor0523</ToTranslate>
+  </String>
+  <String index="200">
+    <ToTranslate>Чёрьё$"Хе-хе... Айша, у тебя прекрасные волосы..."@</ToTranslate>
+  </String>
+  <String index="201">
+    <ToTranslate>aisy1156</ToTranslate>
+  </String>
+  <String index="202">
+    <ToTranslate>Айша$"Сия хватит шутить. Уйди от меня..."@</ToTranslate>
+  </String>
+  <String index="203">
+    <ToTranslate>chor0524</ToTranslate>
+  </String>
+  <String index="204">
+    <ToTranslate>Чёрьё$"Неа-а. Разреши пообниматься с тобой какое-то время..."@</ToTranslate>
+  </String>
+  <String index="205">
+    <ToTranslate>aisy1157</ToTranslate>
+  </String>
+  <String index="206">
+    <ToTranslate>Айша$"У-у... но совсем немного, ладно...?"@</ToTranslate>
+  </String>
+  <String index="207">
+    <ToTranslate>chor0525</ToTranslate>
+  </String>
+  <String index="208">
+    <ToTranslate>Чёрьё$"Да-да, самую чуточку... эхе-е... *нюх, нюх...*"@</ToTranslate>
+  </String>
+  <String index="209">
+    <ToTranslate>aisy1158</ToTranslate>
+  </String>
+  <String index="210">
+    <ToTranslate>Айша$"Эй... не смей нюхать мои волосы!"@</ToTranslate>
+  </String>
+  <String index="211">
+    <ToTranslate>chor0526</ToTranslate>
+  </String>
+  <String index="212">
+    <ToTranslate>Чёрьё$"Э-э-э. Но они так хорошо пахнут..."@</ToTranslate>
+  </String>
+  <String index="213">
+    <ToTranslate>aisy1159</ToTranslate>
+  </String>
+  <String index="214">
+    <ToTranslate>Айша$"Я уже успела вспотеть и они не могут хорошо пахнуть..."@</ToTranslate>
+  </String>
+  <String index="215">
+    <ToTranslate>chor0527</ToTranslate>
+  </String>
+  <String index="216">
+    <ToTranslate>Чёрьё$"Да-да, очень приятно. Точнее, особенно мокрые..."@</ToTranslate>
+  </String>
+  <String index="217">
+    <ToTranslate>aisy1160</ToTranslate>
+  </String>
+  <String index="218">
+    <ToTranslate>Айша$"Ахах... ты дура..."@</ToTranslate>
+  </String>
+  <String index="219">
+    <ToTranslate>chor0528</ToTranslate>
+  </String>
+  <String index="220">
+    <ToTranslate>Чёрьё$"Ради тебя я не против... *нюх...*"@</ToTranslate>
+  </String>
+  <String index="221">
+    <ToTranslate>chor0529</ToTranslate>
+  </String>
+  <String index="222">
+    <ToTranslate>Чёрьё$"Ха-а-а... Айша, ты так приятно пахнешь..."@</ToTranslate>
+  </String>
+  <String index="223">
+    <ToTranslate>aisy1161</ToTranslate>
+  </String>
+  <String index="224">
+    <ToTranslate>Айша$"Щекотно же, Сия..."@</ToTranslate>
+  </String>
+  <String index="225">
+    <ToTranslate>chor0530</ToTranslate>
+  </String>
+  <String index="226">
+    <ToTranslate>Чёрьё$"Ой прости... но иначе я не могу. Ты слишком хорошо пахнешь."@</ToTranslate>
+  </String>
+  <String index="227">
+    <ToTranslate>aisy1162</ToTranslate>
+  </String>
+  <String index="228">
+    <ToTranslate>Айша$"Так это я виновата?" @</ToTranslate>
+  </String>
+  <String index="229">
+    <ToTranslate>chor0531</ToTranslate>
+  </String>
+  <String index="230">
+    <ToTranslate>Чёрьё$"Да... разумеется, ты виновата."@</ToTranslate>
+  </String>
+  <String index="231">
+    <ToTranslate>aisy1163</ToTranslate>
+  </String>
+  <String index="232">
+    <ToTranslate>Айша$"Аха..."@</ToTranslate>
+  </String>
+  <String index="233">
+    <ToTranslate>chor0532</ToTranslate>
+  </String>
+  <String index="234">
+    <ToTranslate>Чёрьё$"......но, мне как-то не по себе...... когда я обнюхиваю тебя. Я становлюсь плохой девочкой?"@</ToTranslate>
+  </String>
+  <String index="235">
+    <ToTranslate>aisy1164</ToTranslate>
+  </String>
+  <String index="236">
+    <ToTranslate>Айша$"Не знаю."@</ToTranslate>
+  </String>
+  <String index="237">
+    <ToTranslate>chor0533</ToTranslate>
+  </String>
+  <String index="238">
+    <ToTranslate>Чёрьё$"Ая? Айша, ты покраснела?"@</ToTranslate>
+  </String>
+  <String index="239">
+    <ToTranslate>aisy1165</ToTranslate>
+  </String>
+  <String index="240">
+    <ToTranslate>Айша$"Н-н-н-нет, совсем нет! Твоё дыхание совсем не приятное и не заводит меня!"@</ToTranslate>
+  </String>
+  <String index="241">
+    <ToTranslate>chor0534</ToTranslate>
+  </String>
+  <String index="242">
+    <ToTranslate>Чёрьё$"Сама ведь только что во всём призналась."@</ToTranslate>
+  </String>
+  <String index="243">
+    <ToTranslate>aisy1166</ToTranslate>
+  </String>
+  <String index="244">
+    <ToTranslate>Айша$"Ха? А-а-а!?"@</ToTranslate>
+  </String>
+  <String index="245">
+    <ToTranslate>chor0535</ToTranslate>
+  </String>
+  <String index="246">
+    <ToTranslate>Чёрьё$"Ха-ха, а ты крайне чувствительна. Тогда ещё пару раз... *выдох... выдох...*"@</ToTranslate>
+  </String>
+  <String index="247">
+    <ToTranslate>aisy1167</ToTranslate>
+  </String>
+  <String index="248">
+    <ToTranslate>Айша$"Уа-а!? Э-эй, Сия... ва-а!"@</ToTranslate>
+  </String>
+  <String index="249">
+    <ToTranslate>chor0536</ToTranslate>
+  </String>
+  <String index="250">
+    <ToTranslate>Чёрьё$"Ты просто прелесть... от твоего голоса я еле могу себя сдерживать..."@</ToTranslate>
+  </String>
+  <String index="251">
+    <ToTranslate>aisy1168</ToTranslate>
+  </String>
+  <String index="252">
+    <ToTranslate>Айша$"Нет, Сия. Ты должна обуздать себя."@</ToTranslate>
+  </String>
+  <String index="253">
+    <ToTranslate>chor0537</ToTranslate>
+  </String>
+  <String index="254">
+    <ToTranslate>Чёрьё$"Не могу... *поцелуй...*"@</ToTranslate>
+  </String>
+  <String index="255">
+    <ToTranslate>aisy1169</ToTranslate>
+  </String>
+  <String index="256">
+    <ToTranslate>Айша$"Гк... не целуй мою шею... у-у-у."@</ToTranslate>
+  </String>
+  <String index="257">
+    <ToTranslate>chor0538</ToTranslate>
+  </String>
+  <String index="258">
+    <ToTranslate>Чёрьё$"*Поцелуй...* ум-м... а-а-а... привкус пота по-настоящему сладок..."@</ToTranslate>
+  </String>
+  <String index="259">
+    <ToTranslate>aisy1170</ToTranslate>
+  </String>
+  <String index="260">
+    <ToTranslate>Айша$"Уа-а, не может быть..."@</ToTranslate>
+  </String>
+  <String index="261">
+    <ToTranslate>chor0539</ToTranslate>
+  </String>
+  <String index="262">
+    <ToTranslate>Чёрьё$"Так и есть... это привкус любви."@</ToTranslate>
+  </String>
+  <String index="263">
+    <ToTranslate>aisy1171</ToTranslate>
+  </String>
+  <String index="264">
+    <ToTranslate>Айша$"Замолчи..."@</ToTranslate>
+  </String>
+  <String index="265">
+    <ToTranslate>chor0540</ToTranslate>
+  </String>
+  <String index="266">
+    <ToTranslate>Чёрьё$"Эй, Айша... хочу попросить тебя об одном одолжении." @</ToTranslate>
+  </String>
+  <String index="267">
+    <ToTranslate>aisy1172</ToTranslate>
+  </String>
+  <String index="268">
+    <ToTranslate>Айша$"Каком?"@</ToTranslate>
+  </String>
+  <String index="269">
+    <ToTranslate>chor0541</ToTranslate>
+  </String>
+  <String index="270">
+    <ToTranslate>Чёрьё$"Я себя уже не контролирую... поэтому..."@</ToTranslate>
+  </String>
+  <String index="271">
+    <ToTranslate>aisy1173</ToTranslate>
+  </String>
+  <String index="272">
+    <ToTranslate>Айша$"Ах... что ты задумала...?"@</ToTranslate>
+  </String>
+  <String index="273">
+    <ToTranslate>chor0542</ToTranslate>
+  </String>
+  <String index="274">
+    <ToTranslate>Чёрьё$"Ты... поможешь мне...?"@</ToTranslate>
+  </String>
+  <String index="275">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="276">
+    <ToTranslate>ecg_cry02b</ToTranslate>
+  </String>
+  <String index="277">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="278">
+    <ToTranslate>$Хлюп...@</ToTranslate>
+  </String>
+  <String index="279">
+    <ToTranslate>aisy1174</ToTranslate>
+  </String>
+  <String index="280">
+    <ToTranslate>Айша$"Ха-а... ого... вся мокрая..."@</ToTranslate>
+  </String>
+  <String index="281">
+    <ToTranslate>chor0543</ToTranslate>
+  </String>
+  <String index="282">
+    <ToTranslate>Чёрьё$"Видишь...? Я стала такой только от одного запаха твоих волос..."@</ToTranslate>
+  </String>
+  <String index="283">
+    <ToTranslate>aisy1175</ToTranslate>
+  </String>
+  <String index="284">
+    <ToTranslate>Айша$"Неужели--"@</ToTranslate>
+  </String>
+  <String index="285">
+    <ToTranslate>chor0544</ToTranslate>
+  </String>
+  <String index="286">
+    <ToTranslate>Чёрьё$"О?"@</ToTranslate>
+  </String>
+  <String index="287">
+    <ToTranslate>aisy1176</ToTranslate>
+  </String>
+  <String index="288">
+    <ToTranslate>Айша$"Ты действительно меня любишь?"@</ToTranslate>
+  </String>
+  <String index="289">
+    <ToTranslate>chor0545</ToTranslate>
+  </String>
+  <String index="290">
+    <ToTranslate>Чёрьё$"Да... Айша, я тебя очень люблю..."@</ToTranslate>
+  </String>
+  <String index="291">
+    <ToTranslate>aisy1177</ToTranslate>
+  </String>
+  <String index="292">
+    <ToTranslate>Айша$"Хорошо... я сделаю, как ты просишь... но... н-не заставляй меня сожалеть об этом..."@</ToTranslate>
+  </String>
+  <String index="293">
+    <ToTranslate>chor0546</ToTranslate>
+  </String>
+  <String index="294">
+    <ToTranslate>Чёрьё$"Ты уверена...?"@</ToTranslate>
+  </String>
+  <String index="295">
+    <ToTranslate>aisy1178</ToTranslate>
+  </String>
+  <String index="296">
+    <ToTranslate>Айша$"Да... я тоже люблю тебя. Ум... прости заранее, но ты только вторая после моего Господина."@</ToTranslate>
+  </String>
+  <String index="297">
+    <ToTranslate>chor0547</ToTranslate>
+  </String>
+  <String index="298">
+    <ToTranslate>Чёрьё$"Ахаха. Всё в порядке... я так рада, Айша. Спасибо что любишь меня."@</ToTranslate>
+  </String>
+  <String index="299">
+    <ToTranslate>aisy1179</ToTranslate>
+  </String>
+  <String index="300">
+    <ToTranslate>Айша$"Не нужно благодарить меня."@</ToTranslate>
+  </String>
+  <String index="301">
+    <ToTranslate>chor0548</ToTranslate>
+  </String>
+  <String index="302">
+    <ToTranslate>Чёрьё$"Ладно... тогда... можешь пошевелить пальцем?"@</ToTranslate>
+  </String>
+  <String index="303">
+    <ToTranslate>aisy1180</ToTranslate>
+  </String>
+  <String index="304">
+    <ToTranslate>Айша$"Хочешь чтобы я шевелила пальцами, зачем тебе это...?"@</ToTranslate>
+  </String>
+  <String index="305">
+    <ToTranslate>chor0549</ToTranslate>
+  </String>
+  <String index="306">
+    <ToTranslate>Чёрьё$"Просто... прикоснись ко мне..."@</ToTranslate>
+  </String>
+  <String index="307">
+    <ToTranslate>aisy1181</ToTranslate>
+  </String>
+  <String index="308">
+    <ToTranslate>Айша$"Хорошо..."@</ToTranslate>
+  </String>
+  <String index="309">
+    <ToTranslate>$Айша кивнула и начала медленно проводить пальцами вдоль впадины Сии.@</ToTranslate>
+  </String>
+  <String index="310">
+    <ToTranslate>chor0550</ToTranslate>
+  </String>
+  <String index="311">
+    <ToTranslate>Чёрьё$"Аха-ах... пальцы Айши прикасаются ко мне..."@</ToTranslate>
+  </String>
+  <String index="312">
+    <ToTranslate>$Через пару секунд глаза Сии потускнели а талия затряслась. @</ToTranslate>
+  </String>
+  <String index="313">
+    <ToTranslate>aisy1182</ToTranslate>
+  </String>
+  <String index="314">
+    <ToTranslate>Айша$"Удивительно... насколько же ты мокрая..."@</ToTranslate>
+  </String>
+  <String index="315">
+    <ToTranslate>chor0551</ToTranslate>
+  </String>
+  <String index="316">
+    <ToTranslate>Чёрьё$"Разумеется... потому что я крайне счастлива, что ты согласилась делать что-то подобное..."@</ToTranslate>
+  </String>
+  <String index="317">
+    <ToTranslate>aisy1183</ToTranslate>
+  </String>
+  <String index="318">
+    <ToTranslate>Айша$"В-вот как,  я рада что могу сделать тебя счастливой..."@</ToTranslate>
+  </String>
+  <String index="319">
+    <ToTranslate>chor0552</ToTranslate>
+  </String>
+  <String index="320">
+    <ToTranslate>Чёрьё$"Я правда счастлива... ты мне веришь?"@</ToTranslate>
+  </String>
+  <String index="321">
+    <ToTranslate>aisy1184</ToTranslate>
+  </String>
+  <String index="322">
+    <ToTranslate>Айша$"...(*Да.*)"@</ToTranslate>
+  </String>
+  <String index="323">
+    <ToTranslate>chor0553</ToTranslate>
+  </String>
+  <String index="324">
+    <ToTranslate>Чёрьё$"Айша... ты поможешь мне стать ещё счастливей...?"@</ToTranslate>
+  </String>
+  <String index="325">
+    <ToTranslate>aisy1185</ToTranslate>
+  </String>
+  <String index="326">
+    <ToTranslate>Айша$"Но если у меня не получится...?"@</ToTranslate>
+  </String>
+  <String index="327">
+    <ToTranslate>chor0554</ToTranslate>
+  </String>
+  <String index="328">
+    <ToTranslate>Чёрьё$"Меня не волнует, хороша ты в этом или же нет... только от того что ты рядом, моя голова уже начинает кружиться..."@</ToTranslate>
+  </String>
+  <String index="329">
+    <ToTranslate>aisy1186</ToTranslate>
+  </String>
+  <String index="330">
+    <ToTranslate>Айша$"Аха... как и у меня."@</ToTranslate>
+  </String>
+  <String index="331">
+    <ToTranslate>$Узнав, что их чувства одинаковы, обе позволили себе расслабиться.@</ToTranslate>
+  </String>
+  <String index="332">
+    <ToTranslate>chor0555</ToTranslate>
+  </String>
+  <String index="333">
+    <ToTranslate>Чёрьё$"Эй, Айша... продолжай..."@</ToTranslate>
+  </String>
+  <String index="334">
+    <ToTranslate>aisy1187</ToTranslate>
+  </String>
+  <String index="335">
+    <ToTranslate>Айша$"Хорошо..."@</ToTranslate>
+  </String>
+  <String index="336">
+    <ToTranslate>$Айша кивнула и продолжила медленно ласкать киску Сии.@</ToTranslate>
+  </String>
+  <String index="337">
+    <ToTranslate>$Хлюп... хлюп... хлюп...@</ToTranslate>
+  </String>
+  <String index="338">
+    <ToTranslate>$Вытекающий сок издавал хлюпающий звук при каждом движении её пальцев.@</ToTranslate>
+  </String>
+  <String index="339">
+    <ToTranslate>chor0556</ToTranslate>
+  </String>
+  <String index="340">
+    <ToTranslate>Чёрьё$"Ха-а, а-а, ум-м... м-м. Айша, ты молодец..."@</ToTranslate>
+  </String>
+  <String index="341">
+    <ToTranslate>aisy1188</ToTranslate>
+  </String>
+  <String index="342">
+    <ToTranslate>Айша$"Тебе нравится...?"@</ToTranslate>
+  </String>
+  <String index="343">
+    <ToTranslate>chor0557</ToTranslate>
+  </String>
+  <String index="344">
+    <ToTranslate>Чёрьё$"Да... это очень приятно..."@</ToTranslate>
+  </String>
+  <String index="345">
+    <ToTranslate>aisy1189</ToTranslate>
+  </String>
+  <String index="346">
+    <ToTranslate>Айша$"Вот как, я рада..."@</ToTranslate>
+  </String>
+  <String index="347">
+    <ToTranslate>chor0558</ToTranslate>
+  </String>
+  <String index="348">
+    <ToTranslate>Чёрьё$"Скажи... ты хочешь, чтобы я прикоснулась к тебе?"@</ToTranslate>
+  </String>
+  <String index="349">
+    <ToTranslate>aisy1190</ToTranslate>
+  </String>
+  <String index="350">
+    <ToTranslate>Айша$"Э?"@</ToTranslate>
+  </String>
+  <String index="351">
+    <ToTranslate>chor0559</ToTranslate>
+  </String>
+  <String index="352">
+    <ToTranslate>Чёрьё$"Я чувствую как ты дрожишь... ты ведь тоже этого хочешь?"@</ToTranslate>
+  </String>
+  <String index="353">
+    <ToTranslate>aisy1191</ToTranslate>
+  </String>
+  <String index="354">
+    <ToTranslate>Айша$"Я совсем... нет...."@</ToTranslate>
+  </String>
+  <String index="355">
+    <ToTranslate>chor0560</ToTranslate>
+  </String>
+  <String index="356">
+    <ToTranslate>Чёрьё$"Правда...?"@</ToTranslate>
+  </String>
+  <String index="357">
+    <ToTranslate>aisy1192</ToTranslate>
+  </String>
+  <String index="358">
+    <ToTranslate>Айша$"........................(*нет, нет*)."@</ToTranslate>
+  </String>
+  <String index="359">
+    <ToTranslate>chor0561</ToTranslate>
+  </String>
+  <String index="360">
+    <ToTranslate>Чёрьё$"Аха, Айша вся покраснела, это так мило."@</ToTranslate>
+  </String>
+  <String index="361">
+    <ToTranslate>aisy1193</ToTranslate>
+  </String>
+  <String index="362">
+    <ToTranslate>Айша$"З-з-замолчи! Разве я виновата? Ведь сейчас мы делаем что-то совсем неподобающее..."@</ToTranslate>
+  </String>
+  <String index="363">
+    <ToTranslate>chor0562</ToTranslate>
+  </String>
+  <String index="364">
+    <ToTranslate>Чёрьё$"Именно, и это вполне естественно. Ведь любая женщина должна была возбудиться, да?"@</ToTranslate>
+  </String>
+  <String index="365">
+    <ToTranslate>aisy1194</ToTranslate>
+  </String>
+  <String index="366">
+    <ToTranslate>Айша$"...(*да.*)"@</ToTranslate>
+  </String>
+  <String index="367">
+    <ToTranslate>chor0563</ToTranslate>
+  </String>
+  <String index="368">
+    <ToTranslate>Чёрьё$"Значит... мне можно коснуться тебя?"@</ToTranslate>
+  </String>
+  <String index="369">
+    <ToTranslate>aisy1195</ToTranslate>
+  </String>
+  <String index="370">
+    <ToTranslate>Айша$"Хорошо... я хочу, чтобы ты тоже прикоснулась ко мне..."@</ToTranslate>
+  </String>
+  <String index="371">
+    <ToTranslate>chor0564</ToTranslate>
+  </String>
+  <String index="372">
+    <ToTranslate>Чёрьё$"Хорошо, я доставлю тебе удовольствие чтобы ты могла почувствовать мою любовь."@</ToTranslate>
+  </String>
+  <String index="373">
+    <ToTranslate>chor0565</ToTranslate>
+  </String>
+  <String index="374">
+    <ToTranslate>Чёрьё$"Тогда... давай же обе насладимся происходящим."@</ToTranslate>
+  </String>
+  <String index="375">
+    <ToTranslate>$Сия сунула руку Айше под юбку и начала усиленно шарить под ней.@</ToTranslate>
+  </String>
+  <String index="376">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="377">
+    <ToTranslate>ecg_cry02c</ToTranslate>
+  </String>
+  <String index="378">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="379">
+    <ToTranslate>aisy1196</ToTranslate>
+  </String>
+  <String index="380">
+    <ToTranslate>Айша$"Уа-а... хм-м..."@</ToTranslate>
+  </String>
+  <String index="381">
+    <ToTranslate>chor0566</ToTranslate>
+  </String>
+  <String index="382">
+    <ToTranslate>Чёрьё$"Айша, ты тоже на удивление мокрая..."@</ToTranslate>
+  </String>
+  <String index="383">
+    <ToTranslate>aisy1197</ToTranslate>
+  </String>
+  <String index="384">
+    <ToTranslate>Айша$"Не так громко... прошу..."@</ToTranslate>
+  </String>
+  <String index="385">
+    <ToTranslate>chor0567</ToTranslate>
+  </String>
+  <String index="386">
+    <ToTranslate>Чёрьё$"Скажи... ты намокла от прикосновений ко мне?"@</ToTranslate>
+  </String>
+  <String index="387">
+    <ToTranslate>aisy1198</ToTranslate>
+  </String>
+  <String index="388">
+    <ToTranslate>Айша$"Да..."@</ToTranslate>
+  </String>
+  <String index="389">
+    <ToTranslate>chor0568</ToTranslate>
+  </String>
+  <String index="390">
+    <ToTranslate>Чёрьё$"............а-а-а-а-а! Т-ты не представляешь, какое же блаженство я испытываю прямо сейчас!" @</ToTranslate>
+  </String>
+  <String index="391">
+    <ToTranslate>chor0569</ToTranslate>
+  </String>
+  <String index="392">
+    <ToTranslate>Чёрьё$"Потому что Айша... сама Айша возбудилась из-за меня...!"@</ToTranslate>
+  </String>
+  <String index="393">
+    <ToTranslate>aisy1199</ToTranslate>
+  </String>
+  <String index="394">
+    <ToTranslate>Айша$"Стой, Сия! Не так громко!"@</ToTranslate>
+  </String>
+  <String index="395">
+    <ToTranslate>chor0570</ToTranslate>
+  </String>
+  <String index="396">
+    <ToTranslate>Чёрьё$"Ой... прости... возможно, я слишком завелась..."@</ToTranslate>
+  </String>
+  <String index="397">
+    <ToTranslate>aisy1200</ToTranslate>
+  </String>
+  <String index="398">
+    <ToTranslate>Айша$"И не смей говорить о настолько смущающем так громко..."@</ToTranslate>
+  </String>
+  <String index="399">
+    <ToTranslate>chor0571</ToTranslate>
+  </String>
+  <String index="400">
+    <ToTranslate>Чёрьё$"Лады... сделаем всё по-тихому."@</ToTranslate>
+  </String>
+  <String index="401">
+    <ToTranslate>aisy1201</ToTranslate>
+  </String>
+  <String index="402">
+    <ToTranslate>Айша$"...(*да.*)"@</ToTranslate>
+  </String>
+  <String index="403">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="404">
+    <ToTranslate>ecg_cry02d</ToTranslate>
+  </String>
+  <String index="405">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="406">
+    <ToTranslate>$Айша кивнула, и вновь принялась двигать пальцами.@</ToTranslate>
+  </String>
+  <String index="407">
+    <ToTranslate>chor0572</ToTranslate>
+  </String>
+  <String index="408">
+    <ToTranslate>Чёрьё$"Ум-м... у-у, м-м... Айша, мне так хорошо..."@</ToTranslate>
+  </String>
+  <String index="409">
+    <ToTranslate>aisy1202</ToTranslate>
+  </String>
+  <String index="410">
+    <ToTranslate>Айша$"Сия... мне тоже...."@</ToTranslate>
+  </String>
+  <String index="411">
+    <ToTranslate>chor0573</ToTranslate>
+  </String>
+  <String index="412">
+    <ToTranslate>Чёрьё$"Да..."@</ToTranslate>
+  </String>
+  <String index="413">
+    <ToTranslate>$Сия начала щупать киску Айши прямо через одежду.@</ToTranslate>
+  </String>
+  <String index="414">
+    <ToTranslate>aisy1203</ToTranslate>
+  </String>
+  <String index="415">
+    <ToTranslate>Айша$"А-а... а... а-а... Сия, сильнее..."@</ToTranslate>
+  </String>
+  <String index="416">
+    <ToTranslate>chor0574</ToTranslate>
+  </String>
+  <String index="417">
+    <ToTranslate>Чёрьё$"Хе-хе... Айши, вижу там у тебя всё затвердело."@</ToTranslate>
+  </String>
+  <String index="418">
+    <ToTranslate>$Ехидно улыбнувшись, Сия с усердием сосредоточилась на небольшом выступе в трусиках Айши.@</ToTranslate>
+  </String>
+  <String index="419">
+    <ToTranslate>aisy1204</ToTranslate>
+  </String>
+  <String index="420">
+    <ToTranslate>Айша$"Уа-а! Ум-м, это... м-м...слишком--"@</ToTranslate>
+  </String>
+  <String index="421">
+    <ToTranslate>chor0575</ToTranslate>
+  </String>
+  <String index="422">
+    <ToTranslate>Чёрьё$"Приятно?"@</ToTranslate>
+  </String>
+  <String index="423">
+    <ToTranslate>aisy1205</ToTranslate>
+  </String>
+  <String index="424">
+    <ToTranslate>Айша$"...(*да.*)"@</ToTranslate>
+  </String>
+  <String index="425">
+    <ToTranslate>chor0576</ToTranslate>
+  </String>
+  <String index="426">
+    <ToTranslate>Чёрьё$"Ты ведь заметила что и моя точно такая же...?"@</ToTranslate>
+  </String>
+  <String index="427">
+    <ToTranslate>aisy1206</ToTranslate>
+  </String>
+  <String index="428">
+    <ToTranslate>Айша$"Ха-а... у тебя внизу он совсем твёрдый..."@</ToTranslate>
+  </String>
+  <String index="429">
+    <ToTranslate>$Дёрг...@</ToTranslate>
+  </String>
+  <String index="430">
+    <ToTranslate>chor0577</ToTranslate>
+  </String>
+  <String index="431">
+    <ToTranslate>Чёрьё$"Аха-а-а! А-а...а, а-а... Айша, похоже ты тоже кое-что можешь."@</ToTranslate>
+  </String>
+  <String index="432">
+    <ToTranslate>aisy1207</ToTranslate>
+  </String>
+  <String index="433">
+    <ToTranslate>Айша$"Аха... я просто не люблю односторонние атаки."@</ToTranslate>
+  </String>
+  <String index="434">
+    <ToTranslate>chor0578</ToTranslate>
+  </String>
+  <String index="435">
+    <ToTranslate>Чёрьё$"Значит мы обе здесь жертвы, а?" @</ToTranslate>
+  </String>
+  <String index="436">
+    <ToTranslate>aisy1208</ToTranslate>
+  </String>
+  <String index="437">
+    <ToTranslate>Айша$"Иногда делать что-то такого рода совсем не плохо... но если только с тобой, Сия..."@</ToTranslate>
+  </String>
+  <String index="438">
+    <ToTranslate>chor0579</ToTranslate>
+  </String>
+  <String index="439">
+    <ToTranslate>Чёрьё$"Я так рада, что уже не контролирую свои выделения..."@</ToTranslate>
+  </String>
+  <String index="440">
+    <ToTranslate>aisy1209</ToTranslate>
+  </String>
+  <String index="441">
+    <ToTranslate>Айша$"Похоже на то. Они просто текут вниз и уже добрались до моего запястья."@</ToTranslate>
+  </String>
+  <String index="442">
+    <ToTranslate>chor0580</ToTranslate>
+  </String>
+  <String index="443">
+    <ToTranslate>Чёрьё$"Как и твои, Айша. Скажи, ты ведь слышишь этот звук...?"@</ToTranslate>
+  </String>
+  <String index="444">
+    <ToTranslate>$Сия принялась сильно массировать киску Айши всеми пальцами сразу.@</ToTranslate>
+  </String>
+  <String index="445">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="446">
+    <ToTranslate>ecg_cry02e</ToTranslate>
+  </String>
+  <String index="447">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="448">
+    <ToTranslate>$Хлюп, хлюп, хлюп...@</ToTranslate>
+  </String>
+  <String index="449">
+    <ToTranslate>$Под влиянием пальцев Сии с каждым движением киска Айши выдаёт мягкий, водянистый звук.@</ToTranslate>
+  </String>
+  <String index="450">
+    <ToTranslate>aisy1210</ToTranslate>
+  </String>
+  <String index="451">
+    <ToTranslate>Айша$"Ха-а..."@</ToTranslate>
+  </String>
+  <String index="452">
+    <ToTranslate>chor0581</ToTranslate>
+  </String>
+  <String index="453">
+    <ToTranslate>Чёрьё$"Ты действительно возбудилась. Как знать, возможно, ты всегда становишься влажной, если к тебе прикасается другая девушка."@</ToTranslate>
+  </String>
+  <String index="454">
+    <ToTranslate>aisy1211</ToTranslate>
+  </String>
+  <String index="455">
+    <ToTranslate>Айша$"Нет... я... не такая!"@</ToTranslate>
+  </String>
+  <String index="456">
+    <ToTranslate>chor0582</ToTranslate>
+  </String>
+  <String index="457">
+    <ToTranslate>Чёрьё$"Но, сама посмотри... твои трусы уже полностью промокли..."@</ToTranslate>
+  </String>
+  <String index="458">
+    <ToTranslate>aisy1212</ToTranslate>
+  </String>
+  <String index="459">
+    <ToTranslate>Айша$"Уа-а, а-а-а... всё потому... что ты давишь на меня слишком сильно..."@</ToTranslate>
+  </String>
+  <String index="460">
+    <ToTranslate>chor0583</ToTranslate>
+  </String>
+  <String index="461">
+    <ToTranslate>Чёрьё$"Эхе-хе. Айша ты прелесть... у меня прямо всё тело дрожит..."@</ToTranslate>
+  </String>
+  <String index="462">
+    <ToTranslate>$Сия загадочно улыбнулась.@</ToTranslate>
+  </String>
+  <String index="463">
+    <ToTranslate>chor0584</ToTranslate>
+  </String>
+  <String index="464">
+    <ToTranslate>Чёрьё$"Может получим удовольствие вместе...?"@</ToTranslate>
+  </String>
+  <String index="465">
+    <ToTranslate>$Сия лизнула ухо Айши.@</ToTranslate>
+  </String>
+  <String index="466">
+    <ToTranslate>aisy1213</ToTranslate>
+  </String>
+  <String index="467">
+    <ToTranslate>Айша$"А-а-а... давай кончим вместе... Сия..."@</ToTranslate>
+  </String>
+  <String index="468">
+    <ToTranslate>chor0585</ToTranslate>
+  </String>
+  <String index="469">
+    <ToTranslate>Чёрьё$"Угу..."@</ToTranslate>
+  </String>
+  <String index="470">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="471">
+    <ToTranslate>ecg_cry02f</ToTranslate>
+  </String>
+  <String index="472">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="473">
+    <ToTranslate>$Обе кивнули, и перевели внимание на свои пальцы.@</ToTranslate>
+  </String>
+  <String index="474">
+    <ToTranslate>$Своими тонкими пальцами Айша нежно тёрла расщелину Сии.@</ToTranslate>
+  </String>
+  <String index="475">
+    <ToTranslate>$А сама Сия двигала пальцами уже внутри Айши.@</ToTranslate>
+  </String>
+  <String index="476">
+    <ToTranslate>$Обе дёргались и стонали под действием пальцев друг друга.@</ToTranslate>
+  </String>
+  <String index="477">
+    <ToTranslate>aisy1214</ToTranslate>
+  </String>
+  <String index="478">
+    <ToTranslate>Айша$"Ха-а, а-а... а-а-а, Сия... сильнее..."@</ToTranslate>
+  </String>
+  <String index="479">
+    <ToTranslate>chor0586</ToTranslate>
+  </String>
+  <String index="480">
+    <ToTranslate>Чёрьё$"Ум-м... ум, м-м-м, м-м... Айша... Айша..."@</ToTranslate>
+  </String>
+  <String index="481">
+    <ToTranslate>$Они радуются вожделению друг дружки даже больше чем их собственным стонам. @</ToTranslate>
+  </String>
+  <String index="482">
+    <ToTranslate>$Обе ещё увереннее двигают пальцами, тая от восхищения в объятиях друг друга.@</ToTranslate>
+  </String>
+  <String index="483">
+    <ToTranslate>$Обе бессознательно начинают двигать талиями чтобы усилить собственные ощущения.@</ToTranslate>
+  </String>
+  <String index="484">
+    <ToTranslate>aisy1215</ToTranslate>
+  </String>
+  <String index="485">
+    <ToTranslate>Айша$"Ха-а, а-а, а-а... а-а, сильнее... ещё сильнее, Сия..."@</ToTranslate>
+  </String>
+  <String index="486">
+    <ToTranslate>chor0587</ToTranslate>
+  </String>
+  <String index="487">
+    <ToTranslate>Чёрьё$"Да... и ты тоже, Айша... а-а-а... двигай сильнее..."@</ToTranslate>
+  </String>
+  <String index="488">
+    <ToTranslate>$Пуская слюни в экстазе, обе прижались друг к другу в приближающейся кульминации.@</ToTranslate>
+  </String>
+  <String index="489">
+    <ToTranslate>aisy1216</ToTranslate>
+  </String>
+  <String index="490">
+    <ToTranslate>Айша$"Уа-а, а-а, а-а, а-а... Сия... а-а, а-а-а, Сия..."@</ToTranslate>
+  </String>
+  <String index="491">
+    <ToTranslate>chor0588</ToTranslate>
+  </String>
+  <String index="492">
+    <ToTranslate>Чёрьё$"Айша, а-а-а, люблю... а-а, а-а... я люблю тебя... уа-а!"@</ToTranslate>
+  </String>
+  <String index="493">
+    <ToTranslate>aisy1217</ToTranslate>
+  </String>
+  <String index="494">
+    <ToTranslate>Айша$"Ум-м, хватит... я... м-м, м-м... скоро.... кончу...!"@</ToTranslate>
+  </String>
+  <String index="495">
+    <ToTranslate>chor0589</ToTranslate>
+  </String>
+  <String index="496">
+    <ToTranslate>Чёрьё$"Аха-а... я тоже... хм, а-а... вместе... давай сделаем это вместе, идёт?"@</ToTranslate>
+  </String>
+  <String index="497">
+    <ToTranslate>aisy1218</ToTranslate>
+  </String>
+  <String index="498">
+    <ToTranslate>Айша$"Согласна... Сия, вместе...!"@</ToTranslate>
+  </String>
+  <String index="499">
+    <ToTranslate>chor0590</ToTranslate>
+  </String>
+  <String index="500">
+    <ToTranslate>Чёрьё$"О да... я так рада... хм-м... Айша, двигай сильнее...!"@</ToTranslate>
+  </String>
+  <String index="501">
+    <ToTranslate>aisy1219</ToTranslate>
+  </String>
+  <String index="502">
+    <ToTranslate>Айша$"И ты, Сия... ум-м, сильнее...!"@</ToTranslate>
+  </String>
+  <String index="503">
+    <ToTranslate>chor0591</ToTranslate>
+  </String>
+  <String index="504">
+    <ToTranslate>Чёрьё$"А-а, м-мм, а-а-а, кончаю... я кончаю...!"@</ToTranslate>
+  </String>
+  <String index="505">
+    <ToTranslate>aisy1220</ToTranslate>
+  </String>
+  <String index="506">
+    <ToTranslate>Айша$"Уа-а, а-а, а-а, Сия... я тоже кончаю... кончаю...!"@</ToTranslate>
+  </String>
+  <String index="507">
+    <ToTranslate>chor0592</ToTranslate>
+  </String>
+  <String index="508">
+    <ToTranslate>Чёрьё$"Уа, а-а, а-а, а-а-а...!"@</ToTranslate>
+  </String>
+  <String index="509">
+    <ToTranslate>aisy1221</ToTranslate>
+  </String>
+  <String index="510">
+    <ToTranslate>Айша$"Ум, м-м, м-м, ум-м!"@</ToTranslate>
+  </String>
+  <String index="511">
+    <ToTranslate>gousei0007</ToTranslate>
+  </String>
+  <String index="512">
+    <ToTranslate>gousei0007</ToTranslate>
+  </String>
+  <String index="513">
+    <ToTranslate>Айша & Чёрьё$"Уа, а-а, а-а-а... кончаю.... а-а, кончаю!"@</ToTranslate>
+  </String>
+  <String index="514">
+    <ToTranslate>flash</ToTranslate>
+  </String>
+  <String index="515">
+    <ToTranslate>gousei0008</ToTranslate>
+  </String>
+  <String index="516">
+    <ToTranslate>gousei0008</ToTranslate>
+  </String>
+  <String index="517">
+    <ToTranslate>Айша & Чёрьё$"Уа-а! Аха-а! Хм! М-м-м!"@</ToTranslate>
+  </String>
+  <String index="518">
+    <ToTranslate>$Они обе застонали и дёрнулись в одно и то же время.@</ToTranslate>
+  </String>
+  <String index="519">
+    <ToTranslate>gousei0009</ToTranslate>
+  </String>
+  <String index="520">
+    <ToTranslate>gousei0009</ToTranslate>
+  </String>
+  <String index="521">
+    <ToTranslate>Айша & Чёрьё$"Хи-и! Хм-м... у-у-у... ха-а-а-а..."@</ToTranslate>
+  </String>
+  <String index="522">
+    <ToTranslate>chor0596</ToTranslate>
+  </String>
+  <String index="523">
+    <ToTranslate>Чёрьё$"Хе, а-а-а.... ха, а-а-а... а-а, а-а, а-а... я... я кончила... ты заставила меня кончить, Айша..."@</ToTranslate>
+  </String>
+  <String index="524">
+    <ToTranslate>aisy1225</ToTranslate>
+  </String>
+  <String index="525">
+    <ToTranslate>Чёрьё$"У-у, а-ах... ха-а, а-а-а... ты тоже заставила меня кончить... Сия..."@</ToTranslate>
+  </String>
+  <String index="526">
+    <ToTranslate>gousei0010</ToTranslate>
+  </String>
+  <String index="527">
+    <ToTranslate>gousei0010</ToTranslate>
+  </String>
+  <String index="528">
+    <ToTranslate>Айша & Чёрьё$"Аха-а... а-а... фух..."@</ToTranslate>
+  </String>
+  <String index="529">
+    <ToTranslate>chor0598</ToTranslate>
+  </String>
+  <String index="530">
+    <ToTranslate>Чёрьё$"Хе... Айша, это было приятно?" @</ToTranslate>
+  </String>
+  <String index="531">
+    <ToTranslate>aisy1227</ToTranslate>
+  </String>
+  <String index="532">
+    <ToTranslate>Айша$"Фух... да, было очень приятно, Сия."@</ToTranslate>
+  </String>
+  <String index="533">
+    <ToTranslate>chor0599</ToTranslate>
+  </String>
+  <String index="534">
+    <ToTranslate>Чёрьё$"Аха... вот и хорошо... хе-хе... я самая счастливая девушка на свете..."@</ToTranslate>
+  </String>
+  <String index="535">
+    <ToTranslate>aisy1228</ToTranslate>
+  </String>
+  <String index="536">
+    <ToTranslate>Айша$"Оттого что заставила меня кончить...?"@</ToTranslate>
+  </String>
+  <String index="537">
+    <ToTranslate>chor0600</ToTranslate>
+  </String>
+  <String index="538">
+    <ToTranslate>Чёрьё$"Ну это тоже, но... но главное что я смогла кончить вдыхая аромат человека которого я люблю... я так счастлива..."@</ToTranslate>
+  </String>
+  <String index="539">
+    <ToTranslate>aisy1229</ToTranslate>
+  </String>
+  <String index="540">
+    <ToTranslate>Айша$"Аха-ха... в этом я согласна с тобой, Сия..."@</ToTranslate>
+  </String>
+  <String index="541">
+    <ToTranslate>chor0601</ToTranslate>
+  </String>
+  <String index="542">
+    <ToTranslate>Чёрьё$"Айша, я тебя очень люблю..."@</ToTranslate>
+  </String>
+  <String index="543">
+    <ToTranslate>aisy1230</ToTranslate>
+  </String>
+  <String index="544">
+    <ToTranslate>Айша$"Спасибо... я тоже тебя люблю, Сия..."@</ToTranslate>
+  </String>
+  <String index="545">
+    <ToTranslate>chor0602</ToTranslate>
+  </String>
+  <String index="546">
+    <ToTranslate>Чёрьё$"Айша... м-м... *чмок... поцелуй*, хм-м."@</ToTranslate>
+  </String>
+  <String index="547">
+    <ToTranslate>aisy1231</ToTranslate>
+  </String>
+  <String index="548">
+    <ToTranslate>Айша$"Сия... м-м-м... *поцелуй... поцелуй*, ум-м."@</ToTranslate>
+  </String>
+  <String index="549">
+    <ToTranslate>$В наслаждении случившегося обе начали пристрастно целоваться...@</ToTranslate>
+  </String>
+  <String index="550">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="551">
+    <ToTranslate>bb</ToTranslate>
+  </String>
+  <String index="552">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="553">
+    <ToTranslate>bb</ToTranslate>
+  </String>
+  <String index="554">
+    <ToTranslate>bcg_castgurden_a</ToTranslate>
+  </String>
+  <String index="555">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="556">
+    <ToTranslate>bgm26</ToTranslate>
+  </String>
+  <String index="557">
+    <ToTranslate>tcg_cry21da</ToTranslate>
+  </String>
+  <String index="558">
+    <ToTranslate>tcg_cry21m</ToTranslate>
+  </String>
+  <String index="559">
+    <ToTranslate>chor0603</ToTranslate>
+  </String>
+  <String index="560">
+    <ToTranslate>Чёрьё$"Вот это да... до чего же получилась хорошая тренировка!"@</ToTranslate>
+  </String>
+  <String index="561">
+    <ToTranslate>tcg_kan31ga</ToTranslate>
+  </String>
+  <String index="562">
+    <ToTranslate>tcg_kan31m</ToTranslate>
+  </String>
+  <String index="563">
+    <ToTranslate>aisy1232</ToTranslate>
+  </String>
+  <String index="564">
+    <ToTranslate>Айша$"Не говори глупостей! И не говори об этом так громко... это смущает."@</ToTranslate>
+  </String>
+  <String index="565">
+    <ToTranslate>chor0604</ToTranslate>
+  </String>
+  <String index="566">
+    <ToTranslate>Чёрьё$"Эхе-хе, прости. Но в такие моменты я не в силах молчат о своих чувствах."@</ToTranslate>
+  </String>
+  <String index="567">
+    <ToTranslate>tcg_kan31ja</ToTranslate>
+  </String>
+  <String index="568">
+    <ToTranslate>tcg_kan31m</ToTranslate>
+  </String>
+  <String index="569">
+    <ToTranslate>aisy1233</ToTranslate>
+  </String>
+  <String index="570">
+    <ToTranslate>Айша$"Ну ты даёшь... совсем как ребёнок."@</ToTranslate>
+  </String>
+  <String index="571">
+    <ToTranslate>Казуто$"О, Айша, наконец-то я тебя встретил.... я как раз искал тебя."@</ToTranslate>
+  </String>
+  <String index="572">
+    <ToTranslate>tcg_kan11aa</ToTranslate>
+  </String>
+  <String index="573">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="574">
+    <ToTranslate>aisy1234</ToTranslate>
+  </String>
+  <String index="575">
+    <ToTranslate>Айша$"Господин. Что вам от меня нужно - хм?"@</ToTranslate>
+  </String>
+  <String index="576">
+    <ToTranslate>Казуто$"Ум? Что не так? Чего вы так на меня смотрите... с моим лицом что-то не так?"@</ToTranslate>
+  </String>
+  <String index="577">
+    <ToTranslate>tcg_kan11ea</ToTranslate>
+  </String>
+  <String index="578">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="579">
+    <ToTranslate>bgm18</ToTranslate>
+  </String>
+  <String index="580">
+    <ToTranslate>aisy1235</ToTranslate>
+  </String>
+  <String index="581">
+    <ToTranslate>Айша$"Да..."@</ToTranslate>
+  </String>
+  <String index="582">
+    <ToTranslate>$По каким то причинам её голос оказался крайне враждебным.@</ToTranslate>
+  </String>
+  <String index="583">
+    <ToTranslate>Казуто$"Э? Э-э? Да в чём дело?"@</ToTranslate>
+  </String>
+  <String index="584">
+    <ToTranslate>tcg_cry21ea</ToTranslate>
+  </String>
+  <String index="585">
+    <ToTranslate>tcg_cry21m</ToTranslate>
+  </String>
+  <String index="586">
+    <ToTranslate>chor0605</ToTranslate>
+  </String>
+  <String index="587">
+    <ToTranslate>Чёрьё$"Господин вы..."@</ToTranslate>
+  </String>
+  <String index="588">
+    <ToTranslate>Казуто$"Что?"@</ToTranslate>
+  </String>
+  <String index="589">
+    <ToTranslate>tcg_cry21ga</ToTranslate>
+  </String>
+  <String index="590">
+    <ToTranslate>tcg_cry21m</ToTranslate>
+  </String>
+  <String index="591">
+    <ToTranslate>chor0606</ToTranslate>
+  </String>
+  <String index="592">
+    <ToTranslate>Чёрьё$"......никто не любит когда за ним подглядывают."@</ToTranslate>
+  </String>
+  <String index="593">
+    <ToTranslate>Казуто$"...!? Н-нет, я никогда! Правда! Клянусь! Честно!"@</ToTranslate>
+  </String>
+  <String index="594">
+    <ToTranslate>tcg_kan31ha</ToTranslate>
+  </String>
+  <String index="595">
+    <ToTranslate>tcg_kan31m</ToTranslate>
+  </String>
+  <String index="596">
+    <ToTranslate>aisy1236</ToTranslate>
+  </String>
+  <String index="597">
+    <ToTranslate>Айша$"Вот как, тогда откуда у вас та красная струйка под носом?"@</ToTranslate>
+  </String>
+  <String index="598">
+    <ToTranslate>Казуто$"Что!?"@</ToTranslate>
+  </String>
+  <String index="599">
+    <ToTranslate>$В панике я закрыл нос руками. @</ToTranslate>
+  </String>
+  <String index="600">
+    <ToTranslate>Казуто$"Га-а!?"@</ToTranslate>
+  </String>
+  <String index="601">
+    <ToTranslate>$Сперва я почувствовал что-то липкое на своих руках, и после заметил его цвет – ярко красный...@</ToTranslate>
+  </String>
+  <String index="602">
+    <ToTranslate>tcg_kan11sa</ToTranslate>
+  </String>
+  <String index="603">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="604">
+    <ToTranslate>aisy1237</ToTranslate>
+  </String>
+  <String index="605">
+    <ToTranslate>Айша$"Вы определённо подглядывали..."@</ToTranslate>
+  </String>
+  <String index="606">
+    <ToTranslate>Казуто$"П-постой! Я ведь не специально, я случайно проходил мимо и--" @</ToTranslate>
+  </String>
+  <String index="607">
+    <ToTranslate>tcg_kan11wa</ToTranslate>
+  </String>
+  <String index="608">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="609">
+    <ToTranslate>aisy1238</ToTranslate>
+  </String>
+  <String index="610">
+    <ToTranslate>Айша$"Никаких оправданий! Я накажу вас за нарушение таинства девичьего удовольствия! Готовьтесь!"@</ToTranslate>
+  </String>
+  <String index="611">
+    <ToTranslate>Казуто$"Стой, стой! Да послушай меня--"@</ToTranslate>
+  </String>
+  <String index="612">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="613">
+    <ToTranslate>tcg_kan91aa</ToTranslate>
+  </String>
+  <String index="614">
+    <ToTranslate>tcg_kan91m</ToTranslate>
+  </String>
+  <String index="615">
+    <ToTranslate>aisy1239</ToTranslate>
+  </String>
+  <String index="616">
+    <ToTranslate>Айша$"Приговор!"@</ToTranslate>
+  </String>
+  <String index="617">
+    <ToTranslate>battle_kesa2</ToTranslate>
+  </String>
+  <String index="618">
+    <ToTranslate>SE092</ToTranslate>
+  </String>
+  <String index="619">
+    <ToTranslate>yure_t</ToTranslate>
+  </String>
+  <String index="620">
+    <ToTranslate>yure_r</ToTranslate>
+  </String>
+  <String index="621">
+    <ToTranslate>Казуто$"Ар-р-р-р-р!"@</ToTranslate>
+  </String>
+  <String index="622">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="623">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+</DBS>
+
+
+</poem>
+[[Koihime Musou/Прогресс перевода/Сюжет|[Назад]]]

@@ -1,0 +1,480 @@
+<poem>
+<?xml version="1.0" encoding="UTF-8"?>
+<DBS>
+  <String index="0">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="1">
+    <ToTranslate>bcg_heroroom_a</ToTranslate>
+  </String>
+  <String index="2">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="3">
+    <ToTranslate>bgm02</ToTranslate>
+  </String>
+  <String index="4">
+    <ToTranslate>$Сегодня самый обычный день, и я как обычно просматриваю груды документов (вопреки моим собственным желаниям) с утра до ночи. Но сегодня пару часов назад у меня был гость.@</ToTranslate>
+  </String>
+  <String index="5">
+    <ToTranslate>$Редко когда мне удаётся ощутить тревогу и радость одновременно.@</ToTranslate>
+  </String>
+  <String index="6">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="7">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="8">
+    <ToTranslate>dd</ToTranslate>
+  </String>
+  <String index="9">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="10">
+    <ToTranslate>dd</ToTranslate>
+  </String>
+  <String index="11">
+    <ToTranslate>bcg_heroroom_a</ToTranslate>
+  </String>
+  <String index="12">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="13">
+    <ToTranslate>tcg_syo21ja</ToTranslate>
+  </String>
+  <String index="14">
+    <ToTranslate>tcg_syo21m</ToTranslate>
+  </String>
+  <String index="15">
+    <ToTranslate>syur1779</ToTranslate>
+  </String>
+  <String index="16">
+    <ToTranslate>Шури$"Фух... простите, Господин, можно мне где-нибудь сесть?"@</ToTranslate>
+  </String>
+  <String index="17">
+    <ToTranslate>tcg_syo11aa</ToTranslate>
+  </String>
+  <String index="18">
+    <ToTranslate>tcg_syo11m</ToTranslate>
+  </String>
+  <String index="19">
+    <ToTranslate>syur1780</ToTranslate>
+  </String>
+  <String index="20">
+    <ToTranslate>Шури$"У меня есть несколько накопившихся вопросов к вам и я хотела бы их обсудить."@</ToTranslate>
+  </String>
+  <String index="21">
+    <ToTranslate>$Шури принесла с собой настолько огромную стопку бумаг что и сама еле удерживает их в руках.@</ToTranslate>
+  </String>
+  <String index="22">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="23">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="24">
+    <ToTranslate>dd</ToTranslate>
+  </String>
+  <String index="25">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="26">
+    <ToTranslate>dd</ToTranslate>
+  </String>
+  <String index="27">
+    <ToTranslate>bcg_heroroom_a</ToTranslate>
+  </String>
+  <String index="28">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="29">
+    <ToTranslate>bgm03</ToTranslate>
+  </String>
+  <String index="30">
+    <ToTranslate>Казуто$"...н-да."@</ToTranslate>
+  </String>
+  <String index="31">
+    <ToTranslate>$Не стоит сейчас сильно перевозбуждаться только от одной мысли что мы с ней одни в комнате.@</ToTranslate>
+  </String>
+  <String index="32">
+    <ToTranslate>$Прошло уже несколько часов с тех пор как мы начали рассматривать их содержимое.@</ToTranslate>
+  </String>
+  <String index="33">
+    <ToTranslate>tcg_syo41ea</ToTranslate>
+  </String>
+  <String index="34">
+    <ToTranslate>tcg_syo41m</ToTranslate>
+  </String>
+  <String index="35">
+    <ToTranslate>syur1781</ToTranslate>
+  </String>
+  <String index="36">
+    <ToTranslate>Шури$"Думаю, это всё на сегодня... да, эти цифры в налоговых поступлениях и растратах вполне ожидаемы." @</ToTranslate>
+  </String>
+  <String index="37">
+    <ToTranslate>Казуто$"Х-хорошо... спасибо."@</ToTranslate>
+  </String>
+  <String index="38">
+    <ToTranslate>$Сомневаюсь что смогу их запомнить, на ярком солнечном свете из моего окна я фокусируюсь намного лучше.@</ToTranslate>
+  </String>
+  <String index="39">
+    <ToTranslate>tcg_syo11aa</ToTranslate>
+  </String>
+  <String index="40">
+    <ToTranslate>tcg_syo11m</ToTranslate>
+  </String>
+  <String index="41">
+    <ToTranslate>onpu</ToTranslate>
+  </String>
+  <String index="42">
+    <ToTranslate>syur1782</ToTranslate>
+  </String>
+  <String index="43">
+    <ToTranslate>Шури$"Вы только подумайте! В этом месяце доходы значительно превзошли все расходы правительства. И это не временное явление, связанное с увеличением налогов."@</ToTranslate>
+  </String>
+  <String index="44">
+    <ToTranslate>Казуто$"Угу... ах да, кончено."@</ToTranslate>
+  </String>
+  <String index="45">
+    <ToTranslate>tcg_syo11ba</ToTranslate>
+  </String>
+  <String index="46">
+    <ToTranslate>tcg_syo11m</ToTranslate>
+  </String>
+  <String index="47">
+    <ToTranslate>syur1783</ToTranslate>
+  </String>
+  <String index="48">
+    <ToTranslate>Шури$"Да! Какое то время мы смеем надеяться на стабильный доход."@</ToTranslate>
+  </String>
+  <String index="49">
+    <ToTranslate>$Мне бы тоже следовало радоваться. Шури что-то пишет в одной из бумажек... я тоже должен не отставать. Я вытаскиваю из кучи ближайший ко мне документ.@</ToTranslate>
+  </String>
+  <String index="50">
+    <ToTranslate>Казуто$"Отчёт? Ну ка посмотрим, да, это хорошая новость."@</ToTranslate>
+  </String>
+  <String index="51">
+    <ToTranslate>tcg_syo11aa</ToTranslate>
+  </String>
+  <String index="52">
+    <ToTranslate>tcg_syo11m</ToTranslate>
+  </String>
+  <String index="53">
+    <ToTranslate>syur1784</ToTranslate>
+  </String>
+  <String index="54">
+    <ToTranslate>Шури$"Совершенно верно, благодаря вашему вмешательству и утверждению законов, купцы приезжают из множества различных мест." @</ToTranslate>
+  </String>
+  <String index="55">
+    <ToTranslate>Казуто$"Моему вмешательству...? Это точно не про меня."@</ToTranslate>
+  </String>
+  <String index="56">
+    <ToTranslate>syur1785</ToTranslate>
+  </String>
+  <String index="57">
+    <ToTranslate>Шури$"Нет же, вам не стоит быть таким скромным."@</ToTranslate>
+  </String>
+  <String index="58">
+    <ToTranslate>$А это можно принять за сарказм... очевидно же, что именно Шури напрямую причастна ко всему что случилось.@</ToTranslate>
+  </String>
+  <String index="59">
+    <ToTranslate>Казуто$"Скорее всего это вызвано законом о снижении уровня налогов который был предложен тобой."@</ToTranslate>
+  </String>
+  <String index="60">
+    <ToTranslate>tcg_syo11ba</ToTranslate>
+  </String>
+  <String index="61">
+    <ToTranslate>tcg_syo11m</ToTranslate>
+  </String>
+  <String index="62">
+    <ToTranslate>syur1786</ToTranslate>
+  </String>
+  <String index="63">
+    <ToTranslate>Шури$"Может и так, но ваша причастность сделала это возможным."@</ToTranslate>
+  </String>
+  <String index="64">
+    <ToTranslate>$Вот как...@</ToTranslate>
+  </String>
+  <String index="65">
+    <ToTranslate>$Не особо то я счастлив что наш стратег жертвует в мою пользу собственные достижения.@</ToTranslate>
+  </String>
+  <String index="66">
+    <ToTranslate>tcg_syo11aa</ToTranslate>
+  </String>
+  <String index="67">
+    <ToTranslate>tcg_syo11m</ToTranslate>
+  </String>
+  <String index="68">
+    <ToTranslate>syur1787</ToTranslate>
+  </String>
+  <String index="69">
+    <ToTranslate>Шури$"Можно с уверенностью сказать, что наша страна является крупнейшей торговой нацией на континенте. Торговцы со всех уголков приезжают именно к нам."@</ToTranslate>
+  </String>
+  <String index="70">
+    <ToTranslate>Казуто$"Да, ты уже говорила, что торговые маршруты связаны, и единожды пригасив одного – остальные также последуют за ним."@</ToTranslate>
+  </String>
+  <String index="71">
+    <ToTranslate>syur1788</ToTranslate>
+  </String>
+  <String index="72">
+    <ToTranslate>Шури$"Верно, товаров на наших рынках в изобилии, и национальный рынок станет крупномасштабное."@</ToTranslate>
+  </String>
+  <String index="73">
+    <ToTranslate>$Шури никак не перестаёт размахивать руками, даже во время разговора. Она плавно водит пером по документу, едва закончив его рассмотрение, отлаживает в сторону и берёт следующий.@</ToTranslate>
+  </String>
+  <String index="74">
+    <ToTranslate>$Что-то не чувствую что способен хоть в чём-то конкурировать с ней, и опять же, это ещё раз заставило меня осознать что-же я способен сделать как хозяин этих земель.@</ToTranslate>
+  </String>
+  <String index="75">
+    <ToTranslate>tcg_syo11ba</ToTranslate>
+  </String>
+  <String index="76">
+    <ToTranslate>tcg_syo11m</ToTranslate>
+  </String>
+  <String index="77">
+    <ToTranslate>syur1789</ToTranslate>
+  </String>
+  <String index="78">
+    <ToTranslate>Шури$"Кроме того, рынки в городах возле дворца также стали намного крупнее... хе-хе, это очень хороший знак." @</ToTranslate>
+  </String>
+  <String index="79">
+    <ToTranslate>Казуто$"Без сомнения, мы самая меркантильная нация на континенте."@</ToTranslate>
+  </String>
+  <String index="80">
+    <ToTranslate>$Я начал хлопать в ладоши.@</ToTranslate>
+  </String>
+  <String index="81">
+    <ToTranslate>$Я аплодирую Шури как тому, кто ведёт страну в правильном направлении.@</ToTranslate>
+  </String>
+  <String index="82">
+    <ToTranslate>tcg_syo11aa</ToTranslate>
+  </String>
+  <String index="83">
+    <ToTranslate>tcg_syo11m</ToTranslate>
+  </String>
+  <String index="84">
+    <ToTranslate>syur1790</ToTranslate>
+  </String>
+  <String index="85">
+    <ToTranslate>Шури$"Думаю, это продлиться ещё какое-то время, и наша национальная казна будет пополняться."@</ToTranslate>
+  </String>
+  <String index="86">
+    <ToTranslate>Казуто$"Чудненько, больше не придётся оправдываться когда Айша и Сэй будут умолять меня купить лошадей."@</ToTranslate>
+  </String>
+  <String index="87">
+    <ToTranslate>tcg_syo41ba</ToTranslate>
+  </String>
+  <String index="88">
+    <ToTranslate>tcg_syo41m</ToTranslate>
+  </String>
+  <String index="89">
+    <ToTranslate>syur1791</ToTranslate>
+  </String>
+  <String index="90">
+    <ToTranslate>Шури$"Скорее требовать, им ведь деньги нужны не для того чтобы купить пару шпилек....."@</ToTranslate>
+  </String>
+  <String index="91">
+    <ToTranslate>$Кажись Шури вспомнила о том времени когда Айша и Сэй сказали что боевые кони у нас в дефиците, и прикрыв рот, она стала хихикать.@</ToTranslate>
+  </String>
+  <String index="92">
+    <ToTranslate>Казуто$"Ну, если у нас много денег ещё не повод зазнаваться."@</ToTranslate>
+  </String>
+  <String index="93">
+    <ToTranslate>Казуто$"Почему бы не дать военным сколько они просят, а остальное пустить на собственное укрепление? Что скажешь, личный стратег?"@</ToTranslate>
+  </String>
+  <String index="94">
+    <ToTranslate>tcg_syo41aa</ToTranslate>
+  </String>
+  <String index="95">
+    <ToTranslate>tcg_syo41m</ToTranslate>
+  </String>
+  <String index="96">
+    <ToTranslate>syur1792</ToTranslate>
+  </String>
+  <String index="97">
+    <ToTranslate>Шури$"Прекрасная мысль, я немедленно составлю план действий.@<ToTranslate>
+  </String>
+  <String index="98">
+    <ToTranslate>$Шури также похлопала чтобы похвалить меня. От усталости я клоню голову назад.@</ToTranslate>
+  </String>
+  <String index="99">
+    <ToTranslate>Казуто$"Фух..."@</ToTranslate>
+  </String>
+  <String index="100">
+    <ToTranslate>$Подметив что напор Шури притих я воспользовался возможностью и растянулся меж документов.@</ToTranslate>
+  </String>
+  <String index="101">
+    <ToTranslate>tcg_syo11aa</ToTranslate>
+  </String>
+  <String index="102">
+    <ToTranslate>tcg_syo11m</ToTranslate>
+  </String>
+  <String index="103">
+    <ToTranslate>syur1793</ToTranslate>
+  </String>
+  <String index="104">
+    <ToTranslate>Шури$"Вот так, солнце уже село, спасибо за вашу помощь в этих делах."@</ToTranslate>
+  </String>
+  <String index="105">
+    <ToTranslate>Казуто$"Всегда пожалуйста, если понадобиться я готов на куда большее."@</ToTranslate>
+  </String>
+  <String index="106">
+    <ToTranslate>tcg_syo11la</ToTranslate>
+  </String>
+  <String index="107">
+    <ToTranslate>tcg_syo11m</ToTranslate>
+  </String>
+  <String index="108">
+    <ToTranslate>syur1794</ToTranslate>
+  </String>
+  <String index="109">
+    <ToTranslate>Шури$"Хе-хе, ну конечно же."@</ToTranslate>
+  </String>
+  <String index="110">
+    <ToTranslate>Казуто$"После перерыва."@</ToTranslate>
+  </String>
+  <String index="111">
+    <ToTranslate>tcg_syo11ka</ToTranslate>
+  </String>
+  <String index="112">
+    <ToTranslate>tcg_syo11m</ToTranslate>
+  </String>
+  <String index="113">
+    <ToTranslate>syur1795</ToTranslate>
+  </String>
+  <String index="114">
+    <ToTranslate>Шури$"Да! Может быть хотите чаю?"@</ToTranslate>
+  </String>
+  <String index="115">
+    <ToTranslate>$Шури последовала моему примеру.@</ToTranslate>
+  </String>
+  <String index="116">
+    <ToTranslate>$Потянувшись, она встала с бамбуковой кровати которую использовала как стул.@</ToTranslate>
+  </String>
+  <String index="117">
+    <ToTranslate>syur1796</ToTranslate>
+  </String>
+  <String index="118">
+    <ToTranslate>Шури$"Мне сегодня столько всего удалось сделать, Господин, и возможно это всё благодаря вам."@</ToTranslate>
+  </String>
+  <String index="119">
+    <ToTranslate>Казуто$"Думаешь? Может быть переедешь ко мне?" @</ToTranslate>
+  </String>
+  <String index="120">
+    <ToTranslate>$Это была просто шутка, но если бы и она была здесь то я мог бы и привыкнуть к своим нудным обязанностям.@</ToTranslate>
+  </String>
+  <String index="121">
+    <ToTranslate>tcg_syo21fa</ToTranslate>
+  </String>
+  <String index="122">
+    <ToTranslate>tcg_syo21m</ToTranslate>
+  </String>
+  <String index="123">
+    <ToTranslate>syur1797</ToTranslate>
+  </String>
+  <String index="124">
+    <ToTranslate>Шури$"Даже если это и случилось сегодня... не думаю что в будущем я смогла бы сохранить концентрацию." @</ToTranslate>
+  </String>
+  <String index="125">
+    <ToTranslate>Казуто$"Э? Чего вдруг?"@</ToTranslate>
+  </String>
+  <String index="126">
+    <ToTranslate>tcg_syo31na</ToTranslate>
+  </String>
+  <String index="127">
+    <ToTranslate>tcg_syo31m</ToTranslate>
+  </String>
+  <String index="128">
+    <ToTranslate>syur1798</ToTranslate>
+  </String>
+  <String index="129">
+    <ToTranslate>Шури$"...тюфяк."@</ToTranslate>
+  </String>
+  <String index="130">
+    <ToTranslate>$Хмм... давно же я не слышал эту фразу.@</ToTranslate>
+  </String>
+  <String index="131">
+    <ToTranslate>tcg_syo21fa</ToTranslate>
+  </String>
+  <String index="132">
+    <ToTranslate>tcg_syo21m</ToTranslate>
+  </String>
+  <String index="133">
+    <ToTranslate>syur1799</ToTranslate>
+  </String>
+  <String index="134">
+    <ToTranslate>Шури$"Господин, вы должны понимать что являетесь сильным искушением для меня, с которым приходится постоянно бороться... сегодня у меня был очень тяжёлый день!"@</ToTranslate>
+  </String>
+  <String index="135">
+    <ToTranslate>Казуто$"Что? Я тебя почти не слышу."@</ToTranslate>
+  </String>
+  <String index="136">
+    <ToTranslate>tcg_syo21ma</ToTranslate>
+  </String>
+  <String index="137">
+    <ToTranslate>tcg_syo21m</ToTranslate>
+  </String>
+  <String index="138">
+    <ToTranslate>syur1800</ToTranslate>
+  </String>
+  <String index="139">
+    <ToTranslate>Шури$"А-а! Просто мысли вслух!! Не обращайте внимания!!"@</ToTranslate>
+  </String>
+  <String index="140">
+    <ToTranslate>Казуто$"От этого мне становиться ещё любопытнее что ты хотела сказать."@</ToTranslate>
+  </String>
+  <String index="141">
+    <ToTranslate>tcg_syo21pa</ToTranslate>
+  </String>
+  <String index="142">
+    <ToTranslate>tcg_syo21m</ToTranslate>
+  </String>
+  <String index="143">
+    <ToTranslate>syur1801</ToTranslate>
+  </String>
+  <String index="144">
+    <ToTranslate>Шури$"У-у, это совершенно не важно!"@</ToTranslate>
+  </String>
+  <String index="145">
+    <ToTranslate>$Конечно же я шучу, я всё слышал... и конечно же понял что она имела в виду.@</ToTranslate>
+  </String>
+  <String index="146">
+    <ToTranslate>tcg_syo21fa</ToTranslate>
+  </String>
+  <String index="147">
+    <ToTranslate>tcg_syo21m</ToTranslate>
+  </String>
+  <String index="148">
+    <ToTranslate>syur1802</ToTranslate>
+  </String>
+  <String index="149">
+    <ToTranslate>Шури$"Я принесу чаю!"@</ToTranslate>
+  </String>
+  <String index="150">
+    <ToTranslate>SE027</ToTranslate>
+  </String>
+  <String index="151">
+    <ToTranslate>$Шури выбежала из комнаты, сложив руки я смотрю ей вслед.@</ToTranslate>
+  </String>
+  <String index="152">
+    <ToTranslate>Казуто$"...она права."@</ToTranslate>
+  </String>
+  <String index="153">
+    <ToTranslate>$Будь она напостой со мной в одной комнате я бы не смог сдержать себя, мне бы хотелось поцеловать её или потискать при каждом удобном случае.@</ToTranslate>
+  </String>
+  <String index="154">
+    <ToTranslate>$Так и до деградации в животных не далеко, хоть эта мысль мне и понравилась, но мне тоже придётся отказаться от этой затеи.@</ToTranslate>
+  </String>
+  <String index="155">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="156">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="157">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+</DBS>
+
+</poem>

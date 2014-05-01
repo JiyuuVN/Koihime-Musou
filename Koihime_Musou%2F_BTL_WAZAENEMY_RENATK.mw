@@ -1,0 +1,55 @@
+<poem>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<DBS>
+  <String index="0">
+    <Origin>�Chouryou unleashes her Ougi!@</Origin>
+    <ToTranslate>�Chouryou unleashes her Ougi!@</ToTranslate>
+  </String>
+  <String index="1">
+    <Origin>_btl_WazaE_efc</Origin>
+    <ToTranslate>_btl_WazaE_efc</ToTranslate>
+  </String>
+  <String index="2">
+    <Origin>�Shokatsuryou unleashes her Ougi as well!@</Origin>
+    <ToTranslate>�Shokatsuryou unleashes her Ougi as well!@</ToTranslate>
+  </String>
+  <String index="3">
+    <Origin>_btl_WazaP_efc</Origin>
+    <ToTranslate>_btl_WazaP_efc</ToTranslate>
+  </String>
+  <String index="4">
+    <Origin>The enemy&apos;s Ougi has been nullified!@</Origin>
+    <ToTranslate>The enemy&apos;s Ougi has been nullified!@</ToTranslate>
+  </String>
+  <String index="5">
+    <Origin>�The enemy&apos;s light infantry charges in waves!@</Origin>
+    <ToTranslate>�The enemy&apos;s light infantry charges in waves!@</ToTranslate>
+  </String>
+  <String index="6">
+    <Origin>�The enemy&apos;s heavy infantry attacks in waves!@</Origin>
+    <ToTranslate>�The enemy&apos;s heavy infantry attacks in waves!@</ToTranslate>
+  </String>
+  <String index="7">
+    <Origin>�The enemy&apos;s archers fire in waves!@</Origin>
+    <ToTranslate>�The enemy&apos;s archers fire in waves!@</ToTranslate>
+  </String>
+  <String index="8">
+    <Origin>You suffered �n</Origin>
+    <ToTranslate>You suffered �n</ToTranslate>
+  </String>
+  <String index="9">
+    <Origin>_btl_CreateStatusStrB</Origin>
+    <ToTranslate>_btl_CreateStatusStrB</ToTranslate>
+  </String>
+  <String index="10">
+    <Origin>��$</Origin>
+    <ToTranslate>��$</ToTranslate>
+  </String>
+  <String index="11">
+    <Origin>_btl_Troops_GrpChange</Origin>
+    <ToTranslate>_btl_Troops_GrpChange</ToTranslate>
+  </String>
+</DBS>
+
+</poem>

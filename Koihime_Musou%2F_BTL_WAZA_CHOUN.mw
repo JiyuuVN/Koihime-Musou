@@ -1,0 +1,43 @@
+<poem>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<DBS>
+  <String index="0">
+    <Origin>_btl_CreateStatusStrB</Origin>
+    <ToTranslate>_btl_CreateStatusStrB</ToTranslate>
+  </String>
+  <String index="1">
+    <Origin>��$</Origin>
+    <ToTranslate>��$</ToTranslate>
+  </String>
+  <String index="2">
+    <Origin>���</Origin>
+    <ToTranslate>���</ToTranslate>
+  </String>
+  <String index="3">
+    <Origin>�Chou&apos;un unleashes her Ougi!@</Origin>
+    <ToTranslate>�Chou&apos;un unleashes her Ougi!@</ToTranslate>
+  </String>
+  <String index="4">
+    <Origin>_btl_WazaP_efc</Origin>
+    <ToTranslate>_btl_WazaP_efc</ToTranslate>
+  </String>
+  <String index="5">
+    <Origin>Your light infantry charges in waves!@</Origin>
+    <ToTranslate>Your light infantry charges in waves!@</ToTranslate>
+  </String>
+  <String index="6">
+    <Origin>Your heavy infantry attacks in waves!@</Origin>
+    <ToTranslate>Your heavy infantry attacks in waves!@</ToTranslate>
+  </String>
+  <String index="7">
+    <Origin>Your archers fire in waves!@</Origin>
+    <ToTranslate>Your archers fire in waves!@</ToTranslate>
+  </String>
+  <String index="8">
+    <Origin>You killed �k</Origin>
+    <ToTranslate>You killed �k</ToTranslate>
+  </String>
+</DBS>
+
+</poem>

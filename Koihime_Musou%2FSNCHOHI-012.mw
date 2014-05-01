@@ -1,0 +1,974 @@
+<poem>
+<?xml version="1.0" encoding="UTF-8"?>
+<DBS>
+  <String index="0">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="1">
+    <ToTranslate>bcg_castgurden_a</ToTranslate>
+  </String>
+  <String index="2">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="3">
+    <ToTranslate>bgm02</ToTranslate>
+  </String>
+  <String index="4">
+    <ToTranslate>$Despite my glorious position as Grand Administrator, my actual work was fairly dull.@</ToTranslate>
+  </String>
+  <String index="5">
+    <ToTranslate>$Every day until sunset, I sat at my desk, going over reports and proposals from Aisha and Shion.@</ToTranslate>
+  </String>
+  <String index="6">
+    <ToTranslate>$The alternative was patrolling the city, though I was honestly more suited to that kind of work.@</ToTranslate>
+  </String>
+  <String index="7">
+    <ToTranslate>Kazuto$&quot;Whew, what a beautiful day... this world sure has some nice weather.&quot;@</ToTranslate>
+  </String>
+  <String index="8">
+    <ToTranslate>$PE was my favorite class in school, too. Sitting at a desk all day, trying to make sense of complicated documents, was suffocating to me.@</ToTranslate>
+  </String>
+  <String index="9">
+    <ToTranslate>$I decided that no one would hold it against me if I took a little breather. I filled my lungs with the fresh outdoor air.@</ToTranslate>
+  </String>
+  <String index="10">
+    <ToTranslate>Kazuto$&quot;Where can I find a discreet... I mean, a comfortable place to sit? I&apos;ll try the lawn.&quot;@</ToTranslate>
+  </String>
+  <String index="11">
+    <ToTranslate>$I stayed off to the side to be inconspicuous, and hunched over as I searched for the perfect spot.@</ToTranslate>
+  </String>
+  <String index="12">
+    <ToTranslate>$Taking a nap in the shade during this kind of weather was sure to re-energize me.@</ToTranslate>
+  </String>
+  <String index="13">
+    <ToTranslate>$I could hear the zealous voices of the soldiers training beyond the gate. I promised to work as hard as them...@</ToTranslate>
+  </String>
+  <String index="14">
+    <ToTranslate>$... later, anyways. For now, my eyes had caught a dazzlingly green patch of grass, a distance away. I made a beeline for it.@</ToTranslate>
+  </String>
+  <String index="15">
+    <ToTranslate>rinr1342</ToTranslate>
+  </String>
+  <String index="16">
+    <ToTranslate>Rinrin$&quot;Nyahahaha, what crazy good weather! It feels so nice!&quot;@</ToTranslate>
+  </String>
+  <String index="17">
+    <ToTranslate>sui_2033</ToTranslate>
+  </String>
+  <String index="18">
+    <ToTranslate>Sui$&quot;Don&apos;t rub me with your cheek! That tickles, h-hey! I said no!&quot;@</ToTranslate>
+  </String>
+  <String index="19">
+    <ToTranslate>rinr1343</ToTranslate>
+  </String>
+  <String index="20">
+    <ToTranslate>Rinrin$&quot;Sui&apos;s &apos;no&apos; always means &apos;yes&apos;!&quot;@</ToTranslate>
+  </String>
+  <String index="21">
+    <ToTranslate>sui_2034</ToTranslate>
+  </String>
+  <String index="22">
+    <ToTranslate>Sui$&quot;Huh? What are you talking about? Hey, s-stop that.&quot;@</ToTranslate>
+  </String>
+  <String index="23">
+    <ToTranslate>$It seemed someone else had gotten there before me, though the tree had hidden them from my sight.@</ToTranslate>
+  </String>
+  <String index="24">
+    <ToTranslate>Kazuto$&quot;Oh, am I interrupting? You seem to be getting cozy.&quot;@</ToTranslate>
+  </String>
+  <String index="25">
+    <ToTranslate>tcg_cho11aa</ToTranslate>
+  </String>
+  <String index="26">
+    <ToTranslate>tcg_cho11m</ToTranslate>
+  </String>
+  <String index="27">
+    <ToTranslate>bgm26</ToTranslate>
+  </String>
+  <String index="28">
+    <ToTranslate>rinr1344</ToTranslate>
+  </String>
+  <String index="29">
+    <ToTranslate>Rinrin$&quot;Ah, Onii-chan!&quot;@</ToTranslate>
+  </String>
+  <String index="30">
+    <ToTranslate>tcg_bac11ma</ToTranslate>
+  </String>
+  <String index="31">
+    <ToTranslate>tcg_bac11m</ToTranslate>
+  </String>
+  <String index="32">
+    <ToTranslate>sui_2035</ToTranslate>
+  </String>
+  <String index="33">
+    <ToTranslate>Sui$&quot;We are not cozy! Don&apos;t misunderstand, My Lord. Rinrin&apos;s been tagging along with me all day...&quot;@</ToTranslate>
+  </String>
+  <String index="34">
+    <ToTranslate>$Sui mumbled, trying to pretend that she was annoyed. With Rinrin&apos;s head on her chest, though, it wasn&apos;t very convincing.@</ToTranslate>
+  </String>
+  <String index="35">
+    <ToTranslate>Kazuto$&quot;Come on, there&apos;s nothing wrong with getting cozy. Are you on a break?&quot;@</ToTranslate>
+  </String>
+  <String index="36">
+    <ToTranslate>tcg_cho31ba</ToTranslate>
+  </String>
+  <String index="37">
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="38">
+    <ToTranslate>rinr1345</ToTranslate>
+  </String>
+  <String index="39">
+    <ToTranslate>Rinrin$&quot;Yep, we are.&quot;@</ToTranslate>
+  </String>
+  <String index="40">
+    <ToTranslate>tcg_bac11ba</ToTranslate>
+  </String>
+  <String index="41">
+    <ToTranslate>tcg_bac11m</ToTranslate>
+  </String>
+  <String index="42">
+    <ToTranslate>sui_2036</ToTranslate>
+  </String>
+  <String index="43">
+    <ToTranslate>Sui$&quot;We got through training our units. But what are you doing here, My Lord? Won&apos;t Aisha be angry with you?&quot;@</ToTranslate>
+  </String>
+  <String index="44">
+    <ToTranslate>Kazuto$&quot;Haha... well, I hope you won&apos;t tell on me for taking a breather.&quot;@</ToTranslate>
+  </String>
+  <String index="45">
+    <ToTranslate>tcg_cho21ia</ToTranslate>
+  </String>
+  <String index="46">
+    <ToTranslate>tcg_cho21m</ToTranslate>
+  </String>
+  <String index="47">
+    <ToTranslate>rinr1346</ToTranslate>
+  </String>
+  <String index="48">
+    <ToTranslate>Rinrin$&quot;That&apos;s right! Onii-chan hates it when you say mean stuff, Sui!&quot;@</ToTranslate>
+  </String>
+  <String index="49">
+    <ToTranslate>tcg_bac21ia</ToTranslate>
+  </String>
+  <String index="50">
+    <ToTranslate>tcg_bac21m</ToTranslate>
+  </String>
+  <String index="51">
+    <ToTranslate>sui_2037</ToTranslate>
+  </String>
+  <String index="52">
+    <ToTranslate>Sui$&quot;Huh? He didn&apos;t say that! Don&apos;t make things up!&quot;@</ToTranslate>
+  </String>
+  <String index="53">
+    <ToTranslate>tcg_cho31ia</ToTranslate>
+  </String>
+  <String index="54">
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="55">
+    <ToTranslate>rinr1347</ToTranslate>
+  </String>
+  <String index="56">
+    <ToTranslate>Rinrin$&quot;Nyahaha, you&apos;re panicking.&quot;@</ToTranslate>
+  </String>
+  <String index="57">
+    <ToTranslate>Kazuto$&quot;Don&apos;t tease her, she doesn&apos;t like it.&quot;@</ToTranslate>
+  </String>
+  <String index="58">
+    <ToTranslate>tcg_cho31ba</ToTranslate>
+  </String>
+  <String index="59">
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="60">
+    <ToTranslate>rinr1348</ToTranslate>
+  </String>
+  <String index="61">
+    <ToTranslate>Rinrin$&quot;Nyahaha, sorry!&quot;@</ToTranslate>
+  </String>
+  <String index="62">
+    <ToTranslate>tcg_bac11ma</ToTranslate>
+  </String>
+  <String index="63">
+    <ToTranslate>tcg_bac11m</ToTranslate>
+  </String>
+  <String index="64">
+    <ToTranslate>sui_2038</ToTranslate>
+  </String>
+  <String index="65">
+    <ToTranslate>Sui$&quot;Mmmm... how dare you!&quot;@</ToTranslate>
+  </String>
+  <String index="66">
+    <ToTranslate>SE003</ToTranslate>
+  </String>
+  <String index="67">
+    <ToTranslate>$Sui poked Rinrin in the forehead. Rinrin let out a agonized wail. Apparently, a mere finger was enough to penetrate her self-proclaimed &quot;body of steel.&quot;@</ToTranslate>
+  </String>
+  <String index="68">
+    <ToTranslate>tcg_cho21ja</ToTranslate>
+  </String>
+  <String index="69">
+    <ToTranslate>tcg_cho21m</ToTranslate>
+  </String>
+  <String index="70">
+    <ToTranslate>rinr1349</ToTranslate>
+  </String>
+  <String index="71">
+    <ToTranslate>Rinrin$&quot;So you&apos;re here to take a break too.&quot;@</ToTranslate>
+  </String>
+  <String index="72">
+    <ToTranslate>Kazuto$&quot;Haha, that&apos;s right. I was starting to go crazy being cooped up in that room all day.&quot;@</ToTranslate>
+  </String>
+  <String index="73">
+    <ToTranslate>tcg_cho31ba</ToTranslate>
+  </String>
+  <String index="74">
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="75">
+    <ToTranslate>rinr1350</ToTranslate>
+  </String>
+  <String index="76">
+    <ToTranslate>Rinrin$&quot;Exaaactly!&quot;@</ToTranslate>
+  </String>
+  <String index="77">
+    <ToTranslate>$Sui continued to glare at her as Rinrin lifted her head from her chest and invited me to sit down in the empty space.@</ToTranslate>
+  </String>
+  <String index="78">
+    <ToTranslate>tcg_cho11la</ToTranslate>
+  </String>
+  <String index="79">
+    <ToTranslate>tcg_cho11m</ToTranslate>
+  </String>
+  <String index="80">
+    <ToTranslate>rinr1351</ToTranslate>
+  </String>
+  <String index="81">
+    <ToTranslate>Rinrin$&quot;So take a break with Rinrin and Sui!&quot;@</ToTranslate>
+  </String>
+  <String index="82">
+    <ToTranslate>Kazuto$&quot;Okay, I think I will.&quot;@</ToTranslate>
+  </String>
+  <String index="83">
+    <ToTranslate>$Sui rolled away from the space Rinrin created for me, giving me a wide berth.@</ToTranslate>
+  </String>
+  <String index="84">
+    <ToTranslate>$Was she avoiding me? I decided not to think that way, and gratefully took a seat next to Rinrin.@</ToTranslate>
+  </String>
+  <String index="85">
+    <ToTranslate>Kazuto$&quot;Whew... it is a nice day. My body wouldn&apos;t forgive me if I didn&apos;t get a little sun on a day like this.&quot;@</ToTranslate>
+  </String>
+  <String index="86">
+    <ToTranslate>tcg_bac11aa</ToTranslate>
+  </String>
+  <String index="87">
+    <ToTranslate>tcg_bac11m</ToTranslate>
+  </String>
+  <String index="88">
+    <ToTranslate>sui_2039</ToTranslate>
+  </String>
+  <String index="89">
+    <ToTranslate>Sui$&quot;I agree, the sunlight gives us energy.&quot; @</ToTranslate>
+  </String>
+  <String index="90">
+    <ToTranslate>tcg_cho21ia</ToTranslate>
+  </String>
+  <String index="91">
+    <ToTranslate>tcg_cho21m</ToTranslate>
+  </String>
+  <String index="92">
+    <ToTranslate>rinr1352</ToTranslate>
+  </String>
+  <String index="93">
+    <ToTranslate>Rinrin$&quot;Nyahaha, that&apos;s true.&quot;@</ToTranslate>
+  </String>
+  <String index="94">
+    <ToTranslate>$Rinrin cackled and put her hands on my shoulders to hang off of me.@</ToTranslate>
+  </String>
+  <String index="95">
+    <ToTranslate>tcg_cho31ba</ToTranslate>
+  </String>
+  <String index="96">
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="97">
+    <ToTranslate>rinr1353</ToTranslate>
+  </String>
+  <String index="98">
+    <ToTranslate>Rinrin$&quot;Lie down with us, Onii-chan! Then your whole body will get the sun.&quot;@</ToTranslate>
+  </String>
+  <String index="99">
+    <ToTranslate>tcg_bac11ba</ToTranslate>
+  </String>
+  <String index="100">
+    <ToTranslate>tcg_bac11m</ToTranslate>
+  </String>
+  <String index="101">
+    <ToTranslate>sui_2040</ToTranslate>
+  </String>
+  <String index="102">
+    <ToTranslate>Sui$&quot;She&apos;s right. If you&apos;re going to take a break, you should get the most out of it.&quot;@</ToTranslate>
+  </String>
+  <String index="103">
+    <ToTranslate>Kazuto$&quot;I guess. Though if Aisha sees me, we&apos;re all in this together. No bailing out.&quot;@</ToTranslate>
+  </String>
+  <String index="104">
+    <ToTranslate>tcg_cho21ia</ToTranslate>
+  </String>
+  <String index="105">
+    <ToTranslate>tcg_cho21m</ToTranslate>
+  </String>
+  <String index="106">
+    <ToTranslate>rinr1354</ToTranslate>
+  </String>
+  <String index="107">
+    <ToTranslate>Rinrin$&quot;Who cares! Right now I just wanna enjoy the sun!&quot;@</ToTranslate>
+  </String>
+  <String index="108">
+    <ToTranslate>tcg_bac11aa</ToTranslate>
+  </String>
+  <String index="109">
+    <ToTranslate>tcg_bac11m</ToTranslate>
+  </String>
+  <String index="110">
+    <ToTranslate>sui_2041</ToTranslate>
+  </String>
+  <String index="111">
+    <ToTranslate>Sui$&quot;That&apos;s right. This may be the only time we can enjoy the sun like this.&quot;@</ToTranslate>
+  </String>
+  <String index="112">
+    <ToTranslate>Kazuto$&quot;... you may be right.&quot;@</ToTranslate>
+  </String>
+  <String index="113">
+    <ToTranslate>$I steeled myself to beg Aisha for forgiveness if she found us and lay down next to them.@</ToTranslate>
+  </String>
+  <String index="114">
+    <ToTranslate>tcg_cho11aa</ToTranslate>
+  </String>
+  <String index="115">
+    <ToTranslate>tcg_cho11m</ToTranslate>
+  </String>
+  <String index="116">
+    <ToTranslate>rinr1355</ToTranslate>
+  </String>
+  <String index="117">
+    <ToTranslate>Rinrin$&quot;There you go.&quot;@</ToTranslate>
+  </String>
+  <String index="118">
+    <ToTranslate>$Like Sui said... the three of us wouldn&apos;t always have chances to rest like this together, with the warm sun and the soft breeze.@</ToTranslate>
+  </String>
+  <String index="119">
+    <ToTranslate>$The war was still ongoing... we had to put everything into enjoying these moments.@</ToTranslate>
+  </String>
+  <String index="120">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="121">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="122">
+    <ToTranslate>ecg_cho08a</ToTranslate>
+  </String>
+  <String index="123">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="124">
+    <ToTranslate>bgm15</ToTranslate>
+  </String>
+  <String index="125">
+    <ToTranslate>sui_2042</ToTranslate>
+  </String>
+  <String index="126">
+    <ToTranslate>Sui$&quot;You&apos;ve become quite the rebel. You know we&apos;ll turn to jerky if we lie out here too long... heh, though it would be quite the way to go.&quot;@</ToTranslate>
+  </String>
+  <String index="127">
+    <ToTranslate>Kazuto$&quot;Yep, I&apos;m a rebel! Lying down on the grass under the sun, that&apos;s the life for me.&quot;@</ToTranslate>
+  </String>
+  <String index="128">
+    <ToTranslate>sui_2043</ToTranslate>
+  </String>
+  <String index="129">
+    <ToTranslate>Sui$&quot;Ahaha, you&apos;re right. That&apos;s fundamental!&quot;@</ToTranslate>
+  </String>
+  <String index="130">
+    <ToTranslate>Kazuto$&quot;Right? Whew, this feels great.&quot;@</ToTranslate>
+  </String>
+  <String index="131">
+    <ToTranslate>sui_2044</ToTranslate>
+  </String>
+  <String index="132">
+    <ToTranslate>Sui$&quot;If you feel that way, we can rest without worries too.&quot;@</ToTranslate>
+  </String>
+  <String index="133">
+    <ToTranslate>$They didn&apos;t seem to be restraining themselves at all because of me, but... I decided not to say anything and just to stretch out on the line.@</ToTranslate>
+  </String>
+  <String index="134">
+    <ToTranslate>rinr1356</ToTranslate>
+  </String>
+  <String index="135">
+    <ToTranslate>Rinrin$&quot;Mmmm...... nyah.&quot;@</ToTranslate>
+  </String>
+  <String index="136">
+    <ToTranslate>Kazuto$&quot;Hmm?&quot;@</ToTranslate>
+  </String>
+  <String index="137">
+    <ToTranslate>$A plaintive groan sounded out beside me, and Rinrin started to squirm. She turned over to cling to my side.@</ToTranslate>
+  </String>
+  <String index="138">
+    <ToTranslate>rinr1357</ToTranslate>
+  </String>
+  <String index="139">
+    <ToTranslate>Rinrin$&quot;Hee-hee... nyah, nyah!&quot;@</ToTranslate>
+  </String>
+  <String index="140">
+    <ToTranslate>$She started tickling me, rubbing her face against my chest.@</ToTranslate>
+  </String>
+  <String index="141">
+    <ToTranslate>sui_2045</ToTranslate>
+  </String>
+  <String index="142">
+    <ToTranslate>Sui$&quot;Be careful, My Lord. The more you try to avoid Rinrin&apos;s attacks, the more she&apos;ll press them.&quot;@</ToTranslate>
+  </String>
+  <String index="143">
+    <ToTranslate>rinr1358</ToTranslate>
+  </String>
+  <String index="144">
+    <ToTranslate>Rinrin$&quot;But you like it, right, Onii-chan?&quot;@</ToTranslate>
+  </String>
+  <String index="145">
+    <ToTranslate>$She continued rubbing her cheek against me and curled up like a cat taking an afternoon nap. I put my hand on her back.@</ToTranslate>
+  </String>
+  <String index="146">
+    <ToTranslate>Kazuto$&quot;What happens if I don&apos;t avoid it?&quot;@</ToTranslate>
+  </String>
+  <String index="147">
+    <ToTranslate>rinr1359</ToTranslate>
+  </String>
+  <String index="148">
+    <ToTranslate>Rinrin$&quot;I rub even more.&quot;@</ToTranslate>
+  </String>
+  <String index="149">
+    <ToTranslate>sui_2046</ToTranslate>
+  </String>
+  <String index="150">
+    <ToTranslate>Sui$&quot;In other words, it doesn&apos;t make any difference.&quot;@</ToTranslate>
+  </String>
+  <String index="151">
+    <ToTranslate>$It seemed so, but that was Rinrin for you. I returned Sui&apos;s almost drunken gaze with a smile, then touched Rinrin&apos;s sun kissed hair.@</ToTranslate>
+  </String>
+  <String index="152">
+    <ToTranslate>Kazuto$&quot;You must have been here for a while. That&apos;s not good. Your hair and body are both as warm as the sunlight.&quot;@</ToTranslate>
+  </String>
+  <String index="153">
+    <ToTranslate>rinr1360</ToTranslate>
+  </String>
+  <String index="154">
+    <ToTranslate>Rinrin$&quot;It gets like that really quick. *Sniff, sniff*, see? Your body smells like sun too, Onii-chan.&quot;@</ToTranslate>
+  </String>
+  <String index="155">
+    <ToTranslate>Kazuto$&quot;Eh, really?&quot;@</ToTranslate>
+  </String>
+  <String index="156">
+    <ToTranslate>$I sniffed my arm, which smelled normal, though it did seem a bit warmer than before.@</ToTranslate>
+  </String>
+  <String index="157">
+    <ToTranslate>Kazuto$&quot;No, I don&apos;t smell like the sun. Maybe you&apos;re smelling yourself.&quot;@</ToTranslate>
+  </String>
+  <String index="158">
+    <ToTranslate>rinr1361</ToTranslate>
+  </String>
+  <String index="159">
+    <ToTranslate>Rinrin$&quot;Yes, you do! *Sniff, sniff...* hee-hee, it smells so warm.&quot;@</ToTranslate>
+  </String>
+  <String index="160">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="161">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="162">
+    <ToTranslate>ecg_cho08c</ToTranslate>
+  </String>
+  <String index="163">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="164">
+    <ToTranslate>sui_2047</ToTranslate>
+  </String>
+  <String index="165">
+    <ToTranslate>Sui$&quot;W-wait Rinrin! You&apos;re getting naughty, don&apos;t get so close to Our Lord. Someone may misinterpret your behavior!&quot;@</ToTranslate>
+  </String>
+  <String index="166">
+    <ToTranslate>rinr1362</ToTranslate>
+  </String>
+  <String index="167">
+    <ToTranslate>Rinrin$&quot;Why? He does smell like the sun. *Sniff, sniff*, nyahfu! He smells good.&quot;@</ToTranslate>
+  </String>
+  <String index="168">
+    <ToTranslate>sui_2048</ToTranslate>
+  </String>
+  <String index="169">
+    <ToTranslate>Sui$&quot;It doesn&apos;t matter if he smells like sun!&quot;@</ToTranslate>
+  </String>
+  <String index="170">
+    <ToTranslate>rinr1363</ToTranslate>
+  </String>
+  <String index="171">
+    <ToTranslate>Rinrin$&quot;Nyah?&quot;@</ToTranslate>
+  </String>
+  <String index="172">
+    <ToTranslate>sui_2049</ToTranslate>
+  </String>
+  <String index="173">
+    <ToTranslate>Sui$&quot;I&apos;m talking about having a modicum of shame! Cuddling up against him, and then talking about how he smells! Why, it&apos;s... it&apos;s...!&quot;@</ToTranslate>
+  </String>
+  <String index="174">
+    <ToTranslate>$Was she panicking? Sui, who was peaceful just a few moments before, now wrung her hands together and screamed.@</ToTranslate>
+  </String>
+  <String index="175">
+    <ToTranslate>sui_2050</ToTranslate>
+  </String>
+  <String index="176">
+    <ToTranslate>Sui$&quot;It&apos;s the worst kind of childish! That&apos;s what it is! Cuddling up against a guy and smelling him, that&apos;s... that comes off as incredibly naughty behavior!&quot;@</ToTranslate>
+  </String>
+  <String index="177">
+    <ToTranslate>rinr1364</ToTranslate>
+  </String>
+  <String index="178">
+    <ToTranslate>Rinrin$&quot;I think you&apos;re the naughty one for thinking that way. Right, Onii-chan?&quot;@</ToTranslate>
+  </String>
+  <String index="179">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="180">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="181">
+    <ToTranslate>ecg_cho08d</ToTranslate>
+  </String>
+  <String index="182">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="183">
+    <ToTranslate>sui_2051</ToTranslate>
+  </String>
+  <String index="184">
+    <ToTranslate>Sui$&quot;Huh!?&quot;@</ToTranslate>
+  </String>
+  <String index="185">
+    <ToTranslate>$Sui looked despondent. I patted Sui on the shoulder, trying to restore the peaceful atmosphere of earlier.@</ToTranslate>
+  </String>
+  <String index="186">
+    <ToTranslate>Kazuto$&quot;You&apos;re over-thinking it. I don&apos;t mind if she smells me a little bit.&quot;@</ToTranslate>
+  </String>
+  <String index="187">
+    <ToTranslate>rinr1365</ToTranslate>
+  </String>
+  <String index="188">
+    <ToTranslate>Rinrin$&quot;Rinrin likes it, too!&quot;@</ToTranslate>
+  </String>
+  <String index="189">
+    <ToTranslate>sui_2052</ToTranslate>
+  </String>
+  <String index="190">
+    <ToTranslate>Sui$&quot;You like it!?&quot;@</ToTranslate>
+  </String>
+  <String index="191">
+    <ToTranslate>Kazuto$&quot;That&apos;s not how she means it. It really means nothing. See, you can try it, too.&quot;@</ToTranslate>
+  </String>
+  <String index="192">
+    <ToTranslate>sui_2053</ToTranslate>
+  </String>
+  <String index="193">
+    <ToTranslate>Sui$&quot;Whaaaat!?&quot;@</ToTranslate>
+  </String>
+  <String index="194">
+    <ToTranslate>$Sui&apos;s screech shook the branches above us.@</ToTranslate>
+  </String>
+  <String index="195">
+    <ToTranslate>sui_2054</ToTranslate>
+  </String>
+  <String index="196">
+    <ToTranslate>Sui$&quot;Ahhh, ahhh, you want me to!? That&apos;s perverted! E-even if you don&apos;t mind, My Lord, I can&apos;t... I mean...&quot;@</ToTranslate>
+  </String>
+  <String index="197">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="198">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="199">
+    <ToTranslate>ecg_cho08b</ToTranslate>
+  </String>
+  <String index="200">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="201">
+    <ToTranslate>rinr1366</ToTranslate>
+  </String>
+  <String index="202">
+    <ToTranslate>Rinrin$&quot;Stop it, Onii-chan. Sui gets embarrassed easily, you can&apos;t treat her like Rinrin.&quot;@</ToTranslate>
+  </String>
+  <String index="203">
+    <ToTranslate>sui_2055</ToTranslate>
+  </String>
+  <String index="204">
+    <ToTranslate>Sui$&quot;... ooo.&quot;@</ToTranslate>
+  </String>
+  <String index="205">
+    <ToTranslate>$Sui trailed off. In her childish innocence, Rinrin had struck a fearsome blow.@</ToTranslate>
+  </String>
+  <String index="206">
+    <ToTranslate>sui_2056</ToTranslate>
+  </String>
+  <String index="207">
+    <ToTranslate>Sui$&quot;... it&apos;s not that I&apos;m embarrassed.&quot;@</ToTranslate>
+  </String>
+  <String index="208">
+    <ToTranslate>$She finally mumbled out her reply, then hunched over to hide her blushing cheeks behind her shoulders.@</ToTranslate>
+  </String>
+  <String index="209">
+    <ToTranslate>Kazuto$&quot;Haha, maybe I said something I shouldn&apos;t have... sorry. Anyway, it&apos;s really not that bad.&quot;@</ToTranslate>
+  </String>
+  <String index="210">
+    <ToTranslate>sui_2057</ToTranslate>
+  </String>
+  <String index="211">
+    <ToTranslate>Sui$&quot;If I just give in now, that means losing to Rinrin...&quot;@</ToTranslate>
+  </String>
+  <String index="212">
+    <ToTranslate>Kazuto$&quot;Did you say something?&quot;@</ToTranslate>
+  </String>
+  <String index="213">
+    <ToTranslate>sui_2058</ToTranslate>
+  </String>
+  <String index="214">
+    <ToTranslate>Sui$&quot;Oo, ooooooo!&quot;@</ToTranslate>
+  </String>
+  <String index="215">
+    <ToTranslate>$What!?@</ToTranslate>
+  </String>
+  <String index="216">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="217">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="218">
+    <ToTranslate>ecg_cho08e</ToTranslate>
+  </String>
+  <String index="219">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="220">
+    <ToTranslate>sui_2059</ToTranslate>
+  </String>
+  <String index="221">
+    <ToTranslate>Sui$&quot;I-I, I can&apos;t l-l-let that happen! As I said, I-I&apos;m not, not, embarrassed at all!&quot;@</ToTranslate>
+  </String>
+  <String index="222">
+    <ToTranslate>$Did someone flip her &apos;weird&apos; switch? She stammered violently and slowly pressed her face closer to me.@</ToTranslate>
+  </String>
+  <String index="223">
+    <ToTranslate>rinr1367</ToTranslate>
+  </String>
+  <String index="224">
+    <ToTranslate>Rinrin$&quot;Can you do it, Sui? Just like me, okay? Like this... nyah!&quot;@</ToTranslate>
+  </String>
+  <String index="225">
+    <ToTranslate>sui_2060</ToTranslate>
+  </String>
+  <String index="226">
+    <ToTranslate>Sui$&quot;Uwah!?&quot;@</ToTranslate>
+  </String>
+  <String index="227">
+    <ToTranslate>rinr1368</ToTranslate>
+  </String>
+  <String index="228">
+    <ToTranslate>Rinrin$&quot;You have to bury your face in Onii-chan&apos;s chest, then rub it like this! Then you can smell the sun!&quot;@</ToTranslate>
+  </String>
+  <String index="229">
+    <ToTranslate>$Her head tickled a little, but I knew I couldn&apos;t stop her, so I just watched.@</ToTranslate>
+  </String>
+  <String index="230">
+    <ToTranslate>Kazuto$&quot;Sui, please don&apos;t force yourself... Rinrin&apos;s just talking nonsense.&quot;@</ToTranslate>
+  </String>
+  <String index="231">
+    <ToTranslate>sui_2061</ToTranslate>
+  </String>
+  <String index="232">
+    <ToTranslate>Sui$&quot;I won&apos;t let you mistake me for a coward!&quot;@</ToTranslate>
+  </String>
+  <String index="233">
+    <ToTranslate>$I had no idea who was supposed to be mistaking her for a coward. I was concerned over how desperate she looked.@</ToTranslate>
+  </String>
+  <String index="234">
+    <ToTranslate>sui_2062</ToTranslate>
+  </String>
+  <String index="235">
+    <ToTranslate>Sui$&quot;Hmph, this is easy... gulp.&quot;@</ToTranslate>
+  </String>
+  <String index="236">
+    <ToTranslate>$I couldn&apos;t believe she was gulping over this. Rinrin was peeking mischievously over my chest, so I gave her a light whap as punishment.@</ToTranslate>
+  </String>
+  <String index="237">
+    <ToTranslate>sui_2063</ToTranslate>
+  </String>
+  <String index="238">
+    <ToTranslate>Sui$&quot;...*peek*.&quot;@</ToTranslate>
+  </String>
+  <String index="239">
+    <ToTranslate>$I held out my arm, inviting Sui to lay on my other side.@</ToTranslate>
+  </String>
+  <String index="240">
+    <ToTranslate>Kazuto$&quot;It&apos;s really no big deal... don&apos;t stress over it. Just come here, and let&apos;s all take a nap together.&quot;@</ToTranslate>
+  </String>
+  <String index="241">
+    <ToTranslate>sui_2064</ToTranslate>
+  </String>
+  <String index="242">
+    <ToTranslate>Sui$&quot;Y-yes! That&apos;s right, this is nothing we should feel guilty about... we&apos;re just taking a nap.&quot;@</ToTranslate>
+  </String>
+  <String index="243">
+    <ToTranslate>$Her face was so red! The fact that she minded so much had me thinking it was strange, too.@</ToTranslate>
+  </String>
+  <String index="244">
+    <ToTranslate>$Her eyes seemed to have lost their focus... did she feel faint? She timidly drew closer...@</ToTranslate>
+  </String>
+  <String index="245">
+    <ToTranslate>sui_2065</ToTranslate>
+  </String>
+  <String index="246">
+    <ToTranslate>Sui$&quot;E-e-e-excuse me...!&quot;@</ToTranslate>
+  </String>
+  <String index="247">
+    <ToTranslate>$She pressed the tip of her nose against my neck...@</ToTranslate>
+  </String>
+  <String index="248">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="249">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="250">
+    <ToTranslate>ecg_cho08f</ToTranslate>
+  </String>
+  <String index="251">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="252">
+    <ToTranslate>rinr1369</ToTranslate>
+  </String>
+  <String index="253">
+    <ToTranslate>Rinrin$&quot;No waaaay!&quot;@</ToTranslate>
+  </String>
+  <String index="254">
+    <ToTranslate>sui_2066</ToTranslate>
+  </String>
+  <String index="255">
+    <ToTranslate>Sui$&quot;Mmmgu!?&quot;@</ToTranslate>
+  </String>
+  <String index="256">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="257">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="258">
+    <ToTranslate>ecg_cho08g</ToTranslate>
+  </String>
+  <String index="259">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="260">
+    <ToTranslate>$Rinrin moved quickly enough to grab Sui&apos;s nose, just as it was about to touch my neck.@</ToTranslate>
+  </String>
+  <String index="261">
+    <ToTranslate>Kazuto$&quot;H-hey!? What are you doing Rinrin? Let her go!&quot;@</ToTranslate>
+  </String>
+  <String index="262">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="263">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="264">
+    <ToTranslate>ecg_cho08h</ToTranslate>
+  </String>
+  <String index="265">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="266">
+    <ToTranslate>sui_2067</ToTranslate>
+  </String>
+  <String index="267">
+    <ToTranslate>Sui$&quot;Mmmmguu!!&quot;@</ToTranslate>
+  </String>
+  <String index="268">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="269">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="270">
+    <ToTranslate>ecg_cho08i</ToTranslate>
+  </String>
+  <String index="271">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="272">
+    <ToTranslate>rinr1370</ToTranslate>
+  </String>
+  <String index="273">
+    <ToTranslate>Rinrin$&quot;I&apos;m gonna punish her for her insolence! Nyaha, yah, yah!&quot;@</ToTranslate>
+  </String>
+  <String index="274">
+    <ToTranslate>Kazuto$&quot;Do you even know what you&apos;re talking about!? Let her go already!&quot;@</ToTranslate>
+  </String>
+  <String index="275">
+    <ToTranslate>rinr1371</ToTranslate>
+  </String>
+  <String index="276">
+    <ToTranslate>Rinrin$&quot;Ahh?&quot;@</ToTranslate>
+  </String>
+  <String index="277">
+    <ToTranslate>$Rinrin was pinching Sui&apos;s nose so hard I couldn&apos;t force her off, so I tried to undo her fingers one at a time.@</ToTranslate>
+  </String>
+  <String index="278">
+    <ToTranslate>sui_2068</ToTranslate>
+  </String>
+  <String index="279">
+    <ToTranslate>Sui$&quot;Huff, huff... huff, what are you doing, Rinrin?&quot;@</ToTranslate>
+  </String>
+  <String index="280">
+    <ToTranslate>$Sui&apos;s nose had gone bright red. I couldn&apos;t blame her for being angry, but Rinrin seemed indifferent to it.@</ToTranslate>
+  </String>
+  <String index="281">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="282">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="283">
+    <ToTranslate>ecg_cho08h</ToTranslate>
+  </String>
+  <String index="284">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="285">
+    <ToTranslate>rinr1372</ToTranslate>
+  </String>
+  <String index="286">
+    <ToTranslate>Rinrin$&quot;Hee-hee, I won&apos;t let you take it away! Onii-chan&apos;s smell belongs to Rinrin!&quot;@</ToTranslate>
+  </String>
+  <String index="287">
+    <ToTranslate>sui_2069</ToTranslate>
+  </String>
+  <String index="288">
+    <ToTranslate>Sui$&quot;Hey, you&apos;re the one who provoked me. How dare you say that?&quot;@</ToTranslate>
+  </String>
+  <String index="289">
+    <ToTranslate>$Weren&apos;t we taking a break a little while ago? Sui&apos;s hand struck forward like an arrow to catch Rinrin&apos;s head. Rinrin just dodged.@</ToTranslate>
+  </String>
+  <String index="290">
+    <ToTranslate>$I didn&apos;t feel like scolding them. I just smiled at the difference between them.@</ToTranslate>
+  </String>
+  <String index="291">
+    <ToTranslate>sui_2070</ToTranslate>
+  </String>
+  <String index="292">
+    <ToTranslate>Sui$&quot;What, what do you mean, his smell is all yours?! My Lord belongs to all of us, you idiot!&quot;@</ToTranslate>
+  </String>
+  <String index="293">
+    <ToTranslate>rinr1373</ToTranslate>
+  </String>
+  <String index="294">
+    <ToTranslate>Rinrin$&quot;I&apos;m not an idiot! It&apos;s Sui&apos;s fault for letting your guard down!&quot;@</ToTranslate>
+  </String>
+  <String index="295">
+    <ToTranslate>sui_2071</ToTranslate>
+  </String>
+  <String index="296">
+    <ToTranslate>Sui$&quot;Letting my guard down!?&quot;@</ToTranslate>
+  </String>
+  <String index="297">
+    <ToTranslate>rinr1374</ToTranslate>
+  </String>
+  <String index="298">
+    <ToTranslate>Rinrin$&quot;You got so excited about smelling Onii-chan that you got distracted. That&apos;s why Rinrin could grab you like that! Nyah nyah, rookie mistake!&quot;@</ToTranslate>
+  </String>
+  <String index="299">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="300">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="301">
+    <ToTranslate>ecg_cho08e</ToTranslate>
+  </String>
+  <String index="302">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="303">
+    <ToTranslate>sui_2072</ToTranslate>
+  </String>
+  <String index="304">
+    <ToTranslate>Sui$&quot;How dare you...! Hmph, this is nothing, *sniff, sniff, sniff*!!&quot;@</ToTranslate>
+  </String>
+  <String index="305">
+    <ToTranslate>$Sui changed her tactics and leaned toward me. I impartially let her sniff my neck.@</ToTranslate>
+  </String>
+  <String index="306">
+    <ToTranslate>rinr1375</ToTranslate>
+  </String>
+  <String index="307">
+    <ToTranslate>Rinrin$&quot;Nyah!? Hey Sui!&quot;@</ToTranslate>
+  </String>
+  <String index="308">
+    <ToTranslate>sui_2072a</ToTranslate>
+  </String>
+  <String index="309">
+    <ToTranslate>sui_2072a</ToTranslate>
+  </String>
+  <String index="310">
+    <ToTranslate>Sui$&quot;There, I snatched it away! Take that, you little brat!&quot;@</ToTranslate>
+  </String>
+  <String index="311">
+    <ToTranslate>rinr1377</ToTranslate>
+  </String>
+  <String index="312">
+    <ToTranslate>Rinrin$&quot;How dare you!&quot;@</ToTranslate>
+  </String>
+  <String index="313">
+    <ToTranslate>$It was Rinrin&apos;s turn to be on the attack. I watched as the two great generals noisily traded blows and gripped my hand to keep from laughing.@</ToTranslate>
+  </String>
+  <String index="314">
+    <ToTranslate>$They were like two big cats wrestling for fun.@</ToTranslate>
+  </String>
+  <String index="315">
+    <ToTranslate>rinr1378</ToTranslate>
+  </String>
+  <String index="316">
+    <ToTranslate>Rinrin$&quot;Give back Onii-chan&apos;s smell! You&apos;re a smell thief, nyah nyah!!&quot;@</ToTranslate>
+  </String>
+  <String index="317">
+    <ToTranslate>sui_2073</ToTranslate>
+  </String>
+  <String index="318">
+    <ToTranslate>Sui$&quot;Hah, that&apos;s nothing! Kid, kid, kid!!&quot;@</ToTranslate>
+  </String>
+  <String index="319">
+    <ToTranslate>$They were both to blame. This wasn&apos;t really what I had planned for my afternoon... but I felt rejuvenated, nonetheless.@</ToTranslate>
+  </String>
+  <String index="320">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="321">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="322">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+</DBS>
+</poem>

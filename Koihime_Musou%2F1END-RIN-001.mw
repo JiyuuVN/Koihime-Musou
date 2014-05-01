@@ -1,0 +1,609 @@
+[[Koihime Musou/Прогресс перевода/Сюжет|[Назад]]]
+<poem>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<DBS>
+  <String index="0">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="1">
+    <ToTranslate>bcg_mir_impseat_a</ToTranslate>
+  </String>
+  <String index="2">
+    <ToTranslate>SE042</ToTranslate>
+  </String>
+  <String index="3">
+    <ToTranslate>bcg_edeff</ToTranslate>
+  </String>
+  <String index="4">
+    <ToTranslate>bcg_edeffmask2</ToTranslate>
+  </String>
+  <String index="5">
+    <ToTranslate>_msg_black</ToTranslate>
+  </String>
+  <String index="6">
+    <ToTranslate>_msg_mask</ToTranslate>
+  </String>
+  <String index="7">
+    <ToTranslate>sounyu_vom</ToTranslate>
+  </String>
+  <String index="8">
+    <ToTranslate>%$Зеркальце засияло ярко-бледным светом.</ToTranslate>
+  </String>
+  <String index="9">
+    <ToTranslate>%$В точь таким же светом, что и раньше, после чего всё началось.</ToTranslate>
+  </String>
+  <String index="10">
+    <ToTranslate>%$Всё сильнее погружаясь в свет, я понимаю, что прощаюсь с этим миром.</ToTranslate>
+  </String>
+  <String index="11">
+    <ToTranslate>%$Мои помыслы породили этот мир из моего существования.</ToTranslate>
+  </String>
+  <String index="12">
+    <ToTranslate>%$Чувствуя, как всё вокруг исчезает, я мысленно представил того кого так люблю.</ToTranslate>
+  </String>
+  <String index="13">
+    <ToTranslate>%$Ринрин...</ToTranslate>
+  </String>
+  <String index="14">
+    <ToTranslate>%$Её неподдельная улыбка всегда поддерживала меня.</ToTranslate>
+  </String>
+  <String index="15">
+    <ToTranslate>%$Она всегда была моей второй половиной, помогая и подталкивая меня с первой встречи и до последнего момента.</ToTranslate>
+  </String>
+  <String index="16">
+    <ToTranslate>%$Время нашей разлуки неумолимо приближается.</ToTranslate>
+  </String>
+  <String index="17">
+    <ToTranslate>%$Я что, просто исчезну из этого мира...?</ToTranslate>
+  </String>
+  <String index="18">
+    <ToTranslate>%$Я хочу увидеть свою возлюбленную пока всё моё существование не растаяло в бездонном и пустынном ужасе.</ToTranslate>
+  </String>
+  <String index="19">
+    <ToTranslate>%$Хочу увидеть её...</ToTranslate>
+  </String>
+  <String index="20">
+    <ToTranslate>$Хочу услышать её голос...</ToTranslate>
+  </String>
+  <String index="21">
+    <ToTranslate>%$Одного мгновения мне будет достаточно...</ToTranslate>
+  </String>
+  <String index="22">
+    <ToTranslate>%$Хочу почувствовать тепло своей возлюбленной.</ToTranslate>
+  </String>
+  <String index="23">
+    <ToTranslate>rinr0563</ToTranslate>
+  </String>
+  <String index="24">
+    <ToTranslate>ecg_cho98c</ToTranslate>
+  </String>
+  <String index="25">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="26">
+    <ToTranslate>%Ринрин$"Братик!"</ToTranslate>
+  </String>
+  <String index="27">
+    <ToTranslate>%Казуто$"...! Рин... рин...!"</ToTranslate>
+  </String>
+  <String index="28">
+    <ToTranslate>bcg_edeff</ToTranslate>
+  </String>
+  <String index="29">
+    <ToTranslate>bcg_edeffmask1</ToTranslate>
+  </String>
+  <String index="30">
+    <ToTranslate>%$Свет тащит меня к завершению этой альтернативной истории.</ToTranslate>
+  </String>
+  <String index="31">
+    <ToTranslate>%$Тело постепенно перестаёт двигаться, свет поглощает меня.</ToTranslate>
+  </String>
+  <String index="32">
+    <ToTranslate>%$Но голос куда-то тянет моё гаснущее сознание.</ToTranslate>
+  </String>
+  <String index="33">
+    <ToTranslate>%Казуто$"Рин... рин...!"</ToTranslate>
+  </String>
+  <String index="34">
+    <ToTranslate>%$Зрение подводит меня, но я отчаянно тяну руку в окружающий меня белый свет.</ToTranslate>
+  </String>
+  <String index="35">
+    <ToTranslate>%$Я должен увидеть Ринрин.</ToTranslate>
+  </String>
+  <String index="36">
+    <ToTranslate>%$Хочу дотронуться до её лица.</ToTranslate>
+  </String>
+  <String index="37">
+    <ToTranslate>%$Но рука дрогнула, так и не сумев исполнить моего желания.</ToTranslate>
+  </String>
+  <String index="38">
+    <ToTranslate>ecg_cho98e</ToTranslate>
+  </String>
+  <String index="39">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="40">
+    <ToTranslate>%$Воспоминания исчезают как и моя роль в этом мире.</ToTranslate>
+  </String>
+  <String index="41">
+    <ToTranslate>%$Теряя воспоминания я чувствую как сознание покидает меня.</ToTranslate>
+  </String>
+  <String index="42">
+    <ToTranslate>%$Но я не хочу их терять...</ToTranslate>
+  </String>
+  <String index="43">
+    <ToTranslate>%$Не хочу чтобы исчезали мои воспоминания о Ринрин!</ToTranslate>
+  </String>
+  <String index="44">
+    <ToTranslate>%$Даже если моё существование в этом мире лишь подделка, мои воспоминания об этом мире принадлежат мне. Они настоящие.</ToTranslate>
+  </String>
+  <String index="45">
+    <ToTranslate>%$Если я лишусь их, всё моё существование окажется бесцельным.</ToTranslate>
+  </String>
+  <String index="46">
+    <ToTranslate>%$Даже если всё это неизбежность......гордыня моего существования не позволит этому случиться!</ToTranslate>
+  </String>
+  <String index="47">
+    <ToTranslate>bcg_edeff</ToTranslate>
+  </String>
+  <String index="48">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="49">
+    <ToTranslate>%Казуто$"Ринрин... Ринри-и-ин!"</ToTranslate>
+  </String>
+  <String index="50">
+    <ToTranslate>%$Собрав остаток сил я закричал.</ToTranslate>
+  </String>
+  <String index="51">
+    <ToTranslate>%$Имя девушки, которую люблю.</ToTranslate>
+  </String>
+  <String index="52">
+    <ToTranslate>ecg_cho98c</ToTranslate>
+  </String>
+  <String index="53">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="54">
+    <ToTranslate>rinr0564</ToTranslate>
+  </String>
+  <String index="55">
+    <ToTranslate>%Ринрин$"Брати-и-и-ик!"</ToTranslate>
+  </String>
+  <String index="56">
+    <ToTranslate>rinr0565</ToTranslate>
+  </String>
+  <String index="57">
+    <ToTranslate>%$Любимый братик исчез в белом свете.</ToTranslate>
+  </String>
+  <String index="58">
+    <ToTranslate>rinr0566</ToTranslate>
+  </String>
+  <String index="59">
+    <ToTranslate>%$Воспоминания о наших проделках всплывают в моей голове, будто прося прощения за скорое расставание.</ToTranslate>
+  </String>
+  <String index="60">
+    <ToTranslate>rinr0567</ToTranslate>
+  </String>
+  <String index="61">
+    <ToTranslate>%Ринрин$"Нет! Братик, я не хочу чтобы ты уходил!"</ToTranslate>
+  </String>
+  <String index="62">
+    <ToTranslate>rinr0568</ToTranslate>
+  </String>
+  <String index="63">
+    <ToTranslate>%$Мы всегда были вместе.</ToTranslate>
+  </String>
+  <String index="64">
+    <ToTranslate>rinr0569</ToTranslate>
+  </String>
+  <String index="65">
+    <ToTranslate>%$Мне начало казаться что так было всегда.</ToTranslate>
+  </String>
+  <String index="66">
+    <ToTranslate>rinr0570</ToTranslate>
+  </String>
+  <String index="67">
+    <ToTranslate>%Ринрин$"Вернись! Не оставляй меня!"</ToTranslate>
+  </String>
+  <String index="68">
+    <ToTranslate>rinr0571</ToTranslate>
+  </String>
+  <String index="69">
+    <ToTranslate>%$Не бросай меня как мои мать и отец...!</ToTranslate>
+  </String>
+  <String index="70">
+    <ToTranslate>rinr0572</ToTranslate>
+  </String>
+  <String index="71">
+    <ToTranslate>%Ринрин$"Не оставляй меня одну, Братик!"</ToTranslate>
+  </String>
+  <String index="72">
+    <ToTranslate>rinr0573</ToTranslate>
+  </String>
+  <String index="73">
+    <ToTranslate>ecg_cho98f</ToTranslate>
+  </String>
+  <String index="74">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="75">
+    <ToTranslate>%$Я не позволю исчезнуть любимому братику!</ToTranslate>
+  </String>
+  <String index="76">
+    <ToTranslate>%Казуто$"Ринрин...!"</ToTranslate>
+  </String>
+  <String index="77">
+    <ToTranslate>rinr0575</ToTranslate>
+  </String>
+  <String index="78">
+    <ToTranslate>ecg_cho98d</ToTranslate>
+  </String>
+  <String index="79">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="80">
+    <ToTranslate>%Ринрин$"Не исчезай...! Не бросай меня!"</ToTranslate>
+  </String>
+  <String index="81">
+    <ToTranslate>rinr0576</ToTranslate>
+  </String>
+  <String index="82">
+    <ToTranslate>%$Братишка исчезает!</ToTranslate>
+  </String>
+  <String index="83">
+    <ToTranslate>rinr0577</ToTranslate>
+  </String>
+  <String index="84">
+    <ToTranslate>%$Он бросает меня...!</ToTranslate>
+  </String>
+  <String index="85">
+    <ToTranslate>rinr0578</ToTranslate>
+  </String>
+  <String index="86">
+    <ToTranslate>%$Щемит в груди... это так больно...!</ToTranslate>
+  </String>
+  <String index="87">
+    <ToTranslate>rinr0579</ToTranslate>
+  </String>
+  <String index="88">
+    <ToTranslate>%Ринрин$"Нет, нет, нет, нет! Братик!</ToTranslate>
+  </String>
+  <String index="89">
+    <ToTranslate>SE025a</ToTranslate>
+  </String>
+  <String index="90">
+    <ToTranslate>tcg_saj21ea</ToTranslate>
+  </String>
+  <String index="91">
+    <ToTranslate>tcg_saj21m</ToTranslate>
+  </String>
+  <String index="92">
+    <ToTranslate>saji0132</ToTranslate>
+  </String>
+  <String index="93">
+    <ToTranslate>%Саджи$"Хм... если так хочешь вместе с ним, то я могу убить вас обоих...!"</ToTranslate>
+  </String>
+  <String index="94">
+    <ToTranslate>tcg_bac41aa</ToTranslate>
+  </String>
+  <String index="95">
+    <ToTranslate>tcg_bac41m</ToTranslate>
+  </String>
+  <String index="96">
+    <ToTranslate>sui_0276</ToTranslate>
+  </String>
+  <String index="97">
+    <ToTranslate>ef_kiriage03a</ToTranslate>
+  </String>
+  <String index="98">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="99">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="100">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="101">
+    <ToTranslate>tcg_bac91aa</ToTranslate>
+  </String>
+  <String index="102">
+    <ToTranslate>tcg_bac91m</ToTranslate>
+  </String>
+  <String index="103">
+    <ToTranslate>%Суи$"Иа-а-а-а!"</ToTranslate>
+  </String>
+  <String index="104">
+    <ToTranslate>ef_kiriage01a_m</ToTranslate>
+  </String>
+  <String index="105">
+    <ToTranslate>BSE08</ToTranslate>
+  </String>
+  <String index="106">
+    <ToTranslate>bg_white</ToTranslate>
+  </String>
+  <String index="107">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="108">
+    <ToTranslate>SE031</ToTranslate>
+  </String>
+  <String index="109">
+    <ToTranslate>tcg_saj51aa</ToTranslate>
+  </String>
+  <String index="110">
+    <ToTranslate>tcg_saj51m</ToTranslate>
+  </String>
+  <String index="111">
+    <ToTranslate>_msg_black</ToTranslate>
+  </String>
+  <String index="112">
+    <ToTranslate>_msg_mask</ToTranslate>
+  </String>
+  <String index="113">
+    <ToTranslate>saji0133</ToTranslate>
+  </String>
+  <String index="114">
+    <ToTranslate>%Саджи$"Фырк!"</ToTranslate>
+  </String>
+  <String index="115">
+    <ToTranslate>tcg_bac41aa</ToTranslate>
+  </String>
+  <String index="116">
+    <ToTranslate>tcg_bac41m</ToTranslate>
+  </String>
+  <String index="117">
+    <ToTranslate>sui_0277</ToTranslate>
+  </String>
+  <String index="118">
+    <ToTranslate>%Суи$"Мы защитим Ринрин! Ни с места, ублюдок!"</ToTranslate>
+  </String>
+  <String index="119">
+    <ToTranslate>tcg_cun21ca</ToTranslate>
+  </String>
+  <String index="120">
+    <ToTranslate>tcg_cun21m</ToTranslate>
+  </String>
+  <String index="121">
+    <ToTranslate>sei_0373</ToTranslate>
+  </String>
+  <String index="122">
+    <ToTranslate>%Сэй$"Раз уж ты посмел стать на пути влюблённых то я с радостью стану твоим оппонентом."</ToTranslate>
+  </String>
+  <String index="123">
+    <ToTranslate>tcg_koc51aa</ToTranslate>
+  </String>
+  <String index="124">
+    <ToTranslate>tcg_koc51m</ToTranslate>
+  </String>
+  <String index="125">
+    <ToTranslate>shio0132</ToTranslate>
+  </String>
+  <String index="126">
+    <ToTranslate>%Сион$"Мы не позволим испортить такой момент."</ToTranslate>
+  </String>
+  <String index="127">
+    <ToTranslate>tcg_saj21da</ToTranslate>
+  </String>
+  <String index="128">
+    <ToTranslate>tcg_saj21m</ToTranslate>
+  </String>
+  <String index="129">
+    <ToTranslate>saji0134</ToTranslate>
+  </String>
+  <String index="130">
+    <ToTranslate>%Саджи$"......не вмешивайтесь, подделки!"</ToTranslate>
+  </String>
+  <String index="131">
+    <ToTranslate>tcg_bac41aa</ToTranslate>
+  </String>
+  <String index="132">
+    <ToTranslate>tcg_bac41m</ToTranslate>
+  </String>
+  <String index="133">
+    <ToTranslate>sui_0278</ToTranslate>
+  </String>
+  <String index="134">
+    <ToTranslate>%Суи$"Хм... не важно!"</ToTranslate>
+  </String>
+  <String index="135">
+    <ToTranslate>sui_0279</ToTranslate>
+  </String>
+  <String index="136">
+    <ToTranslate>%Суи$"Сейчас мы рискуем жизнью чтобы защитить своих друзей. ......это всё что мне нужно знать!"</ToTranslate>
+  </String>
+  <String index="137">
+    <ToTranslate>tcg_koc51aa</ToTranslate>
+  </String>
+  <String index="138">
+    <ToTranslate>tcg_koc51m</ToTranslate>
+  </String>
+  <String index="139">
+    <ToTranslate>shio0133</ToTranslate>
+  </String>
+  <String index="140">
+    <ToTranslate>%Сион$"Мы здесь ради этого."</ToTranslate>
+  </String>
+  <String index="141">
+    <ToTranslate>tcg_cun21ca</ToTranslate>
+  </String>
+  <String index="142">
+    <ToTranslate>tcg_cun21m</ToTranslate>
+  </String>
+  <String index="143">
+    <ToTranslate>sei_0374</ToTranslate>
+  </String>
+  <String index="144">
+    <ToTranslate>%Сэй$"Верно, мы живём ради своего Господина и наших друзей. ......и мы никогда от них не откажемся!"</ToTranslate>
+  </String>
+  <String index="145">
+    <ToTranslate>tcg_saj11ha</ToTranslate>
+  </String>
+  <String index="146">
+    <ToTranslate>tcg_saj11m</ToTranslate>
+  </String>
+  <String index="147">
+    <ToTranslate>saji0135</ToTranslate>
+  </String>
+  <String index="148">
+    <ToTranslate>%Саджи$"Хм... кажись для меня всё кончится здесь... что ж, куклы, идите и возьмите меня!"</ToTranslate>
+  </String>
+  <String index="149">
+    <ToTranslate>tcg_saj11ga</ToTranslate>
+  </String>
+  <String index="150">
+    <ToTranslate>tcg_saj11m</ToTranslate>
+  </String>
+  <String index="151">
+    <ToTranslate>tcg_saj21ea</ToTranslate>
+  </String>
+  <String index="152">
+    <ToTranslate>tcg_saj21m</ToTranslate>
+  </String>
+  <String index="153">
+    <ToTranslate>tcg_cun41aa</ToTranslate>
+  </String>
+  <String index="154">
+    <ToTranslate>tcg_cun41m</ToTranslate>
+  </String>
+  <String index="155">
+    <ToTranslate>sei_0375</ToTranslate>
+  </String>
+  <String index="156">
+    <ToTranslate>%Сэй$"Саджи, я буду первой! Имя Чёун Ширью! Мой клинок моя жизнь!"</ToTranslate>
+  </String>
+  <String index="157">
+    <ToTranslate>ef_tuki03b</ToTranslate>
+  </String>
+  <String index="158">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="159">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="160">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="161">
+    <ToTranslate>tcg_cun91aa</ToTranslate>
+  </String>
+  <String index="162">
+    <ToTranslate>tcg_cun91m</ToTranslate>
+  </String>
+  <String index="163">
+    <ToTranslate>ef_tuki01b_m</ToTranslate>
+  </String>
+  <String index="164">
+    <ToTranslate>BSE02</ToTranslate>
+  </String>
+  <String index="165">
+    <ToTranslate>bg_white</ToTranslate>
+  </String>
+  <String index="166">
+    <ToTranslate>bg_white</ToTranslate>
+  </String>
+  <String index="167">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="168">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="169">
+    <ToTranslate>ecg_cho98a</ToTranslate>
+  </String>
+  <String index="170">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="171">
+    <ToTranslate>_msg_black</ToTranslate>
+  </String>
+  <String index="172">
+    <ToTranslate>_msg_mask</ToTranslate>
+  </String>
+  <String index="173">
+    <ToTranslate>%$Голоса подруг позади меня.</ToTranslate>
+  </String>
+  <String index="174">
+    <ToTranslate>%$Они рискуют жизнью чтобы защитить меня.</ToTranslate>
+  </String>
+  <String index="175">
+    <ToTranslate>%$Я должна сделать так же и защитить того кого люблю всем сердцем.</ToTranslate>
+  </String>
+  <String index="176">
+    <ToTranslate>rinr0580</ToTranslate>
+  </String>
+  <String index="177">
+    <ToTranslate>%Ринрин$"Больше я никогда не заплачу! Братик дождись меня!"</ToTranslate>
+  </String>
+  <String index="178">
+    <ToTranslate>%$Девушка решительно вытирает град слёз и делает шаг в сторону парня.</ToTranslate>
+  </String>
+  <String index="179">
+    <ToTranslate>rinr0582</ToTranslate>
+  </String>
+  <String index="180">
+    <ToTranslate>%Ринрин$"Брати-и-и-ик!"</ToTranslate>
+  </String>
+  <String index="181">
+    <ToTranslate>%Казуто$"Ринри-ин!"</ToTranslate>
+  </String>
+  <String index="182">
+    <ToTranslate>%$Отчаянно крича, парень тянет руку навстречу девушке.</ToTranslate>
+  </String>
+  <String index="183">
+    <ToTranslate>%$Они оба вспоминают прекрасные дни когда могли улыбаться друг другу.</ToTranslate>
+  </String>
+  <String index="184">
+    <ToTranslate>%$Воспоминания, горящие в их сердцах подобно звёздной пыли притягиваю их.</ToTranslate>
+  </String>
+  <String index="185">
+    <ToTranslate>%Казуто$"Ринрин!"</ToTranslate>
+  </String>
+  <String index="186">
+    <ToTranslate>rinr0583</ToTranslate>
+  </String>
+  <String index="187">
+    <ToTranslate>%Ринрин$"Братик!"</ToTranslate>
+  </String>
+  <String index="188">
+    <ToTranslate>%$Они тянуться друг к другу, ищут друг друга, их эмоции кипят всё сильнее.</ToTranslate>
+  </String>
+  <String index="189">
+    <ToTranslate>%$И--</ToTranslate>
+  </String>
+  <String index="190">
+    <ToTranslate>ecg_cho98b</ToTranslate>
+  </String>
+  <String index="191">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="192">
+    <ToTranslate>_msg_black</ToTranslate>
+  </String>
+  <String index="193">
+    <ToTranslate>_msg_mask</ToTranslate>
+  </String>
+  <String index="194">
+    <ToTranslate>%$Их связь вновь обретает свою силу.</ToTranslate>
+  </String>
+  <String index="195">
+    <ToTranslate>%</ToTranslate>
+  </String>
+  <String index="196">
+    <ToTranslate>bg_white</ToTranslate>
+  </String>
+  <String index="197">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="198">
+    <ToTranslate>bg_white</ToTranslate>
+  </String>
+  <String index="199">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+</DBS>
+
+</poem>
+[[Koihime Musou/Прогресс перевода/Сюжет|[Назад]]]

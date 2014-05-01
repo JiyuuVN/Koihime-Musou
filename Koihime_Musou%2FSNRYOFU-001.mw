@@ -1,0 +1,1593 @@
+[[Koihime Musou/Персонажи/Побочные|[Назад]]]
+{{Не Трожь!|Predtech}}
+Демон и Икар готовьте напильники, вот вам чудо перевод, строки помеченные символом № надо проверить в первую очередь, их я не переводил:)
+<pre>
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<DBS>
+<String index="0">
+ <Origin>bcg_castgurden_a</Origin>
+ <ToTranslate>bcg_castgurden_a</ToTranslate>
+ </String>
+<String index="1">
+ <Origin>_MsgBoxMain_On</Origin>
+ <ToTranslate>_MsgBoxMain_On</ToTranslate>
+ </String>
+<String index="2">
+ <Origin>bgm02</Origin>
+ <ToTranslate>bgm02</ToTranslate>
+ </String>
+<String index="3">
+ <Origin>$Should I call it her chivalrous spirit......? Aisha has a heroic desire to save the weak. I admire and respect her hard working attitude.@</Origin>
+ <ToTranslate>$Может, стоит называть это рыцарским духом?.. У Айши героическое желание защищать слабых... Я уважаю и восхищаюсь её старательным отношением.@</ToTranslate>
+ </String>
+<String index="4">
+ <Origin>$However, she tends to push that ideal on other people......Or rather,@</Origin>
+ <ToTranslate>$Тем не менее, её идеалы передаются другим людям... Или скорее...@</ToTranslate>
+ </String>
+<String index="5">
+ <Origin>Kazuto$"She tends to assume everyone is thinking the same way she does......"@</Origin>
+ <ToTranslate>Казуто$...она стремится, чтобы все думали также как и она(придерживались тех же идеалов)... @</ToTranslate>
+ </String>
+<String index="6">
+ <Origin>$Is that her only downside? No, it's one of her downsides.@</Origin>
+ <ToTranslate>$Это её единственный недостаток? Нет, не единственный (один из немногих).@</ToTranslate>
+ </String>
+<String index="7">
+ <Origin>$I'm trying to be responsible in my job too. But sometimes, I feel like I don't know why I'm doing this.@</Origin>
+ <ToTranslate>$Я тоже пытаюсь быть ответственным. Но иногда я не понимаю, зачем я (всё) это делаю.@</ToTranslate>
+ </String>
+<String index="8">
+ <Origin>$Especially on a sunny day like this, I feel like it's pointless for me to sit at my desk all day.@</Origin>
+ <ToTranslate>$Особенно в такой солнечный день, это совсем не похоже на меня, вот так весь день просидеть за столом.@</ToTranslate>
+ </String>
+<String index="9">
+ <Origin>$I'm sorry for being such a lazy leader. Please forgive me......@</Origin>
+ <ToTranslate>$Извините меня, я такой ленивый лидер. Пожалуйста, простите...@</ToTranslate>
+ </String>
+<String index="10">
+ <Origin>$Now that I've finished my confession, where should I go to hide from Aisha......?@</Origin>
+ <ToTranslate>$Я закончил свою исповедь, теперь, где бы мне спрятаться от Айши?..@</ToTranslate>
+ </String>
+<String index="11">
+ <Origin>Sekito$"Uurf! Ruff, ruff!"@</Origin>
+ <ToTranslate>Секито$Гав!Гав!@</ToTranslate>
+ </String>
+<String index="12">
+ <Origin>$Oops..... Did she smell me?@</Origin>
+ <ToTranslate>$Опа... Неужели он меня учуял?@</ToTranslate>
+ </String>
+<String index="13">
+ <Origin>Kazuto$"Hey, Ren."@</Origin>
+ <ToTranslate>Казуто$Эй, Рэн@</ToTranslate>
+ </String>
+<String index="14">
+ <Origin>$I called out to her without turning to face her. I knew that Sekito was always close to Ren.@</Origin>
+ <ToTranslate>$ Не оборачиваясь, я позвал её. Ведь Секито повсюду сопровождал Рэн.@</ToTranslate>
+ </String>
+<String index="15">
+ <Origin>tcg_ryo11aa</Origin>
+ <ToTranslate>tcg_ryo11aa</ToTranslate>
+ </String>
+<String index="16">
+ <Origin>tcg_ryo11m</Origin>
+ <ToTranslate>tcg_ryo11m</ToTranslate>
+ </String>
+<String index="17">
+ <Origin>bgm14</Origin>
+ <ToTranslate>bgm14</ToTranslate>
+ </String>
+<String index="18">
+ <Origin>ren_0062</Origin>
+ <ToTranslate>ren_0062</ToTranslate>
+ </String>
+<String index="19">
+ <Origin>Ren$"......"@</Origin>
+ <ToTranslate>Рэн$...@</ToTranslate>
+ </String>
+<String index="20">
+ <Origin>$See? Sekito wagged his tail and rain in circles around Ren as she nodded blankly.@</Origin>
+ <ToTranslate>$Видите? Как только Рэн безучастно кивнула, Секито начал махать хвостом и бегать вокруг неё.@</ToTranslate>
+ </String>
+<String index="21">
+ <Origin>Kazuto$"You're so energetic. Are you taking a walk now?"@</Origin>
+ <ToTranslate>Казуто$Ты такой энергичный. Решили прогуляться?@</ToTranslate>
+ </String>
+<String index="22">
+ <Origin>Sekito$"Ruff!"@</Origin>
+ <ToTranslate>Секито$Гав!!!@</ToTranslate>
+ </String>
+<String index="23">
+ <Origin>Kazuto$"You're so lucky to have such a nice master......"@</Origin>
+ <ToTranslate>Казуто$Повезло тебе с такой хорошей хозяйкой...@</ToTranslate>
+ </String>
+<String index="24">
+ <Origin>tcg_ryo11ea</Origin>
+ <ToTranslate>tcg_ryo11ea</ToTranslate>
+ </String>
+<String index="25">
+ <Origin>tcg_ryo11m</Origin>
+ <ToTranslate>tcg_ryo11m</ToTranslate>
+ </String>
+<String index="26">
+ <Origin>ren_0063</Origin>
+ <ToTranslate>ren_0063</ToTranslate>
+ </String>
+<String index="27">
+ <Origin>Ren$"I'm not usually that energetic......"@</Origin>
+ <ToTranslate>Рэн$№( Я такая же как и всегда)"I'm not usually that energetic......"@</ToTranslate>
+ </String>
+<String index="28">
+ <Origin>Kazuto$"Huh?"@</Origin>
+ <ToTranslate>Казуто$Что?@</ToTranslate>
+ </String>
+<String index="29">
+ <Origin>tcg_ryo21aa</Origin>
+ <ToTranslate>tcg_ryo21aa</ToTranslate>
+ </String>
+<String index="30">
+ <Origin>tcg_ryo21m</Origin>
+ <ToTranslate>tcg_ryo21m</ToTranslate>
+ </String>
+<String index="31">
+ <Origin>ren_0064</Origin>
+ <ToTranslate>ren_0064</ToTranslate>
+ </String>
+<String index="32">
+ <Origin>Ren$"We're going out for a walk...... now......"@</Origin>
+ <ToTranslate>Рэн$Мы собираемся на прогулку... сейчас...@</ToTranslate>
+ </String>
+<String index="33">
+ <Origin>$Oh, I got it. Ren thought that I was talking to her. With her usual blank look, she added that Sekito was energetic.@</Origin>
+ <ToTranslate>$А понятно. Рэн подумала, что я разговаривал с ней.№ Ren thought that I was talking to her. With her usual blank look, she added that Sekito was energetic.@</ToTranslate>
+ </String>
+<String index="34">
+ <Origin>$I feel oddly conscientious around her, or maybe...@</Origin>
+ <ToTranslate>$Находясь рядом с ней, я чувствую себя странно добросовестным, или возможно...@</ToTranslate>
+ </String>
+<String index="35">
+ <Origin>Kazuto$"Oh, you're going now? Okay."@</Origin>
+ <ToTranslate>Казуто$А, вы уже собираетесь? Хорошо.@</ToTranslate>
+ </String>
+<String index="36">
+ <Origin>$Awkward. I couldn't figure out where I stood with her.@</Origin>
+ <ToTranslate>$Awkward. №I couldn't figure out where I stood with her.@</ToTranslate>
+ </String>
+<String index="37">
+ <Origin>$The impression of her being able to chase away even gods of war on the battlefield was so strong that Ren's ordinary self seemed like she lacked spirit.@</Origin>
+ <ToTranslate>$Впечатление, что она была способна прогнать с поля даже богов войны, было настолько сильным, что похоже ей не достаёт собственного духа.( хня выходит№)@</ToTranslate>
+ </String>
+<String index="38">
+ <Origin>tcg_ryo11aa</Origin>
+ <ToTranslate>tcg_ryo11aa</ToTranslate>
+ </String>
+<String index="39">
+ <Origin>tcg_ryo11m</Origin>
+ <ToTranslate>tcg_ryo11m</ToTranslate>
+ </String>
+<String index="40">
+ <Origin>ren_0065</Origin>
+ <ToTranslate>ren_0065</ToTranslate>
+ </String>
+<String index="41">
+ <Origin>Ren$"......Why are you loafing around out here, My Lord?"@</Origin>
+ <ToTranslate>Рэн$Господин, почему вы бездельничаете?@</ToTranslate>
+ </String>
+<String index="42">
+ <Origin>Kazuto$"Loafing? ...Well, yeah, you don't mean anything bad by that, right? I know. I'm well, I uh..."@</Origin>
+ <ToTranslate>Казуто$Бездельничаю? Ну, да, ты ведь не имела в виду под этим ничего плохого? Знаю, я э...@</ToTranslate>
+ </String>
+<String index="43">
+ <Origin>Sekito$"Ruff?"@</Origin>
+ <ToTranslate>Секито$Гав?@</ToTranslate>
+ </String>
+<String index="44">
+ <Origin>$Don't tilt your head so cleverly! I took a deep breath to ease my tension...@</Origin>
+ <ToTranslate>$Не наклоняй свою голову с таким умным видом! Я глубоко вдохнул, чтобы снять напряжение...@</ToTranslate>
+ </String>
+<String index="45">
+ <Origin>Kazuto$"I'm just taking a walk too...... I needed a break......"@</Origin>
+ <ToTranslate>Казуто$Я тоже вышел прогуляться... мне нужен перерыв...@</ToTranslate>
+ </String>
+<String index="46">
+ <Origin>tcg_ryo21ga</Origin>
+ <ToTranslate>tcg_ryo21ga</ToTranslate>
+ </String>
+<String index="47">
+ <Origin>tcg_ryo21m</Origin>
+ <ToTranslate>tcg_ryo21m</ToTranslate>
+ </String>
+<String index="48">
+ <Origin>ren_0066</Origin>
+ <ToTranslate>ren_0066</ToTranslate>
+ </String>
+<String index="49">
+ <Origin>Ren$"......? ......???"@</Origin>
+ <ToTranslate>Рэн$?..@</ToTranslate>
+ </String>
+<String index="50">
+ <Origin>$I didn't say anything bizarre, did I? But she's kind of cute......@</Origin>
+ <ToTranslate>$Я же не сказал ничего странного? Но она выглядит мило...@</ToTranslate>
+ </String>
+<String index="51">
+ <Origin>Kazuto$"I've just decided something! Let's go out for a walk together."@</Origin>
+ <ToTranslate>Казуто$Я решил! Идём на прогулку вместе.@</ToTranslate>
+ </String>
+<String index="52">
+ <Origin>ren_0067</Origin>
+ <ToTranslate>ren_0067</ToTranslate>
+ </String>
+<String index="53">
+ <Origin>Ren$"Together......?"@</Origin>
+ <ToTranslate>Рэн$Вместе?..@</ToTranslate>
+ </String>
+<String index="54">
+ <Origin>Kazuto$"Yes, together."@</Origin>
+ <ToTranslate>Казуто$Да, вместе.@</ToTranslate>
+ </String>
+<String index="55">
+ <Origin>Sekito$"Urrrrr...... ruff! ruff!"@</Origin>
+ <ToTranslate>Секито$Ррр... гав! Гав!@</ToTranslate>
+ </String>
+<String index="56">
+ <Origin>$I don't have a better idea for conciliation, so I crouched down and scratched Sekito's chin, while I looked up at Ren with a smile.@</Origin>
+ <ToTranslate>$В знак примирения я улыбнулся Рэн и почесал подборок Секито.@</ToTranslate>
+ </String>
+<String index="57">
+ <Origin>tcg_ryo21fa</Origin>
+ <ToTranslate>tcg_ryo21fa</ToTranslate>
+ </String>
+<String index="58">
+ <Origin>tcg_ryo21m</Origin>
+ <ToTranslate>tcg_ryo21m</ToTranslate>
+ </String>
+<String index="59">
+ <Origin>ren_0068</Origin>
+ <ToTranslate>ren_0068</ToTranslate>
+ </String>
+<String index="60">
+ <Origin>Ren$"Sekito looks happy......" @</Origin>
+ <ToTranslate>Рэн$Секито выглядит счастливым...@</ToTranslate>
+ </String>
+<String index="61">
+ <Origin>Sekito$"Huh, huh, huh......"@</Origin>
+ <ToTranslate>Секито$Ххх....@</ToTranslate>
+ </String>
+<String index="62">
+ <Origin>tcg_ryo11aa</Origin>
+ <ToTranslate>tcg_ryo11aa</ToTranslate>
+ </String>
+<String index="63">
+ <Origin>tcg_ryo11m</Origin>
+ <ToTranslate>tcg_ryo11m</ToTranslate>
+ </String>
+<String index="64">
+ <Origin>ren_0069</Origin>
+ <ToTranslate>ren_0069</ToTranslate>
+ </String>
+<String index="65">
+ <Origin>Ren$"......If Sekito doesn't mind, I don't."@</Origin>
+ <ToTranslate>Рэн$...Если Секито не против, я тоже.@</ToTranslate>
+ </String>
+<String index="66">
+ <Origin>$Yes!@</Origin>
+ <ToTranslate>$Да!@</ToTranslate>
+ </String>
+<String index="67">
+ <Origin>Kazuto$"All right then, where do you want to go? Do you want to make a big circle......?"@</Origin>
+ <ToTranslate>Казуто$Отлично, тогда куда ты хочешь пойти? Хочешь сделать круг побольше?..@</ToTranslate>
+ </String>
+<String index="68">
+ <Origin>tcg_ryo21aa</Origin>
+ <ToTranslate>tcg_ryo21aa</ToTranslate>
+ </String>
+<String index="69">
+ <Origin>tcg_ryo21m</Origin>
+ <ToTranslate>tcg_ryo21m</ToTranslate>
+ </String>
+<String index="70">
+ <Origin>ren_0070</Origin>
+ <ToTranslate>ren_0070</ToTranslate>
+ </String>
+<String index="71">
+ <Origin>Ren$".................."@</Origin>
+ <ToTranslate>Рэн$...@</ToTranslate>
+ </String>
+<String index="72">
+ <Origin>Kazuto$"Huh!? Hey, Ren?"Ѓ@@</Origin>
+ <ToTranslate>Казуто$Что?! Эй, Рэн? Ѓ@@</ToTranslate>
+ </String>
+<String index="73">
+ <Origin>$She pulled me by the arm and I almost fell. I had tripped but she was still holding me.@</Origin>
+ <ToTranslate>$Она потянула меня за руку, я чуть не упал. Я споткнулся, а она по-прежнему держит меня.@</ToTranslate>
+ </String>
+<String index="74">
+ <Origin>Kazuto$"Where are we going?"@</Origin>
+ <ToTranslate>Казуто$Куда мы идём?@</ToTranslate>
+ </String>
+<String index="75">
+ <Origin>Sekito$"Ruff! Ruff!"Ѓ@@</Origin>
+ <ToTranslate>Секито$Гав! Гав! Ѓ@@</ToTranslate>
+ </String>
+<String index="76">
+ <Origin>_MsgBoxMain_Off</Origin>
+ <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+ </String>
+<String index="77">
+ <Origin>aa</Origin>
+ <ToTranslate>aa</ToTranslate>
+ </String>
+<String index="78">
+ <Origin>bg_black</Origin>
+ <ToTranslate>bg_black</ToTranslate>
+ </String>
+<String index="79">
+ <Origin>aa</Origin>
+ <ToTranslate>aa</ToTranslate>
+ </String>
+<String index="80">
+ <Origin>bcg_oncastwall_a</Origin>
+ <ToTranslate>bcg_oncastwall_a</ToTranslate>
+ </String>
+<String index="81">
+ <Origin>_MsgBoxMain_On</Origin>
+ <ToTranslate>_MsgBoxMain_On</ToTranslate>
+ </String>
+<String index="82">
+ <Origin>$She pulled me along me without saying anything, and took me to the back of the palace, circumventing the main gate.@</Origin>
+ <ToTranslate>$Она потащила меня с собой к задней стороне дворца, в обход главных ворот.@</ToTranslate>
+ </String>
+<String index="83">
+ <Origin>tcg_ryo11aa</Origin>
+ <ToTranslate>tcg_ryo11aa</ToTranslate>
+ </String>
+<String index="84">
+ <Origin>tcg_ryo11m</Origin>
+ <ToTranslate>tcg_ryo11m</ToTranslate>
+ </String>
+<String index="85">
+ <Origin>ren_0071</Origin>
+ <ToTranslate>ren_0071</ToTranslate>
+ </String>
+<String index="86">
+ <Origin>Ren$"We're leaving through here......"@</Origin>
+ <ToTranslate>Рэн$Мы уходим отсюда вместе...@</ToTranslate>
+ </String>
+<String index="87">
+ <Origin>Kazuto$"Okay......?"@</Origin>
+ <ToTranslate>Казуто$Хорошо...@</ToTranslate>
+ </String>
+<String index="88">
+ <Origin>$I wasn't sure what was going on, but I looked over at where she was pointing.@</Origin>
+ <ToTranslate>$Я не понял что происходит, но я посмотрел, куда она указывала.@</ToTranslate>
+ </String>
+<String index="89">
+ <Origin>$The wall was broken, and it looked like we could fit through it one at a time. I didn't know there was a spot like that...@</Origin>
+ <ToTranslate>$В стене был пролом, и, похоже, мы сможем поодиночке проскользнуть через него. Я и не знал, что было такое место...@</ToTranslate>
+ </String>
+<String index="90">
+ <Origin>tcg_ryo21aa</Origin>
+ <ToTranslate>tcg_ryo21aa</ToTranslate>
+ </String>
+<String index="91">
+ <Origin>tcg_ryo21m</Origin>
+ <ToTranslate>tcg_ryo21m</ToTranslate>
+ </String>
+<String index="92">
+ <Origin>ren_0072</Origin>
+ <ToTranslate>ren_0072</ToTranslate>
+ </String>
+<String index="93">
+ <Origin>Ren$"Walks are outside...."Ѓ@@</Origin>
+ <ToTranslate>Рэн$Выбираемся наружу.... Ѓ@@</ToTranslate>
+ </String>
+<String index="94">
+ <Origin>$She sounded so proud. Then she started to climb through the small hole in the wall.@</Origin>
+ <ToTranslate>$Она так гордо это сказала. Затем начала пролазить через маленькое отверстие в стене.@</ToTranslate>
+ </String>
+<String index="95">
+ <Origin>Kazuto$"I don't mind that, but why are we sneaking out like this?"@</Origin>
+ <ToTranslate>Казуто$Я конечно не против, но почему мы уходим тайком? @</ToTranslate>
+ </String>
+<String index="96">
+ <Origin>$I asked her, puzzled by her motivations.@</Origin>
+ <ToTranslate>$Мне стало интересно, почему она себя так повела.@</ToTranslate>
+ </String>
+<String index="97">
+ <Origin>tcg_ryo11ea</Origin>
+ <ToTranslate>tcg_ryo11ea</ToTranslate>
+ </String>
+<String index="98">
+ <Origin>tcg_ryo11m</Origin>
+ <ToTranslate>tcg_ryo11m</ToTranslate>
+ </String>
+<String index="99">
+ <Origin>ren_0073</Origin>
+ <ToTranslate>ren_0073</ToTranslate>
+ </String>
+<String index="100">
+ <Origin>Ren$"Aisha will get upset......"@</Origin>
+ <ToTranslate>Рэн$Айша растороится...@</ToTranslate>
+ </String>
+<String index="101">
+ <Origin>Kazuto$"Oh, I see. Does she get mad at you a lot too? I'm always..."@</Origin>
+ <ToTranslate>Казуто$О, понятно. Она на тебя тоже сильно разозлится? На меня всегда...@</ToTranslate>
+ </String>
+<String index="102">
+ <Origin>tcg_ryo11aa</Origin>
+ <ToTranslate>tcg_ryo11aa</ToTranslate>
+ </String>
+<String index="103">
+ <Origin>tcg_ryo11m</Origin>
+ <ToTranslate>tcg_ryo11m</ToTranslate>
+ </String>
+<String index="104">
+ <Origin>ren_0074</Origin>
+ <ToTranslate>ren_0074</ToTranslate>
+ </String>
+<String index="105">
+ <Origin>Ren$"Aisha always gets mad at me......"@</Origin>
+ <ToTranslate>Рэн$Айша всегда на меня злится...@</ToTranslate>
+ </String>
+<String index="106">
+ <Origin>$Our conversation wasn't going smoothly. I guess that was in character for her, though.@</Origin>
+ <ToTranslate>$Наш разговор шёл не очень гладко. Думаю всё же это из-за её характера.@</ToTranslate>
+ </String>
+<String index="107">
+ <Origin>tcg_ryo21fa</Origin>
+ <ToTranslate>tcg_ryo21fa</ToTranslate>
+ </String>
+<String index="108">
+ <Origin>tcg_ryo21m</Origin>
+ <ToTranslate>tcg_ryo21m</ToTranslate>
+ </String>
+<String index="109">
+ <Origin>ren_0075</Origin>
+ <ToTranslate>ren_0075</ToTranslate>
+ </String>
+<String index="110">
+ <Origin>Ren$"......She won't find us."@</Origin>
+ <ToTranslate>Рэн$...Она не найдёт нас.@</ToTranslate>
+ </String>
+<String index="111">
+ <Origin>$She's cute. She proudly pointed at the hole in the wall again.@</Origin>
+ <ToTranslate>$Она милая. Она снова гордо указала на отверстие в стене.@</ToTranslate>
+ </String>
+<String index="112">
+ <Origin>Kazuto$"I see...... You're a smart girl."@</Origin>
+ <ToTranslate>Казуто$Я вижу... Ты умная девочка.@</ToTranslate>
+ </String>
+<String index="113">
+ <Origin>Sekito$"Ruff!"Ѓ@@</Origin>
+ <ToTranslate>Секито$Гав!Ѓ@@</ToTranslate>
+ </String>
+<String index="114">
+ <Origin>$Sekito went through the hole first and Ren followed him. I looked back at the palace and followed through.@</Origin>
+ <ToTranslate>$Секито первым полез в отверстие, Рэн последовала за ним. Я оглянулся на дворец и пошёл за ними.@</ToTranslate>
+ </String>
+<String index="115">
+ <Origin>$Aisha would be so mad if she found out there was a hole in the wall.@</Origin>
+ <ToTranslate>$Айша впадёт в бешенство, если узнает, что в стене была дыра.@</ToTranslate>
+ </String>
+<String index="116">
+ <Origin>$I should tell her someday, when the timing's right.@</Origin>
+ <ToTranslate>$Надо будет выбрать момент и рассказать ей, когда-нибудь.@</ToTranslate>
+ </String>
+<String index="117">
+ <Origin>$But for today, I'll have to keep her in blissful ignorance.@</Origin>
+ <ToTranslate>$Но сегодня. Я подержу её в неведении.@</ToTranslate>
+ </String>
+<String index="118">
+ <Origin>tcg_ryo11aa</Origin>
+ <ToTranslate>tcg_ryo11aa</ToTranslate>
+ </String>
+<String index="119">
+ <Origin>tcg_ryo11m</Origin>
+ <ToTranslate>tcg_ryo11m</ToTranslate>
+ </String>
+<String index="120">
+ <Origin>ren_0076</Origin>
+ <ToTranslate>ren_0076</ToTranslate>
+ </String>
+<String index="121">
+ <Origin>Ren$"Hurry up My Lord..."@</Origin>
+ <ToTranslate>Рэн$Господин поспешите...@</ToTranslate>
+ </String>
+<String index="122">
+ <Origin>$It's alright, right? The sun's still so high in the sky....and it's such a nice day today.@</Origin>
+ <ToTranslate>$Всё в порядке? Солнце всё ещё высоко... и сегодня такой прекрасный день.@</ToTranslate>
+ </String>
+<String index="123">
+ <Origin>_MsgBoxMain_Off</Origin>
+ <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+ </String>
+<String index="124">
+ <Origin>aa</Origin>
+ <ToTranslate>aa</ToTranslate>
+ </String>
+<String index="125">
+ <Origin>bg_black</Origin>
+ <ToTranslate>bg_black</ToTranslate>
+ </String>
+<String index="126">
+ <Origin>aa</Origin>
+ <ToTranslate>aa</ToTranslate>
+ </String>
+<String index="127">
+ <Origin>bcg_forest_a</Origin>
+ <ToTranslate>bcg_forest_a</ToTranslate>
+ </String>
+<String index="128">
+ <Origin>_MsgBoxMain_On</Origin>
+ <ToTranslate>_MsgBoxMain_On</ToTranslate>
+ </String>
+<String index="129">
+ <Origin>bgm07</Origin>
+ <ToTranslate>bgm07</ToTranslate>
+ </String>
+<String index="130">
+ <Origin>$It's been about ten minutes since we left the palace. All we've had in the time it took us to reach the forest was a single conversation.@</Origin>
+ <ToTranslate>$Уже десять минут как мы покинули дворец. За это время мы добрались до леса и всего лишь раз поговорили.@</ToTranslate>
+ </String>
+<String index="131">
+ <Origin>Kazuto$"Are we going to the forest?"@</Origin>
+ <ToTranslate>Казуто$Мы идём в лес?@</ToTranslate>
+ </String>
+<String index="132">
+ <Origin>tcg_ryo41ka</Origin>
+ <ToTranslate>tcg_ryo41ka</ToTranslate>
+ </String>
+<String index="133">
+ <Origin>tcg_ryo41m</Origin>
+ <ToTranslate>tcg_ryo41m</ToTranslate>
+ </String>
+<String index="134">
+ <Origin>ren_0077</Origin>
+ <ToTranslate>ren_0077</ToTranslate>
+ </String>
+<String index="135">
+ <Origin>Ren$"...............(Nod.)"@</Origin>
+ <ToTranslate>Рэн$...*Кивает*@</ToTranslate>
+ </String>
+<String index="136">
+ <Origin>$Is that considered a discussion or what?@</Origin>
+ <ToTranslate>$Это беседа или как?@</ToTranslate>
+ </String>
+<String index="137">
+ <Origin>tcg_ryo21aa</Origin>
+ <ToTranslate>tcg_ryo21aa</ToTranslate>
+ </String>
+<String index="138">
+ <Origin>tcg_ryo21m</Origin>
+ <ToTranslate>tcg_ryo21m</ToTranslate>
+ </String>
+<String index="139">
+ <Origin>ren_0078</Origin>
+ <ToTranslate>ren_0078</ToTranslate>
+ </String>
+<String index="140">
+ <Origin>Ren$"........."@</Origin>
+ <ToTranslate>Рэн$...@</ToTranslate>
+ </String>
+<String index="141">
+ <Origin>$She didn't seem to mind the silence. If this was Aisha, she wouldn't have been able to take the silence and would have started grumbling, and if this was Rinrin...@</Origin>
+ <ToTranslate>$Она не против тишины. Если бы это была Айша, она не вынесла такой тишины и начла бы ворчать, а если бы была ещё и Ринрин...@</ToTranslate>
+ </String>
+<String index="142">
+ <Origin>Kazuto$"Rinrin would never be silent to begin with..."@</Origin>
+ <ToTranslate>Казуто$Ринрин вообще никогда не замолкает...@</ToTranslate>
+ </String>
+<String index="143">
+ <Origin>tcg_ryo11aa</Origin>
+ <ToTranslate>tcg_ryo11aa</ToTranslate>
+ </String>
+<String index="144">
+ <Origin>tcg_ryo11m</Origin>
+ <ToTranslate>tcg_ryo11m</ToTranslate>
+ </String>
+<String index="145">
+ <Origin>ren_0079</Origin>
+ <ToTranslate>ren_0079</ToTranslate>
+ </String>
+<String index="146">
+ <Origin>Ren$"......?"@</Origin>
+ <ToTranslate>Рэн$?..@</ToTranslate>
+ </String>
+<String index="147">
+ <Origin>tcg_ryo11ea</Origin>
+ <ToTranslate>tcg_ryo11ea</ToTranslate>
+ </String>
+<String index="148">
+ <Origin>tcg_ryo11m</Origin>
+ <ToTranslate>tcg_ryo11m</ToTranslate>
+ </String>
+<String index="149">
+ <Origin>$She looked at me for a moment, but then turned away towards Sekito, who was proudly leading the way.@</Origin>
+ <ToTranslate>$На мгновение она посмотрела на меня, но потом отвернулась к Секито, который возглавлял поход.@</ToTranslate>
+ </String>
+<String index="150">
+ <Origin>$I think this is the first time I'm spending time alone with her.@</Origin>
+ <ToTranslate>$Кажется, это впервые когда я с ней наедине провожу время.@</ToTranslate>
+ </String>
+<String index="151">
+ <Origin>$And it wasn't like she has no emotions. She watched Sekito with a sense of motherly affection.@</Origin>
+ <ToTranslate>$Она не без эмоциональный человек. Она смотрит на Секито с чувством материнской привязанности.@</ToTranslate>
+ </String>
+<String index="152">
+ <Origin>Kazuto$"I love nature......! My body and mind are getting refreshed."Ѓ@@</Origin>
+ <ToTranslate>Казуто$Люблю природу!.. Моё тело и дух восстанавливаются. Ѓ@@</ToTranslate>
+ </String>
+<String index="153">
+ <Origin>$I stretched out my body and looked around at the green scenery sparkling in the sunlight. Then I looked at the person beside me.@</Origin>
+ <ToTranslate>$Я потянулся и посмотрел на зелень вокруг. Затем я посмотрел на человека рядом со мной.@</ToTranslate>
+ </String>
+<String index="154">
+ <Origin>tcg_ryo21ga</Origin>
+ <ToTranslate>tcg_ryo21ga</ToTranslate>
+ </String>
+<String index="155">
+ <Origin>tcg_ryo21m</Origin>
+ <ToTranslate>tcg_ryo21m</ToTranslate>
+ </String>
+<String index="156">
+ <Origin>ren_0080</Origin>
+ <ToTranslate>ren_0080</ToTranslate>
+ </String>
+<String index="157">
+ <Origin>Ren$"............"@</Origin>
+ <ToTranslate>Рэн$...@</ToTranslate>
+ </String>
+<String index="158">
+ <Origin>$I gasped. I thought she was watching Sekito, but she was actually staring at me.@</Origin>
+ <ToTranslate>$У меня перехватило дыхание. Я думал, что она смотрит на Секито, а оказалось, что она смотрит на меня.@</ToTranslate>
+ </String>
+<String index="159">
+ <Origin>tcg_ryo21aa</Origin>
+ <ToTranslate>tcg_ryo21aa</ToTranslate>
+ </String>
+<String index="160">
+ <Origin>tcg_ryo21m</Origin>
+ <ToTranslate>tcg_ryo21m</ToTranslate>
+ </String>
+<String index="161">
+ <Origin>ren_0081</Origin>
+ <ToTranslate>ren_0081</ToTranslate>
+ </String>
+<String index="162">
+ <Origin>Ren$"Refresh."@</Origin>
+ <ToTranslate>Рэн$№Восстанавливается.@</ToTranslate>
+ </String>
+<String index="163">
+ <Origin>Kazuto$"......Huh?"@</Origin>
+ <ToTranslate>Казуто$Что?..@</ToTranslate>
+ </String>
+<String index="164">
+ <Origin>tcg_ryo11aa</Origin>
+ <ToTranslate>tcg_ryo11aa</ToTranslate>
+ </String>
+<String index="165">
+ <Origin>tcg_ryo11m</Origin>
+ <ToTranslate>tcg_ryo11m</ToTranslate>
+ </String>
+<String index="166">
+ <Origin>ren_0082</Origin>
+ <ToTranslate>ren_0082</ToTranslate>
+ </String>
+<String index="167">
+ <Origin>Ren$"Sometimes, your words are strange."@</Origin>
+ <ToTranslate>Рэн$Иногда ты странно говоришь.@</ToTranslate>
+ </String>
+<String index="168">
+ <Origin>Kazuto$"Oh, sorry. It's a habit..."@</Origin>
+ <ToTranslate>Казуто$Ой, извини. Это привычка...@</ToTranslate>
+ </String>
+<String index="169">
+ <Origin>tcg_ryo11ea</Origin>
+ <ToTranslate>tcg_ryo11ea</ToTranslate>
+ </String>
+<String index="170">
+ <Origin>tcg_ryo11m</Origin>
+ <ToTranslate>tcg_ryo11m</ToTranslate>
+ </String>
+<String index="171">
+ <Origin>ren_0083</Origin>
+ <ToTranslate>ren_0083</ToTranslate>
+ </String>
+<String index="172">
+ <Origin>Ren$"It's a widespread rumor."@</Origin>
+ <ToTranslate>Рэн$Это все знают№( это распространённый слух).@</ToTranslate>
+ </String>
+<String index="173">
+ <Origin>$Where!? But before I could say anything, she looked away and started watching Sekito again......She dodged the question.@</Origin>
+ <ToTranslate>$Где?! Но прежде чем я успел спросить, она снова повернулась к Секито... Она уклонилась от вопроса.@</ToTranslate>
+ </String>
+<String index="174">
+ <Origin>$She wasn't even interested in my answer.....She certainly is unique.@</Origin>
+ <ToTranslate>$Она даже не заинтересовалась, в ответе... Она, несомненно, необыкновенная.@</ToTranslate>
+ </String>
+<String index="175">
+ <Origin>$She was unusually amusing, and somewhat out of it.@</Origin>
+ <ToTranslate>$Она необычайно забавна, и даже более.@</ToTranslate>
+ </String>
+<String index="176">
+ <Origin>$It was nothing like the fear I held at Hulao Pass.@</Origin>
+ <ToTranslate>$Это не было похоже на страх который я испытал при Хулао.@</ToTranslate>
+ </String>
+<String index="177">
+ <Origin>$It was hard to imagine that this quiet girl beside me was the unparalleled Ryofu Housen.@</Origin>
+ <ToTranslate>$Тяжело представить, что эта тихая девушка возле меня это неповторимая Рёфу Хосен(Фенгсьянг).@</ToTranslate>
+ </String>
+<String index="178">
+ <Origin>Kazuto$"So which girl is the real Ren?"@</Origin>
+ <ToTranslate>Казуто$Так кто же настоящая Рэн?@</ToTranslate>
+ </String>
+<String index="179">
+ <Origin>tcg_ryo11aa</Origin>
+ <ToTranslate>tcg_ryo11aa</ToTranslate>
+ </String>
+<String index="180">
+ <Origin>tcg_ryo11m</Origin>
+ <ToTranslate>tcg_ryo11m</ToTranslate>
+ </String>
+<String index="181">
+ <Origin>ren_0084</Origin>
+ <ToTranslate>ren_0084</ToTranslate>
+ </String>
+<String index="182">
+ <Origin>Ren$"What about me......?"@</Origin>
+ <ToTranslate>Рэн$Ты обо мне?..@</ToTranslate>
+ </String>
+<String index="183">
+ <Origin>Kazuto$"Huh? Oh, I just think you're a totally different person compared to how you were on the battlefield."@</Origin>
+ <ToTranslate>Казуто$Что? А. Я просто подумал, что на поле боя ты ведёшь себя как совершенно другой человек.@</ToTranslate>
+ </String>
+<String index="184">
+ <Origin>tcg_ryo21ga</Origin>
+ <ToTranslate>tcg_ryo21ga</ToTranslate>
+ </String>
+<String index="185">
+ <Origin>tcg_ryo21m</Origin>
+ <ToTranslate>tcg_ryo21m</ToTranslate>
+ </String>
+<String index="186">
+ <Origin>ren_0085</Origin>
+ <ToTranslate>ren_0085</ToTranslate>
+ </String>
+<String index="187">
+ <Origin>Ren$"Totally different person?"@</Origin>
+ <ToTranslate>Рэн$Совершенно другой человек?@</ToTranslate>
+ </String>
+<String index="188">
+ <Origin>Kazuto$"Does it sound strange to you? But that's what I think. Which side is your real personality?" @</Origin>
+ <ToTranslate>Казуто$Тебе кажется это странным? Но я так думаю. Кто из них, настоящая ты?@</ToTranslate>
+ </String>
+<String index="189">
+ <Origin>$Which side of Ren am I supposed to accept and try to understand?@</Origin>
+ <ToTranslate>$Какую сторону Рэн я должен принять и попытаться понять?@</ToTranslate>
+ </String>
+<String index="190">
+ <Origin>tcg_ryo41ka</Origin>
+ <ToTranslate>tcg_ryo41ka</ToTranslate>
+ </String>
+<String index="191">
+ <Origin>tcg_ryo41m</Origin>
+ <ToTranslate>tcg_ryo41m</ToTranslate>
+ </String>
+<String index="192">
+ <Origin>ren_0086</Origin>
+ <ToTranslate>ren_0086</ToTranslate>
+ </String>
+<String index="193">
+ <Origin>Ren$"............"@</Origin>
+ <ToTranslate>Рэн$...@</ToTranslate>
+ </String>
+<String index="194">
+ <Origin>$It took a while for her to reply. She tilted her head right and left...... and then stopped moving entirely to debate it.@</Origin>
+ <ToTranslate>$Ей № потребовалось немало времени, чтобы ответить. Она начала качать головой... затем перестала, чтобы, наконец, ответить.@</ToTranslate>
+ </String>
+<String index="195">
+ <Origin>$Then......@</Origin>
+ <ToTranslate>$Тогда...@</ToTranslate>
+ </String>
+<String index="196">
+ <Origin>tcg_ryo11aa</Origin>
+ <ToTranslate>tcg_ryo11aa</ToTranslate>
+ </String>
+<String index="197">
+ <Origin>tcg_ryo11m</Origin>
+ <ToTranslate>tcg_ryo11m</ToTranslate>
+ </String>
+<String index="198">
+ <Origin>ren_0087</Origin>
+ <ToTranslate>ren_0087</ToTranslate>
+ </String>
+<String index="199">
+ <Origin>Ren$"......Both."@</Origin>
+ <ToTranslate>Рэн$...Обе.@</ToTranslate>
+ </String>
+<String index="200">
+ <Origin>$I almost laughed at her answer. She was right about that.@</Origin>
+ <ToTranslate>$Я почти рассмеялся от ответа. Но она была права.@</ToTranslate>
+ </String>
+<String index="201">
+ <Origin>Kazuto$"Both, huh? I know, but I'm trying to ask you...... How should I say......?" @</Origin>
+ <ToTranslate>Казуто$Обе, да? Я знаю, но я пытаюсь спросить... Как бы это сказать?..@</ToTranslate>
+ </String>
+<String index="202">
+ <Origin>tcg_ryo21ga</Origin>
+ <ToTranslate>tcg_ryo21ga</ToTranslate>
+ </String>
+<String index="203">
+ <Origin>tcg_ryo21m</Origin>
+ <ToTranslate>tcg_ryo21m</ToTranslate>
+ </String>
+<String index="204">
+ <Origin>ren_0088</Origin>
+ <ToTranslate>ren_0088</ToTranslate>
+ </String>
+<String index="205">
+ <Origin>Ren$"......?"@</Origin>
+ <ToTranslate>Рэн$...@</ToTranslate>
+ </String>
+<String index="206">
+ <Origin>Kazuto$"Which girl do you prefer to be?"@</Origin>
+ <ToTranslate>Казуто$Кем больше тебе нравиться быть?@</ToTranslate>
+ </String>
+<String index="207">
+ <Origin>$I'm not sure if I put it the right way......But it sounded good enough to me.@</Origin>
+ <ToTranslate>$Неуверен, что выбрал правильный путь... Но мне кажется, прозвучало нормально.@</ToTranslate>
+ </String>
+<String index="208">
+ <Origin>tcg_ryo11ia</Origin>
+ <ToTranslate>tcg_ryo11ia</ToTranslate>
+ </String>
+<String index="209">
+ <Origin>tcg_ryo11m</Origin>
+ <ToTranslate>tcg_ryo11m</ToTranslate>
+ </String>
+<String index="210">
+ <Origin>ren_0089</Origin>
+ <ToTranslate>ren_0089</ToTranslate>
+ </String>
+<String index="211">
+ <Origin>Ren$"..............."@</Origin>
+ <ToTranslate>Рэн$...@</ToTranslate>
+ </String>
+<String index="212">
+ <Origin>Sekito$"Uuur?"@</Origin>
+ <ToTranslate>Секито$Урр?@</ToTranslate>
+ </String>
+<String index="213">
+ <Origin>$I think this is going to be a longer silence. Sekito realized she wasn't following and started to run around her legs. He lightly nipped her ankle to urge her.@</Origin>
+ <ToTranslate>$Кажется, тишина повисла надолго. Секито заметил, что она не идёт за ним и начал бегать вокруг неё. Он слегка цапнул её за лодыжку, чтобы привлечь внимание.@</ToTranslate>
+ </String>
+<String index="214">
+ <Origin>tcg_ryo21fa</Origin>
+ <ToTranslate>tcg_ryo21fa</ToTranslate>
+ </String>
+<String index="215">
+ <Origin>tcg_ryo21m</Origin>
+ <ToTranslate>tcg_ryo21m</ToTranslate>
+ </String>
+<String index="216">
+ <Origin>ren_0090</Origin>
+ <ToTranslate>ren_0090</ToTranslate>
+ </String>
+<String index="217">
+ <Origin>Ren$"Hmm......"@</Origin>
+ <ToTranslate>Рэн$Хмм...@</ToTranslate>
+ </String>
+<String index="218">
+ <Origin>$My heart raced suddenly. The way she knelt down and petted Sekito's head was unbelievably beautiful......@</Origin>
+ <ToTranslate>$Моё сердце чуть не выпрыгнуло из груди. Как она опустилась на колени, и гладила голову Секито, это было так прекрасно...@</ToTranslate>
+ </String>
+<String index="219">
+ <Origin>tcg_ryo11aa</Origin>
+ <ToTranslate>tcg_ryo11aa</ToTranslate>
+ </String>
+<String index="220">
+ <Origin>tcg_ryo11m</Origin>
+ <ToTranslate>tcg_ryo11m</ToTranslate>
+ </String>
+<String index="221">
+ <Origin>ren_0091</Origin>
+ <ToTranslate>ren_0091</ToTranslate>
+ </String>
+<String index="222">
+ <Origin>Ren$"I like being relaxed......"@</Origin>
+ <ToTranslate>Рэн$Мне нравится быть мягкой(доброй, расслабленной)(№сцук хрень выходит)...@</ToTranslate>
+ </String>
+<String index="223">
+ <Origin>$That's what I thought she would say.@</Origin>
+ <ToTranslate>$Я так и думал, что она это скажет.@</ToTranslate>
+ </String>
+<String index="224">
+ <Origin>Kazuto$"Did I ask you a weird thing......? Well, I think being relaxed fits you the best, too."@</Origin>
+ <ToTranslate>Казуто$"Я спрашиваю странные вещи?.. думаю тебе подходит быть мягой(№доброй чтоли?)@</ToTranslate>
+ </String>
+<String index="225">
+ <Origin>tcg_ryo21ga</Origin>
+ <ToTranslate>tcg_ryo21ga</ToTranslate>
+ </String>
+<String index="226">
+ <Origin>tcg_ryo21m</Origin>
+ <ToTranslate>tcg_ryo21m</ToTranslate>
+ </String>
+<String index="227">
+ <Origin>ren_0092</Origin>
+ <ToTranslate>ren_0092</ToTranslate>
+ </String>
+<String index="228">
+ <Origin>Ren$"You gave me a compliment."@</Origin>
+ <ToTranslate>Рэн$Ты сделал мне комплимент.@</ToTranslate>
+ </String>
+<String index="229">
+ <Origin>Kazuto$"Did I? I guess you can take it like that."@</Origin>
+ <ToTranslate>Казуто$Правда? № I guess you can take it like that."@</ToTranslate>
+ </String>
+<String index="230">
+ <Origin>$I was surprised with myself...and at how comforting her natural answer was to me.@</Origin>
+ <ToTranslate>$Я удивился самому себе... и тому, как она естественно ответила мне.@</ToTranslate>
+ </String>
+<String index="231">
+ <Origin>tcg_ryo21aa</Origin>
+ <ToTranslate>tcg_ryo21aa</ToTranslate>
+ </String>
+<String index="232">
+ <Origin>tcg_ryo21m</Origin>
+ <ToTranslate>tcg_ryo21m</ToTranslate>
+ </String>
+<String index="233">
+ <Origin>ren_0093</Origin>
+ <ToTranslate>ren_0093</ToTranslate>
+ </String>
+<String index="234">
+ <Origin>Ren$"Did I give you the right answer......?"@</Origin>
+ <ToTranslate>Рэн$Я правильно ответила?..@</ToTranslate>
+ </String>
+<String index="235">
+ <Origin>Kazuto$"Yes, you did."@</Origin>
+ <ToTranslate>Казуто$Да.@</ToTranslate>
+ </String>
+<String index="236">
+ <Origin>$Of course it was. Her smile was so adorable....... There's no way she could like to fight.@</Origin>
+ <ToTranslate>$Конечно, правильно. Её улыбка такая очаровательная... Ей точно не могут нравиться сражения.@</ToTranslate>
+ </String>
+<String index="237">
+ <Origin>tcg_ryo11aa</Origin>
+ <ToTranslate>tcg_ryo11aa</ToTranslate>
+ </String>
+<String index="238">
+ <Origin>tcg_ryo11m</Origin>
+ <ToTranslate>tcg_ryo11m</ToTranslate>
+ </String>
+<String index="239">
+ <Origin>ren_0094</Origin>
+ <ToTranslate>ren_0094</ToTranslate>
+ </String>
+<String index="240">
+ <Origin>Ren$"I don't know why, but you look happy, My Lord...... I feel like I did something good."@</Origin>
+ <ToTranslate>Рэн$Незнаю почему, но вы выглядите счастливым, господин... мне кажется, я сделала что-то хорошее.@</ToTranslate>
+ </String>
+<String index="241">
+ <Origin>$This was the Ren I should understand and respect...@</Origin>
+ <ToTranslate>$Это была та Рэн, которую я должен понять и уважать...@</ToTranslate>
+ </String>
+<String index="242">
+ <Origin>$I can treat her the way I treat Aisha and Rinrin. I can joke around and tease her sometimes.@</Origin>
+ <ToTranslate>$Теперь я могу к ней относиться как к Айше и Ринрин. Я могу шутить и дразнить её иногда.</ToTranslate>
+ </String>
+<String index="243">
+ <Origin>Sekito$"Ruff! Grr, grr...... ruff!"@</Origin>
+ <ToTranslate>Секито$Ргав! Грр... Гав!@</ToTranslate>
+ </String>
+<String index="244">
+ <Origin>Kazuto$"Yeah yeah, sorry for the wait. You want to walk more, right?"@</Origin>
+ <ToTranslate>Казуто$Да,да извини за задержку. Ты хочешь ещё погулять?@</ToTranslate>
+ </String>
+<String index="245">
+ <Origin>Sekito$"Ruff!"@</Origin>
+ <ToTranslate>Секито$Гав!@</ToTranslate>
+ </String>
+<String index="246">
+ <Origin>tcg_ryo21aa</Origin>
+ <ToTranslate>tcg_ryo21aa</ToTranslate>
+ </String>
+<String index="247">
+ <Origin>tcg_ryo21m</Origin>
+ <ToTranslate>tcg_ryo21m</ToTranslate>
+ </String>
+<String index="248">
+ <Origin>ren_0095</Origin>
+ <ToTranslate>ren_0095</ToTranslate>
+ </String>
+<String index="249">
+ <Origin>Ren$"Sekito wants us to hurry......"@</Origin>
+ <ToTranslate>Рэн$Секито хочет, чтобы мы поторопились...@</ToTranslate>
+ </String>
+<String index="250">
+ <Origin>Kazuto$"Hurry where? We don't have anywhere to go to. This is just a walk."@</Origin>
+ <ToTranslate>Казуто$Поторопились куда? Мы не куда не собирались. Это просто прогулка.@</ToTranslate>
+ </String>
+<String index="251">
+ <Origin>tcg_ryo11aa</Origin>
+ <ToTranslate>tcg_ryo11aa</ToTranslate>
+ </String>
+<String index="252">
+ <Origin>tcg_ryo11m</Origin>
+ <ToTranslate>tcg_ryo11m</ToTranslate>
+ </String>
+<String index="253">
+ <Origin>ren_0096</Origin>
+ <ToTranslate>ren_0096</ToTranslate>
+ </String>
+<String index="254">
+ <Origin>Ren$"He does." @</Origin>
+ <ToTranslate>Рэн$Он знает.@</ToTranslate>
+ </String>
+<String index="255">
+ <Origin>$She replied immediately. She chased Sekito as he started running off. She pulled my hand...... but quickly let it go.@</Origin>
+ <ToTranslate>$Она сразу ответила, и пошла за Секито, который побежал дальше. Она взяла меня за руку... но быстро отпустила её.@</ToTranslate>
+ </String>
+<String index="256">
+ <Origin>Kazuto$"He does? ......You're full of confidence. You say that like you understand him."@</Origin>
+ <ToTranslate>Казуто$Он знает?.. Говоришь уверенно, как будто понимаешь его.@</ToTranslate>
+ </String>
+<String index="257">
+ <Origin>$I could still feel the warmth of her hand...... My heart was racing just a little bit.@</Origin>
+ <ToTranslate>$Я до сих пор чувствую тепло её руки... мой сердце моё сердце бешенно кололотится.№t. My heart was racing just a little bit.(повествование вроде в прошедшем времени шло, я чёт намутил)@</ToTranslate>
+ </String>
+<String index="258">
+ <Origin>tcg_ryo11ea</Origin>
+ <ToTranslate>tcg_ryo11ea</ToTranslate>
+ </String>
+<String index="259">
+ <Origin>tcg_ryo11m</Origin>
+ <ToTranslate>tcg_ryo11m</ToTranslate>
+ </String>
+<String index="260">
+ <Origin>ren_0097</Origin>
+ <ToTranslate>ren_0097</ToTranslate>
+ </String>
+<String index="261">
+ <Origin>Ren$"I kind of understand him."@</Origin>
+ <ToTranslate>Рэн$В нектором смысле я понимаю его.@</ToTranslate>
+ </String>
+<String index="262">
+ <Origin>Kazuto$"Hahaha....... So what's he saying?"@</Origin>
+ <ToTranslate>Казуто$Ха ха ха... И что же он говорит?@</ToTranslate>
+ </String>
+<String index="263">
+ <Origin>$Sekito turned back to make sure that we were following behind him. Then he went deeper inside the forest.@</Origin>
+ <ToTranslate>$Секито обернулся, чтобы убедиться, что мы следуем за ним. Он пошёл дальше в лес.@</ToTranslate>
+ </String>
+<String index="264">
+ <Origin>$We ran, chasing him, trying not to get left behind.@</Origin>
+ <ToTranslate>$Чтобы не отставать, мы побежали за ним.@</ToTranslate>
+ </String>
+<String index="265">
+ <Origin>tcg_ryo11aa</Origin>
+ <ToTranslate>tcg_ryo11aa</ToTranslate>
+ </String>
+<String index="266">
+ <Origin>tcg_ryo11m</Origin>
+ <ToTranslate>tcg_ryo11m</ToTranslate>
+ </String>
+<String index="267">
+ <Origin>ren_0098</Origin>
+ <ToTranslate>ren_0098</ToTranslate>
+ </String>
+<String index="268">
+ <Origin>Ren$"......Bath."@</Origin>
+ <ToTranslate>Рэн$...Купаться.@</ToTranslate>
+ </String>
+<String index="269">
+ <Origin>$What the-? I opened my mouth to ask her what she's talking about, but then my waist brushed past the shrubs.@</Origin>
+ <ToTranslate>$Что за? Я только открыл рот, чтобы спросить, о чём она, но как только я продёрся через кусты.@</ToTranslate>
+ </String>
+<String index="270">
+ <Origin>_MsgBoxMain_Off</Origin>
+ <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+ </String>
+<String index="271">
+ <Origin>aa</Origin>
+ <ToTranslate>aa</ToTranslate>
+ </String>
+<String index="272">
+ <Origin>bg_black</Origin>
+ <ToTranslate>bg_black</ToTranslate>
+ </String>
+<String index="273">
+ <Origin>aa</Origin>
+ <ToTranslate>aa</ToTranslate>
+ </String>
+<String index="274">
+ <Origin>bcg_river_a</Origin>
+ <ToTranslate>bcg_river_a</ToTranslate>
+ </String>
+<String index="275">
+ <Origin>_MsgBoxMain_On</Origin>
+ <ToTranslate>_MsgBoxMain_On</ToTranslate>
+ </String>
+<String index="276">
+ <Origin>SE053</Origin>
+ <ToTranslate>SE053</ToTranslate>
+ </String>
+<String index="277">
+ <Origin>bgm14</Origin>
+ <ToTranslate>bgm14</ToTranslate>
+ </String>
+<String index="278">
+ <Origin>$The sunlight that filtered through the trees was bright. I could hear the pleasant rustling of leaves and the rippling of water.@</Origin>
+ <ToTranslate>$Яркий свет падает сквозь ветви деревьев. Я слышу шелест листвы и всплески воды.@</ToTranslate>
+ </String>
+<String index="279">
+ <Origin>Kazuto$"Bath......?"@</Origin>
+ <ToTranslate>Казуто$Купаться?..@</ToTranslate>
+ </String>
+<String index="280">
+ <Origin>$I repeated her word.@</Origin>
+ <ToTranslate>$Я переспросил.@</ToTranslate>
+ </String>
+<String index="281">
+ <Origin>Sekito$"Ruff!"@</Origin>
+ <ToTranslate>Секито$Гав!@</ToTranslate>
+ </String>
+<String index="282">
+ <Origin>$*Splash* Sekito jumped into the river and began splashing about.@</Origin>
+ <ToTranslate>$*Всплеск* Секито прыгнул в реку, и брызги полетели во все стороны.@</ToTranslate>
+ </String>
+<String index="283">
+ <Origin>$I see...... He's taking his bath here.....@</Origin>
+ <ToTranslate>$Понятно... Он здесь купается...@</ToTranslate>
+ </String>
+<String index="284">
+ <Origin>Sekito$"Huff, huff, huff."@</Origin>
+ <ToTranslate>Секто$Гав, гав!@</ToTranslate>
+ </String>
+<String index="285">
+ <Origin>$He seemed happy. He swum against the current with his short legs.@</Origin>
+ <ToTranslate>$Похоже он счастлив. Он поплыл против течения, перебирая своими короткими лапками. @</ToTranslate>
+ </String>
+<String index="286">
+ <Origin>Kazuto$"He won't drown...will he? He's a good swimmer."@</Origin>
+ <ToTranslate>Казуто$Он ведь не утонет?.. Он хороший плавец.@</ToTranslate>
+ </String>
+<String index="287">
+ <Origin>tcg_ryo11aa</Origin>
+ <ToTranslate>tcg_ryo11aa</ToTranslate>
+ </String>
+<String index="288">
+ <Origin>tcg_ryo11m</Origin>
+ <ToTranslate>tcg_ryo11m</ToTranslate>
+ </String>
+<String index="289">
+ <Origin>ren_0099</Origin>
+ <ToTranslate>ren_0099</ToTranslate>
+ </String>
+<String index="290">
+ <Origin>Ren$"Sekito loves taking baths......"@</Origin>
+ <ToTranslate>Рэн$Секито любит купаться...@</ToTranslate>
+ </String>
+<String index="291">
+ <Origin>Kazuto$"Looks like it. Haha, is he a salmon? At that rate he'll swim upstream."@</Origin>
+ <ToTranslate>Kazuto$Похоже на то. Он плывёт вверх по течению как лосось.@</ToTranslate>
+ </String>
+<String index="292">
+ <Origin>$His head was like a huge lure. It floated for a moment, then sank. But he wasn't drowning.@</Origin>
+ <ToTranslate>$Его голова словно поплавок. Она поднималась над водой, а затем опускалась.@</ToTranslate>
+ </String>
+<String index="293">
+ <Origin>$His fluffy hair was soaked and he dog paddled in big circles.@</Origin>
+ <ToTranslate>$Его пушистый мех намок, но он всё равно продолжал плавать по кругу.@</ToTranslate>
+ </String>
+<String index="294">
+ <Origin>Sekito$"Ruff!"@</Origin>
+ <ToTranslate>Секито$Гав!@</ToTranslate>
+ </String>
+<String index="295">
+ <Origin>$He turned his head toward us and barked like he was calling us.@</Origin>
+ <ToTranslate>$Он повернул голову в нашу сторону и залаял, будто зовёт нас.@</ToTranslate>
+ </String>
+<String index="296">
+ <Origin>Kazuto$"Since you said bath, I take it this is the path you usually walk? It seems fun. May I join you again?"@</Origin>
+ <ToTranslate>Казуто$Ты сказала купаться, это путь, по которому вы обычно ходите? Похоже это весело. Можно мне присоединиться к вам в следующий раз?@</ToTranslate>
+ </String>
+<String index="297">
+ <Origin>ren_0100</Origin>
+ <ToTranslate>ren_0100</ToTranslate>
+ </String>
+<String index="298">
+ <Origin>Ren$"I'm coming......"@</Origin>
+ <ToTranslate>Рэн$Я иду...@</ToTranslate>
+ </String>
+<String index="299">
+ <Origin>Kazuto$"Huh? I was just asking if I could come with you again......"@</Origin>
+ <ToTranslate>Казуто$Что? Я просто спрашивал, могу ли я сходить с вами снова?..@</ToTranslate>
+ </String>
+<String index="300">
+ <Origin>$Huh!? She was just here...@</Origin>
+ <ToTranslate>$Что?! Она только что была тут...@</ToTranslate>
+ </String>
+<String index="301">
+ <Origin>ren_0101</Origin>
+ <ToTranslate>ren_0101</ToTranslate>
+ </String>
+<String index="302">
+ <Origin>Ren$"There......"@</Origin>
+ <ToTranslate>Рэн$Вот...@</ToTranslate>
+ </String>
+<String index="303">
+ <Origin>$...............!@</Origin>
+ <ToTranslate>$!..@</ToTranslate>
+ </String>
+<String index="304">
+ <Origin>_MsgBoxMain_Off</Origin>
+ <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+ </String>
+<String index="305">
+ <Origin>bg_black</Origin>
+ <ToTranslate>bg_black</ToTranslate>
+ </String>
+<String index="306">
+ <Origin>_MsgBoxMain_Off</Origin>
+ <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+ </String>
+<String index="307">
+ <Origin>ecg_ryo01a</Origin>
+ <ToTranslate>ecg_ryo01a</ToTranslate>
+ </String>
+<String index="308">
+ <Origin>_MsgBoxMain_On</Origin>
+ <ToTranslate>_MsgBoxMain_On</ToTranslate>
+ </String>
+<String index="309">
+ <Origin>bgm26</Origin>
+ <ToTranslate>bgm26</ToTranslate>
+ </String>
+<String index="310">
+ <Origin>$Wh-whhhhhhhhhhaaaa?!@</Origin>
+ <ToTranslate>$Чччто?!@</ToTranslate>
+ </String>
+<String index="311">
+ <Origin>ren_0102</Origin>
+ <ToTranslate>ren_0102</ToTranslate>
+ </String>
+<String index="312">
+ <Origin>Ren$"Sekito...... I'm here."@</Origin>
+ <ToTranslate>Рэн$Секито... я здесь.@</ToTranslate>
+ </String>
+<String index="313">
+ <Origin>Sekito$"Ruff!"@</Origin>
+ <ToTranslate>Секито$Гав!@</ToTranslate>
+ </String>
+<String index="314">
+ <Origin>$Huh?! I just froze up...... I mean, who wouldn't in this situation?@</Origin>
+ <ToTranslate>$Что?! Я просто застыл... в смысле, на моём месте с любым бы так случилось?</ToTranslate>
+ </String>
+<String index="315">
+ <Origin>$She casually took her clothes off while approaching the river...... and then she just flung her final barrier, her loincloth, aside.@</Origin>
+ <ToTranslate>$Она на ходу скинула с себя одежду... около самой реки она скинула последнее – набедренную повязку.@</ToTranslate>
+ </String>
+<String index="316">
+ <Origin>ren_0103</Origin>
+ <ToTranslate>ren_0103</ToTranslate>
+ </String>
+<String index="317">
+ <Origin>Ren$"Let me wash you......"@</Origin>
+ <ToTranslate>Рэн$Давай я тебя помою...@</ToTranslate>
+ </String>
+<String index="318">
+ <Origin>Sekito$"Urrr...... urrr......"@</Origin>
+ <ToTranslate>Секито$Урр... урр...@</ToTranslate>
+ </String>
+<String index="319">
+ <Origin>$She bent down to pick up Sekito, and I saw her firm bottom sticking out towards me!!@</Origin>
+ <ToTranslate>$Она наклонилась, чтобы поднять Секито, и я увидел её упругий зад повёрнутый ко мне!!!@</ToTranslate>
+ </String>
+<String index="320">
+ <Origin>Kazuto$"Waaaah!?"@</Origin>
+ <ToTranslate>Казуто$Уаа?!@</ToTranslate>
+ </String>
+<String index="321">
+ <Origin>ren_0104</Origin>
+ <ToTranslate>ren_0104</ToTranslate>
+ </String>
+<String index="322">
+ <Origin>Ren$"?! ......Is there something wrong, My Lord?"@</Origin>
+ <ToTranslate>Рэн$...Что-то не так господин?@</ToTranslate>
+ </String>
+<String index="323">
+ <Origin>Kazuto$"Of course there's something wrong! ......I feel like my brain is boiling."@</Origin>
+ <ToTranslate>Казуто$Конечно что-то не так!.. Я чувствую, как у меня закипает мозг.@</ToTranslate>
+ </String>
+<String index="324">
+ <Origin>ren_0105</Origin>
+ <ToTranslate>ren_0105</ToTranslate>
+ </String>
+<String index="325">
+ <Origin>Ren$"......???"@</Origin>
+ <ToTranslate>Рэн$???@</ToTranslate>
+ </String>
+<String index="326">
+ <Origin>$My voice of reason demanded to know where I was supposed to be looking, but my eyes just...@</Origin>
+ <ToTranslate>$Голос разума мне говорил куда смотреть, но мои глаза смотрели совсем не туда...@</ToTranslate>
+ </String>
+<String index="327">
+ <Origin>Kazuto$"Gulp......"@</Origin>
+ <ToTranslate>Казуто$*Сглотнул*...@</ToTranslate>
+ </String>
+<String index="328">
+ <Origin>$He was licking her shining, luscious waist. I knew I shouldn't watch, but I was drawn in.@</Origin>
+ <ToTranslate>$Он лизал её блестящую, сочную талию. Я знал, что не стоит на это смотреть, но я не мог оторваться.@</ToTranslate>
+ </String>
+<String index="329">
+ <Origin>$What kind of bonus game is this? Is this some kind of reward!?@</Origin>
+ <ToTranslate>$Что это бонус к игре? Это какой-то вид награды?!@</ToTranslate>
+ </String>
+<String index="330">
+ <Origin>ren_0106</Origin>
+ <ToTranslate>ren_0106</ToTranslate>
+ </String>
+<String index="331">
+ <Origin>Ren$"My Lord, you can take your clothes off...too."@</Origin>
+ <ToTranslate>Рэн$Господин, вы тоже... можете раздеться.@</ToTranslate>
+ </String>
+<String index="332">
+ <Origin>Kazuto$"No!"@</Origin>
+ <ToTranslate>Казуто$Нет!@</ToTranslate>
+ </String>
+<String index="333">
+ <Origin>ren_0107</Origin>
+ <ToTranslate>ren_0107</ToTranslate>
+ </String>
+<String index="334">
+ <Origin>Ren$"......Why are you covering your crotch and leaning forward?" @</Origin>
+ <ToTranslate>Рэн$...Почему вы наклонились вперёд и прикрываете промежность?@</ToTranslate>
+ </String>
+<String index="335">
+ <Origin>$It's so cruel how she's pointing that out...... I'm a healthy young man, you know? @</Origin>
+ <ToTranslate>$Она так жестоко указала на это... Знаешь ли, я здоровый молодой человек. @</ToTranslate>
+ </String>
+<String index="336">
+ <Origin>$She turned around...... and I saw her two hard nipples.@</Origin>
+ <ToTranslate>$Она повернулась... и я увидел два упругих соска.@</ToTranslate>
+ </String>
+<String index="337">
+ <Origin>Kazuto$"Gulp......"@</Origin>
+ <ToTranslate>Казуто$* Сглотнул*...@</ToTranslate>
+ </String>
+<String index="338">
+ <Origin>$They looked like ripe cherries. I stared at her small, adorable nipples.@</Origin>
+ <ToTranslate>$Они похожи на спелые вишни. Я уставился на её маленькие, очаровательные соски.@</ToTranslate>
+ </String>
+<String index="339">
+ <Origin>$With the times as they are, and the girl being who she is, I wouldn't find it odd if I lost my life right here.@</Origin>
+ <ToTranslate>$После увиденного, и умереть не жалко.@</ToTranslate>
+ </String>
+<String index="340">
+ <Origin>ren_0108</Origin>
+ <ToTranslate>ren_0108</ToTranslate>
+ </String>
+<String index="341">
+ <Origin>Ren$"It's hot out here. You should come into the river, too......My Lord."@</Origin>
+ <ToTranslate>Рэн$Жарко, господин... вам тоже стоит искупаться.@</ToTranslate>
+ </String>
+<String index="342">
+ <Origin>Sekito$"Ruff!"@</Origin>
+ <ToTranslate>Секито$Гав!@</ToTranslate>
+ </String>
+<String index="343">
+ <Origin>$I'm so thankful that she's not suspicious of me...... And I'm sorry, I took advantage of her innocence and continue to stare at her.@</Origin>
+ <ToTranslate>$Я так благодарен, что она не заподозрила меня... Мне так жаль, я воспользовался её невинностью и продолжал смотреть на неё.@</ToTranslate>
+ </String>
+<String index="344">
+ <Origin>$I checked out her nice ass, and her back......@</Origin>
+ <ToTranslate>$Я полюбовался её изящной спиной и красивой попкой...@</ToTranslate>
+ </String>
+<String index="345">
+ <Origin>ren_0109</Origin>
+ <ToTranslate>ren_0109</ToTranslate>
+ </String>
+<String index="346">
+ <Origin>Ren$"Let me get your stomach......"@</Origin>
+ <ToTranslate>Рэн$Давай сюда животик...@</ToTranslate>
+ </String>
+<String index="347">
+ <Origin>$She was focused on cleaning his body...... I should stop staring at her or I'm going to have a nosebleed right about now.@</Origin>
+ <ToTranslate>$Она сосредоточилась на купании собаки... надо прекратить пялиться на неё, а то сейчас кровь из носа польётся.@</ToTranslate>
+ </String>
+<String index="348">
+ <Origin>ren_0110</Origin>
+ <ToTranslate>ren_0110</ToTranslate>
+ </String>
+<String index="349">
+ <Origin>Ren$"The cold water feels good, huh......?"@</Origin>
+ <ToTranslate>Рэн$Холодная водичка, правда, хорошо?..@</ToTranslate>
+ </String>
+<String index="350">
+ <Origin>Sekito$"Ruff!"@</Origin>
+ <ToTranslate>Секито$Гав!@</ToTranslate>
+ </String>
+<String index="351">
+ <Origin>$She kept on looking at me, not because I was staring at her, but because she felt apologetic. You know, as if she was sorry for being the only one enjoying herself.@</Origin>
+ <ToTranslate>$Она продолжала на меня смотреть, будто извиняясь, не потому что я смотрел на неё. Ну, вы знаете ей, будто жаль, что только она развлекается.@</ToTranslate>
+ </String>
+<String index="352">
+ <Origin>$She's such a nice girl......@</Origin>
+ <ToTranslate>$Она такая хорошая девушка...@</ToTranslate>
+ </String>
+<String index="353">
+ <Origin>$But she needs to be aware of what she's doing.@</Origin>
+ <ToTranslate>$Но она должна понимать, что она делает.@</ToTranslate>
+ </String>
+<String index="354">
+ <Origin>_MsgBoxMain_Off</Origin>
+ <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+ </String>
+<String index="355">
+ <Origin>ecg_ryo01b</Origin>
+ <ToTranslate>ecg_ryo01b</ToTranslate>
+ </String>
+<String index="356">
+ <Origin>_MsgBoxMain_On</Origin>
+ <ToTranslate>_MsgBoxMain_On</ToTranslate>
+ </String>
+<String index="357">
+ <Origin>ren_0111</Origin>
+ <ToTranslate>ren_0111</ToTranslate>
+ </String>
+<String index="358">
+ <Origin>Ren$"It feels so good......"@</Origin>
+ <ToTranslate>Рэн$Так хорошо...@</ToTranslate>
+ </String>
+<String index="359">
+ <Origin>$Her body was like a masterpiece...... It held both the softness of a woman and the leanness of a warrior.@</Origin>
+ <ToTranslate>$Её тело словно шедевр... изящное и женственное, но при этом стройное как у воина.@</ToTranslate>
+ </String>
+<String index="360">
+ <Origin>$Everyone would be stunned to see her beautiful skin so carelessly exposed.@</Origin>
+ <ToTranslate>$Любой был бы ошеломлён, увидев её прекрасную кожу.@</ToTranslate>
+ </String>
+<String index="361">
+ <Origin>Kazuto$"-you guys are so close...... Hahaha...... You're like family......"@</Origin>
+ <ToTranslate>Казуто$Вы так близки ребята... ха-ха... Прямо как семья...@</ToTranslate>
+ </String>
+<String index="362">
+ <Origin>ren_0112</Origin>
+ <ToTranslate>ren_0112</ToTranslate>
+ </String>
+<String index="363">
+ <Origin>Ren$"Your voice is cracking."@</Origin>
+ <ToTranslate>Рэн$У тебя голос дрожит.@</ToTranslate>
+ </String>
+<String index="364">
+ <Origin>Kazuto$"It's so hot out here!"@</Origin>
+ <ToTranslate>Казуто$Здесь так жарко!@</ToTranslate>
+ </String>
+<String index="365">
+ <Origin>$I want more than just a nosebleed....Ahh, I want to be Sekito so bad...... I want to be touched by her slender fingers!@</Origin>
+ <ToTranslate>$Я хочу№ большего, чем просто кровь из носа... Ах, я хочу быть Секито... Я хочу, чтобы она касалась меня своими тоненькими пальчиками!@</ToTranslate>
+ </String>
+<String index="366">
+ <Origin>Kazuto$"Cough, cough......"@</Origin>
+ <ToTranslate>Казуто$Кха, кха...@</ToTranslate>
+ </String>
+<String index="367">
+ <Origin>ren_0113</Origin>
+ <ToTranslate>ren_0113</ToTranslate>
+ </String>
+<String index="368">
+ <Origin>Ren$"That sounded like a fake cough. If you were in a hurry, then you didn't have to come here......" @</Origin>
+ <ToTranslate>Рэн$Не похоже на настоящий кашель. Если у тебя было мало время, не надо было вообще идти...@</ToTranslate>
+ </String>
+<String index="369">
+ <Origin>Kazuto$"That's not what I meant!"@</Origin>
+ <ToTranslate>Казуто$Это не то!@</ToTranslate>
+ </String>
+<String index="370">
+ <Origin>ren_0114</Origin>
+ <ToTranslate>ren_0114</ToTranslate>
+ </String>
+<String index="371">
+ <Origin>Ren$"If you're not coming into the water, then just wait by that tree."@</Origin>
+ <ToTranslate>Рэн$Если не идёшь купаться, то подожди хотя бы в теньке.@</ToTranslate>
+ </String>
+<String index="372">
+ <Origin>$Don't frown like that! She's so adorable...... Grr, bear with it! I have to wait patiently until she finishes washing Sekito.@</Origin>
+ <ToTranslate>$Не хмурься так! Она очаровательна... Грр, терпи! Нужно просто подождать, пока она закончит купать Секито.@</ToTranslate>
+ </String>
+<String index="373">
+ <Origin>_MsgBoxMain_Off</Origin>
+ <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+ </String>
+<String index="374">
+ <Origin>bg_black</Origin>
+ <ToTranslate>bg_black</ToTranslate>
+ </String>
+<String index="375">
+ <Origin>_MsgBoxMain_On</Origin>
+ <ToTranslate>_MsgBoxMain_On</ToTranslate>
+ </String>
+<String index="376">
+ <Origin>$But then...she leisurely washed herself and started playing with Sekito...@</Origin>
+ <ToTranslate>$Но потом... Она помылась и начала играться с Секито...@</ToTranslate>
+ </String>
+<String index="377">
+ <Origin>$She wound up playing with him until dark. I had to stare at her silky skin and adorable smile until it became dark!@</Origin>
+ <ToTranslate>$Она будет играть с ним до темноты. А я должен смотреть на её шелковистую кожу и прекрасную улыбку, пока не стемнеет!@</ToTranslate>
+ </String>
+<String index="378">
+ <Origin>_MsgBoxMain_Off</Origin>
+ <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+ </String>
+<String index="379">
+ <Origin>bg_black</Origin>
+ <ToTranslate>bg_black</ToTranslate>
+ </String>
+<String index="380">
+ <Origin>_MsgBoxMain_Off</Origin>
+ <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+ </String>
+<String index="381">
+ <Origin>bcg_heroroom_c</Origin>
+ <ToTranslate>bcg_heroroom_c</ToTranslate>
+ </String>
+<String index="382">
+ <Origin>_MsgBoxMain_On</Origin>
+ <ToTranslate>_MsgBoxMain_On</ToTranslate>
+ </String>
+<String index="383">
+ <Origin>bgm07</Origin>
+ <ToTranslate>bgm07</ToTranslate>
+ </String>
+<String index="384">
+ <Origin>Kazuto$"Sigh......"@</Origin>
+ <ToTranslate>Казуто$*Вздыхает*@</ToTranslate>
+ </String>
+<String index="385">
+ <Origin>$I couldn't take it anymore... I returned to my quarters, but I couldn't concentrate on my work at all.@</Origin>
+ <ToTranslate>$Я так не могу... Я вернулся к себе в комнату, но так и не смог сосредоточиться на работе.@</ToTranslate>
+ </String>
+<String index="386">
+ <Origin>$As I closed my eyes, I could see her in my mind......@</Origin>
+ <ToTranslate>$Как только я закрыл глаза, её образ появился предо мной...@</ToTranslate>
+ </String>
+<String index="387">
+ <Origin>$I see her smooth, white back......@</Origin>
+ <ToTranslate>$Я вижу её гладкую, белую спину...@</ToTranslate>
+ </String>
+<String index="388">
+ <Origin>Kazuto$"She's an extremely pretty girl......"@</Origin>
+ <ToTranslate>Казуто$Она очень красивая девушка...@</ToTranslate>
+ </String>
+<String index="389">
+ <Origin>$Ggh, my crotch is at it again! How many times do I have to calm it down before it's happy? Hahh, I don't think I'll be able to get away from my desk until real late tonight.@</Origin>
+ <ToTranslate>$Блин, опять стояк, да когда ты успокоишься уже? Думаю я ещё не скоро смогу встать из-за стола.@</ToTranslate>
+ </String>
+<String index="390">
+ <Origin>$And what did I learn from all of this?@</Origin>
+ <ToTranslate>$Так и чему меня научил сегодняшний день?@</ToTranslate>
+ </String>
+<String index="391">
+ <Origin>Kazuto$"I wonder if she's going out for a walk again tomorrow......" @</Origin>
+ <ToTranslate>Казуто$Интиресно, а завтра она идёт на прогулку...@</ToTranslate>
+ </String>
+<String index="392">
+ <Origin>$I decided not to tell Aisha about that hole in the wall for a while......with expectation in my chest.@</Origin>
+ <ToTranslate>$Я решил пока не рассказывать Айше о проломе в стене.. № хз какэтот кусочек по русски.@</ToTranslate>
+ </String>
+<String index="393">
+ <Origin>_MsgBoxMain_Off</Origin>
+ <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+ </String>
+<String index="394">
+ <Origin>bg_black</Origin>
+ <ToTranslate>bg_black</ToTranslate>
+ </String>
+ </DBS>
+
+
+</pre>
+[[Koihime Musou/Персонажи/Побочные|[Назад]]]

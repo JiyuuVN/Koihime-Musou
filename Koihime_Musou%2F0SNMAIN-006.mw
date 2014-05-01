@@ -1,0 +1,1845 @@
+[[Koihime Musou/Прогресс перевода/Сюжет|[Назад]]]
+<poem>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<DBS>
+  <String index="0">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="1">
+    <ToTranslate>bcg_map_a</ToTranslate>
+  </String>
+  <String index="2">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="3">
+    <ToTranslate>bgm32</ToTranslate>
+  </String>
+  <String index="4">
+    <ToTranslate>$Как только войска Тотаку пали, Альянс распался.@</ToTranslate>
+  </String>
+  <String index="5">
+    <ToTranslate>$Мы отправились обратно в Ючжоу с нашими новыми товарищами - Рёфу, Тотаку, Каку и Чосен.@</ToTranslate>
+  </String>
+  <String index="6">
+    <ToTranslate>$Народ был рад нашему возвращению. Некоторые местные даже пришли к нам с целью присоединиться, наслышанные о наших успехах у форпостов Сишуй и Хулао.@</ToTranslate>
+  </String>
+  <String index="7">
+    <ToTranslate>$Они прибыли со всего Ючжоу, и наши силы выросли вдвое.@</ToTranslate>
+  </String>
+  <String index="8">
+    <ToTranslate>$Шури проделала великую работу.@</ToTranslate>
+  </String>
+  <String index="9">
+    <ToTranslate>$Она взяла на себя военную сферу, политику, и даже задачи, не входящие в ее поле деятельности, здорово увеличив нашу оборонительную мощь и финансовое положение.@</ToTranslate>
+  </String>
+  <String index="10">
+    <ToTranslate>$Возможно, теперь мы бы смогли продержаться против других правителей?@</ToTranslate>
+  </String>
+  <String index="11">
+    <ToTranslate>$......Впрочем, у меня не слишком много времени на такие мысли.@</ToTranslate>
+  </String>
+  <String index="12">
+    <ToTranslate>$Последняя битва показала, что династия Хан более не в силах контролировать соперничающих правителей, и войны за территории вспыхнули по всему континенту.@</ToTranslate>
+  </String>
+  <String index="13">
+    <ToTranslate>$Если вожак волчьей стаи теряет силу, то остальные волки немедленно покинут его стаю.@</ToTranslate>
+  </String>
+  <String index="14">
+    <ToTranslate>$Эра соперничающих варлордов началась.@</ToTranslate>
+  </String>
+  <String index="15">
+    <ToTranslate>$С целью захвата чужих территорий правители скрестил мечи друг с другом, и пламя большой войны расползлось по всему континенту.@</ToTranslate>
+  </String>
+  <String index="16">
+    <ToTranslate>$Сначала государство Ги присоединило окружающие территории, утвердив себя как великую силу.@</ToTranslate>
+  </String>
+  <String index="17">
+    <ToTranslate>$Не желая отставать, государство Го тоже поглотило окружающие территории и провозгласило себя региональной армией.@</ToTranslate>
+  </String>
+  <String index="18">
+    <ToTranslate>$Постепенно пламя войны приближалось к Ючжоу.@</ToTranslate>
+  </String>
+  <String index="19">
+    <ToTranslate>$Штаб Косонсан в Ляо'си, области, недалекой от нашей собственной базы, ставки Чжуо, был атакован и уничтожен войсками Эншо.@</ToTranslate>
+  </String>
+  <String index="20">
+    <ToTranslate>$Предположительно, Косонсан была убита Эншо.@</ToTranslate>
+  </String>
+  <String index="21">
+    <ToTranslate>$После захвата Ляо'си армия Эншо продолжила свой марш, готовясь перейти границу нашей собственной ставки.@</ToTranslate>
+  </String>
+  <String index="22">
+    <ToTranslate>$Мы были захвачены врасплох, и сдавали крепости одну за одной.@</ToTranslate>
+  </String>
+  <String index="23">
+    <ToTranslate>$Это оказалось хорошим подспорьем Эншо, и она сформировала еще большую армию.@</ToTranslate>
+  </String>
+  <String index="24">
+    <ToTranslate>$У нас больше не было возможности избежать войны.@</ToTranslate>
+  </String>
+  <String index="25">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="26">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="27">
+    <ToTranslate>bcg_impseat_a</ToTranslate>
+  </String>
+  <String index="28">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="29">
+    <ToTranslate>bgm13</ToTranslate>
+  </String>
+  <String index="30">
+    <ToTranslate>tcg_zsh11aa</ToTranslate>
+  </String>
+  <String index="31">
+    <ToTranslate>tcg_zsh11m</ToTranslate>
+  </String>
+  <String index="32">
+    <ToTranslate>Адьютант$"Замок на границе захвачен армией Эншо! Они продолжают марш к городу! У нее порядка тридцати тысяч солдат!"@</ToTranslate>
+  </String>
+  <String index="33">
+    <ToTranslate>Казуто$"Спасибо. Хорошая работа, солдат. Теперь иди и отдохни перед следующим назначением."@</ToTranslate>
+  </String>
+  <String index="34">
+    <ToTranslate>Адьютант$"Сэр!"@</ToTranslate>
+  </String>
+  <String index="35">
+    <ToTranslate>$Поблагодарив адьютанта, я повернулся к своим союзникам, собравшимся в тронном зале.@</ToTranslate>
+  </String>
+  <String index="36">
+    <ToTranslate>Казуто$"Ну...... и что нас делать?"@</ToTranslate>
+  </String>
+  <String index="37">
+    <ToTranslate>tcg_kan11ma</ToTranslate>
+  </String>
+  <String index="38">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="39">
+    <ToTranslate>aisy0442</ToTranslate>
+  </String>
+  <String index="40">
+    <ToTranslate>Айша$"Почем ты это спрашиваешь!? Если Эншо атакует, то мы должны немедленно перехватить ее!"@</ToTranslate>
+  </String>
+  <String index="41">
+    <ToTranslate>tcg_cho11ea</ToTranslate>
+  </String>
+  <String index="42">
+    <ToTranslate>tcg_cho11m</ToTranslate>
+  </String>
+  <String index="43">
+    <ToTranslate>rinr0254</ToTranslate>
+  </String>
+  <String index="44">
+    <ToTranslate>Ринрин$"Мы должны отыграться за то, что случилось с Альянсом!"@</ToTranslate>
+  </String>
+  <String index="45">
+    <ToTranslate>Казуто$"Я знаю, знаю. Я тоже хочу отомстить, но разве мы сможем победить......?"@</ToTranslate>
+  </String>
+  <String index="46">
+    <ToTranslate>tcg_syo41ea</ToTranslate>
+  </String>
+  <String index="47">
+    <ToTranslate>tcg_syo41m</ToTranslate>
+  </String>
+  <String index="48">
+    <ToTranslate>syur0263</ToTranslate>
+  </String>
+  <String index="49">
+    <ToTranslate>Шури$"Не знаю. В армии Эншо-сама порядка тридцати тысяч человек, а у нас чуть меньше двадцати тысяч."@</ToTranslate>
+  </String>
+  <String index="50">
+    <ToTranslate>syur0264</ToTranslate>
+  </String>
+  <String index="51">
+    <ToTranslate>Шури$"Говорят, лучшая стратегия войны - иметь больше солдат, чем у врага, а у нас - численный недостаток."@</ToTranslate>
+  </String>
+  <String index="52">
+    <ToTranslate>tcg_syo41ga</ToTranslate>
+  </String>
+  <String index="53">
+    <ToTranslate>tcg_syo41m</ToTranslate>
+  </String>
+  <String index="54">
+    <ToTranslate>Шури$"А еще у них высокий боевой дух, потому что они захватили нашу крепость. Наш, напротив, по этой же причине снижен. Мне не кажется хорошей идеей напрямую выступить против них."@</ToTranslate>
+  </String>
+  <String index="55">
+    <ToTranslate>tcg_kan11ca</ToTranslate>
+  </String>
+  <String index="56">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="57">
+    <ToTranslate>aisy0443</ToTranslate>
+  </String>
+  <String index="58">
+    <ToTranslate>Айша$"Тогда нужно составить план!"@</ToTranslate>
+  </String>
+  <String index="59">
+    <ToTranslate>Казуто$"Какой план?"@</ToTranslate>
+  </String>
+  <String index="60">
+    <ToTranslate>tcg_kan11qa</ToTranslate>
+  </String>
+  <String index="61">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="62">
+    <ToTranslate>aisy0444</ToTranslate>
+  </String>
+  <String index="63">
+    <ToTranslate>Айша$"Н-ну...... Я всего лишь воин. Это работа Шури......"@</ToTranslate>
+  </String>
+  <String index="64">
+    <ToTranslate>tcg_cho31ga</ToTranslate>
+  </String>
+  <String index="65">
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="66">
+    <ToTranslate>rinr0255</ToTranslate>
+  </String>
+  <String index="67">
+    <ToTranslate>Ринрин$"Ух, как патетично, Айша!"@</ToTranslate>
+  </String>
+  <String index="68">
+    <ToTranslate>tcg_kan31ja</ToTranslate>
+  </String>
+  <String index="69">
+    <ToTranslate>tcg_kan31m</ToTranslate>
+  </String>
+  <String index="70">
+    <ToTranslate>aisy0445</ToTranslate>
+  </String>
+  <String index="71">
+    <ToTranslate>Айша$"Ухх......"@</ToTranslate>
+  </String>
+  <String index="72">
+    <ToTranslate>Казуто$"Я понимаю твои чувства, Айша, но если придется принять бой, то я хочу свести потери к минимуму."@</ToTranslate>
+  </String>
+  <String index="73">
+    <ToTranslate>tcg_syo11aa</ToTranslate>
+  </String>
+  <String index="74">
+    <ToTranslate>tcg_syo11m</ToTranslate>
+  </String>
+  <String index="75">
+    <ToTranslate>syur0265</ToTranslate>
+  </String>
+  <String index="76">
+    <ToTranslate>Шури$"С оглядкой на будущее, мы не можем тратить военную мощь на Эншо."@</ToTranslate>
+  </String>
+  <String index="77">
+    <ToTranslate>tcg_kan21da</ToTranslate>
+  </String>
+  <String index="78">
+    <ToTranslate>tcg_kan21m</ToTranslate>
+  </String>
+  <String index="79">
+    <ToTranslate>aisy0446</ToTranslate>
+  </String>
+  <String index="80">
+    <ToTranslate>Айша$"......Ты думаешь, что Цао Цао и Сонкен тоже скоро сделают свой ход, Шури?"@</ToTranslate>
+  </String>
+  <String index="81">
+    <ToTranslate>tcg_syo41ea</ToTranslate>
+  </String>
+  <String index="82">
+    <ToTranslate>tcg_syo41m</ToTranslate>
+  </String>
+  <String index="83">
+    <ToTranslate>syur0266</ToTranslate>
+  </String>
+  <String index="84">
+    <ToTranslate>Шури$"Так я и думаю. Вернее, я уверена в этом. Вот почему мы должны экономить силы в борьбе с Эншо."@</ToTranslate>
+  </String>
+  <String index="85">
+    <ToTranslate>tcg_kan11ca</ToTranslate>
+  </String>
+  <String index="86">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="87">
+    <ToTranslate>aisy0447</ToTranslate>
+  </String>
+  <String index="88">
+    <ToTranslate>Айша$"Вижу......"@</ToTranslate>
+  </String>
+  <String index="89">
+    <ToTranslate>tcg_cho21ja</ToTranslate>
+  </String>
+  <String index="90">
+    <ToTranslate>tcg_cho21m</ToTranslate>
+  </String>
+  <String index="91">
+    <ToTranslate>rinr0256</ToTranslate>
+  </String>
+  <String index="92">
+    <ToTranslate>Ринрин$"Но как мы будем с ней бороться?"@</ToTranslate>
+  </String>
+  <String index="93">
+    <ToTranslate>tcg_syo41aa</ToTranslate>
+  </String>
+  <String index="94">
+    <ToTranslate>tcg_syo41m</ToTranslate>
+  </String>
+  <String index="95">
+    <ToTranslate>syur0267</ToTranslate>
+  </String>
+  <String index="96">
+    <ToTranslate>Шури$"Численная разница у наших армий примерно в десять тысяч человек, но если говорить о навыках генералов, то у нас огромное преимущество."@</ToTranslate>
+  </String>
+  <String index="97">
+    <ToTranslate>Казуто$"У нас есть Айша, Ринрин и Шури, так?"@</ToTranslate>
+  </String>
+  <String index="98">
+    <ToTranslate>tcg_syo41ba</ToTranslate>
+  </String>
+  <String index="99">
+    <ToTranslate>tcg_syo41m</ToTranslate>
+  </String>
+  <String index="100">
+    <ToTranslate>syur0268</ToTranslate>
+  </String>
+  <String index="101">
+    <ToTranslate>Шури$"Айша-сан и Ринрин-чан - непревзойденные генералы Троецарствия. Мы должны использовать это преимущество с максимальной пользой."@</ToTranslate>
+  </String>
+  <String index="102">
+    <ToTranslate>tcg_cho31ja</ToTranslate>
+  </String>
+  <String index="103">
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="104">
+    <ToTranslate>rinr0257</ToTranslate>
+  </String>
+  <String index="105">
+    <ToTranslate>Ринрин$"Что ты имеешь в виду?"@</ToTranslate>
+  </String>
+  <String index="106">
+    <ToTranslate>tcg_syo11aa</ToTranslate>
+  </String>
+  <String index="107">
+    <ToTranslate>tcg_syo11m</ToTranslate>
+  </String>
+  <String index="108">
+    <ToTranslate>syur0269</ToTranslate>
+  </String>
+  <String index="109">
+    <ToTranslate>Шури$"Мы сконцентрируем свои атаки на их основных командирах."@</ToTranslate>
+  </String>
+  <String index="110">
+    <ToTranslate>tcg_kan11ea</ToTranslate>
+  </String>
+  <String index="111">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="112">
+    <ToTranslate>aisy0448</ToTranslate>
+  </String>
+  <String index="113">
+    <ToTranslate>Айша$"Основные командиры Эншо - Бушу и Ганрю..."@</ToTranslate>
+  </String>
+  <String index="114">
+    <ToTranslate>tcg_cho21ia</ToTranslate>
+  </String>
+  <String index="115">
+    <ToTranslate>tcg_cho21m</ToTranslate>
+  </String>
+  <String index="116">
+    <ToTranslate>rinr0258</ToTranslate>
+  </String>
+  <String index="117">
+    <ToTranslate>Ринрин$"Сама по себе Эншо та еще дура. Так что, сможем мы победить, если избавимся от Бушу и Ганрю?"@</ToTranslate>
+  </String>
+  <String index="118">
+    <ToTranslate>tcg_syo41ba</ToTranslate>
+  </String>
+  <String index="119">
+    <ToTranslate>tcg_syo41m</ToTranslate>
+  </String>
+  <String index="120">
+    <ToTranslate>syur0269b</ToTranslate>
+  </String>
+  <String index="121">
+    <ToTranslate>syur0269b</ToTranslate>
+  </String>
+  <String index="122">
+    <ToTranslate>Шури$"Да, разумеется. Как только Эншо-сан останется одна - она нам не ровня."@</ToTranslate>
+  </String>
+  <String index="123">
+    <ToTranslate>Казуто$"......У вас всех, однако, острые языки."@</ToTranslate>
+  </String>
+  <String index="124">
+    <ToTranslate>tcg_kan11aa</ToTranslate>
+  </String>
+  <String index="125">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="126">
+    <ToTranslate>aisy0450</ToTranslate>
+  </String>
+  <String index="127">
+    <ToTranslate>Айша$"В случае с Эншо это всего лишь правда. Ладно, таков наш первоначальный план, так что давайте начнем организацию нашей--"@</ToTranslate>
+  </String>
+  <String index="128">
+    <ToTranslate>$Айша отмела мое замечание, и попыталась начать обсуждение деталей, но была прервана.@</ToTranslate>
+  </String>
+  <String index="129">
+    <ToTranslate>tcg_zsh11aa</ToTranslate>
+  </String>
+  <String index="130">
+    <ToTranslate>tcg_zsh11m</ToTranslate>
+  </String>
+  <String index="131">
+    <ToTranslate>Солдат$"Правитель! Бачё-доно, дочь правителя западного Ляня, Бато-доно, прибыла со своей гвардией!"@</ToTranslate>
+  </String>
+  <String index="132">
+    <ToTranslate>$Взволнованный голос солдата заполнил тронный зал.@</ToTranslate>
+  </String>
+  <String index="133">
+    <ToTranslate>tcg_kan21da</ToTranslate>
+  </String>
+  <String index="134">
+    <ToTranslate>tcg_kan21m</ToTranslate>
+  </String>
+  <String index="135">
+    <ToTranslate>aisy0451</ToTranslate>
+  </String>
+  <String index="136">
+    <ToTranslate>Айша$"Что? Почему Бачё в нашем дворце......?"@</ToTranslate>
+  </String>
+  <String index="137">
+    <ToTranslate>tcg_syo21ja</ToTranslate>
+  </String>
+  <String index="138">
+    <ToTranslate>tcg_syo21m</ToTranslate>
+  </String>
+  <String index="139">
+    <ToTranslate>syur0270</ToTranslate>
+  </String>
+  <String index="140">
+    <ToTranslate>Шури$"Не знаю...... Возможно, что-то случилось в западном Ляне......?"@</ToTranslate>
+  </String>
+  <String index="141">
+    <ToTranslate>Казуто$"......Давайте сначала встретимся с ней. Айша, прикажи войскам готовиться к отправке. После моего разговора с Бачё мы выступаем."@</ToTranslate>
+  </String>
+  <String index="142">
+    <ToTranslate>tcg_kan11ca</ToTranslate>
+  </String>
+  <String index="143">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="144">
+    <ToTranslate>aisy0452</ToTranslate>
+  </String>
+  <String index="145">
+    <ToTranslate>Айша$"Как пожелаете."@</ToTranslate>
+  </String>
+  <String index="146">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="147">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="148">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="149">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="150">
+    <ToTranslate>$Айша кивнула, и мы быстро приняли меры, а затем я приказал впустить Бачё в тронный зал.@</ToTranslate>
+  </String>
+  <String index="151">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="152">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="153">
+    <ToTranslate>bb</ToTranslate>
+  </String>
+  <String index="154">
+    <ToTranslate>bcg_impseat_a</ToTranslate>
+  </String>
+  <String index="155">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="156">
+    <ToTranslate>bgm10</ToTranslate>
+  </String>
+  <String index="157">
+    <ToTranslate>Казуто$"Давно не виделись. ...Что-то случилось?"@</ToTranslate>
+  </String>
+  <String index="158">
+    <ToTranslate>$Моя радость от нашего воссоединения продлилась лишь короткий миг. Я мог сказать, что случилось что-то серьезное уже по выражению крайней усталости на ее лице, и я сразу перешел к делу.@</ToTranslate>
+  </String>
+  <String index="159">
+    <ToTranslate>tcg_bac12ca</ToTranslate>
+  </String>
+  <String index="160">
+    <ToTranslate>tcg_bac12m</ToTranslate>
+  </String>
+  <String index="161">
+    <ToTranslate>bach0020</ToTranslate>
+  </String>
+  <String index="162">
+    <ToTranslate>Бачё$"......Я здесь, чтобы попросить вас о помощи."@</ToTranslate>
+  </String>
+  <String index="163">
+    <ToTranslate>tcg_kan21da</ToTranslate>
+  </String>
+  <String index="164">
+    <ToTranslate>tcg_kan21m</ToTranslate>
+  </String>
+  <String index="165">
+    <ToTranslate>aisy0453</ToTranslate>
+  </String>
+  <String index="166">
+    <ToTranslate>Айша$"О помощи? Что случилось?"@</ToTranslate>
+  </String>
+  <String index="167">
+    <ToTranslate>tcg_bac32fa</ToTranslate>
+  </String>
+  <String index="168">
+    <ToTranslate>tcg_bac32m</ToTranslate>
+  </String>
+  <String index="169">
+    <ToTranslate>bach0021</ToTranslate>
+  </String>
+  <String index="170">
+    <ToTranslate>Бачё$"......Мой отец...... Мой отец убит! Цао Цао виновна в этом......!"@</ToTranslate>
+  </String>
+  <String index="171">
+    <ToTranslate>tcg_kan11ma</ToTranslate>
+  </String>
+  <String index="172">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="173">
+    <ToTranslate>aisy0454</ToTranslate>
+  </String>
+  <String index="174">
+    <ToTranslate>Айша$"Что? Бато-доно мертв?!"@</ToTranslate>
+  </String>
+  <String index="175">
+    <ToTranslate>tcg_bac12pa</ToTranslate>
+  </String>
+  <String index="176">
+    <ToTranslate>tcg_bac12m</ToTranslate>
+  </String>
+  <String index="177">
+    <ToTranslate>bach0022</ToTranslate>
+  </String>
+  <String index="178">
+    <ToTranslate>Бачё$"Да......! Цао Цао воспользовалась беспорядками, чтобы вторгнуться в Западный Лян, и весь наш клан был рассеян..."@</ToTranslate>
+  </String>
+  <String index="179">
+    <ToTranslate>tcg_cho21ja</ToTranslate>
+  </String>
+  <String index="180">
+    <ToTranslate>tcg_cho21m</ToTranslate>
+  </String>
+  <String index="181">
+    <ToTranslate>rinr0259</ToTranslate>
+  </String>
+  <String index="182">
+    <ToTranslate>Ринрин$"Поэтому ты здесь?"@</ToTranslate>
+  </String>
+  <String index="183">
+    <ToTranslate>tcg_bac12oa</ToTranslate>
+  </String>
+  <String index="184">
+    <ToTranslate>tcg_bac12m</ToTranslate>
+  </String>
+  <String index="185">
+    <ToTranslate>bach0023</ToTranslate>
+  </String>
+  <String index="186">
+    <ToTranslate>Бачё$"Помогите нам! Мне нужна ваша помощь, чтобы отомстить Цао Цао......!"@</ToTranslate>
+  </String>
+  <String index="187">
+    <ToTranslate>$Бачё закусила губу, закончив свою отчаянную просьбу.@</ToTranslate>
+  </String>
+  <String index="188">
+    <ToTranslate>Казуто$"......К сожалению, я не могу дать ответ немедленно."@</ToTranslate>
+  </String>
+  <String index="189">
+    <ToTranslate>$Я ответил тщательно подобранными словами.@</ToTranslate>
+  </String>
+  <String index="190">
+    <ToTranslate>Казуто$"В данный момент большая армия Эншо продвигается по нашей территории, и мы сами в затруднительной ситуации. Я не могу быстро ответить, когда мы в такой ситуации..."@</ToTranslate>
+  </String>
+  <String index="191">
+    <ToTranslate>Казуто$"Так что......Позволишь ли ты мне выслушать тебя более подробно, и принять решение после битвы с Эншо?"@</ToTranslate>
+  </String>
+  <String index="192">
+    <ToTranslate>tcg_bac12aa</ToTranslate>
+  </String>
+  <String index="193">
+    <ToTranslate>tcg_bac12m</ToTranslate>
+  </String>
+  <String index="194">
+    <ToTranslate>bach0024</ToTranslate>
+  </String>
+  <String index="195">
+    <ToTranslate>Бачё$"Да, это годится."@</ToTranslate>
+  </String>
+  <String index="196">
+    <ToTranslate>Казуто$"......Увы, я могу дать не тот ответ, который ты хочешь услышать..."@</ToTranslate>
+  </String>
+  <String index="197">
+    <ToTranslate>tcg_bac22da</ToTranslate>
+  </String>
+  <String index="198">
+    <ToTranslate>tcg_bac22m</ToTranslate>
+  </String>
+  <String index="199">
+    <ToTranslate>bach0025</ToTranslate>
+  </String>
+  <String index="200">
+    <ToTranslate>Бачё$"Что ты имеешь в виду?"@</ToTranslate>
+  </String>
+  <String index="201">
+    <ToTranslate>Казуто$"К сожалению, сейчас у нас недостаточно сил,чтобы выступить против Ги. Мы можем не суметь отомстить за твоего отца."@</ToTranslate>
+  </String>
+  <String index="202">
+    <ToTranslate>tcg_bac22ha</ToTranslate>
+  </String>
+  <String index="203">
+    <ToTranslate>tcg_bac22m</ToTranslate>
+  </String>
+  <String index="204">
+    <ToTranslate>bach0026</ToTranslate>
+  </String>
+  <String index="205">
+    <ToTranslate>Бачё$"......Ничего. Я не настолько глупа; я знаю, чколь велико государство Ги."@</ToTranslate>
+  </String>
+  <String index="206">
+    <ToTranslate>tcg_bac12ca</ToTranslate>
+  </String>
+  <String index="207">
+    <ToTranslate>tcg_bac12m</ToTranslate>
+  </String>
+  <String index="208">
+    <ToTranslate>bach0027</ToTranslate>
+  </String>
+  <String index="209">
+    <ToTranslate>Бачё$"Но...... Вы единственные, на кого я сейчас могу надеяться...... Вот почему я......"@</ToTranslate>
+  </String>
+  <String index="210">
+    <ToTranslate>Казуто$"......Хорошо. Почему бы вам не облегчить вашу усталость здесь, во дворце? Мы вернемся к этому разговору сразу после битвы, хорошо?"@</ToTranslate>
+  </String>
+  <String index="211">
+    <ToTranslate>tcg_bac12aa</ToTranslate>
+  </String>
+  <String index="212">
+    <ToTranslate>tcg_bac12m</ToTranslate>
+  </String>
+  <String index="213">
+    <ToTranslate>bach0028</ToTranslate>
+  </String>
+  <String index="214">
+    <ToTranslate>Бачё$"Нет...... Возьмите меня с собой."@</ToTranslate>
+  </String>
+  <String index="215">
+    <ToTranslate>bgm08</ToTranslate>
+  </String>
+  <String index="216">
+    <ToTranslate>Казуто$"Что?"@</ToTranslate>
+  </String>
+  <String index="217">
+    <ToTranslate>tcg_bac12ba</ToTranslate>
+  </String>
+  <String index="218">
+    <ToTranslate>tcg_bac12m</ToTranslate>
+  </String>
+  <String index="219">
+    <ToTranslate>bach0029</ToTranslate>
+  </String>
+  <String index="220">
+    <ToTranslate>Бачё$"Пожалуйста, позвольте и мне участвовать в битве. Моя судьба теперь в ваших руках, и я не могу отдыхать, пока не помогу вам таким образом."@</ToTranslate>
+  </String>
+  <String index="221">
+    <ToTranslate>Казуто$"Но......"@</ToTranslate>
+  </String>
+  <String index="222">
+    <ToTranslate>$Я еще не знал, сможем ли мы вообще помочь ей...... Правильно ли будет принять ее предложение?@</ToTranslate>
+  </String>
+  <String index="223">
+    <ToTranslate>tcg_kan21aa</ToTranslate>
+  </String>
+  <String index="224">
+    <ToTranslate>tcg_kan21m</ToTranslate>
+  </String>
+  <String index="225">
+    <ToTranslate>aisy0455</ToTranslate>
+  </String>
+  <String index="226">
+    <ToTranslate>Айша$"Почему бы и нет? Нам нужны первоклассные генералы, которые поведут за собой солдат, так? Тогда почему бы нам не принять ее предложение?"@</ToTranslate>
+  </String>
+  <String index="227">
+    <ToTranslate>Казуто$"......Ты права. Хорошо, Бачё, я понимаю, насколько ты устала...... Но сможешь ли ты пойти с нами?"@</ToTranslate>
+  </String>
+  <String index="228">
+    <ToTranslate>tcg_bac12ca</ToTranslate>
+  </String>
+  <String index="229">
+    <ToTranslate>tcg_bac12m</ToTranslate>
+  </String>
+  <String index="230">
+    <ToTranslate>bach0030</ToTranslate>
+  </String>
+  <String index="231">
+    <ToTranslate>Бачё$"Конечно, разумеется!"@</ToTranslate>
+  </String>
+  <String index="232">
+    <ToTranslate>Казуто$"Спасибо. Ринрин, можешь помочь ей подготовиться к отправке? Думаю, оружие у нее есть, так что выдай ей свежего коня и броню. И еще, можешь о ней позаботиться некоторое время?"@</ToTranslate>
+  </String>
+  <String index="233">
+    <ToTranslate>tcg_cho31ba</ToTranslate>
+  </String>
+  <String index="234">
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="235">
+    <ToTranslate>rinr0260</ToTranslate>
+  </String>
+  <String index="236">
+    <ToTranslate>Ринрин$"Ладненько! Ринрин зовут Чёхи. Но настоящее мое имя - Ринрин. Зови Ринрин Ринрин, хорошо?"@</ToTranslate>
+  </String>
+  <String index="237">
+    <ToTranslate>tcg_bac12ba</ToTranslate>
+  </String>
+  <String index="238">
+    <ToTranslate>tcg_bac12m</ToTranslate>
+  </String>
+  <String index="239">
+    <ToTranslate>bach0031</ToTranslate>
+  </String>
+  <String index="240">
+    <ToTranslate>Бачё$"Хорошо. Можешь звать меня по настоящему имени, Суи. Очень приятно."@</ToTranslate>
+  </String>
+  <String index="241">
+    <ToTranslate>tcg_cho11aa</ToTranslate>
+  </String>
+  <String index="242">
+    <ToTranslate>tcg_cho11m</ToTranslate>
+  </String>
+  <String index="243">
+    <ToTranslate>rinr0261</ToTranslate>
+  </String>
+  <String index="244">
+    <ToTranslate>Ринрин$"И мне тоже!"@</ToTranslate>
+  </String>
+  <String index="245">
+    <ToTranslate>tcg_kan11aa</ToTranslate>
+  </String>
+  <String index="246">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="247">
+    <ToTranslate>aisy0456</ToTranslate>
+  </String>
+  <String index="248">
+    <ToTranslate>Айша$"Меня зовут Кану. Настоящее имя - Айша. Рада встрече, Суи."@</ToTranslate>
+  </String>
+  <String index="249">
+    <ToTranslate>tcg_syo11aa</ToTranslate>
+  </String>
+  <String index="250">
+    <ToTranslate>tcg_syo11m</ToTranslate>
+  </String>
+  <String index="251">
+    <ToTranslate>syur0271</ToTranslate>
+  </String>
+  <String index="252">
+    <ToTranslate>Шури$"Я Шокацурё! Мое истинное имя - Шури. Рада быть с тобой в одном строю, Суи-сан!"@</ToTranslate>
+  </String>
+  <String index="253">
+    <ToTranslate>tcg_bac11aa</ToTranslate>
+  </String>
+  <String index="254">
+    <ToTranslate>tcg_bac11m</ToTranslate>
+  </String>
+  <String index="255">
+    <ToTranslate>bach0032</ToTranslate>
+  </String>
+  <String index="256">
+    <ToTranslate>Бачё$"Да. И я рада быть с вами."@</ToTranslate>
+  </String>
+  <String index="257">
+    <ToTranslate>$Все пожали друг другу руки и обменялись улыбками.@</ToTranslate>
+  </String>
+  <String index="258">
+    <ToTranslate>Казуто$"Хорошо, давайте выдвигаться. Пора помочь нашим товарищам на границе ставки!"@</ToTranslate>
+  </String>
+  <String index="259">
+    <ToTranslate>$Я приказал армии выступать.@</ToTranslate>
+  </String>
+  <String index="260">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="261">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="262">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="263">
+    <ToTranslate>bcg_wasteland_a</ToTranslate>
+  </String>
+  <String index="264">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="265">
+    <ToTranslate>bgm11</ToTranslate>
+  </String>
+  <String index="266">
+    <ToTranslate>tcg_ens22la</ToTranslate>
+  </String>
+  <String index="267">
+    <ToTranslate>tcg_ens22m</ToTranslate>
+  </String>
+  <String index="268">
+    <ToTranslate>ensy0099</ToTranslate>
+  </String>
+  <String index="269">
+    <ToTranslate>Эншо$"О-хо-хо-хо-хо! Я ошибалась насчет того, насколько силен этот хваленый Посланник Небес, да он вообще ничего не стоит!"@</ToTranslate>
+  </String>
+  <String index="270">
+    <ToTranslate>tcg_bun22fa</ToTranslate>
+  </String>
+  <String index="271">
+    <ToTranslate>tcg_bun22m</ToTranslate>
+  </String>
+  <String index="272">
+    <ToTranslate>ase</ToTranslate>
+  </String>
+  <String index="273">
+    <ToTranslate>buns0020</ToTranslate>
+  </String>
+  <String index="274">
+    <ToTranslate>Бушу$"Но мы захватили лишь несколько лагерей и одну крепость поддержки..."@</ToTranslate>
+  </String>
+  <String index="275">
+    <ToTranslate>tcg_gan12ha</ToTranslate>
+  </String>
+  <String index="276">
+    <ToTranslate>tcg_gan12m</ToTranslate>
+  </String>
+  <String index="277">
+    <ToTranslate>ganr0028</ToTranslate>
+  </String>
+  <String index="278">
+    <ToTranslate>Ганрё$"Бун-чан права, принцесса."@</ToTranslate>
+  </String>
+  <String index="279">
+    <ToTranslate>tcg_ens12fa</ToTranslate>
+  </String>
+  <String index="280">
+    <ToTranslate>tcg_ens12m</ToTranslate>
+  </String>
+  <String index="281">
+    <ToTranslate>muka</ToTranslate>
+  </String>
+  <String index="282">
+    <ToTranslate>ensy0100</ToTranslate>
+  </String>
+  <String index="283">
+    <ToTranslate>Эншо$"Тихо! Как только Эн Хоншо начинает великолепно вести войну, то кому-то, бесстыже называющему себя "Посланником Небес", остается лишь, подобно мелкому жучку, ждать, пока его не растопчут."@</ToTranslate>
+  </String>
+  <String index="284">
+    <ToTranslate>tcg_gan22ea</ToTranslate>
+  </String>
+  <String index="285">
+    <ToTranslate>tcg_gan22m</ToTranslate>
+  </String>
+  <String index="286">
+    <ToTranslate>ase</ToTranslate>
+  </String>
+  <String index="287">
+    <ToTranslate>ganr0029</ToTranslate>
+  </String>
+  <String index="288">
+    <ToTranslate>Ганрё$"......"@</ToTranslate>
+  </String>
+  <String index="289">
+    <ToTranslate>tcg_ens22ca</ToTranslate>
+  </String>
+  <String index="290">
+    <ToTranslate>tcg_ens22m</ToTranslate>
+  </String>
+  <String index="291">
+    <ToTranslate>ensy0102</ToTranslate>
+  </String>
+  <String index="292">
+    <ToTranslate>Эншо$"Что такое, Ганрё-сан? Хочешь что-нибудь сказать?"@</ToTranslate>
+  </String>
+  <String index="293">
+    <ToTranslate>tcg_gan12ca</ToTranslate>
+  </String>
+  <String index="294">
+    <ToTranslate>tcg_gan12m</ToTranslate>
+  </String>
+  <String index="295">
+    <ToTranslate>ganr0030</ToTranslate>
+  </String>
+  <String index="296">
+    <ToTranslate>Ганрё$"Ничего особенного."@</ToTranslate>
+  </String>
+  <String index="297">
+    <ToTranslate>tcg_ens12aa</ToTranslate>
+  </String>
+  <String index="298">
+    <ToTranslate>tcg_ens12m</ToTranslate>
+  </String>
+  <String index="299">
+    <ToTranslate>ensy0103</ToTranslate>
+  </String>
+  <String index="300">
+    <ToTranslate>Эншо$"Отлично. Тогда насчет грядущей битвы......"@</ToTranslate>
+  </String>
+  <String index="301">
+    <ToTranslate>tcg_gan22ga</ToTranslate>
+  </String>
+  <String index="302">
+    <ToTranslate>tcg_gan22m</ToTranslate>
+  </String>
+  <String index="303">
+    <ToTranslate>ganr0031</ToTranslate>
+  </String>
+  <String index="304">
+    <ToTranslate>Ганрё$"Основные силы армии Хонго скоро прибудут сюда. Каков наш план?"@</ToTranslate>
+  </String>
+  <String index="305">
+    <ToTranslate>tcg_ens22ba</ToTranslate>
+  </String>
+  <String index="306">
+    <ToTranslate>tcg_ens22m</ToTranslate>
+  </String>
+  <String index="307">
+    <ToTranslate>ensy0104</ToTranslate>
+  </String>
+  <String index="308">
+    <ToTranslate>Эншо$"Наш план - отважно разнести их при помощи солдат рода Эн."@</ToTranslate>
+  </String>
+  <String index="309">
+    <ToTranslate>tcg_gan12ha</ToTranslate>
+  </String>
+  <String index="310">
+    <ToTranslate>tcg_gan12m</ToTranslate>
+  </String>
+  <String index="311">
+    <ToTranslate>ganr0032</ToTranslate>
+  </String>
+  <String index="312">
+    <ToTranslate>Ганрё$"А? Это не план!"@</ToTranslate>
+  </String>
+  <String index="313">
+    <ToTranslate>tcg_ens12fa</ToTranslate>
+  </String>
+  <String index="314">
+    <ToTranslate>tcg_ens12m</ToTranslate>
+  </String>
+  <String index="315">
+    <ToTranslate>ensy0105</ToTranslate>
+  </String>
+  <String index="316">
+    <ToTranslate>Эншо$"Ганрё-сан, почему ты действуешь столь неуверенно? Генерал великого рода Эн не должен себя так вести!"@</ToTranslate>
+  </String>
+  <String index="317">
+    <ToTranslate>tcg_gan22ea</ToTranslate>
+  </String>
+  <String index="318">
+    <ToTranslate>tcg_gan22m</ToTranslate>
+  </String>
+  <String index="319">
+    <ToTranslate>ganr0033</ToTranslate>
+  </String>
+  <String index="320">
+    <ToTranslate>Ганрё$"Я пытаюсь придумать план получше, потому что я - генерал. Аргх...... Бун-чан, можешь сказать что-нибудь нашей принцессе?"@</ToTranslate>
+  </String>
+  <String index="321">
+    <ToTranslate>tcg_bun12ia</ToTranslate>
+  </String>
+  <String index="322">
+    <ToTranslate>tcg_bun12m</ToTranslate>
+  </String>
+  <String index="323">
+    <ToTranslate>buns0021</ToTranslate>
+  </String>
+  <String index="324">
+    <ToTranslate>Бушу$"Это прекрасно - иметь возможность сражаться против великих генералов Кан Унчё и Энхито Чёхи. Мне не терпится в бой!"@</ToTranslate>
+  </String>
+  <String index="325">
+    <ToTranslate>tcg_ens12aa</ToTranslate>
+  </String>
+  <String index="326">
+    <ToTranslate>tcg_ens12m</ToTranslate>
+  </String>
+  <String index="327">
+    <ToTranslate>ensy0106</ToTranslate>
+  </String>
+  <String index="328">
+    <ToTranslate>Эншо$"Отлично сказано, Бушу-сан. Вот дух истинного воителя рода Эн."@</ToTranslate>
+  </String>
+  <String index="329">
+    <ToTranslate>tcg_bun22ba</ToTranslate>
+  </String>
+  <String index="330">
+    <ToTranslate>tcg_bun22m</ToTranslate>
+  </String>
+  <String index="331">
+    <ToTranslate>buns0022</ToTranslate>
+  </String>
+  <String index="332">
+    <ToTranslate>Бушу$"Хихихи, Вы горды за нас? Что ж, тогда просто возвращайтесь назад и отдохните, а битву поручите нам, хорошо, принцесса?"@</ToTranslate>
+  </String>
+  <String index="333">
+    <ToTranslate>tcg_ens22ba</ToTranslate>
+  </String>
+  <String index="334">
+    <ToTranslate>tcg_ens22m</ToTranslate>
+  </String>
+  <String index="335">
+    <ToTranslate>ensy0107</ToTranslate>
+  </String>
+  <String index="336">
+    <ToTranslate>Эншо$"О Небо, ты так надежна. Почему бы тебе у нее не поучиться, Ганрё-сан?"@</ToTranslate>
+  </String>
+  <String index="337">
+    <ToTranslate>tcg_gan12ca</ToTranslate>
+  </String>
+  <String index="338">
+    <ToTranslate>tcg_gan12m</ToTranslate>
+  </String>
+  <String index="339">
+    <ToTranslate>ganr0034</ToTranslate>
+  </String>
+  <String index="340">
+    <ToTranslate>Ганрё$"......Я не хочу учиться у Бушу ее беспечносму, заискивающему и шалопайскому духу."@</ToTranslate>
+  </String>
+  <String index="341">
+    <ToTranslate>tcg_bun22ha</ToTranslate>
+  </String>
+  <String index="342">
+    <ToTranslate>tcg_bun22m</ToTranslate>
+  </String>
+  <String index="343">
+    <ToTranslate>buns0023</ToTranslate>
+  </String>
+  <String index="344">
+    <ToTranslate>Бушу$"Эй! Тоши, разве тебе не хочется в бой против Кану и Чёхи?"@</ToTranslate>
+  </String>
+  <String index="345">
+    <ToTranslate>tcg_gan12ha</ToTranslate>
+  </String>
+  <String index="346">
+    <ToTranslate>tcg_gan12m</ToTranslate>
+  </String>
+  <String index="347">
+    <ToTranslate>ganr0035</ToTranslate>
+  </String>
+  <String index="348">
+    <ToTranslate>Ганрё$"Как мне может этого хотеться? Кану и Чёхи - два монстраs! И я точно не хочу сражаться ни с одной из них!"@</ToTranslate>
+  </String>
+  <String index="349">
+    <ToTranslate>tcg_ens12ja</ToTranslate>
+  </String>
+  <String index="350">
+    <ToTranslate>tcg_ens12m</ToTranslate>
+  </String>
+  <String index="351">
+    <ToTranslate>ensy0108</ToTranslate>
+  </String>
+  <String index="352">
+    <ToTranslate>Эншо$"Эх...... Ганрё-сан, тебе должно быть стыдно."@</ToTranslate>
+  </String>
+  <String index="353">
+    <ToTranslate>tcg_gan22ca</ToTranslate>
+  </String>
+  <String index="354">
+    <ToTranslate>tcg_gan22m</ToTranslate>
+  </String>
+  <String index="355">
+    <ToTranslate>ganr0036</ToTranslate>
+  </String>
+  <String index="356">
+    <ToTranslate>Ганрё$"Ухх...... вы просто не знаете, насколько они ужасны, Рейха-сама, потому что вам никогда не приходилось воевать против этих монстров!"@</ToTranslate>
+  </String>
+  <String index="357">
+    <ToTranslate>tcg_ens12aa</ToTranslate>
+  </String>
+  <String index="358">
+    <ToTranslate>tcg_ens12m</ToTranslate>
+  </String>
+  <String index="359">
+    <ToTranslate>ensy0109</ToTranslate>
+  </String>
+  <String index="360">
+    <ToTranslate>Эншо$"......Тоши-сан."@</ToTranslate>
+  </String>
+  <String index="361">
+    <ToTranslate>tcg_gan22ia</ToTranslate>
+  </String>
+  <String index="362">
+    <ToTranslate>tcg_gan22m</ToTranslate>
+  </String>
+  <String index="363">
+    <ToTranslate>ganr0037</ToTranslate>
+  </String>
+  <String index="364">
+    <ToTranslate>Ганрё$"Да......?"@</ToTranslate>
+  </String>
+  <String index="365">
+    <ToTranslate>tcg_ens22ca</ToTranslate>
+  </String>
+  <String index="366">
+    <ToTranslate>tcg_ens22m</ToTranslate>
+  </String>
+  <String index="367">
+    <ToTranslate>ensy0110</ToTranslate>
+  </String>
+  <String index="368">
+    <ToTranslate>Эншо$"Если Вы продолжите говорить столь позорные вещи, то будете наказаны."@</ToTranslate>
+  </String>
+  <String index="369">
+    <ToTranslate>tcg_gan22la</ToTranslate>
+  </String>
+  <String index="370">
+    <ToTranslate>tcg_gan22m</ToTranslate>
+  </String>
+  <String index="371">
+    <ToTranslate>ganr0038</ToTranslate>
+  </String>
+  <String index="372">
+    <ToTranslate>Ганрё$"А......"@</ToTranslate>
+  </String>
+  <String index="373">
+    <ToTranslate>tcg_ens12ha</ToTranslate>
+  </String>
+  <String index="374">
+    <ToTranslate>tcg_ens12m</ToTranslate>
+  </String>
+  <String index="375">
+    <ToTranslate>ensy0111</ToTranslate>
+  </String>
+  <String index="376">
+    <ToTranslate>Эншо$"И если вы дорожите своей любимой задницей, прекратите говорить, как трус."@</ToTranslate>
+  </String>
+  <String index="377">
+    <ToTranslate>tcg_gan12ka</ToTranslate>
+  </String>
+  <String index="378">
+    <ToTranslate>tcg_gan12m</ToTranslate>
+  </String>
+  <String index="379">
+    <ToTranslate>ganr0039</ToTranslate>
+  </String>
+  <String index="380">
+    <ToTranslate>Ганрё$"Оооо......"@</ToTranslate>
+  </String>
+  <String index="381">
+    <ToTranslate>tcg_bun12ia</ToTranslate>
+  </String>
+  <String index="382">
+    <ToTranslate>tcg_bun12m</ToTranslate>
+  </String>
+  <String index="383">
+    <ToTranslate>buns0024</ToTranslate>
+  </String>
+  <String index="384">
+    <ToTranslate>Бушу$"Ну, если ты не хочешь биться с ними, Тоши, то я возьму на себя обеих."@</ToTranslate>
+  </String>
+  <String index="385">
+    <ToTranslate>tcg_gan12ga</ToTranslate>
+  </String>
+  <String index="386">
+    <ToTranslate>tcg_gan12m</ToTranslate>
+  </String>
+  <String index="387">
+    <ToTranslate>ganr0040</ToTranslate>
+  </String>
+  <String index="388">
+    <ToTranslate>Ганрё$"Спасибо, но я не думаю, что ты справишься с обеими в одиночку."@</ToTranslate>
+  </String>
+  <String index="389">
+    <ToTranslate>tcg_bun22fa</ToTranslate>
+  </String>
+  <String index="390">
+    <ToTranslate>tcg_bun22m</ToTranslate>
+  </String>
+  <String index="391">
+    <ToTranslate>buns0025</ToTranslate>
+  </String>
+  <String index="392">
+    <ToTranslate>Бушу$"Да, в конце концов, они монстры..."@</ToTranslate>
+  </String>
+  <String index="393">
+    <ToTranslate>tcg_gan12aa</ToTranslate>
+  </String>
+  <String index="394">
+    <ToTranslate>tcg_gan12m</ToTranslate>
+  </String>
+  <String index="395">
+    <ToTranslate>ganr0041</ToTranslate>
+  </String>
+  <String index="396">
+    <ToTranslate>Ганрё$"Верно. Если будешь драться с ними, то пострадаешь, Иши."@</ToTranslate>
+  </String>
+  <String index="397">
+    <ToTranslate>tcg_bun22ja</ToTranslate>
+  </String>
+  <String index="398">
+    <ToTranslate>tcg_bun22m</ToTranslate>
+  </String>
+  <String index="399">
+    <ToTranslate>buns0026</ToTranslate>
+  </String>
+  <String index="400">
+    <ToTranslate>Бушу$"Ух ты, Тоши, ты обо мне беспокоишься? ......Я чувствую себя любимой."@</ToTranslate>
+  </String>
+  <String index="401">
+    <ToTranslate>tcg_gan22la</ToTranslate>
+  </String>
+  <String index="402">
+    <ToTranslate>tcg_gan22m</ToTranslate>
+  </String>
+  <String index="403">
+    <ToTranslate>ganr0042</ToTranslate>
+  </String>
+  <String index="404">
+    <ToTranslate>Ганрё$"Ахх...тупица..."@</ToTranslate>
+  </String>
+  <String index="405">
+    <ToTranslate>tcg_bun12aa</ToTranslate>
+  </String>
+  <String index="406">
+    <ToTranslate>tcg_bun12m</ToTranslate>
+  </String>
+  <String index="407">
+    <ToTranslate>buns0027</ToTranslate>
+  </String>
+  <String index="408">
+    <ToTranslate>Бушу$"Но я буду в порядке. Никогда не знаешь, что случится в бою, пока не вступишь в него."@</ToTranslate>
+  </String>
+  <String index="409">
+    <ToTranslate>tcg_gan12ca</ToTranslate>
+  </String>
+  <String index="410">
+    <ToTranslate>tcg_gan12m</ToTranslate>
+  </String>
+  <String index="411">
+    <ToTranslate>ganr0043</ToTranslate>
+  </String>
+  <String index="412">
+    <ToTranslate>Ганрё$"Пока не вступишь? То в говно, то в комсомол! Это тебе не игрушки!"@</ToTranslate>
+  </String>
+  <String index="413">
+    <ToTranslate>tcg_bun22ia</ToTranslate>
+  </String>
+  <String index="414">
+    <ToTranslate>tcg_bun22m</ToTranslate>
+  </String>
+  <String index="415">
+    <ToTranslate>buns0028</ToTranslate>
+  </String>
+  <String index="416">
+    <ToTranslate>Бушу$"Это весело. Вся жизнь - игра! Либо выигрываешь, либо проигрываешь! Ооо, не могу дождаться боя с этими двумя!"@</ToTranslate>
+  </String>
+  <String index="417">
+    <ToTranslate>tcg_ens22ba</ToTranslate>
+  </String>
+  <String index="418">
+    <ToTranslate>tcg_ens22m</ToTranslate>
+  </String>
+  <String index="419">
+    <ToTranslate>ensy0112</ToTranslate>
+  </String>
+  <String index="420">
+    <ToTranslate>Эншо$"Да, да. Верный настрой, Бушу-сан. Вот как должен действовать генерал великой армии!"@</ToTranslate>
+  </String>
+  <String index="421">
+    <ToTranslate>tcg_bun22ba</ToTranslate>
+  </String>
+  <String index="422">
+    <ToTranslate>tcg_bun22m</ToTranslate>
+  </String>
+  <String index="423">
+    <ToTranslate>onpu</ToTranslate>
+  </String>
+  <String index="424">
+    <ToTranslate>buns0029</ToTranslate>
+  </String>
+  <String index="425">
+    <ToTranslate>Бушу$"Верный? Хи-хи, ну, просто позвольте мне позаботиться о Кану и Чёхи!"@</ToTranslate>
+  </String>
+  <String index="426">
+    <ToTranslate>tcg_ens12aa</ToTranslate>
+  </String>
+  <String index="427">
+    <ToTranslate>tcg_ens12m</ToTranslate>
+  </String>
+  <String index="428">
+    <ToTranslate>ensy0113</ToTranslate>
+  </String>
+  <String index="429">
+    <ToTranslate>Эншо$"Позволю. Теперь победа рода Эн обеспечена! О-хо-хо-хо-хо!"@</ToTranslate>
+  </String>
+  <String index="430">
+    <ToTranslate>tcg_bun12ia</ToTranslate>
+  </String>
+  <String index="431">
+    <ToTranslate>tcg_bun12m</ToTranslate>
+  </String>
+  <String index="432">
+    <ToTranslate>buns0030</ToTranslate>
+  </String>
+  <String index="433">
+    <ToTranslate>Бушу$"Именно так, обеспечена! Ха-ха-ха-ха-ха!"@</ToTranslate>
+  </String>
+  <String index="434">
+    <ToTranslate>tcg_gan22ea</ToTranslate>
+  </String>
+  <String index="435">
+    <ToTranslate>tcg_gan22m</ToTranslate>
+  </String>
+  <String index="436">
+    <ToTranslate>tenten</ToTranslate>
+  </String>
+  <String index="437">
+    <ToTranslate>ganr0044</ToTranslate>
+  </String>
+  <String index="438">
+    <ToTranslate>Ганрё$".......................................уххх."@</ToTranslate>
+  </String>
+  <String index="439">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="440">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="441">
+    <ToTranslate>aa</ToTranslate>
+  </String>
+  <String index="442">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="443">
+    <ToTranslate>aa</ToTranslate>
+  </String>
+  <String index="444">
+    <ToTranslate>bcg_outcast_a</ToTranslate>
+  </String>
+  <String index="445">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="446">
+    <ToTranslate>bgm13</ToTranslate>
+  </String>
+  <String index="447">
+    <ToTranslate>$Мы расположили войска под нашим командованием на базе снабжения и залегли в засаде, имея на руках прекрасную стратегию будущей битвы с Эншо.@</ToTranslate>
+  </String>
+  <String index="448">
+    <ToTranslate>Казуто$"......Они определенно задерживаются."@</ToTranslate>
+  </String>
+  <String index="449">
+    <ToTranslate>tcg_syo41ea</ToTranslate>
+  </String>
+  <String index="450">
+    <ToTranslate>tcg_syo41m</ToTranslate>
+  </String>
+  <String index="451">
+    <ToTranslate>syur0272</ToTranslate>
+  </String>
+  <String index="452">
+    <ToTranslate>Шури$"Можешь повторить еще раз. Я думала, эта база снабжения уже пала."@</ToTranslate>
+  </String>
+  <String index="453">
+    <ToTranslate>tcg_kan11ca</ToTranslate>
+  </String>
+  <String index="454">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="455">
+    <ToTranslate>aisy0457</ToTranslate>
+  </String>
+  <String index="456">
+    <ToTranslate>Айша$"Ты права. Дар Небес, что эта крепость все еще на месте."@</ToTranslate>
+  </String>
+  <String index="457">
+    <ToTranslate>tcg_cho31ia</ToTranslate>
+  </String>
+  <String index="458">
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="459">
+    <ToTranslate>rinr0262</ToTranslate>
+  </String>
+  <String index="460">
+    <ToTranslate>Ринрин$"Битва в открытом поле и захват замка крайне сложны."@</ToTranslate>
+  </String>
+  <String index="461">
+    <ToTranslate>Казуто$"Они...... серьезно?"@</ToTranslate>
+  </String>
+  <String index="462">
+    <ToTranslate>tcg_kan21aa</ToTranslate>
+  </String>
+  <String index="463">
+    <ToTranslate>tcg_kan21m</ToTranslate>
+  </String>
+  <String index="464">
+    <ToTranslate>aisy0458</ToTranslate>
+  </String>
+  <String index="465">
+    <ToTranslate>Айша$"Конечно. Обычно нужно атаковать с превосходством в силах в три раза, чтобы занять крепость."@</ToTranslate>
+  </String>
+  <String index="466">
+    <ToTranslate>tcg_syo11aa</ToTranslate>
+  </String>
+  <String index="467">
+    <ToTranslate>tcg_syo11m</ToTranslate>
+  </String>
+  <String index="468">
+    <ToTranslate>syur0273</ToTranslate>
+  </String>
+  <String index="469">
+    <ToTranslate>Шури$"Айша-сан права. Вот насколько важна крепость в обороне."@</ToTranslate>
+  </String>
+  <String index="470">
+    <ToTranslate>Казуто$"......Это одна их тех самых невероятных стратегий, что вы двое знаете?"@</ToTranslate>
+  </String>
+  <String index="471">
+    <ToTranslate>tcg_kan11aa</ToTranslate>
+  </String>
+  <String index="472">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="473">
+    <ToTranslate>aisy0459</ToTranslate>
+  </String>
+  <String index="474">
+    <ToTranslate>Айша$"Нет, это знают все генералы. Даже ты знаешь это, верно, Ринрин?"@</ToTranslate>
+  </String>
+  <String index="475">
+    <ToTranslate>tcg_cho21da</ToTranslate>
+  </String>
+  <String index="476">
+    <ToTranslate>tcg_cho21m</ToTranslate>
+  </String>
+  <String index="477">
+    <ToTranslate>rinr0263</ToTranslate>
+  </String>
+  <String index="478">
+    <ToTranslate>Ринрин$"Ага, знаю! Но...... Ты говоришь это так, словно смеешься надо мной......"@</ToTranslate>
+  </String>
+  <String index="479">
+    <ToTranslate>tcg_kan21ba</ToTranslate>
+  </String>
+  <String index="480">
+    <ToTranslate>tcg_kan21m</ToTranslate>
+  </String>
+  <String index="481">
+    <ToTranslate>aisy0460</ToTranslate>
+  </String>
+  <String index="482">
+    <ToTranslate>Айша$"Конечно нет. Но я считаю, что тебе есть чему поучиться, Ринрин."@</ToTranslate>
+  </String>
+  <String index="483">
+    <ToTranslate>tcg_cho31ga</ToTranslate>
+  </String>
+  <String index="484">
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="485">
+    <ToTranslate>rinr0264</ToTranslate>
+  </String>
+  <String index="486">
+    <ToTranslate>Ринрин$"Аа...... Мне и сказать-то нечего..."@</ToTranslate>
+  </String>
+  <String index="487">
+    <ToTranslate>$Ринрин спряталась от критики Айши за моей спиной.@</ToTranslate>
+  </String>
+  <String index="488">
+    <ToTranslate>Казуто$"Пока что опустим недостатки Ринрин. Вы хотите сказать, что в армии Эншо никто не знает стратегий, которые знают почти все?"@</ToTranslate>
+  </String>
+  <String index="489">
+    <ToTranslate>tcg_kan11ea</ToTranslate>
+  </String>
+  <String index="490">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="491">
+    <ToTranslate>aisy0461</ToTranslate>
+  </String>
+  <String index="492">
+    <ToTranslate>Айша$"Судя по всему......"@</ToTranslate>
+  </String>
+  <String index="493">
+    <ToTranslate>tcg_syo41aa</ToTranslate>
+  </String>
+  <String index="494">
+    <ToTranslate>tcg_syo41m</ToTranslate>
+  </String>
+  <String index="495">
+    <ToTranslate>syur0274</ToTranslate>
+  </String>
+  <String index="496">
+    <ToTranslate>Шури$"Она забыла."@</ToTranslate>
+  </String>
+  <String index="497">
+    <ToTranslate>Казуто$"Вижу. Эншо такая Эншо...... не так ли?"@</ToTranslate>
+  </String>
+  <String index="498">
+    <ToTranslate>tcg_kan21aa</ToTranslate>
+  </String>
+  <String index="499">
+    <ToTranslate>tcg_kan21m</ToTranslate>
+  </String>
+  <String index="500">
+    <ToTranslate>aisy0462</ToTranslate>
+  </String>
+  <String index="501">
+    <ToTranslate>Айша$"Именно."@</ToTranslate>
+  </String>
+  <String index="502">
+    <ToTranslate>$Мы оба улыбнулись.@</ToTranslate>
+  </String>
+  <String index="503">
+    <ToTranslate>tcg_zsh11aa</ToTranslate>
+  </String>
+  <String index="504">
+    <ToTranslate>tcg_zsh11m</ToTranslate>
+  </String>
+  <String index="505">
+    <ToTranslate>Солдат$"Видм облака пыли вдалеке! Это армия Эншо!"@</ToTranslate>
+  </String>
+  <String index="506">
+    <ToTranslate>$Голос солдата был полон напряжения.@</ToTranslate>
+  </String>
+  <String index="507">
+    <ToTranslate>Казуто$"Наконец то! Ладно, все по местам. Защитим нашу страну!"@</ToTranslate>
+  </String>
+  <String index="508">
+    <ToTranslate>tcg_kan11ca</ToTranslate>
+  </String>
+  <String index="509">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="510">
+    <ToTranslate>aisy0463</ToTranslate>
+  </String>
+  <String index="511">
+    <ToTranslate>Айша$"Как пожелаете!"@</ToTranslate>
+  </String>
+  <String index="512">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="513">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="514">
+    <ToTranslate>aa2</ToTranslate>
+  </String>
+  <String index="515">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="516">
+    <ToTranslate>aa2</ToTranslate>
+  </String>
+  <String index="517">
+    <ToTranslate>bcg_wasteland_a</ToTranslate>
+  </String>
+  <String index="518">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="519">
+    <ToTranslate>bgm11</ToTranslate>
+  </String>
+  <String index="520">
+    <ToTranslate>tcg_zen11aa</ToTranslate>
+  </String>
+  <String index="521">
+    <ToTranslate>tcg_zen11m</ToTranslate>
+  </String>
+  <String index="522">
+    <ToTranslate>Солдат$"На вражеском замке флаги! Рядом с флагом командира я вижу флаги с символами "Кан", "Чё"...... и "Великолепие"!"@</ToTranslate>
+  </String>
+  <String index="523">
+    <ToTranslate>tcg_bun22ga</ToTranslate>
+  </String>
+  <String index="524">
+    <ToTranslate>tcg_bun22m</ToTranslate>
+  </String>
+  <String index="525">
+    <ToTranslate>buns0031</ToTranslate>
+  </String>
+  <String index="526">
+    <ToTranslate>Бушу$"Великолепие?! Великолепие - это же......"@</ToTranslate>
+  </String>
+  <String index="527">
+    <ToTranslate>tcg_gan22da</ToTranslate>
+  </String>
+  <String index="528">
+    <ToTranslate>tcg_gan22m</ToTranslate>
+  </String>
+  <String index="529">
+    <ToTranslate>ganr0045</ToTranslate>
+  </String>
+  <String index="530">
+    <ToTranslate>Ганрё$"Дочь Бато, правителя Лян, Бачё Великолепная!"@</ToTranslate>
+  </String>
+  <String index="531">
+    <ToTranslate>tcg_bun22ca</ToTranslate>
+  </String>
+  <String index="532">
+    <ToTranslate>tcg_bun22m</ToTranslate>
+  </String>
+  <String index="533">
+    <ToTranslate>buns0032</ToTranslate>
+  </String>
+  <String index="534">
+    <ToTranslate>Бушу$"А, вот как! Ух ты! Здорово! Все соперники вместе! Оооо, мне не терпится идти!"@</ToTranslate>
+  </String>
+  <String index="535">
+    <ToTranslate>tcg_gan22ea</ToTranslate>
+  </String>
+  <String index="536">
+    <ToTranslate>tcg_gan22m</ToTranslate>
+  </String>
+  <String index="537">
+    <ToTranslate>ganr0046</ToTranslate>
+  </String>
+  <String index="538">
+    <ToTranslate>Ганрё$"......*вздох*."@</ToTranslate>
+  </String>
+  <String index="539">
+    <ToTranslate>tcg_bun22ha</ToTranslate>
+  </String>
+  <String index="540">
+    <ToTranslate>tcg_bun22m</ToTranslate>
+  </String>
+  <String index="541">
+    <ToTranslate>buns0033</ToTranslate>
+  </String>
+  <String index="542">
+    <ToTranslate>Бушу$"Эй, что такое, Тоши? Что так печально вздыхаешь?"@</ToTranslate>
+  </String>
+  <String index="543">
+    <ToTranslate>tcg_gan12ha</ToTranslate>
+  </String>
+  <String index="544">
+    <ToTranslate>tcg_gan12m</ToTranslate>
+  </String>
+  <String index="545">
+    <ToTranslate>ganr0047</ToTranslate>
+  </String>
+  <String index="546">
+    <ToTranslate>Ганрё$"Почему бы и нет? Бачё Великолепная здесь. Она отлично проявила себя у форпостов Сишуй и Хулао. Она генерал не хуже Кану-чан и Чёхи-чан."@</ToTranslate>
+  </String>
+  <String index="547">
+    <ToTranslate>tcg_gan22ea</ToTranslate>
+  </String>
+  <String index="548">
+    <ToTranslate>tcg_gan22m</ToTranslate>
+  </String>
+  <String index="549">
+    <ToTranslate>ganr0048</ToTranslate>
+  </String>
+  <String index="550">
+    <ToTranslate>Ганрё$"Теперь они все на стороне Хонго. Бесит... *вздох*......"@</ToTranslate>
+  </String>
+  <String index="551">
+    <ToTranslate>tcg_bun12ba</ToTranslate>
+  </String>
+  <String index="552">
+    <ToTranslate>tcg_bun12m</ToTranslate>
+  </String>
+  <String index="553">
+    <ToTranslate>buns0034</ToTranslate>
+  </String>
+  <String index="554">
+    <ToTranslate>Бушу$"Эй, не переживай. Жизнь - игра! Неважно, как сильны противники, нам нужна только удача! Знаешь, какая я удачливая?"@</ToTranslate>
+  </String>
+  <String index="555">
+    <ToTranslate>tcg_gan12ca</ToTranslate>
+  </String>
+  <String index="556">
+    <ToTranslate>tcg_gan12m</ToTranslate>
+  </String>
+  <String index="557">
+    <ToTranslate>ganr0049</ToTranslate>
+  </String>
+  <String index="558">
+    <ToTranslate>Ганрё$"......Я видела только как ты проигрываешь."@</ToTranslate>
+  </String>
+  <String index="559">
+    <ToTranslate>tcg_bun22ia</ToTranslate>
+  </String>
+  <String index="560">
+    <ToTranslate>tcg_bun22m</ToTranslate>
+  </String>
+  <String index="561">
+    <ToTranslate>buns0035</ToTranslate>
+  </String>
+  <String index="562">
+    <ToTranslate>Бушу$"Хахаха! Не беспокойся, сегодня я в порядке! Сегодня я точно победю! Да, я чувствую удачу! Точно!"@</ToTranslate>
+  </String>
+  <String index="563">
+    <ToTranslate>tcg_gan22ea</ToTranslate>
+  </String>
+  <String index="564">
+    <ToTranslate>tcg_gan22m</ToTranslate>
+  </String>
+  <String index="565">
+    <ToTranslate>ganr0050</ToTranslate>
+  </String>
+  <String index="566">
+    <ToTranslate>Ганрё$"Oooo...... Мне это не нравится... Это не к добру......"@</ToTranslate>
+  </String>
+  <String index="567">
+    <ToTranslate>tcg_bun22ha</ToTranslate>
+  </String>
+  <String index="568">
+    <ToTranslate>tcg_bun22m</ToTranslate>
+  </String>
+  <String index="569">
+    <ToTranslate>buns0036</ToTranslate>
+  </String>
+  <String index="570">
+    <ToTranslate>Бушу$"В-в любом случае, пора начинать. Иначе принцесса скоро начнет суетиться."@</ToTranslate>
+  </String>
+  <String index="571">
+    <ToTranslate>tcg_gan22ca</ToTranslate>
+  </String>
+  <String index="572">
+    <ToTranslate>tcg_gan22m</ToTranslate>
+  </String>
+  <String index="573">
+    <ToTranslate>ganr0051</ToTranslate>
+  </String>
+  <String index="574">
+    <ToTranslate>Ганрё$"Это верно, но......"@</ToTranslate>
+  </String>
+  <String index="575">
+    <ToTranslate>tcg_bun12aa</ToTranslate>
+  </String>
+  <String index="576">
+    <ToTranslate>tcg_bun12m</ToTranslate>
+  </String>
+  <String index="577">
+    <ToTranslate>buns0037</ToTranslate>
+  </String>
+  <String index="578">
+    <ToTranslate>Бушу$"Просто сделаем это. Ладно, начинаем! Вы все, храните достоинство и гордо шагайте вперед!"@</ToTranslate>
+  </String>
+  <String index="579">
+    <ToTranslate>tcg_zen11aa</ToTranslate>
+  </String>
+  <String index="580">
+    <ToTranslate>tcg_zen11m</ToTranslate>
+  </String>
+  <String index="581">
+    <ToTranslate>Солдат$"Есть!"@</ToTranslate>
+  </String>
+  <String index="582">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="583">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="584">
+    <ToTranslate>aa</ToTranslate>
+  </String>
+  <String index="585">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="586">
+    <ToTranslate>aa</ToTranslate>
+  </String>
+  <String index="587">
+    <ToTranslate>bcg_outcast_a</ToTranslate>
+  </String>
+  <String index="588">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="589">
+    <ToTranslate>bgm0000</ToTranslate>
+  </String>
+  <String index="590">
+    <ToTranslate>tcg_syo21ca</ToTranslate>
+  </String>
+  <String index="591">
+    <ToTranslate>tcg_syo21m</ToTranslate>
+  </String>
+  <String index="592">
+    <ToTranslate>syur0275</ToTranslate>
+  </String>
+  <String index="593">
+    <ToTranslate>Шури$"Господин, Армия Эншо-сан начала сближение! Знаки на их флагах - "Бун" и "Ган". Это самая знаменитая пара в армии Эншо-сан!"@</ToTranslate>
+  </String>
+  <String index="594">
+    <ToTranslate>Казуто$"Сближение? Они нападают на замок без плана? ......Эншо ничуть не изменилась... Или план был хорош..."@</ToTranslate>
+  </String>
+  <String index="595">
+    <ToTranslate>tcg_syo41aa</ToTranslate>
+  </String>
+  <String index="596">
+    <ToTranslate>tcg_syo41m</ToTranslate>
+  </String>
+  <String index="597">
+    <ToTranslate>syur0276</ToTranslate>
+  </String>
+  <String index="598">
+    <ToTranslate>Шури$"Мне тоже так кажется...... Но это делает нам огромную услугу, так то мы должны быть благодарны Эншо-сан!"@</ToTranslate>
+  </String>
+  <String index="599">
+    <ToTranslate>Казуто$"Благодарность за глупость Эншо, а? Ладно, нам тоже пора начинать. Мы тоже собираемся атаковать со стен, так?"@</ToTranslate>
+  </String>
+  <String index="600">
+    <ToTranslate>tcg_syo11ba</ToTranslate>
+  </String>
+  <String index="601">
+    <ToTranslate>tcg_syo11m</ToTranslate>
+  </String>
+  <String index="602">
+    <ToTranslate>syur0277</ToTranslate>
+  </String>
+  <String index="603">
+    <ToTranslate>Шури$"Да! Спустя некоторое время, мы позволим Айше-сан и Ринрин-сан перехватить инициативу и избавить нас от Ганрё-сан и Бушу-сан."@</ToTranslate>
+  </String>
+  <String index="604">
+    <ToTranslate>Казуто$"Хорошо. ...Начинаем."@</ToTranslate>
+  </String>
+  <String index="605">
+    <ToTranslate>tcg_syo11aa</ToTranslate>
+  </String>
+  <String index="606">
+    <ToTranslate>tcg_syo11m</ToTranslate>
+  </String>
+  <String index="607">
+    <ToTranslate>syur0278</ToTranslate>
+  </String>
+  <String index="608">
+    <ToTranslate>Шури$"Принято! Всем! Да начнется битва!"@</ToTranslate>
+  </String>
+  <String index="609">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="610">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="611">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+</DBS>
+
+</poem>
+[[Koihime Musou/Прогресс перевода/Сюжет|[Назад]]]

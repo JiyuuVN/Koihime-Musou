@@ -1,0 +1,39 @@
+<poem>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<DBS>
+  <String index="0">
+    <Origin>�The enemy attacks.@</Origin>
+    <ToTranslate>�The enemy attacks.@</ToTranslate>
+  </String>
+  <String index="1">
+    <Origin>_btl_SC_Enemy</Origin>
+    <ToTranslate>_btl_SC_Enemy</ToTranslate>
+  </String>
+  <String index="2">
+    <Origin>Kouchuu unleashes her Ougi!@</Origin>
+    <ToTranslate>Kouchuu unleashes her Ougi!@</ToTranslate>
+  </String>
+  <String index="3">
+    <Origin>_btl_WazaP_efc</Origin>
+    <ToTranslate>_btl_WazaP_efc</ToTranslate>
+  </String>
+  <String index="4">
+    <Origin>A rain of arrows descends on the enemy soldiers!�$</Origin>
+    <ToTranslate>A rain of arrows descends on the enemy soldiers!�$</ToTranslate>
+  </String>
+  <String index="5">
+    <Origin>�n</Origin>
+    <ToTranslate>�n</ToTranslate>
+  </String>
+  <String index="6">
+    <Origin>You suffered �n</Origin>
+    <ToTranslate>You suffered �n</ToTranslate>
+  </String>
+  <String index="7">
+    <Origin>You killed �‰</Origin>
+    <ToTranslate>You killed �‰</ToTranslate>
+  </String>
+</DBS>
+
+<poem>

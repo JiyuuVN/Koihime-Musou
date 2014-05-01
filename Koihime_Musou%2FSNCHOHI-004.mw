@@ -1,0 +1,1386 @@
+<poem>
+<?xml version="1.0" encoding="UTF-8"?>
+<DBS>
+  <String index="0">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="1">
+    <ToTranslate>bcg_forest_a</ToTranslate>
+  </String>
+  <String index="2">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="3">
+    <ToTranslate>bgm02</ToTranslate>
+  </String>
+  <String index="4">
+    <ToTranslate>$Сперва это был вполне обычный осмотр дворцовых земель...... который сильно отклонился от должного. Скорее всего, Айша уже обеспокоена нашим отсутствием.@</ToTranslate>
+  </String>
+  <String index="5">
+    <ToTranslate>tcg_cho21ja</ToTranslate>
+  </String>
+  <String index="6">
+    <ToTranslate>tcg_cho21m</ToTranslate>
+  </String>
+  <String index="7">
+    <ToTranslate>rinr0747</ToTranslate>
+  </String>
+  <String index="8">
+    <ToTranslate>Ринрин$"Ая? Куда же она полетела? Ау, бабочка."@</ToTranslate>
+  </String>
+  <String index="9">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="10">
+    <ToTranslate>$Мы оказались в глубине леса, где из-за густых веток даже солнце почти не просвечивает.@</ToTranslate>
+  </String>
+  <String index="11">
+    <ToTranslate>$Разве не я тут должен быть главным? А Ринрин лишь моё сопровождение... кажись, я потерял бдительность.@</ToTranslate>
+  </String>
+  <String index="12">
+    <ToTranslate>rinr0748</ToTranslate>
+  </String>
+  <String index="13">
+    <ToTranslate>Ринрин$"Э-эй! Бабочка!"@</ToTranslate>
+  </String>
+  <String index="14">
+    <ToTranslate>$Даже если эти земли под нашим контролем, ещё не значит что здесь можно расслабляться.@</ToTranslate>
+  </String>
+  <String index="15">
+    <ToTranslate>$Поэтому мы и совершаем обходы.@</ToTranslate>
+  </String>
+  <String index="16">
+    <ToTranslate>$А если в этом лесу скрываются отряды врага......@</ToTranslate>
+  </String>
+  <String index="17">
+    <ToTranslate>$...............@</ToTranslate>
+  </String>
+  <String index="18">
+    <ToTranslate>$Нет-нет, не стоит мне думать об этом. Чувствую, как редкая дрожь побежала вдоль всей спины.@</ToTranslate>
+  </String>
+  <String index="19">
+    <ToTranslate>Казуто$"Забудем о бабочках. Мы не нашли здесь вражеских войск, так что давай поворачивать к лошадям."@</ToTranslate>
+  </String>
+  <String index="20">
+    <ToTranslate>$Молчание.@</ToTranslate>
+  </String>
+  <String index="21">
+    <ToTranslate>Казуто$"Эй, стой, Ринрин, ну пойдём уже."@</ToTranslate>
+  </String>
+  <String index="22">
+    <ToTranslate>tcg_cho31ja</ToTranslate>
+  </String>
+  <String index="23">
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="24">
+    <ToTranslate>rinr0749</ToTranslate>
+  </String>
+  <String index="25">
+    <ToTranslate>Ринрин$"Мя?"@</ToTranslate>
+  </String>
+  <String index="26">
+    <ToTranslate>$Я окликнул её ещё пару раз. Наконец ближайшие кусты задрожали и оттуда вынырнула Ринрин с ворохом листьев на макушке.@</ToTranslate>
+  </String>
+  <String index="27">
+    <ToTranslate>Казуто$"Не убегай далеко! Я же беспокоюсь за тебя... *акха* что если бы ты потерялась?"@</ToTranslate>
+  </String>
+  <String index="28">
+    <ToTranslate>tcg_cho11aa</ToTranslate>
+  </String>
+  <String index="29">
+    <ToTranslate>tcg_cho11m</ToTranslate>
+  </String>
+  <String index="30">
+    <ToTranslate>rinr0750</ToTranslate>
+  </String>
+  <String index="31">
+    <ToTranslate>Ринрин$"Я слышала шум воды вон там."@</ToTranslate>
+  </String>
+  <String index="32">
+    <ToTranslate>Казуто$"Да послушай меня!"@</ToTranslate>
+  </String>
+  <String index="33">
+    <ToTranslate>tcg_cho21ia</ToTranslate>
+  </String>
+  <String index="34">
+    <ToTranslate>tcg_cho21m</ToTranslate>
+  </String>
+  <String index="35">
+    <ToTranslate>rinr0751</ToTranslate>
+  </String>
+  <String index="36">
+    <ToTranslate>Ринрин$"А что если там будет источник. Идём! Ринрин хочет пить."@</ToTranslate>
+  </String>
+  <String index="37">
+    <ToTranslate>$Не слышала ни единого моего слова. Так и знал, что меня не ценят......@</ToTranslate>
+  </String>
+  <String index="38">
+    <ToTranslate>Казуто$"Источник, да? Что ж, утолим жажду и отдохнём, а затем сразу домой."@</ToTranslate>
+  </String>
+  <String index="39">
+    <ToTranslate>tcg_cho31ba</ToTranslate>
+  </String>
+  <String index="40">
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="41">
+    <ToTranslate>rinr0752</ToTranslate>
+  </String>
+  <String index="42">
+    <ToTranslate>Ринрин$"Как же здорово, быстрее туда!"@</ToTranslate>
+  </String>
+  <String index="43">
+    <ToTranslate>$И снова она убежала... уверен, мне лучше не отставать. К счастью после её галопа образовалась тропа, и я смог быстро пройти.@</ToTranslate>
+  </String>
+  <String index="44">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="45">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="46">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="47">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="48">
+    <ToTranslate>$Я отказался от попыток бежать за ней, потеряв её из виду мне осталось только следовать её крикам.@</ToTranslate>
+  </String>
+  <String index="49">
+    <ToTranslate>$Вскоре после и я услышал журчание ручья.@</ToTranslate>
+  </String>
+  <String index="50">
+    <ToTranslate>SE053</ToTranslate>
+  </String>
+  <String index="51">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="52">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="53">
+    <ToTranslate>aa</ToTranslate>
+  </String>
+  <String index="54">
+    <ToTranslate>bcg_river_a</ToTranslate>
+  </String>
+  <String index="55">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="56">
+    <ToTranslate>tcg_cho31ba</ToTranslate>
+  </String>
+  <String index="57">
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="58">
+    <ToTranslate>rinr0753</ToTranslate>
+  </String>
+  <String index="59">
+    <ToTranslate>Ринрин$"Я нашла! Ура! источник!"@</ToTranslate>
+  </String>
+  <String index="60">
+    <ToTranslate>$Обалдеть, пейзаж будто с чьей-то живописной картины. Большая поляна, мягкий солнечный свет прорывается через ветки и мягко отражается от спокойной глади воды.@</ToTranslate>
+  </String>
+  <String index="61">
+    <ToTranslate>$Гармония Матушки Природы во всей красе. Вид настолько захватывает, что отпавшая челюсть напрочь лишает меня дара речи.@</ToTranslate>
+  </String>
+  <String index="62">
+    <ToTranslate>tcg_cho21ia</ToTranslate>
+  </String>
+  <String index="63">
+    <ToTranslate>tcg_cho21m</ToTranslate>
+  </String>
+  <String index="64">
+    <ToTranslate>rinr0754</ToTranslate>
+  </String>
+  <String index="65">
+    <ToTranslate>Ринрин$"А теперь купаться!"@</ToTranslate>
+  </String>
+  <String index="66">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="67">
+    <ToTranslate>SE054</ToTranslate>
+  </String>
+  <String index="68">
+    <ToTranslate>$Га... купаться? А?! Значит... эта одежда, разбросанная по кустам...@</ToTranslate>
+  </String>
+  <String index="69">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="70">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="71">
+    <ToTranslate>ecg_cho02a</ToTranslate>
+  </String>
+  <String index="72">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="73">
+    <ToTranslate>bgm26</ToTranslate>
+  </String>
+  <String index="74">
+    <ToTranslate>rinr0755</ToTranslate>
+  </String>
+  <String index="75">
+    <ToTranslate>Ринрин$"А-а-а-а-а! Холодно."@</ToTranslate>
+  </String>
+  <String index="76">
+    <ToTranslate>$Особенно когда рядом такой парень как я?@</ToTranslate>
+  </String>
+  <String index="77">
+    <ToTranslate>Казуто$"Разве ты не шла сюда потому что хотела пить......?"@</ToTranslate>
+  </String>
+  <String index="78">
+    <ToTranslate>rinr0756</ToTranslate>
+  </String>
+  <String index="79">
+    <ToTranslate>Ринрин$"И пить тоже. *Глоток, глоток*"@</ToTranslate>
+  </String>
+  <String index="80">
+    <ToTranslate>$Безо всякого стеснения собственной наготой, Ринрин наклонилась и стала черпать воду руками.@</ToTranslate>
+  </String>
+  <String index="81">
+    <ToTranslate>rinr0757</ToTranslate>
+  </String>
+  <String index="82">
+    <ToTranslate>Ринрин$"Аха-а, такая холодная и вкусная."@</ToTranslate>
+  </String>
+  <String index="83">
+    <ToTranslate>$Мои глаза проследовали за струйкой воды, скатившейся с её рта вниз и далее по мелким возвышенностям на груди.@</ToTranslate>
+  </String>
+  <String index="84">
+    <ToTranslate>$Ещё точнее, они приклеились к бледно-розовым кончикам этих возвышенностей. Чувствую, в горле будто ком образовался.@</ToTranslate>
+  </String>
+  <String index="85">
+    <ToTranslate>Казуто$"Эй......"@</ToTranslate>
+  </String>
+  <String index="86">
+    <ToTranslate>$Это всё что я смог сказать, в горле пересохла а голова пошла кругом от волнения.@</ToTranslate>
+  </String>
+  <String index="87">
+    <ToTranslate>$Разве это нормально, а? Независимо её статуса, ведь она девушка, а оголяться подобным образом...@</ToTranslate>
+  </String>
+  <String index="88">
+    <ToTranslate>rinr0758</ToTranslate>
+  </String>
+  <String index="89">
+    <ToTranslate>Ринрин$"Это очень красивый источник! Нельзя же так сразу прощаться с ним просто напившись из него."@</ToTranslate>
+  </String>
+  <String index="90">
+    <ToTranslate>Казуто$"Д-да...... возможно."@</ToTranslate>
+  </String>
+  <String index="91">
+    <ToTranslate>rinr0759</ToTranslate>
+  </String>
+  <String index="92">
+    <ToTranslate>Ринрин$"Эй-эй, Братик, почему тебе тоже не искупаться вместе со мной?"@</ToTranslate>
+  </String>
+  <String index="93">
+    <ToTranslate>Казуто$"Э-э, конечно."@</ToTranslate>
+  </String>
+  <String index="94">
+    <ToTranslate>$Боюсь, что она заметит куда я смотрю......и так как и глаза и мозг сосредоточились в одном месте, сам того не желая я согласился с ней.@</ToTranslate>
+  </String>
+  <String index="95">
+    <ToTranslate>rinr0760</ToTranslate>
+  </String>
+  <String index="96">
+    <ToTranslate>Ринрин$"Мя! Да, тогда прыгай скорее и поиграй вместе с Ринрин!"@</ToTranslate>
+  </String>
+  <String index="97">
+    <ToTranslate>Казуто$"Гха?!"@</ToTranslate>
+  </String>
+  <String index="98">
+    <ToTranslate>$Вытянув руки из речки она схватила меня за запястья, а затем потянула к себе и я понял что уже слишком поздно сожалеть о содеянном.@</ToTranslate>
+  </String>
+  <String index="99">
+    <ToTranslate>Казуто$"Я сам, подождёшь?! Я-я ведь не хочу, чтобы моя одежда промокла."@</ToTranslate>
+  </String>
+  <String index="100">
+    <ToTranslate>rinr0761</ToTranslate>
+  </String>
+  <String index="101">
+    <ToTranslate>Ринрин$"Ясно."@</ToTranslate>
+  </String>
+  <String index="102">
+    <ToTranslate>$Я медленно осмотрелся, но шансов сбежать у меня не было... неохотно я начал стаскивать с себя одежду, медленно, пытаясь как можно дольше оттянуть неизбежное.@</ToTranslate>
+  </String>
+  <String index="103">
+    <ToTranslate>rinr0762</ToTranslate>
+  </String>
+  <String index="104">
+    <ToTranslate>Ринрин$"Хм, что-то случилось?"@</ToTranslate>
+  </String>
+  <String index="105">
+    <ToTranslate>$Я уже давно обнаружил большую проблему в штанах, которая активно мешала мне вообще куда-то идти.@</ToTranslate>
+  </String>
+  <String index="106">
+    <ToTranslate>$Я перепробовал множество способов успокоить её, но корень проблемы был прямо передо мной. ......разве что Ринрин резко одумается и решит вернуть всю одежду назад...@</ToTranslate>
+  </String>
+  <String index="107">
+    <ToTranslate>rinr0763</ToTranslate>
+  </String>
+  <String index="108">
+    <ToTranslate>Ринрин$"......дело в том что тебе не нравится играть вместе с Ринрин?"@</ToTranslate>
+  </String>
+  <String index="109">
+    <ToTranslate>Казуто$"Конечно же нет! Я просто, эм..."@</ToTranslate>
+  </String>
+  <String index="110">
+    <ToTranslate>$Умоляю, просто поверь...... хотя да, сомневаюсь что такое применимо к Ринрин.@</ToTranslate>
+  </String>
+  <String index="111">
+    <ToTranslate>rinr0764</ToTranslate>
+  </String>
+  <String index="112">
+    <ToTranslate>Ринрин$"Ты медлишь потому что не хочешь играть...... *хнык* Ринрин тебе больше не нравиться."@</ToTranslate>
+  </String>
+  <String index="113">
+    <ToTranslate>$Не надо смотреть на меня таким слезящимся взглядом...@</ToTranslate>
+  </String>
+  <String index="114">
+    <ToTranslate>Казуто$"Да разве такое возможно? Ты слишком много волнуешься...... погоди, ещё немного и я буду готов."@</ToTranslate>
+  </String>
+  <String index="115">
+    <ToTranslate>$Лёгкий ветерок повеял прохладой, я сжал руку в кулак чтобы укрепить свою силу воли, но...@</ToTranslate>
+  </String>
+  <String index="116">
+    <ToTranslate>rinr0765</ToTranslate>
+  </String>
+  <String index="117">
+    <ToTranslate>Ринрин$"Не отворачивайся, посмотри на Ринрин. Ты должен раздеться перед тем как купаться в источнике."@</ToTranslate>
+  </String>
+  <String index="118">
+    <ToTranslate>$Не могу я этого. Сняв только футболку я уже чувствую, что не смогу......@</ToTranslate>
+  </String>
+  <String index="119">
+    <ToTranslate>rinr0766</ToTranslate>
+  </String>
+  <String index="120">
+    <ToTranslate>Ринрин$"Если не раздеться сейчас то потом ты будешь чихать! Вся одежда промокнет, и пройдёт много времени, прежде чем она высохнет."@</ToTranslate>
+  </String>
+  <String index="121">
+    <ToTranslate>Казуто$"О-о-о......"@</ToTranslate>
+  </String>
+  <String index="122">
+    <ToTranslate>rinr0767</ToTranslate>
+  </String>
+  <String index="123">
+    <ToTranslate>Ринрин$"Ринрин тоже разделась, так что нечего стесняться! Давай, снимай всё с себя!"@</ToTranslate>
+  </String>
+  <String index="124">
+    <ToTranslate>$Очевидно одно, она не видит меня как представителя противоположного пола. Её слова полные настойчивости то и дело подталкивают меня к краю пропасти.@</ToTranslate>
+  </String>
+  <String index="125">
+    <ToTranslate>rinr0768</ToTranslate>
+  </String>
+  <String index="126">
+    <ToTranslate>Ринрин$"Знаю, ты наверное хочешь чтобы я помогла тебе?"@</ToTranslate>
+  </String>
+  <String index="127">
+    <ToTranslate>Казуто$"Чего!?"@</ToTranslate>
+  </String>
+  <String index="128">
+    <ToTranslate>$......ну всё! Будь что будет!@</ToTranslate>
+  </String>
+  <String index="129">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="130">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="131">
+    <ToTranslate>ecg_cho02b</ToTranslate>
+  </String>
+  <String index="132">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="133">
+    <ToTranslate>$С неохотой стянув штаны, я выпустил на волю мой возвышающийся пенис....@</ToTranslate>
+  </String>
+  <String index="134">
+    <ToTranslate>rinr0769</ToTranslate>
+  </String>
+  <String index="135">
+    <ToTranslate>Ринрин$"Ва-а-а... Братик, это твой пенис..."@</ToTranslate>
+  </String>
+  <String index="136">
+    <ToTranslate>$Мне так стыдно за себя, а ещё так жаль что мне пришлось подвергать подобному невинную Ринрин. Ур, я вот-вот заплачу.@</ToTranslate>
+  </String>
+  <String index="137">
+    <ToTranslate>Казуто$"Как видишь! И вот поэтому я не спешил снимать с себя одежду..."@</ToTranslate>
+  </String>
+  <String index="138">
+    <ToTranslate>rinr0770</ToTranslate>
+  </String>
+  <String index="139">
+    <ToTranslate>Ринрин$"Мя, ты злишься?"@</ToTranslate>
+  </String>
+  <String index="140">
+    <ToTranslate>Казуто$"Нет...не злюсь. Я бы сказал мне больше стыдно за себя."@</ToTranslate>
+  </String>
+  <String index="141">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="142">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="143">
+    <ToTranslate>ecg_cho02c</ToTranslate>
+  </String>
+  <String index="144">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="145">
+    <ToTranslate>rinr0771</ToTranslate>
+  </String>
+  <String index="146">
+    <ToTranslate>Ринрин$"Но эта штука выглядит так будто она злится."@</ToTranslate>
+  </String>
+  <String index="147">
+    <ToTranslate>Казуто$"Хг...... н-не трогай его!"@</ToTranslate>
+  </String>
+  <String index="148">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="149">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="150">
+    <ToTranslate>ecg_cho02b</ToTranslate>
+  </String>
+  <String index="151">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="152">
+    <ToTranslate>rinr0772</ToTranslate>
+  </String>
+  <String index="153">
+    <ToTranslate>Ринрин$"Мя-ха!?"@</ToTranslate>
+  </String>
+  <String index="154">
+    <ToTranslate>$Я сделал вид что собираюсь треснуть её. Ринрин......в свою очередь притворилась что спрятала голову и пригнулась, но её глаза постоянно были прикованы к моей промежности.@</ToTranslate>
+  </String>
+  <String index="155">
+    <ToTranslate>$Её постоянный скулёж заставил его вырасти ещё больше.@</ToTranslate>
+  </String>
+  <String index="156">
+    <ToTranslate>rinr0773</ToTranslate>
+  </String>
+  <String index="157">
+    <ToTranslate>Ринрин$"Ему наверное больно."@</ToTranslate>
+  </String>
+  <String index="158">
+    <ToTranslate>$Её дыхание... бло?! Из него же сейчас что-нибудь потечёт!@</ToTranslate>
+  </String>
+  <String index="159">
+    <ToTranslate>Казуто$"Только не пойми неправильно! Это...... просто физиологическое явление. У мужчин такое бывает! И это только доказывает что я вполне здоров."@</ToTranslate>
+  </String>
+  <String index="160">
+    <ToTranslate>rinr0774</ToTranslate>
+  </String>
+  <String index="161">
+    <ToTranslate>Ринрин$"Зачем говорить так быстро? Я не успеваю понять."@</ToTranslate>
+  </String>
+  <String index="162">
+    <ToTranslate>Казуто$"......но, это от меня совсем не зависит! И это совершенно нормальная реакция при виде обнажённого тела такой красивой девушки как ты."@</ToTranslate>
+  </String>
+  <String index="163">
+    <ToTranslate>rinr0775</ToTranslate>
+  </String>
+  <String index="164">
+    <ToTranslate>Ринрин$"Э?"@</ToTranslate>
+  </String>
+  <String index="165">
+    <ToTranslate>$Ой.@</ToTranslate>
+  </String>
+  <String index="166">
+    <ToTranslate>rinr0776</ToTranslate>
+  </String>
+  <String index="167">
+    <ToTranslate>Ринрин$"........................"@</ToTranslate>
+  </String>
+  <String index="168">
+    <ToTranslate>$Ч-что я только что ляпнул пока пытался придумать отмазку?! Ринрин сидела молча, смотря на меня широко открытыми глазами. А затем...@</ToTranslate>
+  </String>
+  <String index="169">
+    <ToTranslate>Казуто$"Нет......!?"@</ToTranslate>
+  </String>
+  <String index="170">
+    <ToTranslate>rinr0777</ToTranslate>
+  </String>
+  <String index="171">
+    <ToTranslate>Ринрин$"Ну и удивил же ты меня. Хи-хи, ты назвал Ринрин красивой...... хе-хе, как же я рада."@</ToTranslate>
+  </String>
+  <String index="172">
+    <ToTranslate>$Силы покинули меня, я уже и не знаю, как мне посмотреть вниз на Ринрин, улыбающуюся от уха до уха.@</ToTranslate>
+  </String>
+  <String index="173">
+    <ToTranslate>rinr0778</ToTranslate>
+  </String>
+  <String index="174">
+    <ToTranslate>Ринрин$"Значит если Ринрин красивая, и поэтому твой член стал настолько большим?"@</ToTranslate>
+  </String>
+  <String index="175">
+    <ToTranslate>Казуто$"......верно, все парни такие."@</ToTranslate>
+  </String>
+  <String index="176">
+    <ToTranslate>rinr0779</ToTranslate>
+  </String>
+  <String index="177">
+    <ToTranslate>Ринрин$"Хм-м-м."@</ToTranslate>
+  </String>
+  <String index="178">
+    <ToTranslate>$Вопреки её молчанию, она кажется крайне заинтересованной. И пусть один раз я её уже отругал...... её пальцы так и теребят от желания прикоснуться к нему снова.@</ToTranslate>
+  </String>
+  <String index="179">
+    <ToTranslate>rinr0780</ToTranslate>
+  </String>
+  <String index="180">
+    <ToTranslate>Ринрин$"На что это похоже? Это больно? Может он чешется?"@</ToTranslate>
+  </String>
+  <String index="181">
+    <ToTranslate>$Её любопытство прямое проявление её незнания. Я понимаю это и в моей душе назревает жуткий конфликт.@</ToTranslate>
+  </String>
+  <String index="182">
+    <ToTranslate>rinr0781</ToTranslate>
+  </String>
+  <String index="183">
+    <ToTranslate>Ринрин$"Он не становится меньше... если присмотреться можно заметить что он дёргается. Совсем как живой."@</ToTranslate>
+  </String>
+  <String index="184">
+    <ToTranslate>Казуто$"Ты его только что...... понюхала?"@</ToTranslate>
+  </String>
+  <String index="185">
+    <ToTranslate>rinr0782</ToTranslate>
+  </String>
+  <String index="186">
+    <ToTranslate>Ринрин$"Разве его нельзя нюхать?"@</ToTranslate>
+  </String>
+  <String index="187">
+    <ToTranslate>Казуто$"Эм, ну если ты спрашиваешь...... ладно."@</ToTranslate>
+  </String>
+  <String index="188">
+    <ToTranslate>$Крохотные пальцы снова заёрзали. Она следит как капли предвариловки рождаются на кончике члена и стекают вниз вдоль головки.@</ToTranslate>
+  </String>
+  <String index="189">
+    <ToTranslate>rinr0783</ToTranslate>
+  </String>
+  <String index="190">
+    <ToTranslate>Ринрин$"О-о-о...... странно. Это совсем не похоже на мочу. Братик, что это за штука стекает с его конца?"@</ToTranslate>
+  </String>
+  <String index="191">
+    <ToTranslate>Казуто$"М-м-м......"@</ToTranslate>
+  </String>
+  <String index="192">
+    <ToTranslate>$---"можешь коснуться если так сильно этого хочешь."---@</ToTranslate>
+  </String>
+  <String index="193">
+    <ToTranslate>$Это совсем не сложно сказать...... позволяя тем самым наивной Ринрин прикоснуться к моему вожделению...@</ToTranslate>
+  </String>
+  <String index="194">
+    <ToTranslate>$Но уверен что любые её действия напрямую повлияют на мою карму.@</ToTranslate>
+  </String>
+  <String index="195">
+    <ToTranslate>rinr0784</ToTranslate>
+  </String>
+  <String index="196">
+    <ToTranslate>Ринрин$"Братик, у тебя лицо покраснело...... или ты смущён тем что я смотрю на твой опухший пенис?"@</ToTranslate>
+  </String>
+  <String index="197">
+    <ToTranslate>Казуто$"......немного."@</ToTranslate>
+  </String>
+  <String index="198">
+    <ToTranslate>$С другой стороны мой инстинкт изгнать всё что бурлит в моём пенисе только крепнет.@</ToTranslate>
+  </String>
+  <String index="199">
+    <ToTranslate>rinr0785</ToTranslate>
+  </String>
+  <String index="200">
+    <ToTranslate>Ринрин$"Значит тебе становится плохо ......когда твой пенис становится настолько большим......"@</ToTranslate>
+  </String>
+  <String index="201">
+    <ToTranslate>$Голова кругом идёт, и тут я замечаю что Ринрин как-то обеспокоено смотрит на меня.@</ToTranslate>
+  </String>
+  <String index="202">
+    <ToTranslate>rinr0786</ToTranslate>
+  </String>
+  <String index="203">
+    <ToTranslate>Ринрин$"Ринрин заставила страдать Братика......"@</ToTranslate>
+  </String>
+  <String index="204">
+    <ToTranslate>Казуто$"Ая......!?"@</ToTranslate>
+  </String>
+  <String index="205">
+    <ToTranslate>rinr0787</ToTranslate>
+  </String>
+  <String index="206">
+    <ToTranslate>Ринрин$"Ринрин разделась и пенис Братика сильно раздулся."@</ToTranslate>
+  </String>
+  <String index="207">
+    <ToTranslate>$В груди защемило, как ни посмотри, а где-то внутри я аморален...... и осознав это, я попытался игнорировать своё чувство вины.@</ToTranslate>
+  </String>
+  <String index="208">
+    <ToTranslate>rinr0788</ToTranslate>
+  </String>
+  <String index="209">
+    <ToTranslate>Ринрин$"А если Ринрин снова оденется? А-ах...... но если так сделать, то я не смогу поиграть в ручье вместе с тобой."@</ToTranslate>
+  </String>
+  <String index="210">
+    <ToTranslate>Казуто$"......есть... один способ... и тебе не придётся одеваться снова......"@</ToTranslate>
+  </String>
+  <String index="211">
+    <ToTranslate>$Говоря это я отвожу глаза в сторону.@</ToTranslate>
+  </String>
+  <String index="212">
+    <ToTranslate>rinr0789</ToTranslate>
+  </String>
+  <String index="213">
+    <ToTranslate>Ринрин$"Какой же!?"@</ToTranslate>
+  </String>
+  <String index="214">
+    <ToTranslate>Казуто$"Мне неприятно потому что... он стал таким. Всё что нам нужно, это вернуть его к норме."@</ToTranslate>
+  </String>
+  <String index="215">
+    <ToTranslate>rinr0790</ToTranslate>
+  </String>
+  <String index="216">
+    <ToTranslate>Ринрин$"Конечно! Тогда быстрее сделай это! Ринрин будет хорошей девочкой и подождёт."@</ToTranslate>
+  </String>
+  <String index="217">
+    <ToTranslate>Казуто$"А-а, э-э...... будет куда быстрее если ты мне поможешь."@</ToTranslate>
+  </String>
+  <String index="218">
+    <ToTranslate>$В душе я попросил прощения - "прошу – извините меня", у Ринрин, у Айши, у собственных предков и сразу у всех остальных.@</ToTranslate>
+  </String>
+  <String index="219">
+    <ToTranslate>rinr0791</ToTranslate>
+  </String>
+  <String index="220">
+    <ToTranslate>Ринрин$"Ринрин обязательно поможет! Что нужно сделать?"@</ToTranslate>
+  </String>
+  <String index="221">
+    <ToTranslate>$Ничего не поделаешь...... я просто не могу расстраивать Ринрин.@</ToTranslate>
+  </String>
+  <String index="222">
+    <ToTranslate>Казуто$"......можешь к нему прикоснуться?"@</ToTranslate>
+  </String>
+  <String index="223">
+    <ToTranslate>$К тому же, я не придумал способа лучше... дабы успокоить... бурлящие эмоции внутри меня.@</ToTranslate>
+  </String>
+  <String index="224">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="225">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="226">
+    <ToTranslate>ecg_cho02d</ToTranslate>
+  </String>
+  <String index="227">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="228">
+    <ToTranslate>bgm20</ToTranslate>
+  </String>
+  <String index="229">
+    <ToTranslate>Казуто$"Вуа-а......!?"@</ToTranslate>
+  </String>
+  <String index="230">
+    <ToTranslate>rinr0792</ToTranslate>
+  </String>
+  <String index="231">
+    <ToTranslate>Ринрин$"Мя!? Прости, я всегда делаю что-то не так."@</ToTranslate>
+  </String>
+  <String index="232">
+    <ToTranslate>Казуто$"Прости, настолько внезапно, я просто немного удивлён."@</ToTranslate>
+  </String>
+  <String index="233">
+    <ToTranslate>$На самом деле я очень даже сильно удивлён. Она дала волю своему эгоизму и её пальцы плотно обхватили мой вал...... пришлось приложить немало усилий чтобы обуздать себя.@</ToTranslate>
+  </String>
+  <String index="234">
+    <ToTranslate>Казуто$"Давай не так быстро? Я...... сейчас я покажу тебе как."@</ToTranslate>
+  </String>
+  <String index="235">
+    <ToTranslate>rinr0793</ToTranslate>
+  </String>
+  <String index="236">
+    <ToTranslate>Ринрин$"А...... д-да."@</ToTranslate>
+  </String>
+  <String index="237">
+    <ToTranslate>$Я беру её руку своей и беру её пальцы в замок. В этот раз её рука ложится на меня не так резко, похоже, ей понадобится время, чтобы научиться контролировать свою силу.@</ToTranslate>
+  </String>
+  <String index="238">
+    <ToTranslate>rinr0794</ToTranslate>
+  </String>
+  <String index="239">
+    <ToTranslate>Ринрин$"Ты должен научить меня, потому что сама Ринрин ничего не умеет."@</ToTranslate>
+  </String>
+  <String index="240">
+    <ToTranslate>$Разумеется не умеет...... не каждый день впервые касаешься мужского достоинства.@</ToTranslate>
+  </String>
+  <String index="241">
+    <ToTranslate>rinr0795</ToTranslate>
+  </String>
+  <String index="242">
+    <ToTranslate>Ринрин$"Если его сжать тебе становится больно? А что будет, если надавить вот здесь?"@</ToTranslate>
+  </String>
+  <String index="243">
+    <ToTranslate>Казуто$"Ну, возможно будет даже приятно."@</ToTranslate>
+  </String>
+  <String index="244">
+    <ToTranslate>rinr0796</ToTranslate>
+  </String>
+  <String index="245">
+    <ToTranslate>Ринрин$"Надавить...... надавить, вот так?"@</ToTranslate>
+  </String>
+  <String index="246">
+    <ToTranslate>$Потребовалось какое-то время чтобы донести до неё все тонкости: не слишком сильно, не совсем слабо, но это был уже первый шаг.@</ToTranslate>
+  </String>
+  <String index="247">
+    <ToTranslate>rinr0797</ToTranslate>
+  </String>
+  <String index="248">
+    <ToTranslate>Ринрин$"Ах...... хм-м."@</ToTranslate>
+  </String>
+  <String index="249">
+    <ToTranslate>Казуто$"Да, вот так хорошо, Ринрин ты быстро учишься."@</ToTranslate>
+  </String>
+  <String index="250">
+    <ToTranslate>$На всякий случай я решил успокоить её...... гладя рукой её волосы и далее вниз по щеке.@</ToTranslate>
+  </String>
+  <String index="251">
+    <ToTranslate>rinr0798</ToTranslate>
+  </String>
+  <String index="252">
+    <ToTranslate>Ринрин$"Эхе-хе, ты меня похвалил."@</ToTranslate>
+  </String>
+  <String index="253">
+    <ToTranslate>$Я надавил и Ринрин крепче обжала мой пенис......откуда у меня столь странное волнение? После длительного колебания, Ринрин посмотрела на меня, спрашивая что же ей делать дальше...@</ToTranslate>
+  </String>
+  <String index="254">
+    <ToTranslate>Казуто$"Медленно...... не разжимая кулак, можешь двигать рукой вверх и потом вниз?"@</ToTranslate>
+  </String>
+  <String index="255">
+    <ToTranslate>rinr0799</ToTranslate>
+  </String>
+  <String index="256">
+    <ToTranslate>Ринрин$"Вверх и затем вниз? Ну ка...... ум, вначале он твёрдый, но затем становится мягче."@</ToTranslate>
+  </String>
+  <String index="257">
+    <ToTranslate>$Предварительно пощупав, она стала водить рукой вверх и вниз. Моя рука просто покоится сверху, не давай никаких направлений.@</ToTranslate>
+  </String>
+  <String index="258">
+    <ToTranslate>rinr0800</ToTranslate>
+  </String>
+  <String index="259">
+    <ToTranslate>Ринрин$"А ещё, он постоянно дёргается, ха-а.... а-а, и щекочет мои ладони."@</ToTranslate>
+  </String>
+  <String index="260">
+    <ToTranslate>$Я всё приму, выставив свою антенну, я пытаюсь получить всё, что Ринрин готова мне предложить.@</ToTranslate>
+  </String>
+  <String index="261">
+    <ToTranslate>rinr0801</ToTranslate>
+  </String>
+  <String index="262">
+    <ToTranslate>Ринрин$"А если я сделаю так......? Скажи, Братик, а-ах, я всё делаю правильно?"@</ToTranslate>
+  </String>
+  <String index="263">
+    <ToTranslate>$Я получаю немного дразнящее...... удовольствие, от её недоумевающий действий по отношений к чему-то новому.@</ToTranslate>
+  </String>
+  <String index="264">
+    <ToTranslate>Казуто$"......скажи мне он тёплый?"@</ToTranslate>
+  </String>
+  <String index="265">
+    <ToTranslate>rinr0802</ToTranslate>
+  </String>
+  <String index="266">
+    <ToTranslate>Ринрин$"Да, намного жарче ладоней Ринрин. Настолько жаркий что иногда, кажется будто способен обжечь меня."@</ToTranslate>
+  </String>
+  <String index="267">
+    <ToTranslate>Казуто$"Всё потому что ты очень милая, Ринрин. И только доказывает насколько я возбуждён."@</ToTranslate>
+  </String>
+  <String index="268">
+    <ToTranslate>rinr0803</ToTranslate>
+  </String>
+  <String index="269">
+    <ToTranslate>Ринрин$"Из-за Ринрин......? Вот как."@</ToTranslate>
+  </String>
+  <String index="270">
+    <ToTranslate>$Её пальцы кружатся по головке и далее вниз, и тем не менее ещё ни разу они не коснулись самой чувствительной части.@</ToTranslate>
+  </String>
+  <String index="271">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="272">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="273">
+    <ToTranslate>ecg_cho02c</ToTranslate>
+  </String>
+  <String index="274">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="275">
+    <ToTranslate>rinr0804</ToTranslate>
+  </String>
+  <String index="276">
+    <ToTranslate>Ринрин$"Тогда...... ха-а, он перестанет дёргаться если Ринрин тебе разонравится."@</ToTranslate>
+  </String>
+  <String index="277">
+    <ToTranslate>Казуто$"Угх...... а-ах."@</ToTranslate>
+  </String>
+  <String index="278">
+    <ToTranslate>$Её неуклюжесть поразила меня до глубины сердца.@</ToTranslate>
+  </String>
+  <String index="279">
+    <ToTranslate>rinr0805</ToTranslate>
+  </String>
+  <String index="280">
+    <ToTranslate>Ринрин$"Знаешь, Братик, пускай тебе не нравится это подёргивание... ах! Ринрин, эм... когда ты называешь Ринрин милой..."@</ToTranslate>
+  </String>
+  <String index="281">
+    <ToTranslate>rinr0806</ToTranslate>
+  </String>
+  <String index="282">
+    <ToTranslate>Ринрин$"Это делает меня...... счастливой. Я буду стараться ещё сильнее! Ещё, вот так."@</ToTranslate>
+  </String>
+  <String index="283">
+    <ToTranslate>Казуто$"Спасиб. Ха, а-а...... сила в твоих пальцах меняется."@</ToTranslate>
+  </String>
+  <String index="284">
+    <ToTranslate>rinr0807</ToTranslate>
+  </String>
+  <String index="285">
+    <ToTranslate>Ринрин$"Мя? Уа-а."@</ToTranslate>
+  </String>
+  <String index="286">
+    <ToTranslate>$Собственное волнение заставило её придавит меня, моя головка побагровела от силы хватки, затем слегка расслабилась и боль утихла.@</ToTranslate>
+  </String>
+  <String index="287">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="288">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="289">
+    <ToTranslate>ecg_cho02d</ToTranslate>
+  </String>
+  <String index="290">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="291">
+    <ToTranslate>rinr0808</ToTranslate>
+  </String>
+  <String index="292">
+    <ToTranslate>Ринрин$"Слишком сильно...... прости, Братик, я сделала тебе больно?"@</ToTranslate>
+  </String>
+  <String index="293">
+    <ToTranslate>Казуто$"Не останавливайся."@</ToTranslate>
+  </String>
+  <String index="294">
+    <ToTranslate>rinr0809</ToTranslate>
+  </String>
+  <String index="295">
+    <ToTranslate>Ринрин$"Хао-а!? Уверен? Даже если я умею не совсем хорошо...... ты хочешь чтобы я продолжала?"@</ToTranslate>
+  </String>
+  <String index="296">
+    <ToTranslate>Казуто$"Хочу чтобы это была именно ты, Ринрин."@</ToTranslate>
+  </String>
+  <String index="297">
+    <ToTranslate>rinr0810</ToTranslate>
+  </String>
+  <String index="298">
+    <ToTranslate>Ринрин$"О-ох...... хорошо, Ринрин будет стараться, ах... тогда сейчас......"@</ToTranslate>
+  </String>
+  <String index="299">
+    <ToTranslate>$Я попросил её продолжить...... но всё же решил что пришло время инициативу перенять на себя.@</ToTranslate>
+  </String>
+  <String index="300">
+    <ToTranslate>Казуто$"Вот так его нужно держать. Когда привыкнешь, то должна сжимать его крепко, в то же время мягко, и варьировать темп."@</ToTranslate>
+  </String>
+  <String index="301">
+    <ToTranslate>rinr0811</ToTranslate>
+  </String>
+  <String index="302">
+    <ToTranslate>Ринрин$"А как долго мне это делать......?"@</ToTranslate>
+  </String>
+  <String index="303">
+    <ToTranslate>Казуто$"Слишком сложно будет это сейчас объяснять...... так что не зацикливайся на этом."@</ToTranslate>
+  </String>
+  <String index="304">
+    <ToTranslate>$Она совсем ничего не знаем, поэтому...... мне придётся научить её.@</ToTranslate>
+  </String>
+  <String index="305">
+    <ToTranslate>rinr0812</ToTranslate>
+  </String>
+  <String index="306">
+    <ToTranslate>Ринрин$"Гаха, ум, ум...... вот так......? Если я продолжу, он больше не будет вести себя странно?"@</ToTranslate>
+  </String>
+  <String index="307">
+    <ToTranslate>Казуто$"Хах...... а, попробуешь постепенно увеличивать зону касания?"@</ToTranslate>
+  </String>
+  <String index="308">
+    <ToTranslate>$Что-то мягкое прижалось к моему колену, посмотрев вниз я увидел что это была ещё незрелая грудь Ринрин.@</ToTranslate>
+  </String>
+  <String index="309">
+    <ToTranslate>rinr0813</ToTranslate>
+  </String>
+  <String index="310">
+    <ToTranslate>Ринрин$"Но если я так сделаю...... то стану касаться твоих волос, а это немного щекотно."@</ToTranslate>
+  </String>
+  <String index="311">
+    <ToTranslate>$Облокотившись на могу ногу, Ринрин полностью отдалась процессу ублажения меня своими ладонями.@</ToTranslate>
+  </String>
+  <String index="312">
+    <ToTranslate>rinr0814</ToTranslate>
+  </String>
+  <String index="313">
+    <ToTranslate>Ринрин$"Нужно продолжать двигаться к его началу? Вот так? Но когда я так делаю, ах!...... он начинает раскачиваться."@</ToTranslate>
+  </String>
+  <String index="314">
+    <ToTranslate>Казуто$"А-а...... ха-а-а-а, не останавливайся на одном месте...... вершину тоже, особенно где набухло и покраснело."@</ToTranslate>
+  </String>
+  <String index="315">
+    <ToTranslate>rinr0815</ToTranslate>
+  </String>
+  <String index="316">
+    <ToTranslate>Ринрин$"Вершину!? То есть... с вершиной мне нужно проделать тоже самое?"@</ToTranslate>
+  </String>
+  <String index="317">
+    <ToTranslate>$Сколько же радости я получаю...... от сознания того что девушка так старается ради меня.@</ToTranslate>
+  </String>
+  <String index="318">
+    <ToTranslate>Казуто$"Если ты...... сможешь делать всё это одновременно, будет просто замечательно. Зажми его в кулак, и попробуй потереть большим пальцем."@</ToTranslate>
+  </String>
+  <String index="319">
+    <ToTranslate>rinr0816</ToTranslate>
+  </String>
+  <String index="320">
+    <ToTranslate>Ринрин$"Потереть...... м-м! Здесь!"@</ToTranslate>
+  </String>
+  <String index="321">
+    <ToTranslate>Казуто$"Гх-х......!?"@</ToTranslate>
+  </String>
+  <String index="322">
+    <ToTranslate>rinr0817</ToTranslate>
+  </String>
+  <String index="323">
+    <ToTranslate>Ринрин$"Уа, почему то здесь скользко, и так отличается от нижней части."@</ToTranslate>
+  </String>
+  <String index="324">
+    <ToTranslate>$Её голос звучал...... завораживающе. Не уверен, делает ли это она специально, но её сиськи то и дело плавно потираются о мои колени.@</ToTranslate>
+  </String>
+  <String index="325">
+    <ToTranslate>rinr0818</ToTranslate>
+  </String>
+  <String index="326">
+    <ToTranslate>Ринрин$"Уа-а...... он становится слизким. Братик, оттуда постоянно выделяется какая-то жидкость."@</ToTranslate>
+  </String>
+  <String index="327">
+    <ToTranslate>$А вот это уже плохо...... голова постепенно начинает идти ходуном.@</ToTranslate>
+  </String>
+  <String index="328">
+    <ToTranslate>Казуто$"Такое тоже...... порой случается у мужчин. Когда я возбуждён и получаю удовольствие, оттуда может что-то вытекать."@</ToTranslate>
+  </String>
+  <String index="329">
+    <ToTranslate>rinr0819</ToTranslate>
+  </String>
+  <String index="330">
+    <ToTranslate>Ринрин$"Тебе...... нравится? Правда? Тебе приятно?"@</ToTranslate>
+  </String>
+  <String index="331">
+    <ToTranslate>$Она вдавливает вершину вточ как я попросил её...... и продолжает двигать рукой вдоль основания. Следуя моим указаниям она полностью сосредоточилась на процессе.@</ToTranslate>
+  </String>
+  <String index="332">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="333">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="334">
+    <ToTranslate>ecg_cho02c</ToTranslate>
+  </String>
+  <String index="335">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="336">
+    <ToTranslate>rinr0820</ToTranslate>
+  </String>
+  <String index="337">
+    <ToTranslate>Ринрин$"Сперва тебе не понравилось, но сейчас это стало приятно...... ха-ха, я рада, если продолжу тебе ведь понравится больше?"@</ToTranslate>
+  </String>
+  <String index="338">
+    <ToTranslate>Казуто$"Разумеется...... а ты сможешь? Сама то хочешь продолжить?"@</ToTranslate>
+  </String>
+  <String index="339">
+    <ToTranslate>rinr0821</ToTranslate>
+  </String>
+  <String index="340">
+    <ToTranslate>Ринрин$"Да!"@</ToTranslate>
+  </String>
+  <String index="341">
+    <ToTranslate>$Я ......больше не вытерплю, всё слишком заманчиво.@</ToTranslate>
+  </String>
+  <String index="342">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="343">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="344">
+    <ToTranslate>ecg_cho02d</ToTranslate>
+  </String>
+  <String index="345">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="346">
+    <ToTranslate>rinr0822</ToTranslate>
+  </String>
+  <String index="347">
+    <ToTranslate>Ринрин$"Мя!? А-а... Братик, здесь...... а, он уже не просто подёргивается, он весь задрожал!"@</ToTranslate>
+  </String>
+  <String index="348">
+    <ToTranslate>Казуто$"Дрожь это вполне нормально...... можно сказать что так и должно быть!"@</ToTranslate>
+  </String>
+  <String index="349">
+    <ToTranslate>$Ведь...... я почти приблизился к завершению, стоит научить её быть настойчивее.@</ToTranslate>
+  </String>
+  <String index="350">
+    <ToTranslate>rinr0823</ToTranslate>
+  </String>
+  <String index="351">
+    <ToTranslate>Ринрин$"А-а, а-а...... ха-а!? Но ежели я сожму то сделаю тебе больно...... ты правда уверен? Ты действительно в этом уверен?"@</ToTranslate>
+  </String>
+  <String index="352">
+    <ToTranslate>$Я кладу свою руку сверху руки недоумевающей Ринрин...... и двигаю обеими настолько сильно насколько бы это сделал я сам. Хочу чтобы и вершина получила часть причитаемого.@</ToTranslate>
+  </String>
+  <String index="353">
+    <ToTranslate>rinr0824</ToTranslate>
+  </String>
+  <String index="354">
+    <ToTranslate>Ринрин$"Дёргается, он действительно...... дёргается! А-а, а-а-а...... Братик, что такого с ним происходит?"@</ToTranslate>
+  </String>
+  <String index="355">
+    <ToTranslate>Казуто$"М-м-м...... а-а, а-а-а, ещё немного, прошу, помогай мне ещё какое-то время!"@</ToTranslate>
+  </String>
+  <String index="356">
+    <ToTranslate>rinr0825</ToTranslate>
+  </String>
+  <String index="357">
+    <ToTranslate>Ринрин$"Ум-м-м, м-м, а-а, ха-а."@</ToTranslate>
+  </String>
+  <String index="358">
+    <ToTranslate>$Ринрин повинуется. Я был уверен, что она не понимает что происходит...... но она сжимает в точности как сказал я ей...@</ToTranslate>
+  </String>
+  <String index="359">
+    <ToTranslate>rinr0826</ToTranslate>
+  </String>
+  <String index="360">
+    <ToTranslate>Ринрин$"Твой пенис...... он пугает. Он то и дело стучит в моей ладони. Бам! Бам! Это совсем как... сердцебиение."@</ToTranslate>
+  </String>
+  <String index="361">
+    <ToTranslate>$Она посмотрела на меня...... и впервые за всё время сознательно прижалась к моему колену.@</ToTranslate>
+  </String>
+  <String index="362">
+    <ToTranslate>Казуто$"Здесь нечего бояться...... пульс только доказывает что твоя помощь доставляет мне удовольствие!"@</ToTranslate>
+  </String>
+  <String index="363">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="364">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="365">
+    <ToTranslate>ecg_cho02c</ToTranslate>
+  </String>
+  <String index="366">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="367">
+    <ToTranslate>rinr0827</ToTranslate>
+  </String>
+  <String index="368">
+    <ToTranslate>Ринрин$"Я ведь тебя устраиваю, да...... и если я продолжу, то тебе это тоже понравится?!"@</ToTranslate>
+  </String>
+  <String index="369">
+    <ToTranslate>Казуто$"Да...... тогда я смогу кончить."@</ToTranslate>
+  </String>
+  <String index="370">
+    <ToTranslate>rinr0828</ToTranslate>
+  </String>
+  <String index="371">
+    <ToTranslate>Ринрин$"Кончить...... это как? Ва-а-а-а...... он сопротивляется, сильно, слишком сильно. Ай, он слишком сильный, ха-а, хм!"@</ToTranslate>
+  </String>
+  <String index="372">
+    <ToTranslate>$Я слишком возбуждён...... со смазкой из моей предварительной жидкости, член практически сам скользит в руках перепуганной Ринрин.@</ToTranslate>
+  </String>
+  <String index="373">
+    <ToTranslate>rinr0829</ToTranslate>
+  </String>
+  <String index="374">
+    <ToTranslate>Ринрин$"Я постараюсь......! Ха-а, так...... а-а, ан-н, хм-м-м."@</ToTranslate>
+  </String>
+  <String index="375">
+    <ToTranslate>Казуто$"Гх-х. ха-а, а-а-а......"@</ToTranslate>
+  </String>
+  <String index="376">
+    <ToTranslate>$Ринрин так сильно старается угодить мне...... используя движения которые только что выучила.@</ToTranslate>
+  </String>
+  <String index="377">
+    <ToTranslate>rinr0830</ToTranslate>
+  </String>
+  <String index="378">
+    <ToTranslate>Ринрин$"Фух, ха-а-а...... а-а, а-а, ещё, ещё, ещё."@</ToTranslate>
+  </String>
+  <String index="379">
+    <ToTranslate>$Ринрин, она...... меня завораживает. Я погладил её раскрасневшуюся щёку, и невольная улыбка появилась у меня на губах.@</ToTranslate>
+  </String>
+  <String index="380">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="381">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="382">
+    <ToTranslate>ecg_cho02e</ToTranslate>
+  </String>
+  <String index="383">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="384">
+    <ToTranslate>rinr0831</ToTranslate>
+  </String>
+  <String index="385">
+    <ToTranslate>Ринрин$"Братик спасибо, ты похвалил меня."@</ToTranslate>
+  </String>
+  <String index="386">
+    <ToTranslate>Казуто$"Фух, о-о-о, Ринрин...... спасибо! Я так...... благодарен тебе."@</ToTranslate>
+  </String>
+  <String index="387">
+    <ToTranslate>rinr0832</ToTranslate>
+  </String>
+  <String index="388">
+    <ToTranslate>Ринрин$"Ты не должен меня благодарить! Я это делаю, потому что люблю тебя...... если ты рад, то и Ринрин тоже рада."@</ToTranslate>
+  </String>
+  <String index="389">
+    <ToTranslate>Казуто$"Ринрин......!"@</ToTranslate>
+  </String>
+  <String index="390">
+    <ToTranslate>rinr0833</ToTranslate>
+  </String>
+  <String index="391">
+    <ToTranslate>Ринрин$"Но это правда. Я действительно...... хн, ха-а...... рада."@</ToTranslate>
+  </String>
+  <String index="392">
+    <ToTranslate>$Её невинное "люблю тебя" стало для меня последним ударом.@</ToTranslate>
+  </String>
+  <String index="393">
+    <ToTranslate>$Движения её рук были неуклюжими, однако... сладкое онемение начало собираться вокруг живота, напоготове спустить всё скопившееся напряжение.@</ToTranslate>
+  </String>
+  <String index="394">
+    <ToTranslate>Казуто$"Гу-у...... я тоже...... и я покажу тебе доказательство этих слов...... я докажу тебе, Ринрин!"@</ToTranslate>
+  </String>
+  <String index="395">
+    <ToTranslate>rinr0834</ToTranslate>
+  </String>
+  <String index="396">
+    <ToTranslate>Ринрин$"Уха, мя-а-а...... м-м-м!? М-м, а-ах."@</ToTranslate>
+  </String>
+  <String index="397">
+    <ToTranslate>$Я больше не противлюсь желаниям, и дрожащими пальцами свободной рукой сжал клок её влажных волос.@</ToTranslate>
+  </String>
+  <String index="398">
+    <ToTranslate>Казуто$"Гх-х...... ха-а, а-а-а!? Уа-а-а-а......!"@</ToTranslate>
+  </String>
+  <String index="399">
+    <ToTranslate>flash</ToTranslate>
+  </String>
+  <String index="400">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="401">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="402">
+    <ToTranslate>ecg_cho02h</ToTranslate>
+  </String>
+  <String index="403">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="404">
+    <ToTranslate>rinr0835</ToTranslate>
+  </String>
+  <String index="405">
+    <ToTranslate>Ринрин$"Умя-ха-а!? Откуда...... уа-а, оттуда что-то выходит."@</ToTranslate>
+  </String>
+  <String index="406">
+    <ToTranslate>Казуто$"А-а-а, прости......"@</ToTranslate>
+  </String>
+  <String index="407">
+    <ToTranslate>$Струя белой жидкости выплеснулась на её лицо, грудь и даже волосы.@</ToTranslate>
+  </String>
+  <String index="408">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="409">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="410">
+    <ToTranslate>ecg_cho02g</ToTranslate>
+  </String>
+  <String index="411">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="412">
+    <ToTranslate>rinr0836</ToTranslate>
+  </String>
+  <String index="413">
+    <ToTranslate>Ринрин$"Аха-хо-о...... я вся липкая, что это такое?"@</ToTranslate>
+  </String>
+  <String index="414">
+    <ToTranslate>$Ринрин начала кашлять. Хочу чем-нибудь ей помочь, но и сам едва способен нормально дышать...... к тому же остатки семени всё ещё плещут из моего достоинства.@</ToTranslate>
+  </String>
+  <String index="415">
+    <ToTranslate>rinr0837</ToTranslate>
+  </String>
+  <String index="416">
+    <ToTranslate>Ринрин$"Это и есть то самое доказательство о котором ты говорил? Как странно пахнет...... лизь."@</ToTranslate>
+  </String>
+  <String index="417">
+    <ToTranslate>Казуто$"Га......!?"@</ToTranslate>
+  </String>
+  <String index="418">
+    <ToTranslate>rinr0838</ToTranslate>
+  </String>
+  <String index="419">
+    <ToTranslate>Ринрин$"Уе-е-е, почему то оно щиплет язык......"@</ToTranslate>
+  </String>
+  <String index="420">
+    <ToTranslate>Казуто$"Ты не должна это слизывать!"@</ToTranslate>
+  </String>
+  <String index="421">
+    <ToTranslate>$И всё же я удивлён. Хотя, мне это тоже не кажется по своему виду вкусным, нет, я был в этом уверен.@</ToTranslate>
+  </String>
+  <String index="422">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="423">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="424">
+    <ToTranslate>ecg_cho02f</ToTranslate>
+  </String>
+  <String index="425">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="426">
+    <ToTranslate>rinr0839</ToTranslate>
+  </String>
+  <String index="427">
+    <ToTranslate>Ринрин$"Скажи, Ринрин...... всё сделала правильно?"@</ToTranslate>
+  </String>
+  <String index="428">
+    <ToTranslate>$Она смотрит прямо на меня...... всё ещё играя с моим пенисом. С небольшой внутренней паникой я останавливаю её руку сразу обеими своими.@</ToTranslate>
+  </String>
+  <String index="429">
+    <ToTranslate>Казуто$"Ты молодец, я прекрасно себя чувствую. Благодаря тебе, все 'плохие' ощущения меня покинули."@</ToTranslate>
+  </String>
+  <String index="430">
+    <ToTranslate>rinr0840</ToTranslate>
+  </String>
+  <String index="431">
+    <ToTranslate>Ринрин$"Эхе-хе...... я рада."@</ToTranslate>
+  </String>
+  <String index="432">
+    <ToTranslate>$После этих слов я осторожно погладил её...... вместе с некоторым облегчением в сердце. В ответ Ринрин только мило улыбнулась.@</ToTranslate>
+  </String>
+  <String index="433">
+    <ToTranslate>rinr0841</ToTranslate>
+  </String>
+  <String index="434">
+    <ToTranslate>Ринрин$"Мя? Пенис совсем обмяк, а это нормально? С мужчинами так и должно быть?"@</ToTranslate>
+  </String>
+  <String index="435">
+    <ToTranslate>$Не думаю, что научил её чему-то особо полезному...... вяло улыбнувшись я только кивнул.@</ToTranslate>
+  </String>
+  <String index="436">
+    <ToTranslate>Казуто$"И...... можешь меня отпустить? Не хочу, чтобы он снова проснулся."@</ToTranslate>
+  </String>
+  <String index="437">
+    <ToTranslate>rinr0842</ToTranslate>
+  </String>
+  <String index="438">
+    <ToTranslate>Ринрин$"Сперва делай то, затем делай обратное...... тела у мужчин крайне странные."@</ToTranslate>
+  </String>
+  <String index="439">
+    <ToTranslate>Казуто$"О-о-о...... странные совсем не лучшее слово чтобы описывать нас."@</ToTranslate>
+  </String>
+  <String index="440">
+    <ToTranslate>rinr0843</ToTranslate>
+  </String>
+  <String index="441">
+    <ToTranslate>Ринрин$"Тогда скажу что это нормально!"@</ToTranslate>
+  </String>
+  <String index="442">
+    <ToTranslate>$Чёрт, не хочу чтобы это стало её любимой фразой и достоянием общественности. А что если...... хм-м, стоп?!@</ToTranslate>
+  </String>
+  <String index="443">
+    <ToTranslate>Казуто$"......и ещё, не говори никому об этом, ладно? И особенно Айше."@</ToTranslate>
+  </String>
+  <String index="444">
+    <ToTranslate>rinr0844</ToTranslate>
+  </String>
+  <String index="445">
+    <ToTranslate>Ринрин$"Мя? Почему?"@</ToTranslate>
+  </String>
+  <String index="446">
+    <ToTranslate>Казуто$"П-просто так. Это будет нашим с тобой секретом!"@</ToTranslate>
+  </String>
+  <String index="447">
+    <ToTranslate>rinr0845</ToTranslate>
+  </String>
+  <String index="448">
+    <ToTranslate>Ринрин$"Но ведь тогда Айша не сможет тебе помочь."@</ToTranslate>
+  </String>
+  <String index="449">
+    <ToTranslate>Казуто$"Ая......!?"@</ToTranslate>
+  </String>
+  <String index="450">
+    <ToTranslate>rinr0846</ToTranslate>
+  </String>
+  <String index="451">
+    <ToTranslate>Ринрин$"Но представь, если это случиться а меня рядом не будет, то Айша всегда сможет тебе помочь."@</ToTranslate>
+  </String>
+  <String index="452">
+    <ToTranslate>$Она что, представляет меня как подобие инкуба? Ну девчонка... она способна отобрать весь мой авторитет в этом мире.@</ToTranslate>
+  </String>
+  <String index="453">
+    <ToTranslate>rinr0847</ToTranslate>
+  </String>
+  <String index="454">
+    <ToTranslate>Ринрин$"Ну да ладно. Ты обещал поиграть с Ринрин когда выздоровеешь. Давай хорошо повеселимся до возвращения домой!"@</ToTranslate>
+  </String>
+  <String index="455">
+    <ToTranslate>Казуто$"......будет исполнено."@</ToTranslate>
+  </String>
+  <String index="456">
+    <ToTranslate>$Я покорно ответил...... думаю, какое-то время я буду не в состоянии смотреть ей в глаза.@</ToTranslate>
+  </String>
+  <String index="457">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="458">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="459">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+</DBS>
+
+</poem>

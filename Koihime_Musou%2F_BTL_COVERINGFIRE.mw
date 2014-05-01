@@ -1,0 +1,67 @@
+<poem>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<DBS>
+  <String index="0">
+    <Origin>�Sonken provides backup!@</Origin>
+    <ToTranslate>�Sonken provides backup!@</ToTranslate>
+  </String>
+  <String index="1">
+    <Origin>She kills �‘</Origin>
+    <ToTranslate>She kills �‘</ToTranslate>
+  </String>
+  <String index="2">
+    <Origin>_btl_CreateStatusStrB</Origin>
+    <ToTranslate>_btl_CreateStatusStrB</ToTranslate>
+  </String>
+  <String index="3">
+    <Origin>���</Origin>
+    <ToTranslate>���</ToTranslate>
+  </String>
+  <String index="4">
+    <Origin>_btl_Troops_GrpChange</Origin>
+    <ToTranslate>_btl_Troops_GrpChange</ToTranslate>
+  </String>
+  <String index="5">
+    <Origin>�Your reinforcements provide backup!@</Origin>
+    <ToTranslate>�Your reinforcements provide backup!@</ToTranslate>
+  </String>
+  <String index="6">
+    <Origin>They killed �‘</Origin>
+    <ToTranslate>They killed �‘</ToTranslate>
+  </String>
+  <String index="7">
+    <Origin>_btl_CreateStatusStrB</Origin>
+    <ToTranslate>_btl_CreateStatusStrB</ToTranslate>
+  </String>
+  <String index="8">
+    <Origin>���</Origin>
+    <ToTranslate>���</ToTranslate>
+  </String>
+  <String index="9">
+    <Origin>_btl_Troops_GrpChange</Origin>
+    <ToTranslate>_btl_Troops_GrpChange</ToTranslate>
+  </String>
+  <String index="10">
+    <Origin>�Your reinforcements provide backup!@</Origin>
+    <ToTranslate>�Your reinforcements provide backup!@</ToTranslate>
+  </String>
+  <String index="11">
+    <Origin>They kill �‘</Origin>
+    <ToTranslate>They kill �‘</ToTranslate>
+  </String>
+  <String index="12">
+    <Origin>_btl_CreateStatusStrB</Origin>
+    <ToTranslate>_btl_CreateStatusStrB</ToTranslate>
+  </String>
+  <String index="13">
+    <Origin>���</Origin>
+    <ToTranslate>���</ToTranslate>
+  </String>
+  <String index="14">
+    <Origin>_btl_Troops_GrpChange</Origin>
+    <ToTranslate>_btl_Troops_GrpChange</ToTranslate>
+  </String>
+</DBS>
+
+</poem>

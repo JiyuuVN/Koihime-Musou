@@ -1,0 +1,330 @@
+[[Koihime Musou/Прогресс перевода/Сюжет|[Назад]]]
+<poem>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<DBS>
+  <String index="0">
+    <ToTranslate>SE067</ToTranslate>
+  </String>
+  <String index="1">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="2">
+    <ToTranslate>bcg_park_a</ToTranslate>
+  </String>
+  <String index="3">
+    <ToTranslate>bg_white</ToTranslate>
+  </String>
+  <String index="4">
+    <ToTranslate>bcg_park_a</ToTranslate>
+  </String>
+  <String index="5">
+    <ToTranslate>bg_white</ToTranslate>
+  </String>
+  <String index="6">
+    <ToTranslate>bcg_park_a</ToTranslate>
+  </String>
+  <String index="7">
+    <ToTranslate>bg_white</ToTranslate>
+  </String>
+  <String index="8">
+    <ToTranslate>bcg_park_a</ToTranslate>
+  </String>
+  <String index="9">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="10">
+    <ToTranslate>bgm24</ToTranslate>
+  </String>
+  <String index="11">
+    <ToTranslate>Казуто$"М-м... ум-м..."@</ToTranslate>
+  </String>
+  <String index="12">
+    <ToTranslate>tcg_cho11ea</ToTranslate>
+  </String>
+  <String index="13">
+    <ToTranslate>tcg_cho11m</ToTranslate>
+  </String>
+  <String index="14">
+    <ToTranslate>rinr0584</ToTranslate>
+  </String>
+  <String index="15">
+    <ToTranslate>Ринрин$"Братик!"@</ToTranslate>
+  </String>
+  <String index="16">
+    <ToTranslate>Казуто$"Хм... Рин... рин...?"@</ToTranslate>
+  </String>
+  <String index="17">
+    <ToTranslate>tcg_cho11aa</ToTranslate>
+  </String>
+  <String index="18">
+    <ToTranslate>tcg_cho11m</ToTranslate>
+  </String>
+  <String index="19">
+    <ToTranslate>rinr0585</ToTranslate>
+  </String>
+  <String index="20">
+    <ToTranslate>Ринрин$"Хвала богам! Братишка ты проснулся!"@</ToTranslate>
+  </String>
+  <String index="21">
+    <ToTranslate>Казуто$"Просну... чего?"@</ToTranslate>
+  </String>
+  <String index="22">
+    <ToTranslate>$Свет полностью поглотил меня, но сейчас я посреди аллеи пышной растительности.@</ToTranslate>
+  </String>
+  <String index="23">
+    <ToTranslate>Казуто$"Н-неужто ли это школа святой Франчески?!"@</ToTranslate>
+  </String>
+  <String index="24">
+    <ToTranslate>tcg_cho21ja</ToTranslate>
+  </String>
+  <String index="25">
+    <ToTranslate>tcg_cho21m</ToTranslate>
+  </String>
+  <String index="26">
+    <ToTranslate>rinr0586</ToTranslate>
+  </String>
+  <String index="27">
+    <ToTranslate>Ринрин$"Санфрачес-что? Что это?"@</ToTranslate>
+  </String>
+  <String index="28">
+    <ToTranslate>Казуто$"Эм... место, где я учился до встречи с тобой. Однажды здесь я наткнулся на Саджи и......"@</ToTranslate>
+  </String>
+  <String index="29">
+    <ToTranslate>$Не успев договорить я осознаю что же могло случиться со мной.@</ToTranslate>
+  </String>
+  <String index="30">
+    <ToTranslate>Казуто$"Разве я... смог вернуться в начальный мир!?"@</ToTranslate>
+  </String>
+  <String index="31">
+    <ToTranslate>tcg_cho41ha</ToTranslate>
+  </String>
+  <String index="32">
+    <ToTranslate>tcg_cho41m</ToTranslate>
+  </String>
+  <String index="33">
+    <ToTranslate>rinr0587</ToTranslate>
+  </String>
+  <String index="34">
+    <ToTranslate>Ринрин$"Ясно, так этот мир мы зовём Небеса?"@</ToTranslate>
+  </String>
+  <String index="35">
+    <ToTranslate>Казуто$"Вероятно... но... возможно и нет..."@</ToTranslate>
+  </String>
+  <String index="36">
+    <ToTranslate>$Я вспомнил слова Чосэна и теперь сомневаюсь как мне ответить...@</ToTranslate>
+  </String>
+  <String index="37">
+    <ToTranslate>Казуто$"Я что, снова создал новую альтернативную реальность, да...?"@</ToTranslate>
+  </String>
+  <String index="38">
+    <ToTranslate>$Если так, то это уже не тот мир с моей прежней школой из которого я прибыл до встречи с Ринрин.@</ToTranslate>
+  </String>
+  <String index="39">
+    <ToTranslate>Казуто$"Возможно... что это совершенно новый мир."@</ToTranslate>
+  </String>
+  <String index="40">
+    <ToTranslate>tcg_cho21ja</ToTranslate>
+  </String>
+  <String index="41">
+    <ToTranslate>tcg_cho21m</ToTranslate>
+  </String>
+  <String index="42">
+    <ToTranslate>rinr0588</ToTranslate>
+  </String>
+  <String index="43">
+    <ToTranslate>Ринрин$"Новый мир?"@</ToTranslate>
+  </String>
+  <String index="44">
+    <ToTranslate>Казуто$"Мир в котором нет Айши, Шури, Сэй или Сион... мир, который не похож на тот в котором мы были."@</ToTranslate>
+  </String>
+  <String index="45">
+    <ToTranslate>tcg_cho11fa</ToTranslate>
+  </String>
+  <String index="46">
+    <ToTranslate>tcg_cho11m</ToTranslate>
+  </String>
+  <String index="47">
+    <ToTranslate>rinr0589</ToTranslate>
+  </String>
+  <String index="48">
+    <ToTranslate>Ринрин$"Ясно... это значит, что все остальные пропали?"@</ToTranslate>
+  </String>
+  <String index="49">
+    <ToTranslate>Казуто$"Да...... возможно, что все они просто исчезли, как и говорил Саджи......"@</ToTranslate>
+  </String>
+  <String index="50">
+    <ToTranslate>tcg_cho11pa</ToTranslate>
+  </String>
+  <String index="51">
+    <ToTranslate>tcg_cho11m</ToTranslate>
+  </String>
+  <String index="52">
+    <ToTranslate>rinr0590</ToTranslate>
+  </String>
+  <String index="53">
+    <ToTranslate>Ринрин$"Нет, я так не думаю."@</ToTranslate>
+  </String>
+  <String index="54">
+    <ToTranslate>Казуто$"Почему?"@</ToTranslate>
+  </String>
+  <String index="55">
+    <ToTranslate>tcg_cho31qa</ToTranslate>
+  </String>
+  <String index="56">
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="57">
+    <ToTranslate>rinr0591</ToTranslate>
+  </String>
+  <String index="58">
+    <ToTranslate>Ринрин$"Уверена что они живы. И все желают нам счастья... вот во что я верю."@</ToTranslate>
+  </String>
+  <String index="59">
+    <ToTranslate>Казуто$"Да... возможно так и есть."@</ToTranslate>
+  </String>
+  <String index="60">
+    <ToTranslate>$Все они мои друзья которые помогали и поддерживали меня.@</ToTranslate>
+  </String>
+  <String index="61">
+    <ToTranslate>$Не думаю, что они так запросто согласятся просто исчезнуть.@</ToTranslate>
+  </String>
+  <String index="62">
+    <ToTranslate>Казуто$"Да... уверен, что все они счастливы где-то в другом мире."@</ToTranslate>
+  </String>
+  <String index="63">
+    <ToTranslate>$Возможно я просто хочу выдать желаемое за действительное.@</ToTranslate>
+  </String>
+  <String index="64">
+    <ToTranslate>$Но это желание может дать иной альтернативной истории причину сохранить своё существование.@</ToTranslate>
+  </String>
+  <String index="65">
+    <ToTranslate>$Альтернативные истории порождаются из чьих-то помыслов......@</ToTranslate>
+  </String>
+  <String index="66">
+    <ToTranslate>$Я поверю словам Чосэна и представлю мир в котором все они продолжают жить вместе с Ринрин.@</ToTranslate>
+  </String>
+  <String index="67">
+    <ToTranslate>Казуто$"И... что же нам теперь делать?"@</ToTranslate>
+  </String>
+  <String index="68">
+    <ToTranslate>ecg_cho99a</ToTranslate>
+  </String>
+  <String index="69">
+    <ToTranslate>rinr0592</ToTranslate>
+  </String>
+  <String index="70">
+    <ToTranslate>Ринрин$"Хм, Ринрин собирается найти себе новое приключение!"@</ToTranslate>
+  </String>
+  <String index="71">
+    <ToTranslate>Казуто$"Приключение?"@</ToTranslate>
+  </String>
+  <String index="72">
+    <ToTranslate>rinr0593</ToTranslate>
+  </String>
+  <String index="73">
+    <ToTranslate>Ринрин$"Да! Это ведь мир Небес с которых ты пришёл, Братик? А значит, ты должен рассказать мне всё об этом мире!"@</ToTranslate>
+  </String>
+  <String index="74">
+    <ToTranslate>Казуто$"Приключение значит...? Что ж, мне нравится."@</ToTranslate>
+  </String>
+  <String index="75">
+    <ToTranslate>rinr0594</ToTranslate>
+  </String>
+  <String index="76">
+    <ToTranslate>Ринрин$"Да!? Тогда решено, так и поступим!"@</ToTranslate>
+  </String>
+  <String index="77">
+    <ToTranslate>$И пока я думал Ринрин уже вовсю светилась переполняющей её энергией...@</ToTranslate>
+  </String>
+  <String index="78">
+    <ToTranslate>Казуто$"Ринрин... разве тебе не грустно, что ты уже больше их не увидишь?"@</ToTranslate>
+  </String>
+  <String index="79">
+    <ToTranslate>$Я выразил вопрос, который больше всего беспокоил меня.@</ToTranslate>
+  </String>
+  <String index="80">
+    <ToTranslate>rinr0595</ToTranslate>
+  </String>
+  <String index="81">
+    <ToTranslate>Ринрин$"Очень грустно... но я заставлю их волноваться если поддамся печали."@</ToTranslate>
+  </String>
+  <String index="82">
+    <ToTranslate>rinr0596</ToTranslate>
+  </String>
+  <String index="83">
+    <ToTranslate>Ринрин$"Поэтому я ни за что не заплачу. И пока я с тобой, Братик, я всегда буду счастлива!"@</ToTranslate>
+  </String>
+  <String index="84">
+    <ToTranslate>Казуто$"Ясно. ......значит и мне не стоит отставать от тебя."@</ToTranslate>
+  </String>
+  <String index="85">
+    <ToTranslate>rinr0597</ToTranslate>
+  </String>
+  <String index="86">
+    <ToTranslate>Ринрин$"Да, ведь совсем не весело если мы не будем счастливы вместе."@</ToTranslate>
+  </String>
+  <String index="87">
+    <ToTranslate>Казуто$"Верно... что ж, идём Ринрин."@</ToTranslate>
+  </String>
+  <String index="88">
+    <ToTranslate>rinr0598</ToTranslate>
+  </String>
+  <String index="89">
+    <ToTranslate>Ринрин$"Да! Ринрин очень рада что скоро сможет узнать много нового!"@</ToTranslate>
+  </String>
+  <String index="90">
+    <ToTranslate>rinr0599</ToTranslate>
+  </String>
+  <String index="91">
+    <ToTranslate>Ринрин$"Идём, Братик! Наше приключение начинается!"@</ToTranslate>
+  </String>
+  <String index="92">
+    <ToTranslate>$Она настолько жизнерадостна, что мне уже кажется, будто она всегда была такой.@</ToTranslate>
+  </String>
+  <String index="93">
+    <ToTranslate>$Мы взялись за руки и зашагали вперёд рука-об-руку.@</ToTranslate>
+  </String>
+  <String index="94">
+    <ToTranslate>bcg_sky_a</ToTranslate>
+  </String>
+  <String index="95">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="96">
+    <ToTranslate>$Наша новая жизнь только что началась.@</ToTranslate>
+  </String>
+  <String index="97">
+    <ToTranslate>$Все грядущие дни соткут нашу общую новую историю.@</ToTranslate>
+  </String>
+  <String index="98">
+    <ToTranslate>$Здесь находится конец старой и начинается уже новая история.@</ToTranslate>
+  </String>
+  <String index="99">
+    <ToTranslate>Казуто$"Идём."@</ToTranslate>
+  </String>
+  <String index="100">
+    <ToTranslate>rinr0600</ToTranslate>
+  </String>
+  <String index="101">
+    <ToTranslate>Ринрин$"Да."@</ToTranslate>
+  </String>
+  <String index="102">
+    <ToTranslate>$Я иду вперёд держась за руку с девушкой которую люблю.@</ToTranslate>
+  </String>
+  <String index="103">
+    <ToTranslate>$Думая о новой истории, которая только что началась......@</ToTranslate>
+  </String>
+  <String index="104">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="105">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="106">
+    <ToTranslate>_credit</ToTranslate>
+  </String>
+</DBS>
+
+</poem>
+[[Koihime Musou/Прогресс перевода/Сюжет|[Назад]]]

@@ -1,0 +1,1631 @@
+<poem>
+<?xml version="1.0" encoding="UTF-8"?>
+<DBS>
+  <String index="0">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="1">
+    <ToTranslate>bcg_castgurden_a</ToTranslate>
+  </String>
+  <String index="2">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="3">
+    <ToTranslate>bgm12</ToTranslate>
+  </String>
+  <String index="4">
+    <ToTranslate>$В последнее время я был завален кучей работы, и у меня едва хватало времени выйти подышать свежим воздухом.@</ToTranslate>
+  </String>
+  <String index="5">
+    <ToTranslate>$Есть слишком много вещей, которыми я должен заниматься, но всё же мне нужно время и для себя.@</ToTranslate>
+  </String>
+  <String index="6">
+    <ToTranslate>$Я украдкой вышел из своего кабинета, чтобы насладиться свежим воздухом в саду.@</ToTranslate>
+  </String>
+  <String index="7">
+    <ToTranslate>tcg_tot22ia</ToTranslate>
+  </String>
+  <String index="8">
+    <ToTranslate>tcg_tot22m</ToTranslate>
+  </String>
+  <String index="9">
+    <ToTranslate>yue_0018</ToTranslate>
+  </String>
+  <String index="10">
+    <ToTranslate>Юэ$Ах...@</ToTranslate>
+  </String>
+  <String index="11">
+    <ToTranslate>Казуто$Что случилось?@</ToTranslate>
+  </String>
+  <String index="12">
+    <ToTranslate>tcg_tot32da</ToTranslate>
+  </String>
+  <String index="13">
+    <ToTranslate>tcg_tot32m</ToTranslate>
+  </String>
+  <String index="14">
+    <ToTranslate>yue_0019</ToTranslate>
+  </String>
+  <String index="15">
+    <ToTranslate>Юэ$Вам скучно?.. Я уверена, что да... Извините. Я не могу рассказать вам никаких захватывающих историй...@</ToTranslate>
+  </String>
+  <String index="16">
+    <ToTranslate>Казуто$Мне совсем не скучно. Когда я вот так общаюсь с тобой, я могу расслабиться и как следует отдохнуть.@</ToTranslate>
+  </String>
+  <String index="17">
+    <ToTranslate>yue_0020</ToTranslate>
+  </String>
+  <String index="18">
+    <ToTranslate>Юэ$Но... если говорить объективно... сидеть тут и ничего не делать, должно быть, ужасно скучно...@</ToTranslate>
+  </String>
+  <String index="19">
+    <ToTranslate>Казуто$Объективно - возможно. Но тебе не стоит беспокоиться, Юэ, потому что мне не скучно.@</ToTranslate>
+  </String>
+  <String index="20">
+    <ToTranslate>tcg_tot32ea</ToTranslate>
+  </String>
+  <String index="21">
+    <ToTranslate>tcg_tot32m</ToTranslate>
+  </String>
+  <String index="22">
+    <ToTranslate>yue_0021</ToTranslate>
+  </String>
+  <String index="23">
+    <ToTranslate>Юэ$Ах...@</ToTranslate>
+  </String>
+  <String index="24">
+    <ToTranslate>Казуто$Я рад, что мне удаётся с тобой поговорить.@</ToTranslate>
+  </String>
+  <String index="25">
+    <ToTranslate>tcg_tot12ba</ToTranslate>
+  </String>
+  <String index="26">
+    <ToTranslate>tcg_tot12m</ToTranslate>
+  </String>
+  <String index="27">
+    <ToTranslate>yue_0022</ToTranslate>
+  </String>
+  <String index="28">
+    <ToTranslate>Юэ$Ох... Я тоже рада...@</ToTranslate>
+  </String>
+  <String index="29">
+    <ToTranslate>$Покраснев, она изо всех сил постаралась сказать мне это, так что в награду я нежно погладил её по голове.@</ToTranslate>
+  </String>
+  <String index="30">
+    <ToTranslate>Казуто$Ты привыкаешь к здешней жизни? Извини, что у меня не хватало времени побыть с тобой... Я жалею об этом.@</ToTranslate>
+  </String>
+  <String index="31">
+    <ToTranslate>tcg_tot22ca</ToTranslate>
+  </String>
+  <String index="32">
+    <ToTranslate>tcg_tot22m</ToTranslate>
+  </String>
+  <String index="33">
+    <ToTranslate>yue_0023</ToTranslate>
+  </String>
+  <String index="34">
+    <ToTranslate>Юэ$Д-да... Здесь все хорошие. Шури-тян тоже очень добра ко мне... Она чудесный человек.@</ToTranslate>
+  </String>
+  <String index="35">
+    <ToTranslate>Казуто$Рад слышать.@</ToTranslate>
+  </String>
+  <String index="36">
+    <ToTranslate>tcg_tot12pa</ToTranslate>
+  </String>
+  <String index="37">
+    <ToTranslate>tcg_tot12m</ToTranslate>
+  </String>
+  <String index="38">
+    <ToTranslate>yue_0024</ToTranslate>
+  </String>
+  <String index="39">
+    <ToTranslate>Юэ$Я очень благодарна вам, господин.@</ToTranslate>
+  </String>
+  <String index="40">
+    <ToTranslate>Казуто$Тебе не нужно так себя чувствовать. Мне жаль, что они относятся к тебе, как к пленнице.@</ToTranslate>
+  </String>
+  <String index="41">
+    <ToTranslate>tcg_tot22ia</ToTranslate>
+  </String>
+  <String index="42">
+    <ToTranslate>tcg_tot22m</ToTranslate>
+  </String>
+  <String index="43">
+    <ToTranslate>yue_0025</ToTranslate>
+  </String>
+  <String index="44">
+    <ToTranslate>Юэ$Я заслуживаю этого...@</ToTranslate>
+  </String>
+  <String index="45">
+    <ToTranslate>Казуто$Но я всё же жалею об этом... Если тебе что-то понадобится, не стесняйся сообщить мне об этом через Шури. Я постараюсь посмотреть, что я могу 
+
+для тебя сделать.@</ToTranslate>
+  </String>
+  <String index="46">
+    <ToTranslate>tcg_tot32ea</ToTranslate>
+  </String>
+  <String index="47">
+    <ToTranslate>tcg_tot32m</ToTranslate>
+  </String>
+  <String index="48">
+    <ToTranslate>yue_0026</ToTranslate>
+  </String>
+  <String index="49">
+    <ToTranslate>Юэ$Да...@</ToTranslate>
+  </String>
+  <String index="50">
+    <ToTranslate>$Услышав сдержанный ответ Юэ, я кивнул ей.@</ToTranslate>
+  </String>
+  <String index="51">
+    <ToTranslate>Казуто$Ну, перерыв окончен. Мне надо возвращаться к работе.@</ToTranslate>
+  </String>
+  <String index="52">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="53">
+    <ToTranslate>$Я развернулся, но почувствовал, как что-то тянет меня за рубашку.@</ToTranslate>
+  </String>
+  <String index="54">
+    <ToTranslate>Казуто$А?@</ToTranslate>
+  </String>
+  <String index="55">
+    <ToTranslate>tcg_tot22qa</ToTranslate>
+  </String>
+  <String index="56">
+    <ToTranslate>tcg_tot22m</ToTranslate>
+  </String>
+  <String index="57">
+    <ToTranslate>yue_0027</ToTranslate>
+  </String>
+  <String index="58">
+    <ToTranslate>Юэ$Ох... П-простите.@</ToTranslate>
+  </String>
+  <String index="59">
+    <ToTranslate>tcg_tot32oa</ToTranslate>
+  </String>
+  <String index="60">
+    <ToTranslate>tcg_tot32m</ToTranslate>
+  </String>
+  <String index="61">
+    <ToTranslate>$Она быстро отпустила меня.@</ToTranslate>
+  </String>
+  <String index="62">
+    <ToTranslate>$...Похоже, Юэ держала меня за рубашку своими маленькими пальчиками.@</ToTranslate>
+  </String>
+  <String index="63">
+    <ToTranslate>yue_0028</ToTranslate>
+  </String>
+  <String index="64">
+    <ToTranslate>Юэ$Как грубо с моей стороны. Плохие пальцы... они... извините.@</ToTranslate>
+  </String>
+  <String index="65">
+    <ToTranslate>Казуто$Ничего страшного. Что случилось? Тебе грустно?@</ToTranslate>
+  </String>
+  <String index="66">
+    <ToTranslate>tcg_tot22qa</ToTranslate>
+  </String>
+  <String index="67">
+    <ToTranslate>tcg_tot22m</ToTranslate>
+  </String>
+  <String index="68">
+    <ToTranslate>yue_0029</ToTranslate>
+  </String>
+  <String index="69">
+    <ToTranslate>Юэ$Эмм... н-ну... ухх... Я хотела, чтобы вы ещё ненадолго остались здесь, поэтому...@</ToTranslate>
+  </String>
+  <String index="70">
+    <ToTranslate>Казуто$О... Прости. Мне нужно возвращаться к работе.@</ToTranslate>
+  </String>
+  <String index="71">
+    <ToTranslate>$Она подняла на меня почти чарующий, но затуманенный слезами взгляд, и мне пришлось бороться с желанием обнять её.@</ToTranslate>
+  </String>
+  <String index="72">
+    <ToTranslate>Казуто$Мы ещё поговорим, когда у меня будет больше времени... хорошо?@</ToTranslate>
+  </String>
+  <String index="73">
+    <ToTranslate>tcg_tot32ea</ToTranslate>
+  </String>
+  <String index="74">
+    <ToTranslate>tcg_tot32m</ToTranslate>
+  </String>
+  <String index="75">
+    <ToTranslate>yue_0030</ToTranslate>
+  </String>
+  <String index="76">
+    <ToTranslate>Юэ$...(*Кивок*.)@</ToTranslate>
+  </String>
+  <String index="77">
+    <ToTranslate>$Её белоснежная кожа начала краснеть, и она с надеждой кивнула.@</ToTranslate>
+  </String>
+  <String index="78">
+    <ToTranslate>tcg_tot12ma</ToTranslate>
+  </String>
+  <String index="79">
+    <ToTranslate>tcg_tot12m</ToTranslate>
+  </String>
+  <String index="80">
+    <ToTranslate>yue_0031</ToTranslate>
+  </String>
+  <String index="81">
+    <ToTranslate>Юэ$Эмм... Вы можете прийти ко мне, когда захотите. Я буду ждать... вас.@</ToTranslate>
+  </String>
+  <String index="82">
+    <ToTranslate>$Пробормотав эти соблазнительные слова, она развернулась и умчалась.@</ToTranslate>
+  </String>
+  <String index="83">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="84">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="85">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="86">
+    <ToTranslate>bcg_castgurden_a</ToTranslate>
+  </String>
+  <String index="87">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="88">
+    <ToTranslate>bgm02</ToTranslate>
+  </String>
+  <String index="89">
+    <ToTranslate>Казуто$Ух...@</ToTranslate>
+  </String>
+  <String index="90">
+    <ToTranslate>$Как только я покинул тень деревьев и добрался до уголка, где Юэ не могла меня увидеть, я глубоко вздохнул.@</ToTranslate>
+  </String>
+  <String index="91">
+    <ToTranslate>$Я сделал несколько глубоких вдохов-выдохов, пытаясь успокоить своё возбуждение.@</ToTranslate>
+  </String>
+  <String index="92">
+    <ToTranslate>Казуто$...Уф, это было близко...@</ToTranslate>
+  </String>
+  <String index="93">
+    <ToTranslate>$В тот миг, когда я увидел эти слёзы в её глазах, во мне вскипело неожиданное желание.@</ToTranslate>
+  </String>
+  <String index="94">
+    <ToTranslate>$Мне нужно быть осторожнее...@</ToTranslate>
+  </String>
+  <String index="95">
+    <ToTranslate>Казуто$Любого мужчину свело бы с ума, если бы симпатичная девушка так посмотрела на него...@</ToTranslate>
+  </String>
+  <String index="96">
+    <ToTranslate>$Взгляд вверх на парня со слезами на глазах и слабый румянец, окрашивающий её бледную кожу...@</ToTranslate>
+  </String>
+  <String index="97">
+    <ToTranslate>$Это было... слишком близко.@</ToTranslate>
+  </String>
+  <String index="98">
+    <ToTranslate>Казуто$...Нет, нет, очистить разум от всех желаний.@</ToTranslate>
+  </String>
+  <String index="99">
+    <ToTranslate>aisy1914</ToTranslate>
+  </String>
+  <String index="100">
+    <ToTranslate>Айша$Хааааааааааааа!@</ToTranslate>
+  </String>
+  <String index="101">
+    <ToTranslate>SE008</ToTranslate>
+  </String>
+  <String index="102">
+    <ToTranslate>Казуто$Аааааааа!@</ToTranslate>
+  </String>
+  <String index="103">
+    <ToTranslate>$Я услышал внезапный вопль над моим ухом и вскрикнул.@</ToTranslate>
+  </String>
+  <String index="104">
+    <ToTranslate>Казуто$А-Айша?! Уф, ты меня напугала... Я уж подумал, что ты меня сейчас разрежешь...@</ToTranslate>
+  </String>
+  <String index="105">
+    <ToTranslate>tcg_kan31ha</ToTranslate>
+  </String>
+  <String index="106">
+    <ToTranslate>tcg_kan31m</ToTranslate>
+  </String>
+  <String index="107">
+    <ToTranslate>bgm26</ToTranslate>
+  </String>
+  <String index="108">
+    <ToTranslate>aisy1915</ToTranslate>
+  </String>
+  <String index="109">
+    <ToTranslate>Айша$Мне вас разрезать?@</ToTranslate>
+  </String>
+  <String index="110">
+    <ToTranslate>Казуто$А?@</ToTranslate>
+  </String>
+  <String index="111">
+    <ToTranslate>SE010</ToTranslate>
+  </String>
+  <String index="112">
+    <ToTranslate>tcg_kan41aa</ToTranslate>
+  </String>
+  <String index="113">
+    <ToTranslate>tcg_kan41m</ToTranslate>
+  </String>
+  <String index="114">
+    <ToTranslate>Казуто$Ваа! Осторожнее! Ч-что случилось, Айша? Похоже, у тебя не самое лучшее настроение.@</ToTranslate>
+  </String>
+  <String index="115">
+    <ToTranslate>aisy1916</ToTranslate>
+  </String>
+  <String index="116">
+    <ToTranslate>Айша$...Хмф. Я вам для чего-то понадобилась?@</ToTranslate>
+  </String>
+  <String index="117">
+    <ToTranslate>aisy1917</ToTranslate>
+  </String>
+  <String index="118">
+    <ToTranslate>Айша$Как видите, хнгх! Сейчас я тренируюсь. Если вам есть что сказать, то, пожалуйста, покороче.@</ToTranslate>
+  </String>
+  <String index="119">
+    <ToTranslate>Казуто$Ну... Ничего особенного...@</ToTranslate>
+  </String>
+  <String index="120">
+    <ToTranslate>tcg_kan11ea</ToTranslate>
+  </String>
+  <String index="121">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="122">
+    <ToTranslate>aisy1918</ToTranslate>
+  </String>
+  <String index="123">
+    <ToTranslate>Айша$Да-да. В конце концов, я вам никогда ни для чего не нужна!@</ToTranslate>
+  </String>
+  <String index="124">
+    <ToTranslate>SE008</ToTranslate>
+  </String>
+  <String index="125">
+    <ToTranslate>tcg_kan41aa</ToTranslate>
+  </String>
+  <String index="126">
+    <ToTranslate>tcg_kan41m</ToTranslate>
+  </String>
+  <String index="127">
+    <ToTranslate>$Она резко взмахнула своим Клинком полумесяца Зелёного дракона, прорезав воздух, и остановила его кончик прямо у меня перед носом.@</ToTranslate>
+  </String>
+  <String index="128">
+    <ToTranslate>Казуто$О-осторожно!..@</ToTranslate>
+  </String>
+  <String index="129">
+    <ToTranslate>tcg_kan31ha</ToTranslate>
+  </String>
+  <String index="130">
+    <ToTranslate>tcg_kan31m</ToTranslate>
+  </String>
+  <String index="131">
+    <ToTranslate>aisy1919</ToTranslate>
+  </String>
+  <String index="132">
+    <ToTranslate>Айша$...Мой господин.@</ToTranslate>
+  </String>
+  <String index="133">
+    <ToTranslate>Казуто$Д-да?..@</ToTranslate>
+  </String>
+  <String index="134">
+    <ToTranslate>aisy1920</ToTranslate>
+  </String>
+  <String index="135">
+    <ToTranslate>Айша$Я вижу, в перерывах между нашими битвами для прекращения этих войн у вас много времени, чтобы флиртовать со своими спутницами...@</ToTranslate>
+  </String>
+  <String index="136">
+    <ToTranslate>Казуто$Угх...@</ToTranslate>
+  </String>
+  <String index="137">
+    <ToTranslate>$Она наблюдала за нами?..@</ToTranslate>
+  </String>
+  <String index="138">
+    <ToTranslate>tcg_kan11ea</ToTranslate>
+  </String>
+  <String index="139">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="140">
+    <ToTranslate>aisy1921</ToTranslate>
+  </String>
+  <String index="141">
+    <ToTranslate>Айша$Мой Клинок зелёного дракона восклицает: &apos;Когда же, наконец, настанет день, когда наш замысел будет исполнен?&apos;@</ToTranslate>
+  </String>
+  <String index="142">
+    <ToTranslate>Казуто$Как долго ты наблюдала за нами?..@</ToTranslate>
+  </String>
+  <String index="143">
+    <ToTranslate>tcg_kan31ha</ToTranslate>
+  </String>
+  <String index="144">
+    <ToTranslate>tcg_kan31m</ToTranslate>
+  </String>
+  <String index="145">
+    <ToTranslate>aisy1922</ToTranslate>
+  </String>
+  <String index="146">
+    <ToTranslate>Айша$От начала до конца.@</ToTranslate>
+  </String>
+  <String index="147">
+    <ToTranslate>Казуто$(Чёрт... Это плохо... это очень плохо...)@</ToTranslate>
+  </String>
+  <String index="148">
+    <ToTranslate>tcg_kan31la</ToTranslate>
+  </String>
+  <String index="149">
+    <ToTranslate>tcg_kan31m</ToTranslate>
+  </String>
+  <String index="150">
+    <ToTranslate>aisy1923</ToTranslate>
+  </String>
+  <String index="151">
+    <ToTranslate>Айша$...Мой господин, я знаю, что доброта - это ваша сила, но иногда случается, что вы заходите слишком далеко. Даже смотреть на это было 
+
+неприятно.@</ToTranslate>
+  </String>
+  <String index="152">
+    <ToTranslate>Казуто$Я думал, мы говорили о нашем замысле?@</ToTranslate>
+  </String>
+  <String index="153">
+    <ToTranslate>tcg_kan11qa</ToTranslate>
+  </String>
+  <String index="154">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="155">
+    <ToTranslate>aisy1924</ToTranslate>
+  </String>
+  <String index="156">
+    <ToTranslate>Айша$Мои слова имеют к этому отношение!@</ToTranslate>
+  </String>
+  <String index="157">
+    <ToTranslate>aisy1925</ToTranslate>
+  </String>
+  <String index="158">
+    <ToTranslate>Айша$Вы болтаете и д-даже флиртуете с вражескими генералами и правителями, которых мы захватили! Это совершенно неприемлемо!@</ToTranslate>
+  </String>
+  <String index="159">
+    <ToTranslate>Казуто$Я не делал ничего неприемлемого. Ты всё не так поняла...@</ToTranslate>
+  </String>
+  <String index="160">
+    <ToTranslate>tcg_kan11sa</ToTranslate>
+  </String>
+  <String index="161">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="162">
+    <ToTranslate>aisy1926</ToTranslate>
+  </String>
+  <String index="163">
+    <ToTranslate>Айша$Я всё правильно поняла!@</ToTranslate>
+  </String>
+  <String index="164">
+    <ToTranslate>aisy1927</ToTranslate>
+  </String>
+  <String index="165">
+    <ToTranslate>Айша$По освящённой веками традиции, вражеских генералов, которые не клянутся в верности, и захваченных в плен правителей казнят, чтобы больше не 
+
+беспокоиться о проблемах в будущем!@</ToTranslate>
+  </String>
+  <String index="166">
+    <ToTranslate>aisy1928</ToTranslate>
+  </String>
+  <String index="167">
+    <ToTranslate>Айша$Никогда не узнаешь, когда такие люди, как Рёфу и Тотаку, обратят к вам свои клыки, мой господин. Что вы будете делать, если это случится?!
+
+@</ToTranslate>
+  </String>
+  <String index="168">
+    <ToTranslate>Казуто$Я понимаю твою точку зрения, но то, что я флиртовал с ней и всё такое, тут ни при чём...@</ToTranslate>
+  </String>
+  <String index="169">
+    <ToTranslate>tcg_kan11qa</ToTranslate>
+  </String>
+  <String index="170">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="171">
+    <ToTranslate>aisy1929</ToTranslate>
+  </String>
+  <String index="172">
+    <ToTranslate>Айша$Я опасаюсь, что они могут соблазнить вас, мой господин!@</ToTranslate>
+  </String>
+  <String index="173">
+    <ToTranslate>Казуто$Так ты говоришь, что хочешь, чтобы я взял и казнил девушек, сдавшихся нам?@</ToTranslate>
+  </String>
+  <String index="174">
+    <ToTranslate>aisy1930</ToTranslate>
+  </String>
+  <String index="175">
+    <ToTranslate>Айша$Я не говорю, что вы должны заходить так далеко!@</ToTranslate>
+  </String>
+  <String index="176">
+    <ToTranslate>Казуто$Тогда чего ты от меня хочешь, Айша?@</ToTranslate>
+  </String>
+  <String index="177">
+    <ToTranslate>tcg_kan31la</ToTranslate>
+  </String>
+  <String index="178">
+    <ToTranslate>tcg_kan31m</ToTranslate>
+  </String>
+  <String index="179">
+    <ToTranslate>aisy1931</ToTranslate>
+  </String>
+  <String index="180">
+    <ToTranslate>Айша$Я-я просто не хочу, чтобы вы были с ней слишком дружелюбны... В смысле, я думаю, что вам лучше бросать узников в тюрьму.@</ToTranslate>
+  </String>
+  <String index="181">
+    <ToTranslate>Казуто$В тюрьму, да?.. Мне совершенно не хочется бросать девушку в тюремную камеру...@</ToTranslate>
+  </String>
+  <String index="182">
+    <ToTranslate>tcg_kan31ka</ToTranslate>
+  </String>
+  <String index="183">
+    <ToTranslate>tcg_kan31m</ToTranslate>
+  </String>
+  <String index="184">
+    <ToTranslate>aisy1932</ToTranslate>
+  </String>
+  <String index="185">
+    <ToTranslate>Айша$И я боюсь, что вы слишком легко прощаете этих узников. Никогда не узнаете, когда они придут за вашей головой, пока вы спите.@</ToTranslate>
+  </String>
+  <String index="186">
+    <ToTranslate>Казуто$Не слишком ли ты много беспокоишься?@</ToTranslate>
+  </String>
+  <String index="187">
+    <ToTranslate>tcg_kan11ea</ToTranslate>
+  </String>
+  <String index="188">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="189">
+    <ToTranslate>aisy1933</ToTranslate>
+  </String>
+  <String index="190">
+    <ToTranslate>Айша$Может, и так, но ваше тело не принадлежит вам полностью, мой господин. Вам всегда надо быть крайне осмотрительным...@</ToTranslate>
+  </String>
+  <String index="191">
+    <ToTranslate>Казуто$Я принимаю все надлежащие предосторожности. Юэ и Рэн не предадут нас. Обе они очень хорошие девушки.@</ToTranslate>
+  </String>
+  <String index="192">
+    <ToTranslate>tcg_kan31ka</ToTranslate>
+  </String>
+  <String index="193">
+    <ToTranslate>tcg_kan31m</ToTranslate>
+  </String>
+  <String index="194">
+    <ToTranslate>aisy1934</ToTranslate>
+  </String>
+  <String index="195">
+    <ToTranslate>Айша$...@</ToTranslate>
+  </String>
+  <String index="196">
+    <ToTranslate>Казуто$Как только они поклялись нам в верности, они перестали быть нашими врагами. Я не могу быть жестоким с обычной девушкой.@</ToTranslate>
+  </String>
+  <String index="197">
+    <ToTranslate>tcg_kan31la</ToTranslate>
+  </String>
+  <String index="198">
+    <ToTranslate>tcg_kan31m</ToTranslate>
+  </String>
+  <String index="199">
+    <ToTranslate>aisy1935</ToTranslate>
+  </String>
+  <String index="200">
+    <ToTranslate>Айша$Так, значит, вам всё равно, что вы огорчаете меня?..@</ToTranslate>
+  </String>
+  <String index="201">
+    <ToTranslate>Казуто$Аа?@</ToTranslate>
+  </String>
+  <String index="202">
+    <ToTranslate>tcg_kan11qa</ToTranslate>
+  </String>
+  <String index="203">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="204">
+    <ToTranslate>aisy1936</ToTranslate>
+  </String>
+  <String index="205">
+    <ToTranslate>Айша$Нет! Ничего! Я закончила!@</ToTranslate>
+  </String>
+  <String index="206">
+    <ToTranslate>Казуто$...@</ToTranslate>
+  </String>
+  <String index="207">
+    <ToTranslate>aisy1937</ToTranslate>
+  </String>
+  <String index="208">
+    <ToTranslate>Айша$П-почему вы смотрите на меня?..@</ToTranslate>
+  </String>
+  <String index="209">
+    <ToTranslate>Казуто$...Так ты говоришь, что, раз уж у меня есть время на узников, то тебе хотелось бы, чтобы вместо этого я уделял больше внимания тебе?
+
+@</ToTranslate>
+  </String>
+  <String index="210">
+    <ToTranslate>Казуто$Я удивлён. Я не знал, что ты так ревнива, Айша.@</ToTranslate>
+  </String>
+  <String index="211">
+    <ToTranslate>tcg_kan31ga</ToTranslate>
+  </String>
+  <String index="212">
+    <ToTranslate>tcg_kan31m</ToTranslate>
+  </String>
+  <String index="213">
+    <ToTranslate>aisy1938</ToTranslate>
+  </String>
+  <String index="214">
+    <ToTranslate>Айша$Что?..@</ToTranslate>
+  </String>
+  <String index="215">
+    <ToTranslate>$Она потеряла дар речи. Через секунду, раз! Её лицо вспыхнуло, как огонь.@</ToTranslate>
+  </String>
+  <String index="216">
+    <ToTranslate>aisy1939</ToTranslate>
+  </String>
+  <String index="217">
+    <ToTranslate>Айша$В-в-в-ы думаете, что я ревнива? Что я проявляю слабость?!@</ToTranslate>
+  </String>
+  <String index="218">
+    <ToTranslate>Казуто$Я не думаю, что это проявление слабости.@</ToTranslate>
+  </String>
+  <String index="219">
+    <ToTranslate>tcg_kan31ja</ToTranslate>
+  </String>
+  <String index="220">
+    <ToTranslate>tcg_kan31m</ToTranslate>
+  </String>
+  <String index="221">
+    <ToTranslate>aisy1940</ToTranslate>
+  </String>
+  <String index="222">
+    <ToTranslate>Айша$В-вы так самодовольны! Я абсолютно точно не говорю, что хочу, чтобы вы уделяли мне больше внимания, мой господин!@</ToTranslate>
+  </String>
+  <String index="223">
+    <ToTranslate>aisy1941</ToTranslate>
+  </String>
+  <String index="224">
+    <ToTranslate>Айша$Вовсе нет! Не может такого быть...@</ToTranslate>
+  </String>
+  <String index="225">
+    <ToTranslate>$Она была готова взорваться, но тут же остыла и потеряла свою энергию. Я быстро подошёл к ней и похлопал её по плечам, чтобы подбодрить 
+
+её.@</ToTranslate>
+  </String>
+  <String index="226">
+    <ToTranslate>Казуто$Извини. Я был слишком нечувствителен. Прошу прощения. Я учту твой совет, Айша.@</ToTranslate>
+  </String>
+  <String index="227">
+    <ToTranslate>tcg_kan31la</ToTranslate>
+  </String>
+  <String index="228">
+    <ToTranslate>tcg_kan31m</ToTranslate>
+  </String>
+  <String index="229">
+    <ToTranslate>aisy1942</ToTranslate>
+  </String>
+  <String index="230">
+    <ToTranslate>Айша$Я не ревную...@</ToTranslate>
+  </String>
+  <String index="231">
+    <ToTranslate>Казуто$Я знаю! Я неправильно тебя понял. Прости, что сказал это. С этого момента я буду очень стараться не делать ничего, что тебя 
+
+расстраивает.@</ToTranslate>
+  </String>
+  <String index="232">
+    <ToTranslate>tcg_kan31ja</ToTranslate>
+  </String>
+  <String index="233">
+    <ToTranslate>tcg_kan31m</ToTranslate>
+  </String>
+  <String index="234">
+    <ToTranslate>aisy1943</ToTranslate>
+  </String>
+  <String index="235">
+    <ToTranslate>Айша$...@</ToTranslate>
+  </String>
+  <String index="236">
+    <ToTranslate>Казуто$Теперь мне нужно возвращаться к работе...@</ToTranslate>
+  </String>
+  <String index="237">
+    <ToTranslate>aisy1944</ToTranslate>
+  </String>
+  <String index="238">
+    <ToTranslate>Айша$Да... Хорошо... Раз уж вы понимаете...@</ToTranslate>
+  </String>
+  <String index="239">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="240">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="241">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="242">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="243">
+    <ToTranslate>$Я оставил слабо бормочущую Айшу и поспешил назад в свою комнату.@</ToTranslate>
+  </String>
+  <String index="244">
+    <ToTranslate>$В эту ночь...@</ToTranslate>
+  </String>
+  <String index="245">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="246">
+    <ToTranslate>bcg_generoom_c</ToTranslate>
+  </String>
+  <String index="247">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="248">
+    <ToTranslate>bgm07</ToTranslate>
+  </String>
+  <String index="249">
+    <ToTranslate>tcg_kan31ka</ToTranslate>
+  </String>
+  <String index="250">
+    <ToTranslate>tcg_kan31m</ToTranslate>
+  </String>
+  <String index="251">
+    <ToTranslate>aisy1945</ToTranslate>
+  </String>
+  <String index="252">
+    <ToTranslate>Айша$Уже так поздно. Аахх... Что я делаю... аахх...@</ToTranslate>
+  </String>
+  <String index="253">
+    <ToTranslate>tcg_kan31ja</ToTranslate>
+  </String>
+  <String index="254">
+    <ToTranslate>tcg_kan31m</ToTranslate>
+  </String>
+  <String index="255">
+    <ToTranslate>aisy1946</ToTranslate>
+  </String>
+  <String index="256">
+    <ToTranslate>Айша$Сколько ещё я должна мучаться с этими... чувствами к моему господину?.. Что я могу сделать, чтобы... очистить... своё сердце?@</ToTranslate>
+  </String>
+  <String index="257">
+    <ToTranslate>SE075</ToTranslate>
+  </String>
+  <String index="258">
+    <ToTranslate>tcg_kan31ka</ToTranslate>
+  </String>
+  <String index="259">
+    <ToTranslate>tcg_kan31m</ToTranslate>
+  </String>
+  <String index="260">
+    <ToTranslate>aisy1947</ToTranslate>
+  </String>
+  <String index="261">
+    <ToTranslate>Айша$Хе-хе... Моё лицо в зеркале выглядит так ужасно...@</ToTranslate>
+  </String>
+  <String index="262">
+    <ToTranslate>aisy1948</ToTranslate>
+  </String>
+  <String index="263">
+    <ToTranslate>Айша$Это на меня не похоже... Почему я выкрикивала такие сквернословия и отвергала поведение господина...@</ToTranslate>
+  </String>
+  <String index="264">
+    <ToTranslate>aisy1949</ToTranslate>
+  </String>
+  <String index="265">
+    <ToTranslate>Айша$Я уверена, что теперь он устал от меня...@</ToTranslate>
+  </String>
+  <String index="266">
+    <ToTranslate>aisy1950</ToTranslate>
+  </String>
+  <String index="267">
+    <ToTranslate>Айша$Аахх...@</ToTranslate>
+  </String>
+  <String index="268">
+    <ToTranslate>tcg_kan31la</ToTranslate>
+  </String>
+  <String index="269">
+    <ToTranslate>tcg_kan31m</ToTranslate>
+  </String>
+  <String index="270">
+    <ToTranslate>aisy1951</ToTranslate>
+  </String>
+  <String index="271">
+    <ToTranslate>Айша$Я знала это... Чем больше я о нём думаю, тем больше болит моё сердце...@</ToTranslate>
+  </String>
+  <String index="272">
+    <ToTranslate>aisy1952</ToTranslate>
+  </String>
+  <String index="273">
+    <ToTranslate>Айша$Похоже, он был прав... Я ревную...@</ToTranslate>
+  </String>
+  <String index="274">
+    <ToTranslate>tcg_kan31ja</ToTranslate>
+  </String>
+  <String index="275">
+    <ToTranslate>tcg_kan31m</ToTranslate>
+  </String>
+  <String index="276">
+    <ToTranslate>aisy1953</ToTranslate>
+  </String>
+  <String index="277">
+    <ToTranslate>Айша$Мой господин...@</ToTranslate>
+  </String>
+  <String index="278">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="279">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="280">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="281">
+    <ToTranslate>bcg_heroroom_c</ToTranslate>
+  </String>
+  <String index="282">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="283">
+    <ToTranslate>bgm23</ToTranslate>
+  </String>
+  <String index="284">
+    <ToTranslate>Казуто$Аахх...@</ToTranslate>
+  </String>
+  <String index="285">
+    <ToTranslate>$Не пойму, на меня влияет то, что случилось сегодня?@</ToTranslate>
+  </String>
+  <String index="286">
+    <ToTranslate>$Когда я закончил разбираться с государственными делами, мне не хотелось ничего делать, так что я завалился в постель.@</ToTranslate>
+  </String>
+  <String index="287">
+    <ToTranslate>$Я думал.@</ToTranslate>
+  </String>
+  <String index="288">
+    <ToTranslate>$Я думал о нашем будущем и о том, как мне следует себя вести.@</ToTranslate>
+  </String>
+  <String index="289">
+    <ToTranslate>$Вещи, о которых я должен был подумать, поднимались и лопались, как пузыри, но, когда я мысленно продирался сквозь них, все мои мысли стремились к 
+
+Айше.@</ToTranslate>
+  </String>
+  <String index="290">
+    <ToTranslate>$Я слышал, как Айша спрашивает меня, как нам следует действовать.@</ToTranslate>
+  </String>
+  <String index="291">
+    <ToTranslate>$&quot;Мой господин, в каком направлении мы должны двигаться?&quot; &quot;Что вы ко мне чувствуете?&quot;  @</ToTranslate>
+  </String>
+  <String index="292">
+    <ToTranslate>$Она задавала мне столько вопросов, что я не мог сразу ответить, и мой разум был заполнен Айшой.@</ToTranslate>
+  </String>
+  <String index="293">
+    <ToTranslate>aisy1954</ToTranslate>
+  </String>
+  <String index="294">
+    <ToTranslate>Айша$Вы спите, мой господин?..@</ToTranslate>
+  </String>
+  <String index="295">
+    <ToTranslate>Казуто$Аа?@</ToTranslate>
+  </String>
+  <String index="296">
+    <ToTranslate>$На миг я смутился, услышав её голос.@</ToTranslate>
+  </String>
+  <String index="297">
+    <ToTranslate>$Голос, звучащий у меня в голове, теперь доносился из-за двери... Он был в несколько раз более унылым.@</ToTranslate>
+  </String>
+  <String index="298">
+    <ToTranslate>Казуто$Я ещё не сплю. Входи...@</ToTranslate>
+  </String>
+  <String index="299">
+    <ToTranslate>$Я сел на своей бамбуковой кровати и повернулся к двери.@</ToTranslate>
+  </String>
+  <String index="300">
+    <ToTranslate>SE057</ToTranslate>
+  </String>
+  <String index="301">
+    <ToTranslate>tcg_kan31ja</ToTranslate>
+  </String>
+  <String index="302">
+    <ToTranslate>tcg_kan31m</ToTranslate>
+  </String>
+  <String index="303">
+    <ToTranslate>aisy1955</ToTranslate>
+  </String>
+  <String index="304">
+    <ToTranslate>Айша$Извините...@</ToTranslate>
+  </String>
+  <String index="305">
+    <ToTranslate>Казуто$Добро пожаловать... Что привело тебя сюда так поздно?..@</ToTranslate>
+  </String>
+  <String index="306">
+    <ToTranslate>aisy1956</ToTranslate>
+  </String>
+  <String index="307">
+    <ToTranslate>Айша$Я... мешаю вам?@</ToTranslate>
+  </String>
+  <String index="308">
+    <ToTranslate>Казуто$Нет, вовсе нет. Я просто... ну... да, а разве не говорят, что женской красоте нужен отдых? Ты должна заботиться о себе. @</ToTranslate>
+  </String>
+  <String index="309">
+    <ToTranslate>tcg_kan11qa</ToTranslate>
+  </String>
+  <String index="310">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="311">
+    <ToTranslate>aisy1957</ToTranslate>
+  </String>
+  <String index="312">
+    <ToTranslate>Айша$Вы дарите такой благосклонностью девушку без капли женственности вроде меня?@</ToTranslate>
+  </String>
+  <String index="313">
+    <ToTranslate>Казуто$В чём дело? Знаешь, ты ведёшь себя странно. Все думают, что ты красивая женщина, Айша.@</ToTranslate>
+  </String>
+  <String index="314">
+    <ToTranslate>aisy1958</ToTranslate>
+  </String>
+  <String index="315">
+    <ToTranslate>Айша$...Вы говорите это искренне?@</ToTranslate>
+  </String>
+  <String index="316">
+    <ToTranslate>Казуто$Конечно же.@</ToTranslate>
+  </String>
+  <String index="317">
+    <ToTranslate>tcg_kan31ka</ToTranslate>
+  </String>
+  <String index="318">
+    <ToTranslate>tcg_kan31m</ToTranslate>
+  </String>
+  <String index="319">
+    <ToTranslate>aisy1959</ToTranslate>
+  </String>
+  <String index="320">
+    <ToTranslate>Айша$Вот так вы...@</ToTranslate>
+  </String>
+  <String index="321">
+    <ToTranslate>tcg_kan31ja</ToTranslate>
+  </String>
+  <String index="322">
+    <ToTranslate>tcg_kan31m</ToTranslate>
+  </String>
+  <String index="323">
+    <ToTranslate>aisy1960</ToTranslate>
+  </String>
+  <String index="324">
+    <ToTranslate>Айша$Вот так вы легко пробуждаете мои чувства...@</ToTranslate>
+  </String>
+  <String index="325">
+    <ToTranslate>Казуто$Что? Айша... ого!@</ToTranslate>
+  </String>
+  <String index="326">
+    <ToTranslate>SE002</ToTranslate>
+  </String>
+  <String index="327">
+    <ToTranslate>$Когда Айша бросилась мне на грудь, её чёрные волосы своим сладким запахом пощекотали мне нос.@</ToTranslate>
+  </String>
+  <String index="328">
+    <ToTranslate>tcg_kan31la</ToTranslate>
+  </String>
+  <String index="329">
+    <ToTranslate>tcg_kan31m</ToTranslate>
+  </String>
+  <String index="330">
+    <ToTranslate>aisy1961</ToTranslate>
+  </String>
+  <String index="331">
+    <ToTranslate>Айша$Если вы делаете это неосознанно, это очень подло. Я бы потеряла к вам уважение, мой господин...@</ToTranslate>
+  </String>
+  <String index="332">
+    <ToTranslate>Казуто$Айша?..@</ToTranslate>
+  </String>
+  <String index="333">
+    <ToTranslate>tcg_kan11qa</ToTranslate>
+  </String>
+  <String index="334">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="335">
+    <ToTranslate>aisy1962</ToTranslate>
+  </String>
+  <String index="336">
+    <ToTranslate>Айша$Вы не будете против, если я возненавижу вас, мой господин?!@</ToTranslate>
+  </String>
+  <String index="337">
+    <ToTranslate>Казуто$Нет, я буду против. Я не хочу этого.@</ToTranslate>
+  </String>
+  <String index="338">
+    <ToTranslate>tcg_kan31ja</ToTranslate>
+  </String>
+  <String index="339">
+    <ToTranslate>tcg_kan31m</ToTranslate>
+  </String>
+  <String index="340">
+    <ToTranslate>aisy1963</ToTranslate>
+  </String>
+  <String index="341">
+    <ToTranslate>Айша$Тогда... пожалуйста, дарите свои слова и мне, мой господин. Вы всегда дарите добрые улыбки и шепчете сладкие слова другим...@</ToTranslate>
+  </String>
+  <String index="342">
+    <ToTranslate>Казуто$Ты только что сказала кое-что очень милое.@</ToTranslate>
+  </String>
+  <String index="343">
+    <ToTranslate>tcg_kan31la</ToTranslate>
+  </String>
+  <String index="344">
+    <ToTranslate>tcg_kan31m</ToTranslate>
+  </String>
+  <String index="345">
+    <ToTranslate>aisy1964</ToTranslate>
+  </String>
+  <String index="346">
+    <ToTranslate>Айша$Это же правда, верно? А если так, т-то я тоже хочу этого.@</ToTranslate>
+  </String>
+  <String index="347">
+    <ToTranslate>$Моё удивление и смущение начали рассеиваться.@</ToTranslate>
+  </String>
+  <String index="348">
+    <ToTranslate>$Тепло Айши и её дрожащее тело успокоили меня.@</ToTranslate>
+  </String>
+  <String index="349">
+    <ToTranslate>Казуто$Ты нужна мне, Айша. Я хочу, чтобы ты всегда была рядом со мной.@</ToTranslate>
+  </String>
+  <String index="350">
+    <ToTranslate>$Я высказал ей свои истинные чувства и мягко, просительно потёр её плечи.@</ToTranslate>
+  </String>
+  <String index="351">
+    <ToTranslate>tcg_kan11qa</ToTranslate>
+  </String>
+  <String index="352">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="353">
+    <ToTranslate>aisy1965</ToTranslate>
+  </String>
+  <String index="354">
+    <ToTranslate>Айша$Вы всем это говорите, да? Наверняка вы говорили это Юэ и Рэн тоже...@</ToTranslate>
+  </String>
+  <String index="355">
+    <ToTranslate>Казуто$Может, да, а может, и нет...@</ToTranslate>
+  </String>
+  <String index="356">
+    <ToTranslate>tcg_kan21oa</ToTranslate>
+  </String>
+  <String index="357">
+    <ToTranslate>tcg_kan21m</ToTranslate>
+  </String>
+  <String index="358">
+    <ToTranslate>aisy1966</ToTranslate>
+  </String>
+  <String index="359">
+    <ToTranslate>Айша$Хи-хи... вы действительно несерьёзный человек.@</ToTranslate>
+  </String>
+  <String index="360">
+    <ToTranslate>$Айша улыбнулась, и напряжение начало покидать её плечи.@</ToTranslate>
+  </String>
+  <String index="361">
+    <ToTranslate>tcg_kan21ia</ToTranslate>
+  </String>
+  <String index="362">
+    <ToTranslate>tcg_kan21m</ToTranslate>
+  </String>
+  <String index="363">
+    <ToTranslate>aisy1967</ToTranslate>
+  </String>
+  <String index="364">
+    <ToTranslate>Айша$Вы легко можете разжигать и успокаивать мои чувства, мой господин.Ѓ@@</ToTranslate>
+  </String>
+  <String index="365">
+    <ToTranslate>$Она взглянула на меня слегка изумлённо, но с улыбкой.@</ToTranslate>
+  </String>
+  <String index="366">
+    <ToTranslate>tcg_kan31ja</ToTranslate>
+  </String>
+  <String index="367">
+    <ToTranslate>tcg_kan31m</ToTranslate>
+  </String>
+  <String index="368">
+    <ToTranslate>aisy1968</ToTranslate>
+  </String>
+  <String index="369">
+    <ToTranslate>Айша$Я крайне ревнивая женщина. И вы всё равно... будете говорить, что я вам нужна?@</ToTranslate>
+  </String>
+  <String index="370">
+    <ToTranslate>Казуто$...Так ты признаёшь это?@</ToTranslate>
+  </String>
+  <String index="371">
+    <ToTranslate>tcg_kan31la</ToTranslate>
+  </String>
+  <String index="372">
+    <ToTranslate>tcg_kan31m</ToTranslate>
+  </String>
+  <String index="373">
+    <ToTranslate>aisy1969</ToTranslate>
+  </String>
+  <String index="374">
+    <ToTranslate>Айша$Сегодня я постыдно отрицала это, когда вы мне на это указали.@</ToTranslate>
+  </String>
+  <String index="375">
+    <ToTranslate>Казуто$Да. Это было мило.@</ToTranslate>
+  </String>
+  <String index="376">
+    <ToTranslate>tcg_kan31ga</ToTranslate>
+  </String>
+  <String index="377">
+    <ToTranslate>tcg_kan31m</ToTranslate>
+  </String>
+  <String index="378">
+    <ToTranslate>aisy1970</ToTranslate>
+  </String>
+  <String index="379">
+    <ToTranslate>Айша$М-мило... Это правда? Вы не глумитесь надо мной?@</ToTranslate>
+  </String>
+  <String index="380">
+    <ToTranslate>Казуто$Я бы никогда этого не сделал.@</ToTranslate>
+  </String>
+  <String index="381">
+    <ToTranslate>tcg_kan31ja</ToTranslate>
+  </String>
+  <String index="382">
+    <ToTranslate>tcg_kan31m</ToTranslate>
+  </String>
+  <String index="383">
+    <ToTranslate>aisy1971</ToTranslate>
+  </String>
+  <String index="384">
+    <ToTranslate>Айша$...Я очень ревнивая. Как только я это поняла, я больше не могла остановить это чувство...@</ToTranslate>
+  </String>
+  <String index="385">
+    <ToTranslate>aisy1972</ToTranslate>
+  </String>
+  <String index="386">
+    <ToTranslate>Айша$Я никогда не думала, что у меня... такая слабая и жалкая женская сущность. Я так смущена...@</ToTranslate>
+  </String>
+  <String index="387">
+    <ToTranslate>Казуто$Я совсем не смущён и очень рад это слышать.@</ToTranslate>
+  </String>
+  <String index="388">
+    <ToTranslate>$Я обхватил руками её спину, крепко держа её в руках.I wrapped my arms around her back, holding her tightly in my arms.@</ToTranslate>
+  </String>
+  <String index="389">
+    <ToTranslate>$Сейчас этот великий генерал, стоящий тысяч, был всего лишь хрупкой девушкой в моих руках.@</ToTranslate>
+  </String>
+  <String index="390">
+    <ToTranslate>Казуто$Значит, я знал, что ты очаровательная девушка задолго до того, как ты это поняла.@</ToTranslate>
+  </String>
+  <String index="391">
+    <ToTranslate>tcg_kan21ia</ToTranslate>
+  </String>
+  <String index="392">
+    <ToTranslate>tcg_kan21m</ToTranslate>
+  </String>
+  <String index="393">
+    <ToTranslate>aisy1973</ToTranslate>
+  </String>
+  <String index="394">
+    <ToTranslate>Айша$Хи-хи... Вы очень хорошо умеете нашёптывать милые пустяки.@</ToTranslate>
+  </String>
+  <String index="395">
+    <ToTranslate>Казуто$Ты презираешь меня?@</ToTranslate>
+  </String>
+  <String index="396">
+    <ToTranslate>tcg_kan31la</ToTranslate>
+  </String>
+  <String index="397">
+    <ToTranslate>tcg_kan31m</ToTranslate>
+  </String>
+  <String index="398">
+    <ToTranslate>aisy1974</ToTranslate>
+  </String>
+  <String index="399">
+    <ToTranslate>Айша$Если бы я могла, возможно, моё сердце было бы спокойно.Ѓ@@</ToTranslate>
+  </String>
+  <String index="400">
+    <ToTranslate>$Её щеки покраснели, когда она, надувшись, сказала это. Я впервые дотронулся пальцем до её мягких, нежных губ.@</ToTranslate>
+  </String>
+  <String index="401">
+    <ToTranslate>tcg_kan31ja</ToTranslate>
+  </String>
+  <String index="402">
+    <ToTranslate>tcg_kan31m</ToTranslate>
+  </String>
+  <String index="403">
+    <ToTranslate>aisy1975</ToTranslate>
+  </String>
+  <String index="404">
+    <ToTranslate>Айша$&Нгх, но это невозможно. Прежде чем вы впервые увидели меня как девушку, я решила довериться вам, мой господин.@</ToTranslate>
+  </String>
+  <String index="405">
+    <ToTranslate>$Я медленно провёл пальцем по её губам... и посчитал это согласием.@</ToTranslate>
+  </String>
+  <String index="406">
+    <ToTranslate>tcg_kan21ia</ToTranslate>
+  </String>
+  <String index="407">
+    <ToTranslate>tcg_kan21m</ToTranslate>
+  </String>
+  <String index="408">
+    <ToTranslate>aisy1976</ToTranslate>
+  </String>
+  <String index="409">
+    <ToTranslate>Айша$Вы удивительно непостоянны... но вы лучше, чем кто-либо ещё.@</ToTranslate>
+  </String>
+  <String index="410">
+    <ToTranslate>$Мягко прошептала она.@</ToTranslate>
+  </String>
+  <String index="411">
+    <ToTranslate>$Чтобы поймать страсть, заключённую в этих словах, я поднёс свои губы к её губам.@</ToTranslate>
+  </String>
+  <String index="412">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="413">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="414">
+    <ToTranslate>ecg_kan03b</ToTranslate>
+  </String>
+  <String index="415">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="416">
+    <ToTranslate>bgm24</ToTranslate>
+  </String>
+  <String index="417">
+    <ToTranslate>aisy1977</ToTranslate>
+  </String>
+  <String index="418">
+    <ToTranslate>Айша$Ммм... ммах... мммм...@</ToTranslate>
+  </String>
+  <String index="419">
+    <ToTranslate>$Я поцеловал её дрожащие губы, чтобы показать ей свои чувства.@</ToTranslate>
+  </String>
+  <String index="420">
+    <ToTranslate>aisy1978</ToTranslate>
+  </String>
+  <String index="421">
+    <ToTranslate>Айша$Хах... ммм... уфф... ммах...@</ToTranslate>
+  </String>
+  <String index="422">
+    <ToTranslate>$Я медленно и нежно прижал свои губы к её губам, чтобы не испугать её.@</ToTranslate>
+  </String>
+  <String index="423">
+    <ToTranslate>aisy1979</ToTranslate>
+  </String>
+  <String index="424">
+    <ToTranslate>Айша$Хаааах... ммм... ммах... уфф... ух... ммм... ммах...@</ToTranslate>
+  </String>
+  <String index="425">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="426">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="427">
+    <ToTranslate>ecg_kan03c</ToTranslate>
+  </String>
+  <String index="428">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="429">
+    <ToTranslate>aisy1980</ToTranslate>
+  </String>
+  <String index="430">
+    <ToTranslate>Айша$Ммах... хах... мой госпо...дин... ммм...@</ToTranslate>
+  </String>
+  <String index="431">
+    <ToTranslate>$Я слышал её сладкий, страстный голос, слетающий с её губ.@</ToTranslate>
+  </String>
+  <String index="432">
+    <ToTranslate>Казуто$Айша... ммм...@</ToTranslate>
+  </String>
+  <String index="433">
+    <ToTranslate>aisy1981</ToTranslate>
+  </String>
+  <String index="434">
+    <ToTranslate>Айша$Ммм... ммах... хах... ммах...@</ToTranslate>
+  </String>
+  <String index="435">
+    <ToTranslate>aisy1982</ToTranslate>
+  </String>
+  <String index="436">
+    <ToTranslate>$Хотя из-за нового ощущения она была нерешительна, Айша крепко обхватила руками мою спину.@</ToTranslate>
+  </String>
+  <String index="437">
+    <ToTranslate>Айша$Аа... мой господин... ммм... мвах... мвах...@</ToTranslate>
+  </String>
+  <String index="438">
+    <ToTranslate>$Она настойчиво, смело стремилась к моим губам.@</ToTranslate>
+  </String>
+  <String index="439">
+    <ToTranslate>$Я хотел лучше почувствовать вкус её мягких, податливых губ, поэтому мой язык уже проскальзывал ей в рот.@</ToTranslate>
+  </String>
+  <String index="440">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="441">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="442">
+    <ToTranslate>ecg_kan03d</ToTranslate>
+  </String>
+  <String index="443">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="444">
+    <ToTranslate>aisy1983</ToTranslate>
+  </String>
+  <String index="445">
+    <ToTranslate>Айша$Ммм? Ммм... мвах... мвах... ммм...@</ToTranslate>
+  </String>
+  <String index="446">
+    <ToTranslate>aisy1984</ToTranslate>
+  </String>
+  <String index="447">
+    <ToTranslate>Айша$Ммм, мвах... мммм... аа...@</ToTranslate>
+  </String>
+  <String index="448">
+    <ToTranslate>Казуто$Ты удовлетворена?@</ToTranslate>
+  </String>
+  <String index="449">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="450">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="451">
+    <ToTranslate>ecg_kan03a</ToTranslate>
+  </String>
+  <String index="452">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="453">
+    <ToTranslate>aisy1985</ToTranslate>
+  </String>
+  <String index="454">
+    <ToTranslate>Айша$Уух... мне за себя стыдно... мой господин, вы так спокойны, а я так...@</ToTranslate>
+  </String>
+  <String index="455">
+    <ToTranslate>Казуто$Нервничаешь, верно?.. Я чувствую биение твоего сердца.@</ToTranslate>
+  </String>
+  <String index="456">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="457">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="458">
+    <ToTranslate>ecg_kan03c</ToTranslate>
+  </String>
+  <String index="459">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="460">
+    <ToTranslate>aisy1986</ToTranslate>
+  </String>
+  <String index="461">
+    <ToTranslate>Айша$Т-тебе не нужно мне это объяснять. Я и так знаю...@</ToTranslate>
+  </String>
+  <String index="462">
+    <ToTranslate>Казуто$Знаешь? Тогда давай закончим с этим и продолжим...@</ToTranslate>
+  </String>
+  <String index="463">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="464">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="465">
+    <ToTranslate>ecg_kan03b</ToTranslate>
+  </String>
+  <String index="466">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="467">
+    <ToTranslate>aisy1987</ToTranslate>
+  </String>
+  <String index="468">
+    <ToTranslate>Айша$Ааах... мвах... ммм... аа... мвах...@</ToTranslate>
+  </String>
+  <String index="469">
+    <ToTranslate>Казуто$Больше используй язык. Я хочу почувствовать твой язык, Айша...@</ToTranslate>
+  </String>
+  <String index="470">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="471">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="472">
+    <ToTranslate>ecg_kan03c</ToTranslate>
+  </String>
+  <String index="473">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="474">
+    <ToTranslate>aisy1988</ToTranslate>
+  </String>
+  <String index="475">
+    <ToTranslate>Айша$Ах... я слишком застенчива...@</ToTranslate>
+  </String>
+  <String index="476">
+    <ToTranslate>Казуто$Не стесняйся. Поцелуй - это церемония соединения сердец двух людей. Давай, используй язык...@</ToTranslate>
+  </String>
+  <String index="477">
+    <ToTranslate>aisy1989</ToTranslate>
+  </String>
+  <String index="478">
+    <ToTranslate>Айша$Ууух...@</ToTranslate>
+  </String>
+  <String index="479">
+    <ToTranslate>$Когда Айша застенчиво покраснела и протянула ко мне язык...@</ToTranslate>
+  </String>
+  <String index="480">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="481">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="482">
+    <ToTranslate>ecg_kan03d</ToTranslate>
+  </String>
+  <String index="483">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="484">
+    <ToTranslate>Казуто$Ммм...@</ToTranslate>
+  </String>
+  <String index="485">
+    <ToTranslate>$Я всосал её язык в рот и обвил его своим языком.@</ToTranslate>
+  </String>
+  <String index="486">
+    <ToTranslate>aisy1990</ToTranslate>
+  </String>
+  <String index="487">
+    <ToTranslate>Айша$Аааах... мой госпо, ммм, дин... ммм... аааах...@</ToTranslate>
+  </String>
+  <String index="488">
+    <ToTranslate>aisy1991</ToTranslate>
+  </String>
+  <String index="489">
+    <ToTranslate>Айша$Ммм, ммм, ваш язык... двигается у меня во рту... ааааах... аа...@</ToTranslate>
+  </String>
+  <String index="490">
+    <ToTranslate>$Наши мягкие языки переплетались, слюна смешивалась.@</ToTranslate>
+  </String>
+  <String index="491">
+    <ToTranslate>aisy1992</ToTranslate>
+  </String>
+  <String index="492">
+    <ToTranslate>Айша$Аа... мвах... мммм... мвах... мммммм...@</ToTranslate>
+  </String>
+  <String index="493">
+    <ToTranslate>$Мы больше не разговаривали; мы просто содрогались от нежности, которую мы ощущали кончиками языков.@</ToTranslate>
+  </String>
+  <String index="494">
+    <ToTranslate>aisy1993</ToTranslate>
+  </String>
+  <String index="495">
+    <ToTranslate>Айша$Аа... аа...@</ToTranslate>
+  </String>
+  <String index="496">
+    <ToTranslate>$Её дыхание было тёплым, она казалась потрясённой.@</ToTranslate>
+  </String>
+  <String index="497">
+    <ToTranslate>$Она немного удивилась, когда моя рука проскользнула между нами и прикоснулась к её огромным грудям.@</ToTranslate>
+  </String>
+  <String index="498">
+    <ToTranslate>aisy1994</ToTranslate>
+  </String>
+  <String index="499">
+    <ToTranslate>Айша$Ммм... ах, аахх... мой господин... мне так стыдно из-за моих грудей... йяяя...Ѓ@@</ToTranslate>
+  </String>
+  <String index="500">
+    <ToTranslate>$Пока Айша вздыхала и в экстазе роняла эти слова, я начал нежно сталкивать её на кровать...@</ToTranslate>
+  </String>
+  <String index="501">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="502">
+    <ToTranslate>bcg_heroroom_c</ToTranslate>
+  </String>
+  <String index="503">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="504">
+    <ToTranslate>bgm03</ToTranslate>
+  </String>
+  <String index="505">
+    <ToTranslate>SE001</ToTranslate>
+  </String>
+  <String index="506">
+    <ToTranslate>yure_y</ToTranslate>
+  </String>
+  <String index="507">
+    <ToTranslate>Казуто$Ваа?!@</ToTranslate>
+  </String>
+  <String index="508">
+    <ToTranslate>SE039</ToTranslate>
+  </String>
+  <String index="509">
+    <ToTranslate>$Неожиданно Айша вырвалась из моих рук, и, вместо того чтобы уложить её, я сам упал на покрывало.@</ToTranslate>
+  </String>
+  <String index="510">
+    <ToTranslate>tcg_kan21oa</ToTranslate>
+  </String>
+  <String index="511">
+    <ToTranslate>tcg_kan21m</ToTranslate>
+  </String>
+  <String index="512">
+    <ToTranslate>kanu0083</ToTranslate>
+  </String>
+  <String index="513">
+    <ToTranslate>Айша$Уф... Большое спасибо. Думаю, благодаря вам в моём смятенном сердце теперь всё прояснилось.@</ToTranslate>
+  </String>
+  <String index="514">
+    <ToTranslate>Казуто$Аа?!.. Эй, Айша.@</ToTranslate>
+  </String>
+  <String index="515">
+    <ToTranslate>$С чего вдруг эта обновлённая улыбка?!@</ToTranslate>
+  </String>
+  <String index="516">
+    <ToTranslate>$Это так мило, когда она краснеет, дотрагиваясь пальцами до своих влажных губ!@</ToTranslate>
+  </String>
+  <String index="517">
+    <ToTranslate>$Но проблема не в этом!@</ToTranslate>
+  </String>
+  <String index="518">
+    <ToTranslate>tcg_kan21na</ToTranslate>
+  </String>
+  <String index="519">
+    <ToTranslate>tcg_kan21m</ToTranslate>
+  </String>
+  <String index="520">
+    <ToTranslate>aisy1995</ToTranslate>
+  </String>
+  <String index="521">
+    <ToTranslate>Айша$Думаю, с завтрашнего дня я смогу работать усерднее! Хи-хи... Вот посмотрите, мой господин!@</ToTranslate>
+  </String>
+  <String index="522">
+    <ToTranslate>Казуто$Что? Эй, это... Эй, Айша...@</ToTranslate>
+  </String>
+  <String index="523">
+    <ToTranslate>tcg_kan21oa</ToTranslate>
+  </String>
+  <String index="524">
+    <ToTranslate>tcg_kan21m</ToTranslate>
+  </String>
+  <String index="525">
+    <ToTranslate>aisy1996</ToTranslate>
+  </String>
+  <String index="526">
+    <ToTranslate>Айша$А теперь спокойной ночи!@</ToTranslate>
+  </String>
+  <String index="527">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="528">
+    <ToTranslate>SE058</ToTranslate>
+  </String>
+  <String index="529">
+    <ToTranslate>Казуто$Нет... нет... нет...@</ToTranslate>
+  </String>
+  <String index="530">
+    <ToTranslate>$Она не может так поступить!!!!!@</ToTranslate>
+  </String>
+  <String index="531">
+    <ToTranslate>Казуто$Хах, ха-ха... Айша, ты совсем не понимаешь мужчин! Большинство людей назвали бы это пыткой!@</ToTranslate>
+  </String>
+  <String index="532">
+    <ToTranslate>Казуто$Хахх... И что мне теперь делать с этим пылающим членом?..@</ToTranslate>
+  </String>
+  <String index="533">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="534">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="535">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+</DBS>
+</poem>
+String index="362">
+    quot;I shamefully denied it when you pointed it out to me this afternoon....../String>

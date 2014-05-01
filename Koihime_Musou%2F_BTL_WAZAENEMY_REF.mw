@@ -1,0 +1,151 @@
+<poem>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<DBS>
+  <String index="0">
+    <Origin>�Your army is attacking.@</Origin>
+    <ToTranslate>�Your army is attacking.@</ToTranslate>
+  </String>
+  <String index="1">
+    <Origin>_btl_SC_Player</Origin>
+    <ToTranslate>_btl_SC_Player</ToTranslate>
+  </String>
+  <String index="2">
+    <Origin>Bunshuu unleashes her Ougi!@</Origin>
+    <ToTranslate>Bunshuu unleashes her Ougi!@</ToTranslate>
+  </String>
+  <String index="3">
+    <Origin>_btl_WazaE_efc</Origin>
+    <ToTranslate>_btl_WazaE_efc</ToTranslate>
+  </String>
+  <String index="4">
+    <Origin>�Shokatsuryou unleashes her Ougi as well!@</Origin>
+    <ToTranslate>�Shokatsuryou unleashes her Ougi as well!@</ToTranslate>
+  </String>
+  <String index="5">
+    <Origin>_btl_WazaP_efc</Origin>
+    <ToTranslate>_btl_WazaP_efc</ToTranslate>
+  </String>
+  <String index="6">
+    <Origin>The enemy&apos;s Ougi has been nullified!@</Origin>
+    <ToTranslate>The enemy&apos;s Ougi has been nullified!@</ToTranslate>
+  </String>
+  <String index="7">
+    <Origin>�Your light infantry is charging.@</Origin>
+    <ToTranslate>�Your light infantry is charging.@</ToTranslate>
+  </String>
+  <String index="8">
+    <Origin>�Your heavy infantry is intercepting.@</Origin>
+    <ToTranslate>�Your heavy infantry is intercepting.@</ToTranslate>
+  </String>
+  <String index="9">
+    <Origin>�Your archers are firing@</Origin>
+    <ToTranslate>�Your archers are firing@</ToTranslate>
+  </String>
+  <String index="10">
+    <Origin>_btl_SC_Player</Origin>
+    <ToTranslate>_btl_SC_Player</ToTranslate>
+  </String>
+  <String index="11">
+    <Origin>You killed �k</Origin>
+    <ToTranslate>You killed �k</ToTranslate>
+  </String>
+  <String index="12">
+    <Origin>You have fallen into a desperately laid trap!@</Origin>
+    <ToTranslate>You have fallen into a desperately laid trap!@</ToTranslate>
+  </String>
+  <String index="13">
+    <Origin>Out of �k</Origin>
+    <ToTranslate>Out of �k</ToTranslate>
+  </String>
+  <String index="14">
+    <Origin>You killed �k</Origin>
+    <ToTranslate>You killed �k</ToTranslate>
+  </String>
+  <String index="15">
+    <Origin>You suffered �‹</Origin>
+    <ToTranslate>You suffered �‹</ToTranslate>
+  </String>
+  <String index="16">
+    <Origin>_btl_CreateStatusStrB</Origin>
+    <ToTranslate>_btl_CreateStatusStrB</ToTranslate>
+  </String>
+  <String index="17">
+    <Origin>��$</Origin>
+    <ToTranslate>��$</ToTranslate>
+  </String>
+  <String index="18">
+    <Origin>�Your army is attacking.@</Origin>
+    <ToTranslate>�Your army is attacking.@</ToTranslate>
+  </String>
+  <String index="19">
+    <Origin>_btl_SC_Player</Origin>
+    <ToTranslate>_btl_SC_Player</ToTranslate>
+  </String>
+  <String index="20">
+    <Origin>Sonken unleashes her Ougi!@</Origin>
+    <ToTranslate>Sonken unleashes her Ougi!@</ToTranslate>
+  </String>
+  <String index="21">
+    <Origin>_btl_WazaE_efc</Origin>
+    <ToTranslate>_btl_WazaE_efc</ToTranslate>
+  </String>
+  <String index="22">
+    <Origin>�Shokatsuryou unleashes her Ougi as well!@</Origin>
+    <ToTranslate>�Shokatsuryou unleashes her Ougi as well!@</ToTranslate>
+  </String>
+  <String index="23">
+    <Origin>_btl_WazaP_efc</Origin>
+    <ToTranslate>_btl_WazaP_efc</ToTranslate>
+  </String>
+  <String index="24">
+    <Origin>The enemy&apos;s Ougi has been nullified!@</Origin>
+    <ToTranslate>The enemy&apos;s Ougi has been nullified!@</ToTranslate>
+  </String>
+  <String index="25">
+    <Origin>�Your light infantry is charging.@</Origin>
+    <ToTranslate>�Your light infantry is charging.@</ToTranslate>
+  </String>
+  <String index="26">
+    <Origin>�Your heavy infantry is intercepting.@</Origin>
+    <ToTranslate>�Your heavy infantry is intercepting.@</ToTranslate>
+  </String>
+  <String index="27">
+    <Origin>�Your archers are firing@</Origin>
+    <ToTranslate>�Your archers are firing@</ToTranslate>
+  </String>
+  <String index="28">
+    <Origin>_btl_SC_Player</Origin>
+    <ToTranslate>_btl_SC_Player</ToTranslate>
+  </String>
+  <String index="29">
+    <Origin>You killed �k</Origin>
+    <ToTranslate>You killed �k</ToTranslate>
+  </String>
+  <String index="30">
+    <Origin>Sonken uses her skill to protect her soldiers! Your attack was parried!@</Origin>
+    <ToTranslate>Sonken uses her skill to protect her soldiers! Your attack was parried!@</ToTranslate>
+  </String>
+  <String index="31">
+    <Origin>Out of �k</Origin>
+    <ToTranslate>Out of �k</ToTranslate>
+  </String>
+  <String index="32">
+    <Origin>You killed �k</Origin>
+    <ToTranslate>You killed �k</ToTranslate>
+  </String>
+  <String index="33">
+    <Origin>You suffered �‹</Origin>
+    <ToTranslate>You suffered �‹</ToTranslate>
+  </String>
+  <String index="34">
+    <Origin>_btl_CreateStatusStrB</Origin>
+    <ToTranslate>_btl_CreateStatusStrB</ToTranslate>
+  </String>
+  <String index="35">
+    <Origin>��$</Origin>
+    <ToTranslate>��$</ToTranslate>
+  </String>
+</DBS>
+
+</poem>

@@ -1,0 +1,917 @@
+<poem>
+<?xml version="1.0" encoding="UTF-8"?>
+<DBS>
+  <String index="0">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="1">
+    <ToTranslate>bcg_heroroom_a</ToTranslate>
+  </String>
+  <String index="2">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="3">
+    <ToTranslate>bgm23</ToTranslate>
+  </String>
+  <String index="4">
+    <ToTranslate>$С наступлением вечера мне становится всё сложнее сосредотачиваться на государственных делах.@</ToTranslate>
+  </String>
+  <String index="5">
+    <ToTranslate>$В школе со мной всегда было также, и я частенько засыпал на последних уроках.@</ToTranslate>
+  </String>
+  <String index="6">
+    <ToTranslate>$.....................@</ToTranslate>
+  </String>
+  <String index="7">
+    <ToTranslate>$Воспоминания о школе навевают приятные чувства.@</ToTranslate>
+  </String>
+  <String index="8">
+    <ToTranslate>Казуто$"Сколько же времени уже успело пройти."@</ToTranslate>
+  </String>
+  <String index="9">
+    <ToTranslate>$Я посмотрел в небо, оно в точности такое же, каким я его видел из окна моего класса. Начинает казаться, что обернувшись, я увижу лица своих одноклассников.@</ToTranslate>
+  </String>
+  <String index="10">
+    <ToTranslate>$Не думаю что это болезнь – я скучаю по дому, здесь я крайне редко задумываюсь о чём то подобном.@</ToTranslate>
+  </String>
+  <String index="11">
+    <ToTranslate>$Пытаюсь понять себя, а что если я правда был бы рад вернуться домой.@</ToTranslate>
+  </String>
+  <String index="12">
+    <ToTranslate>$Я не пытаюсь вернуться в свой мир, но так же не думаю о том чего же хочу я сам.@</ToTranslate>
+  </String>
+  <String index="13">
+    <ToTranslate>SE062</ToTranslate>
+  </String>
+  <String index="14">
+    <ToTranslate>rinr1070</ToTranslate>
+  </String>
+  <String index="15">
+    <ToTranslate>Ринрин$"Братик, ты там?"@</ToTranslate>
+  </String>
+  <String index="16">
+    <ToTranslate>$Улыбка скользнула по моим губам в тот момент, когда я обдумывал сколько же всего замечательного я обнаружил в этом мире.@</ToTranslate>
+  </String>
+  <String index="17">
+    <ToTranslate>Казуто$"Да я здесь. Ты разве не должна быть на тренировках вместе с Суи и своими людьми?"@</ToTranslate>
+  </String>
+  <String index="18">
+    <ToTranslate>tcg_cho12aa</ToTranslate>
+  </String>
+  <String index="19">
+    <ToTranslate>tcg_cho12m</ToTranslate>
+  </String>
+  <String index="20">
+    <ToTranslate>bgm04</ToTranslate>
+  </String>
+  <String index="21">
+    <ToTranslate>rinr1071</ToTranslate>
+  </String>
+  <String index="22">
+    <ToTranslate>Ринрин$"Угу, но мы уже успели закончить!"@</ToTranslate>
+  </String>
+  <String index="23">
+    <ToTranslate>$Ринрин полетела ко мне, и я крайне благодарен, что в этот раз она не принесла с собой ещё и оружие, пускай в последнее время она его и прячет в чехол.@</ToTranslate>
+  </String>
+  <String index="24">
+    <ToTranslate>$А вот что действительно привлекло моё внимание так это платье оголяющее её ноги.@</ToTranslate>
+  </String>
+  <String index="25">
+    <ToTranslate>Казуто$"Ум? Успела переодеться? Это ведь то самое..."@</ToTranslate>
+  </String>
+  <String index="26">
+    <ToTranslate>tcg_cho22ia</ToTranslate>
+  </String>
+  <String index="27">
+    <ToTranslate>tcg_cho22m</ToTranslate>
+  </String>
+  <String index="28">
+    <ToTranslate>rinr1072</ToTranslate>
+  </String>
+  <String index="29">
+    <ToTranslate>Ринрин$"Угу! Теперь это платье Ринрин. Сион мне подарила!"@</ToTranslate>
+  </String>
+  <String index="30">
+    <ToTranslate>Казуто$"О, как здорово с её стороны."@</ToTranslate>
+  </String>
+  <String index="31">
+    <ToTranslate>tcg_cho12la</ToTranslate>
+  </String>
+  <String index="32">
+    <ToTranslate>tcg_cho12m</ToTranslate>
+  </String>
+  <String index="33">
+    <ToTranslate>rinr1073</ToTranslate>
+  </String>
+  <String index="34">
+    <ToTranslate>Ринрин$"Угу! Эй-эй, скажи, мне идёт?"@</ToTranslate>
+  </String>
+  <String index="35">
+    <ToTranslate>Казуто$"Ещё как. Выглядишь крайне мило... но зачем ты так оделась?"@</ToTranslate>
+  </String>
+  <String index="36">
+    <ToTranslate>tcg_cho32ma</ToTranslate>
+  </String>
+  <String index="37">
+    <ToTranslate>tcg_cho32m</ToTranslate>
+  </String>
+  <String index="38">
+    <ToTranslate>rinr1074</ToTranslate>
+  </String>
+  <String index="39">
+    <ToTranslate>Ринрин$"Эхе-хе... секрет!"@</ToTranslate>
+  </String>
+  <String index="40">
+    <ToTranslate>Казуто$"Ну же, не утаивай от меня самого интересного. Скажи мне."@</ToTranslate>
+  </String>
+  <String index="41">
+    <ToTranslate>tcg_cho22ia</ToTranslate>
+  </String>
+  <String index="42">
+    <ToTranslate>tcg_cho22m</ToTranslate>
+  </String>
+  <String index="43">
+    <ToTranslate>rinr1075</ToTranslate>
+  </String>
+  <String index="44">
+    <ToTranslate>Ринрин$"Секрет есть секрет!"@</ToTranslate>
+  </String>
+  <String index="45">
+    <ToTranslate>$Она выглядит такой счастливой... настолько что возможно ей просто нравится ходить в новой одежде. Ей очень идёт, так что я не стану возражать.@</ToTranslate>
+  </String>
+  <String index="46">
+    <ToTranslate>tcg_cho32ja</ToTranslate>
+  </String>
+  <String index="47">
+    <ToTranslate>tcg_cho32m</ToTranslate>
+  </String>
+  <String index="48">
+    <ToTranslate>rinr1076</ToTranslate>
+  </String>
+  <String index="49">
+    <ToTranslate>Ринрин$"Братик, ты что-то делаешь?"@</ToTranslate>
+  </String>
+  <String index="50">
+    <ToTranslate>$Она подбежала к моему столу, при этом небрежно занося подол платья.@</ToTranslate>
+  </String>
+  <String index="51">
+    <ToTranslate>Казуто$"Обычный осмотр внутриведомственных отчётов. Как прошла тренировка?"@</ToTranslate>
+  </String>
+  <String index="52">
+    <ToTranslate>tcg_cho22ia</ToTranslate>
+  </String>
+  <String index="53">
+    <ToTranslate>tcg_cho22m</ToTranslate>
+  </String>
+  <String index="54">
+    <ToTranslate>rinr1077</ToTranslate>
+  </String>
+  <String index="55">
+    <ToTranslate>Ринрин$"Наилучшим образом!"@</ToTranslate>
+  </String>
+  <String index="56">
+    <ToTranslate>$Очевидно, что она требует награды. Усмехнувшись, я провёл пальцами по её волосам и она улыбнулась в ответ.@</ToTranslate>
+  </String>
+  <String index="57">
+    <ToTranslate>tcg_cho12aa</ToTranslate>
+  </String>
+  <String index="58">
+    <ToTranslate>tcg_cho12m</ToTranslate>
+  </String>
+  <String index="59">
+    <ToTranslate>rinr1078</ToTranslate>
+  </String>
+  <String index="60">
+    <ToTranslate>Ринрин$"А ещё, Суи так же похвалила меня! Она сказала, что теперь наши армии быстрее исполняют приказы!"@</ToTranslate>
+  </String>
+  <String index="61">
+    <ToTranslate>Казуто$"Хмм... не часто же у Суи можно заслужить похвалу."@</ToTranslate>
+  </String>
+  <String index="62">
+    <ToTranslate>tcg_cho32ba</ToTranslate>
+  </String>
+  <String index="63">
+    <ToTranslate>tcg_cho32m</ToTranslate>
+  </String>
+  <String index="64">
+    <ToTranslate>rinr1079</ToTranslate>
+  </String>
+  <String index="65">
+    <ToTranslate>Ринрин$"Потому что мы постарались и смогли многому научиться!"@</ToTranslate>
+  </String>
+  <String index="66">
+    <ToTranslate>$Ринрин явно намылилась пойти погулять, я бы тоже не возражал если бы не эта гора документов жаждущих моего внимания.@</ToTranslate>
+  </String>
+  <String index="67">
+    <ToTranslate>tcg_cho22da</ToTranslate>
+  </String>
+  <String index="68">
+    <ToTranslate>tcg_cho22m</ToTranslate>
+  </String>
+  <String index="69">
+    <ToTranslate>rinr1080</ToTranslate>
+  </String>
+  <String index="70">
+    <ToTranslate>Ринрин$"М-м-м..."@</ToTranslate>
+  </String>
+  <String index="71">
+    <ToTranslate>$Моя попытка возврата к своим бумагам вызвала мгновенный вой разочарования. Всё было настолько предсказуемо, что мне приходится сдерживать смех.@</ToTranslate>
+  </String>
+  <String index="72">
+    <ToTranslate>tcg_cho32ja</ToTranslate>
+  </String>
+  <String index="73">
+    <ToTranslate>tcg_cho32m</ToTranslate>
+  </String>
+  <String index="74">
+    <ToTranslate>rinr1081</ToTranslate>
+  </String>
+  <String index="75">
+    <ToTranslate>Ринрин$"Ты сильно занят? Неужели это надолго?"@</ToTranslate>
+  </String>
+  <String index="76">
+    <ToTranslate>Казуто$"Ум... не уверен. Побудь хорошей девочкой и подожди, я скоро управлюсь."@</ToTranslate>
+  </String>
+  <String index="77">
+    <ToTranslate>tcg_cho12aa</ToTranslate>
+  </String>
+  <String index="78">
+    <ToTranslate>tcg_cho12m</ToTranslate>
+  </String>
+  <String index="79">
+    <ToTranslate>rinr1082</ToTranslate>
+  </String>
+  <String index="80">
+    <ToTranslate>Ринрин$"Хорошо, тогда Ринрин подождёт!"@</ToTranslate>
+  </String>
+  <String index="81">
+    <ToTranslate>$Её прямо тянет выйти наружу и поиграть, но всё же она с разбегу плюхается на кресло позади меня, да так что то начинает трещать.@</ToTranslate>
+  </String>
+  <String index="82">
+    <ToTranslate>tcg_cho32ba</ToTranslate>
+  </String>
+  <String index="83">
+    <ToTranslate>tcg_cho32m</ToTranslate>
+  </String>
+  <String index="84">
+    <ToTranslate>rinr1083</ToTranslate>
+  </String>
+  <String index="85">
+    <ToTranslate>Ринрин$"Если я стану разговаривать то ты не сможешь сосредоточиться, поэтому я буду вести себя тихо! Я буду сидеть очень-очень-очень тихо!!"@</ToTranslate>
+  </String>
+  <String index="86">
+    <ToTranslate>$Как по мне так это уже громко, поэтому думаю будет лучше поторопиться пока она не начала заниматься речевым рецидивом.@</ToTranslate>
+  </String>
+  <String index="87">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="88">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="89">
+    <ToTranslate>bb</ToTranslate>
+  </String>
+  <String index="90">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="91">
+    <ToTranslate>bb</ToTranslate>
+  </String>
+  <String index="92">
+    <ToTranslate>bcg_heroroom_a</ToTranslate>
+  </String>
+  <String index="93">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="94">
+    <ToTranslate>bgm03</ToTranslate>
+  </String>
+  <String index="95">
+    <ToTranslate>Казуто$"Уф... наконец то закончил."@</ToTranslate>
+  </String>
+  <String index="96">
+    <ToTranslate>$Я закончил свою рутину государственных дел примерно в полтора раза быстрее обычного, но...@</ToTranslate>
+  </String>
+  <String index="97">
+    <ToTranslate>rinr1084</ToTranslate>
+  </String>
+  <String index="98">
+    <ToTranslate>Ринрин$"Фу-у-ух... м-м-м."@</ToTranslate>
+  </String>
+  <String index="99">
+    <ToTranslate>Казуто$"Неудивительно, что здесь стало так тихо... ха-ха, совсем ведь ангелочек когда спит."@</ToTranslate>
+  </String>
+  <String index="100">
+    <ToTranslate>$Какое то время я понаблюдал за ней, и после взял её за плечо.@</ToTranslate>
+  </String>
+  <String index="101">
+    <ToTranslate>Казуто$"Спасибо что подождала меня, я закончил с работой."@</ToTranslate>
+  </String>
+  <String index="102">
+    <ToTranslate>tcg_cho32ba</ToTranslate>
+  </String>
+  <String index="103">
+    <ToTranslate>tcg_cho32m</ToTranslate>
+  </String>
+  <String index="104">
+    <ToTranslate>rinr1085</ToTranslate>
+  </String>
+  <String index="105">
+    <ToTranslate>Ринрин$"Мя...? Ура! Мои поздравления!"@</ToTranslate>
+  </String>
+  <String index="106">
+    <ToTranslate>$Сперва она показательно протёрла глаза, а вслед за тем сиганула меня прямо со своего кресла.@</ToTranslate>
+  </String>
+  <String index="107">
+    <ToTranslate>tcg_cho12aa</ToTranslate>
+  </String>
+  <String index="108">
+    <ToTranslate>tcg_cho12m</ToTranslate>
+  </String>
+  <String index="109">
+    <ToTranslate>rinr1086</ToTranslate>
+  </String>
+  <String index="110">
+    <ToTranslate>Ринрин$"Раз ты закончил, пора нам идти на улицу!"@</ToTranslate>
+  </String>
+  <String index="111">
+    <ToTranslate>$Она схватила меня за руку и потащила к двери.@</ToTranslate>
+  </String>
+  <String index="112">
+    <ToTranslate>Казуто$"Что, уже на улицу? Эм, ладно, чем хочешь заняться сегодня?"@</ToTranslate>
+  </String>
+  <String index="113">
+    <ToTranslate>tcg_cho32da</ToTranslate>
+  </String>
+  <String index="114">
+    <ToTranslate>tcg_cho32m</ToTranslate>
+  </String>
+  <String index="115">
+    <ToTranslate>rinr1087</ToTranslate>
+  </String>
+  <String index="116">
+    <ToTranslate>Ринрин$"Сегодня мы не играем! Сегодня мы патрулируем."@</ToTranslate>
+  </String>
+  <String index="117">
+    <ToTranslate>Казуто$"Патрулируем? Где?"@</ToTranslate>
+  </String>
+  <String index="118">
+    <ToTranslate>tcg_cho22ia</ToTranslate>
+  </String>
+  <String index="119">
+    <ToTranslate>tcg_cho22m</ToTranslate>
+  </String>
+  <String index="120">
+    <ToTranslate>rinr1088</ToTranslate>
+  </String>
+  <String index="121">
+    <ToTranslate>Ринрин$"Сегодня особый торговый день на рынках в городе! Идём со мной, прошу, прошу, прошу!"@</ToTranslate>
+  </String>
+  <String index="122">
+    <ToTranslate>Казуто$"Ум... особый? Ладно, почему бы нет."@</ToTranslate>
+  </String>
+  <String index="123">
+    <ToTranslate>$Я призадумался, ведь сейчас у меня не так много наличности.@</ToTranslate>
+  </String>
+  <String index="124">
+    <ToTranslate>tcg_cho12aa</ToTranslate>
+  </String>
+  <String index="125">
+    <ToTranslate>tcg_cho12m</ToTranslate>
+  </String>
+  <String index="126">
+    <ToTranslate>rinr1089</ToTranslate>
+  </String>
+  <String index="127">
+    <ToTranslate>Ринрин$"Идём! Нам лучше поторопиться, иначе мы не успеем до ужина."@</ToTranslate>
+  </String>
+  <String index="128">
+    <ToTranslate>Казуто$"Ещё ведь совсем рано."@</ToTranslate>
+  </String>
+  <String index="129">
+    <ToTranslate>tcg_cho32ba</ToTranslate>
+  </String>
+  <String index="130">
+    <ToTranslate>tcg_cho32m</ToTranslate>
+  </String>
+  <String index="131">
+    <ToTranslate>rinr1090</ToTranslate>
+  </String>
+  <String index="132">
+    <ToTranslate>Ринрин$"Да не важно, мы должны поспешить!"@</ToTranslate>
+  </String>
+  <String index="133">
+    <ToTranslate>$Я помолился чтобы в пути чрезмерный аппетит вдруг не овладел ею... но должен признать, что мне тоже по нраву её предложение.@</ToTranslate>
+  </String>
+  <String index="134">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="135">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="136">
+    <ToTranslate>aa</ToTranslate>
+  </String>
+  <String index="137">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="138">
+    <ToTranslate>aa</ToTranslate>
+  </String>
+  <String index="139">
+    <ToTranslate>bcg_town_a</ToTranslate>
+  </String>
+  <String index="140">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="141">
+    <ToTranslate>bgm08</ToTranslate>
+  </String>
+  <String index="142">
+    <ToTranslate>SE078</ToTranslate>
+  </String>
+  <String index="143">
+    <ToTranslate>$Рыночная площадь сегодня оживлённее чем обычно, здесь просто уйма народу. Кажется, будто весь город собрался в едином месте.@</ToTranslate>
+  </String>
+  <String index="144">
+    <ToTranslate>tcg_hg21ba</ToTranslate>
+  </String>
+  <String index="145">
+    <ToTranslate>tcg_hg21m</ToTranslate>
+  </String>
+  <String index="146">
+    <ToTranslate>chos0218</ToTranslate>
+  </String>
+  <String index="147">
+    <ToTranslate>Чосэн$"Опа, Господин, моя женская интуиция подсказала мне что я найду вас здесь. А вы здесь... ах, какое счастье, это всего лишь малышка Ринрин."@</ToTranslate>
+  </String>
+  <String index="148">
+    <ToTranslate>Казуто$"Женская интуиция... у тебя то!? И не смей выпрыгивать из ни откуда!"@</ToTranslate>
+  </String>
+  <String index="149">
+    <ToTranslate>tcg_hg21ca</ToTranslate>
+  </String>
+  <String index="150">
+    <ToTranslate>tcg_hg21m</ToTranslate>
+  </String>
+  <String index="151">
+    <ToTranslate>chos0219</ToTranslate>
+  </String>
+  <String index="152">
+    <ToTranslate>Чосэн$"Сперва я решил что вы вместе с иноземной принцессой. Как я ревную!"@</ToTranslate>
+  </String>
+  <String index="153">
+    <ToTranslate>Казуто$"У-у-у..."@</ToTranslate>
+  </String>
+  <String index="154">
+    <ToTranslate>$Ранее в толпе я заметил несколько знакомых лиц, и они увидят меня вместе с этим. От одной такой мысли мне уже становится плохо.@</ToTranslate>
+  </String>
+  <String index="155">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="156">
+    <ToTranslate>tcg_cho32ma</ToTranslate>
+  </String>
+  <String index="157">
+    <ToTranslate>tcg_cho32m</ToTranslate>
+  </String>
+  <String index="158">
+    <ToTranslate>rinr1091</ToTranslate>
+  </String>
+  <String index="159">
+    <ToTranslate>Ринрин$"Он принял меня за принцессу, ми-хи-хи! А у него острый глаз."@</ToTranslate>
+  </String>
+  <String index="160">
+    <ToTranslate>$Я чуть было не решился пойти домой и лечь спать, но улыбка Ринрин убедила меня остаться.@</ToTranslate>
+  </String>
+  <String index="161">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="162">
+    <ToTranslate>tcg_cho32ma</ToTranslate>
+  </String>
+  <String index="163">
+    <ToTranslate>tcg_cho32m</ToTranslate>
+  </String>
+  <String index="164">
+    <ToTranslate>tcg_koc11ba</ToTranslate>
+  </String>
+  <String index="165">
+    <ToTranslate>tcg_koc11m</ToTranslate>
+  </String>
+  <String index="166">
+    <ToTranslate>shio0267</ToTranslate>
+  </String>
+  <String index="167">
+    <ToTranslate>Сион$"Господин. Вы на обходе с Ринрин-чан? До чего же похвально."@</ToTranslate>
+  </String>
+  <String index="168">
+    <ToTranslate>$Сперва один теперь вторая... теперь уже Сион подрулила к нам в то время пока я тянул Ринрин на буксире.@</ToTranslate>
+  </String>
+  <String index="169">
+    <ToTranslate>Казуто$"О да. Сегодня мы осматриваем рынки... видать, ты здесь тоже за этим?"@</ToTranslate>
+  </String>
+  <String index="170">
+    <ToTranslate>tcg_koc11aa</ToTranslate>
+  </String>
+  <String index="171">
+    <ToTranslate>tcg_koc11m</ToTranslate>
+  </String>
+  <String index="172">
+    <ToTranslate>shio0268</ToTranslate>
+  </String>
+  <String index="173">
+    <ToTranslate>Сион$"Да."@</ToTranslate>
+  </String>
+  <String index="174">
+    <ToTranslate>$Каждый её жест переполнен соблазном, интересно, а сама она не против быть целью похотливых подглядываний окружающих.@</ToTranslate>
+  </String>
+  <String index="175">
+    <ToTranslate>tcg_cho12la</ToTranslate>
+  </String>
+  <String index="176">
+    <ToTranslate>tcg_cho12m</ToTranslate>
+  </String>
+  <String index="177">
+    <ToTranslate>rinr1092</ToTranslate>
+  </String>
+  <String index="178">
+    <ToTranslate>Ринрин$"Эй-эй, Сион! Посмотри как я сегодня одета."@</ToTranslate>
+  </String>
+  <String index="179">
+    <ToTranslate>tcg_rr11aa</ToTranslate>
+  </String>
+  <String index="180">
+    <ToTranslate>tcg_rr11m</ToTranslate>
+  </String>
+  <String index="181">
+    <ToTranslate>riri0055</ToTranslate>
+  </String>
+  <String index="182">
+    <ToTranslate>Лили$"Ого, это же платье моей мамы. Сестричка Ринрин тебе очень идёт."@</ToTranslate>
+  </String>
+  <String index="183">
+    <ToTranslate>tcg_koc11ba</ToTranslate>
+  </String>
+  <String index="184">
+    <ToTranslate>tcg_koc11m</ToTranslate>
+  </String>
+  <String index="185">
+    <ToTranslate>shio0269</ToTranslate>
+  </String>
+  <String index="186">
+    <ToTranslate>Сион$"И правда, выглядишь очаровательно."@</ToTranslate>
+  </String>
+  <String index="187">
+    <ToTranslate>tcg_cho32ma</ToTranslate>
+  </String>
+  <String index="188">
+    <ToTranslate>tcg_cho32m</ToTranslate>
+  </String>
+  <String index="189">
+    <ToTranslate>onpu</ToTranslate>
+  </String>
+  <String index="190">
+    <ToTranslate>rinr1093</ToTranslate>
+  </String>
+  <String index="191">
+    <ToTranslate>Ринрин$"Мя-ха-ха-ха-ха!"@</ToTranslate>
+  </String>
+  <String index="192">
+    <ToTranslate>$Ринрин выпятила грудь колесом и рассмеялась, а ведь принцессы делать так не должны... хотя я решил не говорить ей об этом.@</ToTranslate>
+  </String>
+  <String index="193">
+    <ToTranslate>tcg_koc31ga</ToTranslate>
+  </String>
+  <String index="194">
+    <ToTranslate>tcg_koc31m</ToTranslate>
+  </String>
+  <String index="195">
+    <ToTranslate>shio0270</ToTranslate>
+  </String>
+  <String index="196">
+    <ToTranslate>Сион$"Эхе-хе... раз уж вы пришли сюда не стоит торопиться, удачно вам провести время."@</ToTranslate>
+  </String>
+  <String index="197">
+    <ToTranslate>Казуто$"Непременно, до встречи."@</ToTranslate>
+  </String>
+  <String index="198">
+    <ToTranslate>$Её голос как был полон намёков, но я в очередной раз решил отшутится как это делал всегда.@</ToTranslate>
+  </String>
+  <String index="199">
+    <ToTranslate>tcg_cho22ia</ToTranslate>
+  </String>
+  <String index="200">
+    <ToTranslate>tcg_cho22m</ToTranslate>
+  </String>
+  <String index="201">
+    <ToTranslate>rinr1094</ToTranslate>
+  </String>
+  <String index="202">
+    <ToTranslate>Ринрин$"Они все назвали Ринрин красивой!"@</ToTranslate>
+  </String>
+  <String index="203">
+    <ToTranslate>Казуто$"Разумеется, ведь все они правы."@</ToTranslate>
+  </String>
+  <String index="204">
+    <ToTranslate>tcg_cho32ma</ToTranslate>
+  </String>
+  <String index="205">
+    <ToTranslate>tcg_cho32m</ToTranslate>
+  </String>
+  <String index="206">
+    <ToTranslate>rinr1095</ToTranslate>
+  </String>
+  <String index="207">
+    <ToTranslate>Ринрин$"Мя-ха-ха, Братик тоже считает меня красивой! Ура-а!"@</ToTranslate>
+  </String>
+  <String index="208">
+    <ToTranslate>$Мне начинает казаться что настоящая цель этой вылазки в демонстрации нового платья.@</ToTranslate>
+  </String>
+  <String index="209">
+    <ToTranslate>Житель$"О, крошка Ринрин, ты сегодня здорово выглядишь."@</ToTranslate>
+  </String>
+  <String index="210">
+    <ToTranslate>tcg_cho12la</ToTranslate>
+  </String>
+  <String index="211">
+    <ToTranslate>tcg_cho12m</ToTranslate>
+  </String>
+  <String index="212">
+    <ToTranslate>rinr1096</ToTranslate>
+  </String>
+  <String index="213">
+    <ToTranslate>Ринрин$"Скажите мне идёт?"@</ToTranslate>
+  </String>
+  <String index="214">
+    <ToTranslate>$Не обращая внимания на сам рынок, она цепляет всех прохожих готовых заговорить с ней.@</ToTranslate>
+  </String>
+  <String index="215">
+    <ToTranslate>$Уверен сейчас она очень счастлива... ну а я очень горд за неё.@</ToTranslate>
+  </String>
+  <String index="216">
+    <ToTranslate>Казуто$"Думаю мы здесь всё обошли. Есть ещё места которые ты бы хотела проверить?"@</ToTranslate>
+  </String>
+  <String index="217">
+    <ToTranslate>$Я держу её за руку, гордо шагая с ней рядом. Хочу чтобы все вокруг увидели какой она может быть милой.@</ToTranslate>
+  </String>
+  <String index="218">
+    <ToTranslate>tcg_cho22oa</ToTranslate>
+  </String>
+  <String index="219">
+    <ToTranslate>tcg_cho22m</ToTranslate>
+  </String>
+  <String index="220">
+    <ToTranslate>rinr1097</ToTranslate>
+  </String>
+  <String index="221">
+    <ToTranslate>Ринрин$"О-о-о, дайка подумаю... ну не знаю. Я не запомнила где мы уже были потому что постоянно говорила с людьми, о!"@</ToTranslate>
+  </String>
+  <String index="222">
+    <ToTranslate>Казуто$"Ум? Что...?"@</ToTranslate>
+  </String>
+  <String index="223">
+    <ToTranslate>tcg_cho12fa</ToTranslate>
+  </String>
+  <String index="224">
+    <ToTranslate>tcg_cho12m</ToTranslate>
+  </String>
+  <String index="225">
+    <ToTranslate>rinr1098</ToTranslate>
+  </String>
+  <String index="226">
+    <ToTranslate>Ринрин$"Я есть хочу."@</ToTranslate>
+  </String>
+  <String index="227">
+    <ToTranslate>$Ринрин положила обе руки на рычащий живот. Мои предсказания сбываются настолько верно, что мне снова сложно удержаться от смеха.@</ToTranslate>
+  </String>
+  <String index="228">
+    <ToTranslate>tcg_cho12aa</ToTranslate>
+  </String>
+  <String index="229">
+    <ToTranslate>tcg_cho12m</ToTranslate>
+  </String>
+  <String index="230">
+    <ToTranslate>rinr1099</ToTranslate>
+  </String>
+  <String index="231">
+    <ToTranslate>Ринрин$"Но мы ведь здесь не для чтобы есть, верно? Давай вернёмся во дворец и там и поужинаем."@</ToTranslate>
+  </String>
+  <String index="232">
+    <ToTranslate>$Рад что она не стала меня уговаривать. Солнце ужа стало садиться и мы как раз вернёмся домой к ужину.@</ToTranslate>
+  </String>
+  <String index="233">
+    <ToTranslate>Пацан А$"Ухты, Ринрин в платье!"@</ToTranslate>
+  </String>
+  <String index="234">
+    <ToTranslate>Пацан Б$"Точно-точно! И теперь совсем как девчонка!"@</ToTranslate>
+  </String>
+  <String index="235">
+    <ToTranslate>$Мы только развернулись чтобы пойти домой как до нас донеслись насмешливые голоса от местной толпы детворы.@</ToTranslate>
+  </String>
+  <String index="236">
+    <ToTranslate>tcg_cho22ia</ToTranslate>
+  </String>
+  <String index="237">
+    <ToTranslate>tcg_cho22m</ToTranslate>
+  </String>
+  <String index="238">
+    <ToTranslate>rinr1100</ToTranslate>
+  </String>
+  <String index="239">
+    <ToTranslate>Ринрин$"Мя-ха-ха. А всё потому что Ринрин девушка!"@</ToTranslate>
+  </String>
+  <String index="240">
+    <ToTranslate>Пацан А$"Та быть не может, ни одна девчонка не может драться как ты, Ринрин."@</ToTranslate>
+  </String>
+  <String index="241">
+    <ToTranslate>tcg_cho22da</ToTranslate>
+  </String>
+  <String index="242">
+    <ToTranslate>tcg_cho22m</ToTranslate>
+  </String>
+  <String index="243">
+    <ToTranslate>rinr1101</ToTranslate>
+  </String>
+  <String index="244">
+    <ToTranslate>Ринрин$"Ещё как могут! Я ведь умею!"@</ToTranslate>
+  </String>
+  <String index="245">
+    <ToTranslate>Пацан В$"Нас таким не обманешь, ты переодетый пацан."@</ToTranslate>
+  </String>
+  <String index="246">
+    <ToTranslate>tcg_cho12ea</ToTranslate>
+  </String>
+  <String index="247">
+    <ToTranslate>tcg_cho12m</ToTranslate>
+  </String>
+  <String index="248">
+    <ToTranslate>rinr1102</ToTranslate>
+  </String>
+  <String index="249">
+    <ToTranslate>Ринрин$"Ну я вас!"@</ToTranslate>
+  </String>
+  <String index="250">
+    <ToTranslate>Пацан А$"Аха-ха-ха, ня, ня-а, пацан-пацан!"@</ToTranslate>
+  </String>
+  <String index="251">
+    <ToTranslate>$Ринрин сжала кулак, этого уже было достаточно чтобы мальчишки разбежались от ужаса.@</ToTranslate>
+  </String>
+  <String index="252">
+    <ToTranslate>$Я прекрасно понимаю когда мальчишки дразнят девчонок которые им нравятся. Так что остаётся только простить им.@</ToTranslate>
+  </String>
+  <String index="253">
+    <ToTranslate>tcg_cho32ia</ToTranslate>
+  </String>
+  <String index="254">
+    <ToTranslate>tcg_cho32m</ToTranslate>
+  </String>
+  <String index="255">
+    <ToTranslate>rinr1103</ToTranslate>
+  </String>
+  <String index="256">
+    <ToTranslate>Ринрин$"Они просто не понимают моей красоты, совсем ещё дети."@</ToTranslate>
+  </String>
+  <String index="257">
+    <ToTranslate>$За то что она сдержалась и не дала волю гневу я решил, что стоит погладить её.@</ToTranslate>
+  </String>
+  <String index="258">
+    <ToTranslate>Казуто$"Наверное они тебя частенько дразнят, да?"@</ToTranslate>
+  </String>
+  <String index="259">
+    <ToTranslate>tcg_cho32oa</ToTranslate>
+  </String>
+  <String index="260">
+    <ToTranslate>tcg_cho32m</ToTranslate>
+  </String>
+  <String index="261">
+    <ToTranslate>rinr1104</ToTranslate>
+  </String>
+  <String index="262">
+    <ToTranslate>Ринрин$"Я не обращаю внимания! Мне всё равно что Чосэн, Лили или Сион назвали меня красивой, и всё равно чего смеялись эти мальчишки!"@</ToTranslate>
+  </String>
+  <String index="263">
+    <ToTranslate>Казуто$"Хм?"@</ToTranslate>
+  </String>
+  <String index="264">
+    <ToTranslate>tcg_cho12la</ToTranslate>
+  </String>
+  <String index="265">
+    <ToTranslate>tcg_cho12m</ToTranslate>
+  </String>
+  <String index="266">
+    <ToTranslate>rinr1105</ToTranslate>
+  </String>
+  <String index="267">
+    <ToTranslate>Ринрин$"Мне нравится это платье потому что Братик сказал что Ринрин в нём очень красива!"@</ToTranslate>
+  </String>
+  <String index="268">
+    <ToTranslate>$Внезапный комент выбил меня из строя и я отвёл взгляд куда-то в сторону.@</ToTranslate>
+  </String>
+  <String index="269">
+    <ToTranslate>tcg_cho32ma</ToTranslate>
+  </String>
+  <String index="270">
+    <ToTranslate>tcg_cho32m</ToTranslate>
+  </String>
+  <String index="271">
+    <ToTranslate>rinr1106</ToTranslate>
+  </String>
+  <String index="272">
+    <ToTranslate>Ринрин$"Если Братик говорит что ему нравится платье Ринрин то я всегда буду носить его когда буду рядом с тобой!"@</ToTranslate>
+  </String>
+  <String index="273">
+    <ToTranslate>Казуто$"Вот как."@</ToTranslate>
+  </String>
+  <String index="274">
+    <ToTranslate>tcg_cho22ia</ToTranslate>
+  </String>
+  <String index="275">
+    <ToTranslate>tcg_cho22m</ToTranslate>
+  </String>
+  <String index="276">
+    <ToTranslate>rinr1107</ToTranslate>
+  </String>
+  <String index="277">
+    <ToTranslate>Ринрин$"И тогда все вокруг скажут что я красивая, что доставляет мне удовольствие."@</ToTranslate>
+  </String>
+  <String index="278">
+    <ToTranslate>$Всё же вот зачем она одела его на сегодня.@</ToTranslate>
+  </String>
+  <String index="279">
+    <ToTranslate>tcg_cho12la</ToTranslate>
+  </String>
+  <String index="280">
+    <ToTranslate>tcg_cho12m</ToTranslate>
+  </String>
+  <String index="281">
+    <ToTranslate>rinr1108</ToTranslate>
+  </String>
+  <String index="282">
+    <ToTranslate>Ринрин$"Ведь Братику тоже нравится когда Ринрин носит платье!"@</ToTranslate>
+  </String>
+  <String index="283">
+    <ToTranslate>Казуто$"... да, я прямо счастлив."@</ToTranslate>
+  </String>
+  <String index="284">
+    <ToTranslate>$Значит она стремится стать более женственной чтобы понравится мне.@</ToTranslate>
+  </String>
+  <String index="285">
+    <ToTranslate>tcg_cho32ma</ToTranslate>
+  </String>
+  <String index="286">
+    <ToTranslate>tcg_cho32m</ToTranslate>
+  </String>
+  <String index="287">
+    <ToTranslate>rinr1109</ToTranslate>
+  </String>
+  <String index="288">
+    <ToTranslate>Ринрин$"Эхе-хе-хе."@</ToTranslate>
+  </String>
+  <String index="289">
+    <ToTranslate>$Чтобы быть женственнее она так старается, и всё это ради меня.@</ToTranslate>
+  </String>
+  <String index="290">
+    <ToTranslate>tcg_cho22ia</ToTranslate>
+  </String>
+  <String index="291">
+    <ToTranslate>tcg_cho22m</ToTranslate>
+  </String>
+  <String index="292">
+    <ToTranslate>rinr1110</ToTranslate>
+  </String>
+  <String index="293">
+    <ToTranslate>Ринрин$"Я хочу попросить Сион выделить мне ещё несколько платьев! Хе-хе, надеюсь она что-то найдёт!"@</ToTranslate>
+  </String>
+  <String index="294">
+    <ToTranslate>Казуто$"...жду с нетерпеньем. Возможно, я тоже поговорю с Сион..."@</ToTranslate>
+  </String>
+  <String index="295">
+    <ToTranslate>$Я держу её руку пока мы идём дорогой назад, и всё это время странное беспокойство терзает меня, мои ладони потеют.@</ToTranslate>
+  </String>
+  <String index="296">
+    <ToTranslate>tcg_cho12la</ToTranslate>
+  </String>
+  <String index="297">
+    <ToTranslate>tcg_cho12m</ToTranslate>
+  </String>
+  <String index="298">
+    <ToTranslate>rinr1111</ToTranslate>
+  </String>
+  <String index="299">
+    <ToTranslate>Ринрин$"Скоро Ринрин станет ещё красивее! Братик, надеюсь они тебе тоже понравятся!"@</ToTranslate>
+  </String>
+  <String index="300">
+    <ToTranslate>$Весь путь назад моя голова была забита мыслями о Ринрин. Сердцебиение ускорилось, но не скажу что мне что был против этого чувства.@</ToTranslate>
+  </String>
+  <String index="301">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="302">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="303">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+</DBS>
+</poem>

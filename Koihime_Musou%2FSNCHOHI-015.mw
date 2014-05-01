@@ -1,0 +1,4067 @@
+<poem>
+<?xml version="1.0" encoding="UTF-8"?>
+<DBS>
+  <String index="0">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="1">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="2">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="3">
+    <ToTranslate>bgm15</ToTranslate>
+  </String>
+  <String index="4">
+    <ToTranslate>rinr1441</ToTranslate>
+  </String>
+  <String index="5">
+    <ToTranslate>Rinrin$&quot;Onii-chaaaaaan!!&quot;@</ToTranslate>
+  </String>
+  <String index="6">
+    <ToTranslate>SE004</ToTranslate>
+  </String>
+  <String index="7">
+    <ToTranslate>m_yure_t</ToTranslate>
+  </String>
+  <String index="8">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="9">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="10">
+    <ToTranslate>bcg_heroroom_a</ToTranslate>
+  </String>
+  <String index="11">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="12">
+    <ToTranslate>Kazuto$&quot;Kwah!? A... a meteorite...?!&quot;@</ToTranslate>
+  </String>
+  <String index="13">
+    <ToTranslate>tcg_cho21ja</ToTranslate>
+  </String>
+  <String index="14">
+    <ToTranslate>tcg_cho21m</ToTranslate>
+  </String>
+  <String index="15">
+    <ToTranslate>rinr1442</ToTranslate>
+  </String>
+  <String index="16">
+    <ToTranslate>Rinrin$&quot;What&apos;s a meaty-or-right? It&apos;s Rinrin! Morning, Onii-chan! Nyafu, *rub, rub, rub*.&quot;@</ToTranslate>
+  </String>
+  <String index="17">
+    <ToTranslate>Kazuto$&quot;... good morning, *cough*.&quot;@</ToTranslate>
+  </String>
+  <String index="18">
+    <ToTranslate>$My stomach protested, having taken the full force of Rinrin&apos;s seventy pounds. She straddled my abdomen, pounding on my chest with both hands.@</ToTranslate>
+  </String>
+  <String index="19">
+    <ToTranslate>tcg_cho21ia</ToTranslate>
+  </String>
+  <String index="20">
+    <ToTranslate>tcg_cho21m</ToTranslate>
+  </String>
+  <String index="21">
+    <ToTranslate>rinr1443</ToTranslate>
+  </String>
+  <String index="22">
+    <ToTranslate>Rinrin$&quot;Nyahaha, don&apos;t be lazy. Hurry up and get up already.&quot;@</ToTranslate>
+  </String>
+  <String index="23">
+    <ToTranslate>$She didn&apos;t mean any harm, of course... I poked her smiling cheek with my finger as a small means of payback and sat up.@</ToTranslate>
+  </String>
+  <String index="24">
+    <ToTranslate>Kazuto$&quot;Whew... you scared me. What&apos;s going on? You don&apos;t usually come to wake me up.&quot;@</ToTranslate>
+  </String>
+  <String index="25">
+    <ToTranslate>tcg_cho21ja</ToTranslate>
+  </String>
+  <String index="26">
+    <ToTranslate>tcg_cho21m</ToTranslate>
+  </String>
+  <String index="27">
+    <ToTranslate>rinr1444</ToTranslate>
+  </String>
+  <String index="28">
+    <ToTranslate>Rinrin$&quot;You aren&apos;t quite awake yet... *rub, rub*.&quot;@</ToTranslate>
+  </String>
+  <String index="29">
+    <ToTranslate>Kazuto$&quot;Gwah, seriously, what&apos;s going on!?&quot;@</ToTranslate>
+  </String>
+  <String index="30">
+    <ToTranslate>$Rinrin apparently wanted to wake me up so fast that she was rubbing my eyes for me. I pulled away from the unwelcome pressure on my eyelids.@</ToTranslate>
+  </String>
+  <String index="31">
+    <ToTranslate>tcg_cho11aa</ToTranslate>
+  </String>
+  <String index="32">
+    <ToTranslate>tcg_cho11m</ToTranslate>
+  </String>
+  <String index="33">
+    <ToTranslate>rinr1445</ToTranslate>
+  </String>
+  <String index="34">
+    <ToTranslate>Rinrin$&quot;Rinrin got the day off! So you gotta eat your breakfast and get ready so we can go out and play!&quot;@</ToTranslate>
+  </String>
+  <String index="35">
+    <ToTranslate>Kazuto$&quot;A day off?&quot;@</ToTranslate>
+  </String>
+  <String index="36">
+    <ToTranslate>$She nodded and started shaking me, begging with all her might.@</ToTranslate>
+  </String>
+  <String index="37">
+    <ToTranslate>Kazuto$&quot;Is that why you&apos;re so full of energy... I wish I could go with you, but I have my own work.&quot;@</ToTranslate>
+  </String>
+  <String index="38">
+    <ToTranslate>tcg_cho21da</ToTranslate>
+  </String>
+  <String index="39">
+    <ToTranslate>tcg_cho21m</ToTranslate>
+  </String>
+  <String index="40">
+    <ToTranslate>rinr1446</ToTranslate>
+  </String>
+  <String index="41">
+    <ToTranslate>Rinrin$&quot;Boo, forget about your work!&quot;@</ToTranslate>
+  </String>
+  <String index="42">
+    <ToTranslate>Kazuto$&quot;I can&apos;t do that! I wish I could... but if Aisha finds out I went out without doing my job, she&apos;ll kill me.&quot;@</ToTranslate>
+  </String>
+  <String index="43">
+    <ToTranslate>tcg_cho31ba</ToTranslate>
+  </String>
+  <String index="44">
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="45">
+    <ToTranslate>rinr1447</ToTranslate>
+  </String>
+  <String index="46">
+    <ToTranslate>Rinrin$&quot;Ahahahaha! Aisha won&apos;t kill you, Onii-chan.&quot;@</ToTranslate>
+  </String>
+  <String index="47">
+    <ToTranslate>Kazuto$&quot;Well... not literally, I guess. It&apos;s not like she&apos;ll be chasing after me with the Green Dragon Crescent Blade.&quot;@</ToTranslate>
+  </String>
+  <String index="48">
+    <ToTranslate>$The image forced it&apos;s way into my mind and suddenly, any thoughts of sleep were far, far away. I let out a plaintive sigh.@</ToTranslate>
+  </String>
+  <String index="49">
+    <ToTranslate>Kazuto$&quot;She&apos;s always been kind of inflexible but... lately she&apos;s just been so hypercritical. It feels like she finds fault in everything I do.&quot;@</ToTranslate>
+  </String>
+  <String index="50">
+    <ToTranslate>tcg_cho21ja</ToTranslate>
+  </String>
+  <String index="51">
+    <ToTranslate>tcg_cho21m</ToTranslate>
+  </String>
+  <String index="52">
+    <ToTranslate>rinr1448</ToTranslate>
+  </String>
+  <String index="53">
+    <ToTranslate>Rinrin$&quot;Nnyah, really?&quot;@</ToTranslate>
+  </String>
+  <String index="54">
+    <ToTranslate>Kazuto$&quot;Yeah, she&apos;s been really unsociable. I just wish she could show some gratitude, say a kind word to me now and then.&quot;@</ToTranslate>
+  </String>
+  <String index="55">
+    <ToTranslate>$I grabbed Rinrin&apos;s hips and moved her to the side. Unlike her, I&apos;d be spending a miserable day at my desk with a pile of paperwork...@</ToTranslate>
+  </String>
+  <String index="56">
+    <ToTranslate>aisy1421</ToTranslate>
+  </String>
+  <String index="57">
+    <ToTranslate>Aisha$&quot;I apologize that my behavior has caused you to be so bereft, My Lord.&quot;@</ToTranslate>
+  </String>
+  <String index="58">
+    <ToTranslate>Kazuto$&quot;Huh...!?&quot;@</ToTranslate>
+  </String>
+  <String index="59">
+    <ToTranslate>$My second sigh caught in my throat.@</ToTranslate>
+  </String>
+  <String index="60">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="61">
+    <ToTranslate>tcg_kan31ha</ToTranslate>
+  </String>
+  <String index="62">
+    <ToTranslate>tcg_kan31m</ToTranslate>
+  </String>
+  <String index="63">
+    <ToTranslate>tcg_cho21ja</ToTranslate>
+  </String>
+  <String index="64">
+    <ToTranslate>tcg_cho21m</ToTranslate>
+  </String>
+  <String index="65">
+    <ToTranslate>bgm02</ToTranslate>
+  </String>
+  <String index="66">
+    <ToTranslate>aisy1422</ToTranslate>
+  </String>
+  <String index="67">
+    <ToTranslate>Aisha$&quot;Inflexibility is a trait I was born with. I simply can not change it overnight.&quot;@</ToTranslate>
+  </String>
+  <String index="68">
+    <ToTranslate>$Aisha had been hiding in the blind spot behind Rinrin! She glared at me, her mouth drawn into a thin line.@</ToTranslate>
+  </String>
+  <String index="69">
+    <ToTranslate>Kazuto$&quot;I didn&apos;t realize you were both here, uh, er... to what do I owe the honor?&quot;@</ToTranslate>
+  </String>
+  <String index="70">
+    <ToTranslate>tcg_kan11ea</ToTranslate>
+  </String>
+  <String index="71">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="72">
+    <ToTranslate>aisy1423</ToTranslate>
+  </String>
+  <String index="73">
+    <ToTranslate>Aisha$&quot;Nothing in particular. Rinrin has been begging me to let you escort her into the city.&quot;@</ToTranslate>
+  </String>
+  <String index="74">
+    <ToTranslate>Kazuto$&quot;Eh, ahh...? Well.&quot;@</ToTranslate>
+  </String>
+  <String index="75">
+    <ToTranslate>tcg_kan31ha</ToTranslate>
+  </String>
+  <String index="76">
+    <ToTranslate>tcg_kan31m</ToTranslate>
+  </String>
+  <String index="77">
+    <ToTranslate>aisy1424</ToTranslate>
+  </String>
+  <String index="78">
+    <ToTranslate>Aisha$&quot;I was thinking I might put my inflexibility aside just this once and take over your work while you two went out. However...&quot;@</ToTranslate>
+  </String>
+  <String index="79">
+    <ToTranslate>Kazuto$&quot;Eh? Really?&quot;@</ToTranslate>
+  </String>
+  <String index="80">
+    <ToTranslate>aisy1425</ToTranslate>
+  </String>
+  <String index="81">
+    <ToTranslate>Aisha$&quot;... since you seem so dedicated to your duty, My Lord, I will simply take my leave.&quot;@</ToTranslate>
+  </String>
+  <String index="82">
+    <ToTranslate>Kazuto$&quot;W-wait, I&apos;m sorry, don&apos;t go! I was just being thoughtless! I didn&apos;t really mean it! Please forgive me!!&quot;@</ToTranslate>
+  </String>
+  <String index="83">
+    <ToTranslate>tcg_kan11ea</ToTranslate>
+  </String>
+  <String index="84">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="85">
+    <ToTranslate>aisy1426</ToTranslate>
+  </String>
+  <String index="86">
+    <ToTranslate>Aisha$&quot;But everything is as you said it, My Lord. I can not accept your apology.&quot;@</ToTranslate>
+  </String>
+  <String index="87">
+    <ToTranslate>Kazuto$&quot;I said I&apos;m sorry!&quot;@</ToTranslate>
+  </String>
+  <String index="88">
+    <ToTranslate>tcg_cho31ga</ToTranslate>
+  </String>
+  <String index="89">
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="90">
+    <ToTranslate>rinr1449</ToTranslate>
+  </String>
+  <String index="91">
+    <ToTranslate>Rinrin$&quot;Nyahaha, Aisha is mad.&quot;@</ToTranslate>
+  </String>
+  <String index="92">
+    <ToTranslate>$I didn&apos;t think it was a laughing matter, but Aisha did stop. I got down on my knees, clasping my hands together in apology.@</ToTranslate>
+  </String>
+  <String index="93">
+    <ToTranslate>Kazuto$&quot;I&apos;m grateful for everything you do! I wouldn&apos;t be here if it weren&apos;t for you, so I&apos;m begging you, please forgive me!&quot;@</ToTranslate>
+  </String>
+  <String index="94">
+    <ToTranslate>tcg_kan31ga</ToTranslate>
+  </String>
+  <String index="95">
+    <ToTranslate>tcg_kan31m</ToTranslate>
+  </String>
+  <String index="96">
+    <ToTranslate>aisy1427</ToTranslate>
+  </String>
+  <String index="97">
+    <ToTranslate>Aisha$&quot;You&apos;re desperate, aren&apos;t you? You&apos;re making me look like a villain.&quot;@</ToTranslate>
+  </String>
+  <String index="98">
+    <ToTranslate>tcg_cho21da</ToTranslate>
+  </String>
+  <String index="99">
+    <ToTranslate>tcg_cho21m</ToTranslate>
+  </String>
+  <String index="100">
+    <ToTranslate>rinr1450</ToTranslate>
+  </String>
+  <String index="101">
+    <ToTranslate>Rinrin$&quot;Aisha...&quot;@</ToTranslate>
+  </String>
+  <String index="102">
+    <ToTranslate>tcg_kan31ka</ToTranslate>
+  </String>
+  <String index="103">
+    <ToTranslate>tcg_kan31m</ToTranslate>
+  </String>
+  <String index="104">
+    <ToTranslate>aisy1428</ToTranslate>
+  </String>
+  <String index="105">
+    <ToTranslate>Aisha$&quot;All right, fine. I did promise after all.&quot;@</ToTranslate>
+  </String>
+  <String index="106">
+    <ToTranslate>$Apparently, that was more important than my apology. Rinrin slipped off of my bed, and pulled at Aisha&apos;s sleeves. The latter shook her head.@</ToTranslate>
+  </String>
+  <String index="107">
+    <ToTranslate>tcg_kan31ha</ToTranslate>
+  </String>
+  <String index="108">
+    <ToTranslate>tcg_kan31m</ToTranslate>
+  </String>
+  <String index="109">
+    <ToTranslate>aisy1429</ToTranslate>
+  </String>
+  <String index="110">
+    <ToTranslate>Aisha$&quot;I shouldn&apos;t be putting myself out for you after what you said, but... after all, I am your vassal.&quot;@</ToTranslate>
+  </String>
+  <String index="111">
+    <ToTranslate>tcg_kan11ea</ToTranslate>
+  </String>
+  <String index="112">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="113">
+    <ToTranslate>aisy1430</ToTranslate>
+  </String>
+  <String index="114">
+    <ToTranslate>Aisha$&quot;If My Lord insists, I will obey.&quot;@</ToTranslate>
+  </String>
+  <String index="115">
+    <ToTranslate>Kazuto$&quot;Eh, s-so then...?&quot;@</ToTranslate>
+  </String>
+  <String index="116">
+    <ToTranslate>$Her voice was heavy with sarcasm, but I cast Rinrin a glance... and said it.@</ToTranslate>
+  </String>
+  <String index="117">
+    <ToTranslate>Kazuto$&quot;I insist.&quot;@</ToTranslate>
+  </String>
+  <String index="118">
+    <ToTranslate>tcg_kan11aa</ToTranslate>
+  </String>
+  <String index="119">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="120">
+    <ToTranslate>aisy1431</ToTranslate>
+  </String>
+  <String index="121">
+    <ToTranslate>Aisha$&quot;I understand. Then I will be so presumptuous as to take over My Lord&apos;s duties for this day.&quot;@</ToTranslate>
+  </String>
+  <String index="122">
+    <ToTranslate>tcg_cho31ba</ToTranslate>
+  </String>
+  <String index="123">
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="124">
+    <ToTranslate>rinr1451</ToTranslate>
+  </String>
+  <String index="125">
+    <ToTranslate>Rinrin$&quot;Nyah! I&apos;m glad.&quot;@</ToTranslate>
+  </String>
+  <String index="126">
+    <ToTranslate>$I didn&apos;t know if it was appropriate to sigh in relief... Rinrin clapped, but I could only muster a strained smile in response.@</ToTranslate>
+  </String>
+  <String index="127">
+    <ToTranslate>Kazuto$&quot;I&apos;m really sorry to make you work while I go out to play.&quot;@</ToTranslate>
+  </String>
+  <String index="128">
+    <ToTranslate>tcg_kan21ba</ToTranslate>
+  </String>
+  <String index="129">
+    <ToTranslate>tcg_kan21m</ToTranslate>
+  </String>
+  <String index="130">
+    <ToTranslate>aisy1432</ToTranslate>
+  </String>
+  <String index="131">
+    <ToTranslate>Aisha$&quot;I don&apos;t mind. Please understand that those items that need your direct approval will still have to be dealt with, even if it takes you all night.&quot;@</ToTranslate>
+  </String>
+  <String index="132">
+    <ToTranslate>Kazuto$&quot;Uh... right.&quot;@</ToTranslate>
+  </String>
+  <String index="133">
+    <ToTranslate>$She really was gonna hold it against me. I cursed my thoughtless remarks.@</ToTranslate>
+  </String>
+  <String index="134">
+    <ToTranslate>tcg_cho11aa</ToTranslate>
+  </String>
+  <String index="135">
+    <ToTranslate>tcg_cho11m</ToTranslate>
+  </String>
+  <String index="136">
+    <ToTranslate>rinr1452</ToTranslate>
+  </String>
+  <String index="137">
+    <ToTranslate>Rinrin$&quot;Good luck, Aisha! So you get to be with Rinrin all day, Onii-chan! And we can have breakfast together, &apos;cause I&apos;m starving!&quot;@</ToTranslate>
+  </String>
+  <String index="138">
+    <ToTranslate>Kazuto$&quot;That&apos;s fine but... why are you letting us do this, Aisha?&quot;@</ToTranslate>
+  </String>
+  <String index="139">
+    <ToTranslate>tcg_kan31ha</ToTranslate>
+  </String>
+  <String index="140">
+    <ToTranslate>tcg_kan31m</ToTranslate>
+  </String>
+  <String index="141">
+    <ToTranslate>aisy1433</ToTranslate>
+  </String>
+  <String index="142">
+    <ToTranslate>Aisha$&quot;Are you suggesting that this is an unusual offer for someone as inflexible and hypercritical as I?&quot;@</ToTranslate>
+  </String>
+  <String index="143">
+    <ToTranslate>Kazuto$&quot;What!? Uh... no, that&apos;s not what I meant, I was just wondering why Rinrin got the day off.&quot;@</ToTranslate>
+  </String>
+  <String index="144">
+    <ToTranslate>tcg_cho21ia</ToTranslate>
+  </String>
+  <String index="145">
+    <ToTranslate>tcg_cho21m</ToTranslate>
+  </String>
+  <String index="146">
+    <ToTranslate>rinr1453</ToTranslate>
+  </String>
+  <String index="147">
+    <ToTranslate>Rinrin$&quot;Mm!&quot;@</ToTranslate>
+  </String>
+  <String index="148">
+    <ToTranslate>$My question had a reconciliatory tone. Rinrin jumped back on the bed, begging me to rub her head.@</ToTranslate>
+  </String>
+  <String index="149">
+    <ToTranslate>tcg_kan21aa</ToTranslate>
+  </String>
+  <String index="150">
+    <ToTranslate>tcg_kan21m</ToTranslate>
+  </String>
+  <String index="151">
+    <ToTranslate>aisy1434</ToTranslate>
+  </String>
+  <String index="152">
+    <ToTranslate>Aisha$&quot;I consider myself her big sister. I do my best to make her wishes come true as much as possible.&quot;@</ToTranslate>
+  </String>
+  <String index="153">
+    <ToTranslate>Kazuto$&quot;Since when do you spoil her like that...?&quot;@</ToTranslate>
+  </String>
+  <String index="154">
+    <ToTranslate>$There was my big fat mouth again! Aisha knitted her eyebrows...@</ToTranslate>
+  </String>
+  <String index="155">
+    <ToTranslate>tcg_kan11ea</ToTranslate>
+  </String>
+  <String index="156">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="157">
+    <ToTranslate>aisy1435</ToTranslate>
+  </String>
+  <String index="158">
+    <ToTranslate>Aisha$&quot;I don&apos;t do this all the time. Today is a special day...&quot;@</ToTranslate>
+  </String>
+  <String index="159">
+    <ToTranslate>Kazuto$&quot;A special day?&quot;@</ToTranslate>
+  </String>
+  <String index="160">
+    <ToTranslate>tcg_cho31ba</ToTranslate>
+  </String>
+  <String index="161">
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="162">
+    <ToTranslate>bgm08</ToTranslate>
+  </String>
+  <String index="163">
+    <ToTranslate>rinr1454</ToTranslate>
+  </String>
+  <String index="164">
+    <ToTranslate>Rinrin$&quot;Yeah, today is Rinrin&apos;s birthday!&quot;@</ToTranslate>
+  </String>
+  <String index="165">
+    <ToTranslate>Kazuto$&quot;Huh? Really?&quot;@</ToTranslate>
+  </String>
+  <String index="166">
+    <ToTranslate>tcg_cho11aa</ToTranslate>
+  </String>
+  <String index="167">
+    <ToTranslate>tcg_cho11m</ToTranslate>
+  </String>
+  <String index="168">
+    <ToTranslate>rinr1455</ToTranslate>
+  </String>
+  <String index="169">
+    <ToTranslate>Rinrin$&quot;Yeah!&quot;@</ToTranslate>
+  </String>
+  <String index="170">
+    <ToTranslate>$Rinrin&apos;s smile shone like the morning sun. She gave my arm a final pull to get me out of bed.@</ToTranslate>
+  </String>
+  <String index="171">
+    <ToTranslate>tcg_kan11aa</ToTranslate>
+  </String>
+  <String index="172">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="173">
+    <ToTranslate>aisy1436</ToTranslate>
+  </String>
+  <String index="174">
+    <ToTranslate>Aisha$&quot;This is the least I can do for her. Please do not spoil her too much.&quot;@</ToTranslate>
+  </String>
+  <String index="175">
+    <ToTranslate>tcg_cho31ia</ToTranslate>
+  </String>
+  <String index="176">
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="177">
+    <ToTranslate>rinr1456</ToTranslate>
+  </String>
+  <String index="178">
+    <ToTranslate>Rinrin$&quot;It&apos;s Rinrin&apos;s birthday, I deserve to be spoiled!&quot;@</ToTranslate>
+  </String>
+  <String index="179">
+    <ToTranslate>tcg_kan21aa</ToTranslate>
+  </String>
+  <String index="180">
+    <ToTranslate>tcg_kan21m</ToTranslate>
+  </String>
+  <String index="181">
+    <ToTranslate>aisy1437</ToTranslate>
+  </String>
+  <String index="182">
+    <ToTranslate>Aisha$&quot;Don&apos;t be too wild, I don&apos;t want you to get hurt.&quot;@</ToTranslate>
+  </String>
+  <String index="183">
+    <ToTranslate>$Despite the harsh words, her gaze was gentle. Deep down, she really did see Rinrin as a little sister.@</ToTranslate>
+  </String>
+  <String index="184">
+    <ToTranslate>$She wanted Rinrin to have a good birthday... I watched the exchange, and smiled.@</ToTranslate>
+  </String>
+  <String index="185">
+    <ToTranslate>Kazuto$&quot;Heh, I&apos;m pretty lucky. Your request means I get the day off too.&quot;@</ToTranslate>
+  </String>
+  <String index="186">
+    <ToTranslate>tcg_cho31ma</ToTranslate>
+  </String>
+  <String index="187">
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="188">
+    <ToTranslate>rinr1457</ToTranslate>
+  </String>
+  <String index="189">
+    <ToTranslate>Rinrin$&quot;Nuh-uh, this isn&apos;t a day off, your job is to date Rinrin!&quot;@</ToTranslate>
+  </String>
+  <String index="190">
+    <ToTranslate>Kazuto$&quot;Haha, got it, leave it to me.&quot;@</ToTranslate>
+  </String>
+  <String index="191">
+    <ToTranslate>tcg_cho11la</ToTranslate>
+  </String>
+  <String index="192">
+    <ToTranslate>tcg_cho11m</ToTranslate>
+  </String>
+  <String index="193">
+    <ToTranslate>onpu</ToTranslate>
+  </String>
+  <String index="194">
+    <ToTranslate>rinr1458</ToTranslate>
+  </String>
+  <String index="195">
+    <ToTranslate>Rinrin$&quot;Sure! Yeah, let&apos;s hurry.&quot;@</ToTranslate>
+  </String>
+  <String index="196">
+    <ToTranslate>Kazuto$&quot;Woah, don&apos;t pull so hard. The date&apos;s not going anywhere.&quot;@</ToTranslate>
+  </String>
+  <String index="197">
+    <ToTranslate>tcg_cho21da</ToTranslate>
+  </String>
+  <String index="198">
+    <ToTranslate>tcg_cho21m</ToTranslate>
+  </String>
+  <String index="199">
+    <ToTranslate>rinr1459</ToTranslate>
+  </String>
+  <String index="200">
+    <ToTranslate>Rinrin$&quot;That doesn&apos;t make any sense!&quot;@</ToTranslate>
+  </String>
+  <String index="201">
+    <ToTranslate>$Was she even going to let me change? She was pulling me so hard I nearly tripped. I tried to calm her down.@</ToTranslate>
+  </String>
+  <String index="202">
+    <ToTranslate>Kazuto$&quot;Okay, thanks for taking care of the rest. If you need anything, please ask Shuri.&quot;@</ToTranslate>
+  </String>
+  <String index="203">
+    <ToTranslate>tcg_kan11aa</ToTranslate>
+  </String>
+  <String index="204">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="205">
+    <ToTranslate>aisy1438</ToTranslate>
+  </String>
+  <String index="206">
+    <ToTranslate>Aisha$&quot;Yes, have a nice day off.&quot;@</ToTranslate>
+  </String>
+  <String index="207">
+    <ToTranslate>$It was time to put the anxiety about Aisha out of my mind and focus wholeheartedly on Rinrin&apos;s birthday celebration.@</ToTranslate>
+  </String>
+  <String index="208">
+    <ToTranslate>$It seemed simple enough... I would just shower her with all the love I felt in my heart.@</ToTranslate>
+  </String>
+  <String index="209">
+    <ToTranslate>tcg_cho21ia</ToTranslate>
+  </String>
+  <String index="210">
+    <ToTranslate>tcg_cho21m</ToTranslate>
+  </String>
+  <String index="211">
+    <ToTranslate>rinr1460</ToTranslate>
+  </String>
+  <String index="212">
+    <ToTranslate>Rinrin$&quot;Today&apos;s gonna be sooo fun! Nyahhaha, I better fill up now!&quot;@</ToTranslate>
+  </String>
+  <String index="213">
+    <ToTranslate>$Those tender feelings welled up in me so strongly I was going to burst open.@</ToTranslate>
+  </String>
+  <String index="214">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="215">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="216">
+    <ToTranslate>bb</ToTranslate>
+  </String>
+  <String index="217">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="218">
+    <ToTranslate>bb</ToTranslate>
+  </String>
+  <String index="219">
+    <ToTranslate>bcg_castgurden_a</ToTranslate>
+  </String>
+  <String index="220">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="221">
+    <ToTranslate>bgm04</ToTranslate>
+  </String>
+  <String index="222">
+    <ToTranslate>$We briefly serperated after breakfast. We each had to get dressed before meeting in the courtyard... at least, that was the plan...@</ToTranslate>
+  </String>
+  <String index="223">
+    <ToTranslate>tcg_cho32da</ToTranslate>
+  </String>
+  <String index="224">
+    <ToTranslate>tcg_cho32m</ToTranslate>
+  </String>
+  <String index="225">
+    <ToTranslate>rinr1461</ToTranslate>
+  </String>
+  <String index="226">
+    <ToTranslate>Rinrin$&quot;Hey, you&apos;re late, Onii-chan!&quot;@</ToTranslate>
+  </String>
+  <String index="227">
+    <ToTranslate>Kazuto$&quot;No, you&apos;re too early.&quot;@</ToTranslate>
+  </String>
+  <String index="228">
+    <ToTranslate>$I was baffled by how quickly she&apos;d gotten ready. Didn&apos;t girls usually take longer on these things?@</ToTranslate>
+  </String>
+  <String index="229">
+    <ToTranslate>Kazuto$&quot;Oh? You&apos;re dressed like a princess... how appropriate.&quot;@</ToTranslate>
+  </String>
+  <String index="230">
+    <ToTranslate>tcg_cho12la</ToTranslate>
+  </String>
+  <String index="231">
+    <ToTranslate>tcg_cho12m</ToTranslate>
+  </String>
+  <String index="232">
+    <ToTranslate>rinr1462</ToTranslate>
+  </String>
+  <String index="233">
+    <ToTranslate>Rinrin$&quot;Today is our date, so Rinrin-chaaan wanted to look extra-cute. Hee-hee, I&apos;ve been preparing since yesterday.&quot;@</ToTranslate>
+  </String>
+  <String index="234">
+    <ToTranslate>Kazuto$&quot;Oh, I get it. You asked Shion to help you, right?&quot;@</ToTranslate>
+  </String>
+  <String index="235">
+    <ToTranslate>tcg_cho22ia</ToTranslate>
+  </String>
+  <String index="236">
+    <ToTranslate>tcg_cho22m</ToTranslate>
+  </String>
+  <String index="237">
+    <ToTranslate>rinr1463</ToTranslate>
+  </String>
+  <String index="238">
+    <ToTranslate>Rinrin$&quot;Yep, Shion and Riri helped me!&quot;@</ToTranslate>
+  </String>
+  <String index="239">
+    <ToTranslate>$That explained how she got ready so quickly. I tried to picture her, with Shion and Riri-chan on either side, helping her to get dressed.@</ToTranslate>
+  </String>
+  <String index="240">
+    <ToTranslate>Kazuto$&quot;Did they wish you a happy birthday?&quot;@</ToTranslate>
+  </String>
+  <String index="241">
+    <ToTranslate>tcg_cho12la</ToTranslate>
+  </String>
+  <String index="242">
+    <ToTranslate>tcg_cho12m</ToTranslate>
+  </String>
+  <String index="243">
+    <ToTranslate>rinr1464</ToTranslate>
+  </String>
+  <String index="244">
+    <ToTranslate>Rinrin$&quot;Yep! Also Sui, Shuri, Sei... and lots of people! They all wished me a happy birthday.&quot;@</ToTranslate>
+  </String>
+  <String index="245">
+    <ToTranslate>$Her expression softened as she thought of it. It was so cute, I stooped down to hold her head to my chest.@</ToTranslate>
+  </String>
+  <String index="246">
+    <ToTranslate>Kazuto$&quot;It&apos;s because they all love you, Rinrin. Today is a happy day for all of them, because you were born on this day.&quot;@</ToTranslate>
+  </String>
+  <String index="247">
+    <ToTranslate>tcg_cho32oa</ToTranslate>
+  </String>
+  <String index="248">
+    <ToTranslate>tcg_cho32m</ToTranslate>
+  </String>
+  <String index="249">
+    <ToTranslate>rinr1465</ToTranslate>
+  </String>
+  <String index="250">
+    <ToTranslate>Rinrin$&quot;Nyah... and what about Onii-chan?&quot;@</ToTranslate>
+  </String>
+  <String index="251">
+    <ToTranslate>Kazuto$&quot;Me too, of course. I see... I haven&apos;t said it yet, huh?&quot;@</ToTranslate>
+  </String>
+  <String index="252">
+    <ToTranslate>$I put my lips to her ear. She tried to turn to me in excitement, but I stopped her with a kiss to the earlobe.@</ToTranslate>
+  </String>
+  <String index="253">
+    <ToTranslate>Kazuto$&quot;Happy birthday, Rinrin.&quot;@</ToTranslate>
+  </String>
+  <String index="254">
+    <ToTranslate>$We gazed at each other over the short distance, flushed and smiling.@</ToTranslate>
+  </String>
+  <String index="255">
+    <ToTranslate>tcg_cho12la</ToTranslate>
+  </String>
+  <String index="256">
+    <ToTranslate>tcg_cho12m</ToTranslate>
+  </String>
+  <String index="257">
+    <ToTranslate>rinr1466</ToTranslate>
+  </String>
+  <String index="258">
+    <ToTranslate>Rinrin$&quot;Hee-hee, thanks. Onii-chan&apos;s happy birthday made me the happiest. It makes me feel all warm inside!&quot;@</ToTranslate>
+  </String>
+  <String index="259">
+    <ToTranslate>Kazuto$&quot;Don&apos;t say that, you may hurt the others&apos; feelings.&quot;@</ToTranslate>
+  </String>
+  <String index="260">
+    <ToTranslate>tcg_cho22ia</ToTranslate>
+  </String>
+  <String index="261">
+    <ToTranslate>tcg_cho22m</ToTranslate>
+  </String>
+  <String index="262">
+    <ToTranslate>rinr1467</ToTranslate>
+  </String>
+  <String index="263">
+    <ToTranslate>Rinrin$&quot;Nyahaha, but that&apos;s the truth.&quot;@</ToTranslate>
+  </String>
+  <String index="264">
+    <ToTranslate>$I thought she might give me a thank-you kiss, but she was apparently too shy. She hid her mouth with both hands, and giggled.@</ToTranslate>
+  </String>
+  <String index="265">
+    <ToTranslate>tcg_cho12la</ToTranslate>
+  </String>
+  <String index="266">
+    <ToTranslate>tcg_cho12m</ToTranslate>
+  </String>
+  <String index="267">
+    <ToTranslate>rinr1468</ToTranslate>
+  </String>
+  <String index="268">
+    <ToTranslate>Rinrin$&quot;Let&apos;s go! I want to go to the markets. Hee-hee, what should I make you buy for me?&quot;@</ToTranslate>
+  </String>
+  <String index="269">
+    <ToTranslate>Kazuto$&quot;Sure, I&apos;ll get you whatever you want.&quot;@</ToTranslate>
+  </String>
+  <String index="270">
+    <ToTranslate>$She separated from me for a moment, then came back to let me take her hand. It was time for our day to really begin.@</ToTranslate>
+  </String>
+  <String index="271">
+    <ToTranslate>$My only promise to myself was that I would not let her hand go for the whole day.@</ToTranslate>
+  </String>
+  <String index="272">
+    <ToTranslate>tcg_cho22ia</ToTranslate>
+  </String>
+  <String index="273">
+    <ToTranslate>tcg_cho22m</ToTranslate>
+  </String>
+  <String index="274">
+    <ToTranslate>rinr1469</ToTranslate>
+  </String>
+  <String index="275">
+    <ToTranslate>Rinrin$&quot;I can hardly wait! This&apos;ll be so much fun.&quot;@</ToTranslate>
+  </String>
+  <String index="276">
+    <ToTranslate>$I wanted to feel her beside me, all day long.@</ToTranslate>
+  </String>
+  <String index="277">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="278">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="279">
+    <ToTranslate>aa</ToTranslate>
+  </String>
+  <String index="280">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="281">
+    <ToTranslate>aa</ToTranslate>
+  </String>
+  <String index="282">
+    <ToTranslate>bcg_town_a</ToTranslate>
+  </String>
+  <String index="283">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="284">
+    <ToTranslate>bgm15</ToTranslate>
+  </String>
+  <String index="285">
+    <ToTranslate>SE078</ToTranslate>
+  </String>
+  <String index="286">
+    <ToTranslate>$Someone once said &apos;a country&apos;s wealth can be read in its markets.&apos; I think it was Sei, with her wealth of travel experience.@</ToTranslate>
+  </String>
+  <String index="287">
+    <ToTranslate>$If so, the liveliness and positive atmosphere in our markets would certainly bode well to her.@</ToTranslate>
+  </String>
+  <String index="288">
+    <ToTranslate>tcg_cho22da</ToTranslate>
+  </String>
+  <String index="289">
+    <ToTranslate>tcg_cho22m</ToTranslate>
+  </String>
+  <String index="290">
+    <ToTranslate>rinr1470</ToTranslate>
+  </String>
+  <String index="291">
+    <ToTranslate>Rinrin$&quot;Nyah, we better hold on tight or we&apos;ll get separated!&quot;@</ToTranslate>
+  </String>
+  <String index="292">
+    <ToTranslate>Kazuto$&quot;Yeah, that&apos;s true. Hold on real tight, okay?&quot;@</ToTranslate>
+  </String>
+  <String index="293">
+    <ToTranslate>tcg_cho12la</ToTranslate>
+  </String>
+  <String index="294">
+    <ToTranslate>tcg_cho12m</ToTranslate>
+  </String>
+  <String index="295">
+    <ToTranslate>rinr1471</ToTranslate>
+  </String>
+  <String index="296">
+    <ToTranslate>Rinrin$&quot;You gotta hold on tight too, Onii-chan! Hee-hee, squeeze.&quot;@</ToTranslate>
+  </String>
+  <String index="297">
+    <ToTranslate>$I reasserted my grip on her hand, and we slowly walked through the crowd.@</ToTranslate>
+  </String>
+  <String index="298">
+    <ToTranslate>$I was seeing more merchants than ever before. Some were traveling merchants who had decided to set up shop.@</ToTranslate>
+  </String>
+  <String index="299">
+    <ToTranslate>$It was a sight to see... the people smiled brightly as they passed us by.@</ToTranslate>
+  </String>
+  <String index="300">
+    <ToTranslate>tcg_cho32ba</ToTranslate>
+  </String>
+  <String index="301">
+    <ToTranslate>tcg_cho32m</ToTranslate>
+  </String>
+  <String index="302">
+    <ToTranslate>rinr1472</ToTranslate>
+  </String>
+  <String index="303">
+    <ToTranslate>Rinrin$&quot;Nyahaha, look, Onii-chan! They&apos;re just like you and me!&quot;@</ToTranslate>
+  </String>
+  <String index="304">
+    <ToTranslate>$She wasn&apos;t pointing to the father and daughter walking arm in arm, but to the young couple walking beside them.@</ToTranslate>
+  </String>
+  <String index="305">
+    <ToTranslate>Kazuto$&quot;They are the same. Haha, they&apos;re smiling just like us.&quot;@</ToTranslate>
+  </String>
+  <String index="306">
+    <ToTranslate>tcg_cho22ia</ToTranslate>
+  </String>
+  <String index="307">
+    <ToTranslate>tcg_cho22m</ToTranslate>
+  </String>
+  <String index="308">
+    <ToTranslate>rinr1473</ToTranslate>
+  </String>
+  <String index="309">
+    <ToTranslate>Rinrin$&quot;Mm!&quot;@</ToTranslate>
+  </String>
+  <String index="310">
+    <ToTranslate>$The storefronts were lined with items as far as the eye could see. The food and the high-quality wares on display were dazzling to the senses.@</ToTranslate>
+  </String>
+  <String index="311">
+    <ToTranslate>tcg_cho22ja</ToTranslate>
+  </String>
+  <String index="312">
+    <ToTranslate>tcg_cho22m</ToTranslate>
+  </String>
+  <String index="313">
+    <ToTranslate>rinr1474</ToTranslate>
+  </String>
+  <String index="314">
+    <ToTranslate>Rinrin$&quot;Ahh, look, Onii-chan! That looks just like Rinrin&apos;s Viper Spear!&quot;@</ToTranslate>
+  </String>
+  <String index="315">
+    <ToTranslate>Kazuto$&quot;The writing says Chou-something.&quot;@</ToTranslate>
+  </String>
+  <String index="316">
+    <ToTranslate>tcg_cho32ia</ToTranslate>
+  </String>
+  <String index="317">
+    <ToTranslate>tcg_cho32m</ToTranslate>
+  </String>
+  <String index="318">
+    <ToTranslate>rinr1475</ToTranslate>
+  </String>
+  <String index="319">
+    <ToTranslate>Rinrin$&quot;Nyahaha, there&apos;s a Green Dragon Crescent Blade too. Also a cross spear! How interesting.&quot;@</ToTranslate>
+  </String>
+  <String index="320">
+    <ToTranslate>$Next to the armor shop was a gorgeous parade of paintings and ceramics. Rinrin showed no interest in them.@</ToTranslate>
+  </String>
+  <String index="321">
+    <ToTranslate>$The distant cry of horses, and then...@</ToTranslate>
+  </String>
+  <String index="322">
+    <ToTranslate>tcg_cho32ja</ToTranslate>
+  </String>
+  <String index="323">
+    <ToTranslate>tcg_cho32m</ToTranslate>
+  </String>
+  <String index="324">
+    <ToTranslate>rinr1476</ToTranslate>
+  </String>
+  <String index="325">
+    <ToTranslate>Rinrin$&quot;*Sniff, sniff.*&quot;@</ToTranslate>
+  </String>
+  <String index="326">
+    <ToTranslate>$A delicious smell came wafting in on the breeze. Rinrin&apos;s nose twitched.@</ToTranslate>
+  </String>
+  <String index="327">
+    <ToTranslate>tcg_cho12aa</ToTranslate>
+  </String>
+  <String index="328">
+    <ToTranslate>tcg_cho12m</ToTranslate>
+  </String>
+  <String index="329">
+    <ToTranslate>rinr1477</ToTranslate>
+  </String>
+  <String index="330">
+    <ToTranslate>Rinrin$&quot;Rinrin&apos;s not too hungry yet. Pork buns come later! Let&apos;s walk around a little more!&quot;@</ToTranslate>
+  </String>
+  <String index="331">
+    <ToTranslate>Kazuto$&quot;Not too hungry YET? But we just ate breakfast a little while ago.&quot;@</ToTranslate>
+  </String>
+  <String index="332">
+    <ToTranslate>tcg_cho32ga</ToTranslate>
+  </String>
+  <String index="333">
+    <ToTranslate>tcg_cho32m</ToTranslate>
+  </String>
+  <String index="334">
+    <ToTranslate>rinr1478</ToTranslate>
+  </String>
+  <String index="335">
+    <ToTranslate>Rinrin$&quot;Yeah, I gotta empty it more.&quot;@</ToTranslate>
+  </String>
+  <String index="336">
+    <ToTranslate>Kazuto$&quot;Okay, okay, we&apos;ll walk around.&quot;@</ToTranslate>
+  </String>
+  <String index="337">
+    <ToTranslate>$The city was striving to great heights. Just getting to watch it during this time of great change was more than worth the trip.@</ToTranslate>
+  </String>
+  <String index="338">
+    <ToTranslate>tcg_cho22ia</ToTranslate>
+  </String>
+  <String index="339">
+    <ToTranslate>tcg_cho22m</ToTranslate>
+  </String>
+  <String index="340">
+    <ToTranslate>rinr1479</ToTranslate>
+  </String>
+  <String index="341">
+    <ToTranslate>Rinrin$&quot;Hee-hee, I feel light as a feather seeing everyone have so much fun! I gotta beat them at being happy!&quot;@</ToTranslate>
+  </String>
+  <String index="342">
+    <ToTranslate>Kazuto$&quot;It&apos;s not a contest, hahaha... everyone should be happy.&quot;@</ToTranslate>
+  </String>
+  <String index="343">
+    <ToTranslate>tcg_cho12aa</ToTranslate>
+  </String>
+  <String index="344">
+    <ToTranslate>tcg_cho12m</ToTranslate>
+  </String>
+  <String index="345">
+    <ToTranslate>rinr1480</ToTranslate>
+  </String>
+  <String index="346">
+    <ToTranslate>Rinrin$&quot;Yeah, Rinrin&apos;s just happy seeing everyone so happy!&quot;@</ToTranslate>
+  </String>
+  <String index="347">
+    <ToTranslate>$How could I not feel great, watching Rinrin in such a buoyant mood?@</ToTranslate>
+  </String>
+  <String index="348">
+    <ToTranslate>Kazuto$&quot;You can be proud of this too.&quot;@</ToTranslate>
+  </String>
+  <String index="349">
+    <ToTranslate>tcg_cho22ja</ToTranslate>
+  </String>
+  <String index="350">
+    <ToTranslate>tcg_cho22m</ToTranslate>
+  </String>
+  <String index="351">
+    <ToTranslate>hatena</ToTranslate>
+  </String>
+  <String index="352">
+    <ToTranslate>rinr1481</ToTranslate>
+  </String>
+  <String index="353">
+    <ToTranslate>Rinrin$&quot;Nyah?&quot;@</ToTranslate>
+  </String>
+  <String index="354">
+    <ToTranslate>Kazuto$&quot;Shuri tells me every day that we&apos;re getting more and more citizens, and that the country itself is prospering.&quot;@</ToTranslate>
+  </String>
+  <String index="355">
+    <ToTranslate>$The peace I saw before me didn&apos;t just fall from Heaven.@</ToTranslate>
+  </String>
+  <String index="356">
+    <ToTranslate>Kazuto$&quot;It&apos;s thanks to you, Rinrin... that we won this peace. That&apos;s why you should be proud of yourself.&quot;@</ToTranslate>
+  </String>
+  <String index="357">
+    <ToTranslate>tcg_cho32ma</ToTranslate>
+  </String>
+  <String index="358">
+    <ToTranslate>tcg_cho32m</ToTranslate>
+  </String>
+  <String index="359">
+    <ToTranslate>rinr1482</ToTranslate>
+  </String>
+  <String index="360">
+    <ToTranslate>Rinrin$&quot;Hee-hee, is that so?&quot;@</ToTranslate>
+  </String>
+  <String index="361">
+    <ToTranslate>Kazuto$&quot;Sure. Of course it wasn&apos;t just you, Aisha and the others also worked towards victory.&quot;@</ToTranslate>
+  </String>
+  <String index="362">
+    <ToTranslate>tcg_cho12la</ToTranslate>
+  </String>
+  <String index="363">
+    <ToTranslate>tcg_cho12m</ToTranslate>
+  </String>
+  <String index="364">
+    <ToTranslate>rinr1483</ToTranslate>
+  </String>
+  <String index="365">
+    <ToTranslate>Rinrin$&quot;Yeah. We all worked together to come this far.&quot;@</ToTranslate>
+  </String>
+  <String index="366">
+    <ToTranslate>Kazuto$&quot;... right, but your strength was a big part of it. And thanks to your hard work, everyone in the city can smile, just like they are now.&quot;@</ToTranslate>
+  </String>
+  <String index="367">
+    <ToTranslate>tcg_cho32ma</ToTranslate>
+  </String>
+  <String index="368">
+    <ToTranslate>tcg_cho32m</ToTranslate>
+  </String>
+  <String index="369">
+    <ToTranslate>onpu</ToTranslate>
+  </String>
+  <String index="370">
+    <ToTranslate>rinr1484</ToTranslate>
+  </String>
+  <String index="371">
+    <ToTranslate>Rinrin$&quot;Nyahahahahaha!&quot;@</ToTranslate>
+  </String>
+  <String index="372">
+    <ToTranslate>$Overflowing with happiness, Rinrin scrubbed her rosy cheek with a fist and laughed. Her expression was so happy it seemed to shine.@</ToTranslate>
+  </String>
+  <String index="373">
+    <ToTranslate>$She did seem to feel proud, but also... a little overwhelmed, in her innocence.@</ToTranslate>
+  </String>
+  <String index="374">
+    <ToTranslate>tcg_cho12aa</ToTranslate>
+  </String>
+  <String index="375">
+    <ToTranslate>tcg_cho12m</ToTranslate>
+  </String>
+  <String index="376">
+    <ToTranslate>rinr1485</ToTranslate>
+  </String>
+  <String index="377">
+    <ToTranslate>Rinrin$&quot;I guess Rinrin did something good for the little guy.&quot;@</ToTranslate>
+  </String>
+  <String index="378">
+    <ToTranslate>Kazuto$&quot;Yes, you sure did.&quot;@</ToTranslate>
+  </String>
+  <String index="379">
+    <ToTranslate>$I wasn&apos;t patronizing her. She was just so innocent, accolades of honor and glory seemed unsuited to her.@</ToTranslate>
+  </String>
+  <String index="380">
+    <ToTranslate>$She just wanted peace... no matter how many times she got hurt, she&apos;d kept fighting for it. I had to think of a way to repay her.@</ToTranslate>
+  </String>
+  <String index="381">
+    <ToTranslate>$Ordinary people can&apos;t fight. They&apos;re powerless. They could enjoy this peace because Rinrin and the others had won it for them.@</ToTranslate>
+  </String>
+  <String index="382">
+    <ToTranslate>$But what about Rinrin? Her selflessness let her be satisfied with the happiness of others. It spoke well of her character, but it frustrated me.@</ToTranslate>
+  </String>
+  <String index="383">
+    <ToTranslate>$The anger began to rise in my stomach.@</ToTranslate>
+  </String>
+  <String index="384">
+    <ToTranslate>tcg_cho32ba</ToTranslate>
+  </String>
+  <String index="385">
+    <ToTranslate>tcg_cho32m</ToTranslate>
+  </String>
+  <String index="386">
+    <ToTranslate>rinr1486</ToTranslate>
+  </String>
+  <String index="387">
+    <ToTranslate>Rinrin$&quot;I&apos;m so glad we worked hard! Hee-hee, I&apos;m so happy.&quot;@</ToTranslate>
+  </String>
+  <String index="388">
+    <ToTranslate>$Rinrin was still a child at heart. She was the one who should be protected...@</ToTranslate>
+  </String>
+  <String index="389">
+    <ToTranslate>Kazuto$&quot;Hey, what about you?&quot;@</ToTranslate>
+  </String>
+  <String index="390">
+    <ToTranslate>tcg_cho22ja</ToTranslate>
+  </String>
+  <String index="391">
+    <ToTranslate>tcg_cho22m</ToTranslate>
+  </String>
+  <String index="392">
+    <ToTranslate>rinr1487</ToTranslate>
+  </String>
+  <String index="393">
+    <ToTranslate>Rinrin$&quot;Hmm? What about Rinrin?&quot;@</ToTranslate>
+  </String>
+  <String index="394">
+    <ToTranslate>$I had asked her so bluntly, she was right to be confused... but I didn&apos;t know how to continue. I hesitated, and tried to rephrase the question.@</ToTranslate>
+  </String>
+  <String index="395">
+    <ToTranslate>Kazuto$&quot;I was just thinking. Are you happy, Rinrin?&quot;@</ToTranslate>
+  </String>
+  <String index="396">
+    <ToTranslate>$As I asked her, the bustling noises seemed far away... we had stopped in the middle of the street, oblivious to the fact that we were blocking traffic.@</ToTranslate>
+  </String>
+  <String index="397">
+    <ToTranslate>Kazuto$&quot;Are you really happy?&quot;@</ToTranslate>
+  </String>
+  <String index="398">
+    <ToTranslate>$I asked again, and Rinrin looked a bit dubious. I gave her hand a squeeze.@</ToTranslate>
+  </String>
+  <String index="399">
+    <ToTranslate>tcg_cho12la</ToTranslate>
+  </String>
+  <String index="400">
+    <ToTranslate>tcg_cho12m</ToTranslate>
+  </String>
+  <String index="401">
+    <ToTranslate>rinr1488</ToTranslate>
+  </String>
+  <String index="402">
+    <ToTranslate>Rinrin$&quot;Yeah! I&apos;m happy. Rinrin&apos;s happy being with you, Aisha, Shion, Shuri, Sei and I guess Sui, too.&quot;@</ToTranslate>
+  </String>
+  <String index="403">
+    <ToTranslate>Kazuto$&quot;Haha, you guess, huh?&quot;@</ToTranslate>
+  </String>
+  <String index="404">
+    <ToTranslate>tcg_cho22ia</ToTranslate>
+  </String>
+  <String index="405">
+    <ToTranslate>tcg_cho22m</ToTranslate>
+  </String>
+  <String index="406">
+    <ToTranslate>rinr1489</ToTranslate>
+  </String>
+  <String index="407">
+    <ToTranslate>Rinrin$&quot;I love all of you! It&apos;s fun being with you, and also...&quot;@</ToTranslate>
+  </String>
+  <String index="408">
+    <ToTranslate>$Rinrin was growing more excited, and tugged on my hand with all her might.@</ToTranslate>
+  </String>
+  <String index="409">
+    <ToTranslate>tcg_cho12la</ToTranslate>
+  </String>
+  <String index="410">
+    <ToTranslate>tcg_cho12m</ToTranslate>
+  </String>
+  <String index="411">
+    <ToTranslate>rinr1490</ToTranslate>
+  </String>
+  <String index="412">
+    <ToTranslate>Rinrin$&quot;You just said everyone&apos;s happy because Rinrin worked hard! That makes me so happy.&quot;@</ToTranslate>
+  </String>
+  <String index="413">
+    <ToTranslate>rinr1491</ToTranslate>
+  </String>
+  <String index="414">
+    <ToTranslate>Rinrin$&quot;Seeing everyone smile makes Rinrin really happy, too. My friends, and my friends&apos; moms and dads...&quot;@</ToTranslate>
+  </String>
+  <String index="415">
+    <ToTranslate>Kazuto$&quot;... you&apos;re an impressive person, Rinrin.&quot;@</ToTranslate>
+  </String>
+  <String index="416">
+    <ToTranslate>tcg_cho32ma</ToTranslate>
+  </String>
+  <String index="417">
+    <ToTranslate>tcg_cho32m</ToTranslate>
+  </String>
+  <String index="418">
+    <ToTranslate>rinr1492</ToTranslate>
+  </String>
+  <String index="419">
+    <ToTranslate>Rinrin$&quot;That&apos;s nothing big! No one can find happiness alone. The only real happiness is when everyone&apos;s happy.&quot;@</ToTranslate>
+  </String>
+  <String index="420">
+    <ToTranslate>$Rinrin&apos;s rambles cut me to the core. I nodded, trying to let her words sink in.@</ToTranslate>
+  </String>
+  <String index="421">
+    <ToTranslate>tcg_cho12la</ToTranslate>
+  </String>
+  <String index="422">
+    <ToTranslate>tcg_cho12m</ToTranslate>
+  </String>
+  <String index="423">
+    <ToTranslate>rinr1493</ToTranslate>
+  </String>
+  <String index="424">
+    <ToTranslate>Rinrin$&quot;Everyone should be together! Rinrin&apos;s happy to be with Onii-chan, and everyone we love!&quot;@</ToTranslate>
+  </String>
+  <String index="425">
+    <ToTranslate>Kazuto$&quot;Me too, I&apos;m happy being with you.&quot;@</ToTranslate>
+  </String>
+  <String index="426">
+    <ToTranslate>tcg_cho32ma</ToTranslate>
+  </String>
+  <String index="427">
+    <ToTranslate>tcg_cho32m</ToTranslate>
+  </String>
+  <String index="428">
+    <ToTranslate>rinr1494</ToTranslate>
+  </String>
+  <String index="429">
+    <ToTranslate>Rinrin$&quot;Hee-hee.&quot;@</ToTranslate>
+  </String>
+  <String index="430">
+    <ToTranslate>$She smiled pleasantly. I spent a long time rubbing her head.@</ToTranslate>
+  </String>
+  <String index="431">
+    <ToTranslate>$As my fingers stroked her silky hair, thoughts washed over me like waves.@</ToTranslate>
+  </String>
+  <String index="432">
+    <ToTranslate>tcg_cho22ia</ToTranslate>
+  </String>
+  <String index="433">
+    <ToTranslate>tcg_cho22m</ToTranslate>
+  </String>
+  <String index="434">
+    <ToTranslate>rinr1495</ToTranslate>
+  </String>
+  <String index="435">
+    <ToTranslate>Rinrin$&quot;You must really think I&apos;m a good girl today! Nyaha, this is the best day!&quot;@</ToTranslate>
+  </String>
+  <String index="436">
+    <ToTranslate>$Rinrin only had us. The others all had families... fathers and mothers.@</ToTranslate>
+  </String>
+  <String index="437">
+    <ToTranslate>$It probably wasn&apos;t what she meant, but her words reminded me that she lacked for anything that could properly be called a family.@</ToTranslate>
+  </String>
+  <String index="438">
+    <ToTranslate>$She had already lost the happiness she was talking about...@</ToTranslate>
+  </String>
+  <String index="439">
+    <ToTranslate>$... but because of that, she knew the pain of that loss. That&apos;s why that everyday happiness was so important to her.@</ToTranslate>
+  </String>
+  <String index="440">
+    <ToTranslate>Kazuto$&quot;... you really are remarkable, Rinrin.&quot;@</ToTranslate>
+  </String>
+  <String index="441">
+    <ToTranslate>tcg_cho32ga</ToTranslate>
+  </String>
+  <String index="442">
+    <ToTranslate>tcg_cho32m</ToTranslate>
+  </String>
+  <String index="443">
+    <ToTranslate>rinr1496</ToTranslate>
+  </String>
+  <String index="444">
+    <ToTranslate>Rinrin$&quot;Hee-hee. If you keep praising Rinrin like that, I won&apos;t know what to do.&quot;@</ToTranslate>
+  </String>
+  <String index="445">
+    <ToTranslate>$She lived alone, with Aisha as her big sister... and she stayed strong.@</ToTranslate>
+  </String>
+  <String index="446">
+    <ToTranslate>Kazuto$&quot;I&apos;ll praise you as much as I want. You deserve a reward... is there something you really want?&quot;@</ToTranslate>
+  </String>
+  <String index="447">
+    <ToTranslate>tcg_cho22ja</ToTranslate>
+  </String>
+  <String index="448">
+    <ToTranslate>tcg_cho22m</ToTranslate>
+  </String>
+  <String index="449">
+    <ToTranslate>rinr1497</ToTranslate>
+  </String>
+  <String index="450">
+    <ToTranslate>Rinrin$&quot;Anything? Even enough pork buns to fill me up?&quot;@</ToTranslate>
+  </String>
+  <String index="451">
+    <ToTranslate>Kazuto$&quot;Sure, that&apos;s easy. Do you want to eat now?&quot;@</ToTranslate>
+  </String>
+  <String index="452">
+    <ToTranslate>tcg_cho42ha</ToTranslate>
+  </String>
+  <String index="453">
+    <ToTranslate>tcg_cho42m</ToTranslate>
+  </String>
+  <String index="454">
+    <ToTranslate>rinr1498</ToTranslate>
+  </String>
+  <String index="455">
+    <ToTranslate>Rinrin$&quot;Ah, wait! If it can be anything I gotta think about it. Hmm... hang on, I&apos;m still thinking.&quot;@</ToTranslate>
+  </String>
+  <String index="456">
+    <ToTranslate>$Our time was limited, but it wasn&apos;t even noon yet. We still had time to spare.@</ToTranslate>
+  </String>
+  <String index="457">
+    <ToTranslate>$The waiting was strangely painful for me. I breathed deeply, to calm myself down.@</ToTranslate>
+  </String>
+  <String index="458">
+    <ToTranslate>tcg_cho32oa</ToTranslate>
+  </String>
+  <String index="459">
+    <ToTranslate>tcg_cho32m</ToTranslate>
+  </String>
+  <String index="460">
+    <ToTranslate>rinr1499</ToTranslate>
+  </String>
+  <String index="461">
+    <ToTranslate>Rinrin$&quot;Ah.&quot;@</ToTranslate>
+  </String>
+  <String index="462">
+    <ToTranslate>$Just in time, she tugged at my pants, then stood on tip-toe to whisper into my ear. I bent down to listen.@</ToTranslate>
+  </String>
+  <String index="463">
+    <ToTranslate>tcg_cho12ca</ToTranslate>
+  </String>
+  <String index="464">
+    <ToTranslate>tcg_cho12m</ToTranslate>
+  </String>
+  <String index="465">
+    <ToTranslate>rinr1500</ToTranslate>
+  </String>
+  <String index="466">
+    <ToTranslate>Rinrin$&quot;You said anything, so you can&apos;t say no now, okay?&quot;@</ToTranslate>
+  </String>
+  <String index="467">
+    <ToTranslate>Kazuto$&quot;A man never goes back on his word!&quot;@</ToTranslate>
+  </String>
+  <String index="468">
+    <ToTranslate>tcg_cho32oa</ToTranslate>
+  </String>
+  <String index="469">
+    <ToTranslate>tcg_cho32m</ToTranslate>
+  </String>
+  <String index="470">
+    <ToTranslate>bgm23</ToTranslate>
+  </String>
+  <String index="471">
+    <ToTranslate>rinr1501</ToTranslate>
+  </String>
+  <String index="472">
+    <ToTranslate>Rinrin$&quot;Then, um... I want a piggyback ride.&quot;@</ToTranslate>
+  </String>
+  <String index="473">
+    <ToTranslate>Kazuto$&quot;Huh?&quot;@</ToTranslate>
+  </String>
+  <String index="474">
+    <ToTranslate>tcg_cho22ia</ToTranslate>
+  </String>
+  <String index="475">
+    <ToTranslate>tcg_cho22m</ToTranslate>
+  </String>
+  <String index="476">
+    <ToTranslate>rinr1502</ToTranslate>
+  </String>
+  <String index="477">
+    <ToTranslate>Rinrin$&quot;I want a piggyback ride... like that, over there!&quot;@</ToTranslate>
+  </String>
+  <String index="478">
+    <ToTranslate>$I looked over at where she was pointing. A man was carrying a girl a few years younger than Rinrin on his shoulders.@</ToTranslate>
+  </String>
+  <String index="479">
+    <ToTranslate>Kazuto$&quot;... a piggyback ride, huh? Well that&apos;s easily done.&quot;@</ToTranslate>
+  </String>
+  <String index="480">
+    <ToTranslate>$I wiped my eyes discreetly and turned around. I had never done it before, so I was careful about how I put my head down...@</ToTranslate>
+  </String>
+  <String index="481">
+    <ToTranslate>$My heart ached. I didn&apos;t want her to notice that I was about to cry.@</ToTranslate>
+  </String>
+  <String index="482">
+    <ToTranslate>tcg_cho22ja</ToTranslate>
+  </String>
+  <String index="483">
+    <ToTranslate>tcg_cho22m</ToTranslate>
+  </String>
+  <String index="484">
+    <ToTranslate>rinr1503</ToTranslate>
+  </String>
+  <String index="485">
+    <ToTranslate>Rinrin$&quot;Don&apos;t move your head, okay? Mmmm, w-w-wait!? Don&apos;t stand up yet!&quot;@</ToTranslate>
+  </String>
+  <String index="486">
+    <ToTranslate>Kazuto$&quot;Sorry!? Like this... here.&quot;@</ToTranslate>
+  </String>
+  <String index="487">
+    <ToTranslate>$After an awkward period of adjustment, I finally got her on my shoulders. I planted my feet and rose up, as carefully as I could.@</ToTranslate>
+  </String>
+  <String index="488">
+    <ToTranslate>tcg_cho22ia</ToTranslate>
+  </String>
+  <String index="489">
+    <ToTranslate>tcg_cho22m</ToTranslate>
+  </String>
+  <String index="490">
+    <ToTranslate>rinr1504</ToTranslate>
+  </String>
+  <String index="491">
+    <ToTranslate>Rinrin$&quot;Wow! I&apos;m up high. Is Rinrin too heavy for you? Can I ask you to walk like this?&quot;@</ToTranslate>
+  </String>
+  <String index="492">
+    <ToTranslate>Kazuto$&quot;That was the plan. Shall we proceed, General Rinrin?&quot;@</ToTranslate>
+  </String>
+  <String index="493">
+    <ToTranslate>tcg_cho32ia</ToTranslate>
+  </String>
+  <String index="494">
+    <ToTranslate>tcg_cho32m</ToTranslate>
+  </String>
+  <String index="495">
+    <ToTranslate>rinr1505</ToTranslate>
+  </String>
+  <String index="496">
+    <ToTranslate>Rinrin$&quot;Hmm, forward march!&quot;@</ToTranslate>
+  </String>
+  <String index="497">
+    <ToTranslate>$I was still holding back tears. Her wish was so innocent... out of anything she could have asked for, a piggyback ride?@</ToTranslate>
+  </String>
+  <String index="498">
+    <ToTranslate>$The feelings I had hidden inside... the thing I really wanted, was coming clearly into view.@</ToTranslate>
+  </String>
+  <String index="499">
+    <ToTranslate>tcg_cho12la</ToTranslate>
+  </String>
+  <String index="500">
+    <ToTranslate>tcg_cho12m</ToTranslate>
+  </String>
+  <String index="501">
+    <ToTranslate>rinr1506</ToTranslate>
+  </String>
+  <String index="502">
+    <ToTranslate>Rinrin$&quot;Hee-hee, *squeeze*!&quot;@</ToTranslate>
+  </String>
+  <String index="503">
+    <ToTranslate>$Rinrin was in high spirits. She wrapped her arms around my head and rubbed her cheek against my hair.@</ToTranslate>
+  </String>
+  <String index="504">
+    <ToTranslate>tcg_cho32ba</ToTranslate>
+  </String>
+  <String index="505">
+    <ToTranslate>tcg_cho32m</ToTranslate>
+  </String>
+  <String index="506">
+    <ToTranslate>rinr1507</ToTranslate>
+  </String>
+  <String index="507">
+    <ToTranslate>Rinrin$&quot;I just remembered. When Rinrin was a little little girl, my papa would give me piggyback rides.&quot;@</ToTranslate>
+  </String>
+  <String index="508">
+    <ToTranslate>Kazuto$&quot;He must&apos;ve been a good father.&quot;@</ToTranslate>
+  </String>
+  <String index="509">
+    <ToTranslate>$It took effort just to say that much. I was glad she couldn&apos;t see my expression.@</ToTranslate>
+  </String>
+  <String index="510">
+    <ToTranslate>tcg_cho12aa</ToTranslate>
+  </String>
+  <String index="511">
+    <ToTranslate>tcg_cho12m</ToTranslate>
+  </String>
+  <String index="512">
+    <ToTranslate>rinr1508</ToTranslate>
+  </String>
+  <String index="513">
+    <ToTranslate>Rinrin$&quot;The sky was like it was on fire... there was this dragonfly that landed on my head, and I laughed, and so did papa!&quot;@</ToTranslate>
+  </String>
+  <String index="514">
+    <ToTranslate>tcg_cho22ia</ToTranslate>
+  </String>
+  <String index="515">
+    <ToTranslate>tcg_cho22m</ToTranslate>
+  </String>
+  <String index="516">
+    <ToTranslate>rinr1509</ToTranslate>
+  </String>
+  <String index="517">
+    <ToTranslate>Rinrin$&quot;We talked a lot, like about what was for dinner and everything.&quot;@</ToTranslate>
+  </String>
+  <String index="518">
+    <ToTranslate>$I wasn&apos;t a god. No matter how people tried to hold me up as one, I was still just a kid in high school.@</ToTranslate>
+  </String>
+  <String index="519">
+    <ToTranslate>$I wished I had the power of a god, but I knew I never would.@</ToTranslate>
+  </String>
+  <String index="520">
+    <ToTranslate>Kazuto$&quot;This is the first time you talked to me about your father...&quot;@</ToTranslate>
+  </String>
+  <String index="521">
+    <ToTranslate>$If I had that power, I could grant her real wish... the one wish she&apos;d never admit to. If only I could.@</ToTranslate>
+  </String>
+  <String index="522">
+    <ToTranslate>tcg_cho32ga</ToTranslate>
+  </String>
+  <String index="523">
+    <ToTranslate>tcg_cho32m</ToTranslate>
+  </String>
+  <String index="524">
+    <ToTranslate>rinr1510</ToTranslate>
+  </String>
+  <String index="525">
+    <ToTranslate>Rinrin$&quot;Nyah? It just popped into my head, sorry.&quot;@</ToTranslate>
+  </String>
+  <String index="526">
+    <ToTranslate>Kazuto$&quot;Don&apos;t worry about it.&quot;@</ToTranslate>
+  </String>
+  <String index="527">
+    <ToTranslate>$I wanted to give her back that &quot;everyday happiness.&quot; To bring back the people who could give her a normal life.@</ToTranslate>
+  </String>
+  <String index="528">
+    <ToTranslate>tcg_cho12aa</ToTranslate>
+  </String>
+  <String index="529">
+    <ToTranslate>tcg_cho12m</ToTranslate>
+  </String>
+  <String index="530">
+    <ToTranslate>rinr1511</ToTranslate>
+  </String>
+  <String index="531">
+    <ToTranslate>Rinrin$&quot;This is Rinrin&apos;s birthday, anyway. If I wanna think about my mom and dad this is the day I can do it.&quot;@</ToTranslate>
+  </String>
+  <String index="532">
+    <ToTranslate>$If I couldn&apos;t grant that wish, I could at least think about all the things I could do for her.@</ToTranslate>
+  </String>
+  <String index="533">
+    <ToTranslate>tcg_cho32qa</ToTranslate>
+  </String>
+  <String index="534">
+    <ToTranslate>tcg_cho32m</ToTranslate>
+  </String>
+  <String index="535">
+    <ToTranslate>rinr1512</ToTranslate>
+  </String>
+  <String index="536">
+    <ToTranslate>Rinrin$&quot;Do you think papa would be proud of me... like you are, Onii-chan?&quot;@</ToTranslate>
+  </String>
+  <String index="537">
+    <ToTranslate>Kazuto$&quot;I&apos;m sure he would... I bet he&apos;s looking down at you and smiling right now.&quot;@</ToTranslate>
+  </String>
+  <String index="538">
+    <ToTranslate>tcg_cho12pa</ToTranslate>
+  </String>
+  <String index="539">
+    <ToTranslate>tcg_cho12m</ToTranslate>
+  </String>
+  <String index="540">
+    <ToTranslate>rinr1513</ToTranslate>
+  </String>
+  <String index="541">
+    <ToTranslate>Rinrin$&quot;I&apos;m glad.&quot;@</ToTranslate>
+  </String>
+  <String index="542">
+    <ToTranslate>$Today belonged to Rinrin. I couldn&apos;t be her father or mother, but I could be her happiness.@</ToTranslate>
+  </String>
+  <String index="543">
+    <ToTranslate>$I promised myself that. I would throw out all my selfishness, and live for her sake.@</ToTranslate>
+  </String>
+  <String index="544">
+    <ToTranslate>tcg_cho32ga</ToTranslate>
+  </String>
+  <String index="545">
+    <ToTranslate>tcg_cho32m</ToTranslate>
+  </String>
+  <String index="546">
+    <ToTranslate>rinr1514</ToTranslate>
+  </String>
+  <String index="547">
+    <ToTranslate>Rinrin$&quot;Nyu... but keep it a secret that I asked for a piggyback ride. Everyone would say it was a kiddie wish.&quot;@</ToTranslate>
+  </String>
+  <String index="548">
+    <ToTranslate>Kazuto$&quot;Got it. But I don&apos;t think anyone would make fun of you for that.&quot;@</ToTranslate>
+  </String>
+  <String index="549">
+    <ToTranslate>tcg_cho22da</ToTranslate>
+  </String>
+  <String index="550">
+    <ToTranslate>tcg_cho22m</ToTranslate>
+  </String>
+  <String index="551">
+    <ToTranslate>rinr1515</ToTranslate>
+  </String>
+  <String index="552">
+    <ToTranslate>Rinrin$&quot;Oh yes, they would.&quot;@</ToTranslate>
+  </String>
+  <String index="553">
+    <ToTranslate>Kazuto$&quot;If anyone made fun of you for that, I&apos;d scold them. Put it out of your mind... giving piggyback rides is fun for me, too.&quot;@</ToTranslate>
+  </String>
+  <String index="554">
+    <ToTranslate>$I really was happy. Rinrin was learning how to balance on my shoulders... or rather, she was re-learning it. It was making it easier to walk.@</ToTranslate>
+  </String>
+  <String index="555">
+    <ToTranslate>tcg_cho32ba</ToTranslate>
+  </String>
+  <String index="556">
+    <ToTranslate>tcg_cho32m</ToTranslate>
+  </String>
+  <String index="557">
+    <ToTranslate>rinr1516</ToTranslate>
+  </String>
+  <String index="558">
+    <ToTranslate>Rinrin$&quot;Okay, then I&apos;ll stay here until Onii-chan gets tired. Rinrin likes being up here!&quot;@</ToTranslate>
+  </String>
+  <String index="559">
+    <ToTranslate>Kazuto$&quot;I don&apos;t get tired that easily. So where are we headed to?&quot;@</ToTranslate>
+  </String>
+  <String index="560">
+    <ToTranslate>tcg_cho22ia</ToTranslate>
+  </String>
+  <String index="561">
+    <ToTranslate>tcg_cho22m</ToTranslate>
+  </String>
+  <String index="562">
+    <ToTranslate>rinr1517</ToTranslate>
+  </String>
+  <String index="563">
+    <ToTranslate>Rinrin$&quot;Pork buns!&quot;@</ToTranslate>
+  </String>
+  <String index="564">
+    <ToTranslate>Kazuto$&quot;Got it. Forward, ho!&quot;@</ToTranslate>
+  </String>
+  <String index="565">
+    <ToTranslate>tcg_cho12aa</ToTranslate>
+  </String>
+  <String index="566">
+    <ToTranslate>tcg_cho12m</ToTranslate>
+  </String>
+  <String index="567">
+    <ToTranslate>rinr1518</ToTranslate>
+  </String>
+  <String index="568">
+    <ToTranslate>Rinrin$&quot;Yeah!&quot;@</ToTranslate>
+  </String>
+  <String index="569">
+    <ToTranslate>$I wanted to keep her on my shoulders all day. I wanted her there when she saw that sunset sky she shared with her father, long ago.@</ToTranslate>
+  </String>
+  <String index="570">
+    <ToTranslate>tcg_cho12la</ToTranslate>
+  </String>
+  <String index="571">
+    <ToTranslate>tcg_cho12m</ToTranslate>
+  </String>
+  <String index="572">
+    <ToTranslate>rinr1519</ToTranslate>
+  </String>
+  <String index="573">
+    <ToTranslate>Rinrin$&quot;Onii-chan&apos;s so nice... *rub, rub*, just like my papa.&quot;@</ToTranslate>
+  </String>
+  <String index="574">
+    <ToTranslate>$I wanted to make her a new memory... a happy memory that would remain in her heart.@</ToTranslate>
+  </String>
+  <String index="575">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="576">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="577">
+    <ToTranslate>bb</ToTranslate>
+  </String>
+  <String index="578">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="579">
+    <ToTranslate>bb</ToTranslate>
+  </String>
+  <String index="580">
+    <ToTranslate>bcg_generoom_c</ToTranslate>
+  </String>
+  <String index="581">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="582">
+    <ToTranslate>bgm07</ToTranslate>
+  </String>
+  <String index="583">
+    <ToTranslate>$I carried her for hours, until the sun went down and my shoulders had gone expectedly stiff.@</ToTranslate>
+  </String>
+  <String index="584">
+    <ToTranslate>$It was a comfortable tiredness. Her shout of joy as she saw the setting sun still rang in my ears.@</ToTranslate>
+  </String>
+  <String index="585">
+    <ToTranslate>rinr1520</ToTranslate>
+  </String>
+  <String index="586">
+    <ToTranslate>Rinrin$&quot;Nyah... zzz, zzz.&quot;@</ToTranslate>
+  </String>
+  <String index="587">
+    <ToTranslate>$Rinrin had gone to bed early, exhausted from her long day. She didn&apos;t even beg for a bedtime story.@</ToTranslate>
+  </String>
+  <String index="588">
+    <ToTranslate>$The day had been so amazing. I hadn&apos;t wanted it to end.@</ToTranslate>
+  </String>
+  <String index="589">
+    <ToTranslate>Kazuto$&quot;Good night.&quot;@</ToTranslate>
+  </String>
+  <String index="590">
+    <ToTranslate>$I left the room behind me, locking the memories safely away.@</ToTranslate>
+  </String>
+  <String index="591">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="592">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="593">
+    <ToTranslate>aa</ToTranslate>
+  </String>
+  <String index="594">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="595">
+    <ToTranslate>aa</ToTranslate>
+  </String>
+  <String index="596">
+    <ToTranslate>bcg_heroroom_c</ToTranslate>
+  </String>
+  <String index="597">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="598">
+    <ToTranslate>SE057</ToTranslate>
+  </String>
+  <String index="599">
+    <ToTranslate>Kazuto$&quot;I&apos;m back. Thanks for working so late. How&apos;s work going...?&quot;@</ToTranslate>
+  </String>
+  <String index="600">
+    <ToTranslate>tcg_kan31ka</ToTranslate>
+  </String>
+  <String index="601">
+    <ToTranslate>tcg_kan31m</ToTranslate>
+  </String>
+  <String index="602">
+    <ToTranslate>aisy1439</ToTranslate>
+  </String>
+  <String index="603">
+    <ToTranslate>Aisha$&quot;Hmmm, mmm...... huh!? M-My Lord, I, I......&quot;@</ToTranslate>
+  </String>
+  <String index="604">
+    <ToTranslate>$Aisha tried to put on a neutral expression, but I had seen her desperation. The pile of paperwork had proven too much, even for Aisha.@</ToTranslate>
+  </String>
+  <String index="605">
+    <ToTranslate>Kazuto$&quot;I&apos;ll take over. Sorry to make you do this... thank you.&quot;@</ToTranslate>
+  </String>
+  <String index="606">
+    <ToTranslate>tcg_kan31ja</ToTranslate>
+  </String>
+  <String index="607">
+    <ToTranslate>tcg_kan31m</ToTranslate>
+  </String>
+  <String index="608">
+    <ToTranslate>aisy1440</ToTranslate>
+  </String>
+  <String index="609">
+    <ToTranslate>Aisha$&quot;You don&apos;t need to thank me. Because of this experience, I now know what you go though every day.&quot;@</ToTranslate>
+  </String>
+  <String index="610">
+    <ToTranslate>$She awkwardly stood up to give me the seat. She looked disheartened and exhausted, and even her tone was depressed.@</ToTranslate>
+  </String>
+  <String index="611">
+    <ToTranslate>tcg_kan31ka</ToTranslate>
+  </String>
+  <String index="612">
+    <ToTranslate>tcg_kan31m</ToTranslate>
+  </String>
+  <String index="613">
+    <ToTranslate>aisy1441</ToTranslate>
+  </String>
+  <String index="614">
+    <ToTranslate>Aisha$&quot;I will try not to press you for your judgment so often. I never knew the pressures of administrative work were so high...&quot;@</ToTranslate>
+  </String>
+  <String index="615">
+    <ToTranslate>Kazuto$&quot;Now you know, right? It&apos;s not easy, but...&quot;@</ToTranslate>
+  </String>
+  <String index="616">
+    <ToTranslate>$It felt good to have her look at me with respect, but I didn&apos;t want to seem cocky, either. I took my seat, to show her my usual technique.@</ToTranslate>
+  </String>
+  <String index="617">
+    <ToTranslate>Kazuto$&quot;It&apos;s actually nothing, once you know the trick.&quot;@</ToTranslate>
+  </String>
+  <String index="618">
+    <ToTranslate>tcg_kan21da</ToTranslate>
+  </String>
+  <String index="619">
+    <ToTranslate>tcg_kan21m</ToTranslate>
+  </String>
+  <String index="620">
+    <ToTranslate>aisy1442</ToTranslate>
+  </String>
+  <String index="621">
+    <ToTranslate>Aisha$&quot;The trick?&quot;@</ToTranslate>
+  </String>
+  <String index="622">
+    <ToTranslate>Kazuto$&quot;Yep. If there&apos;s an issue I don&apos;t understand or don&apos;t have time to deal with, I give it to the person more suited to deal with it. Like this.&quot;@</ToTranslate>
+  </String>
+  <String index="623">
+    <ToTranslate>$As I spoke, I began looking through the papers on my desk, one by one.@</ToTranslate>
+  </String>
+  <String index="624">
+    <ToTranslate>Kazuto$&quot;Let&apos;s see... a petition from the city? That&apos;s Shuri. A bill from our supply merchant? That&apos;s for Shion.&quot;@</ToTranslate>
+  </String>
+  <String index="625">
+    <ToTranslate>$I divided the mountain of paperwork into smaller piles for each general. I smiled at Aisha as I separated them.@</ToTranslate>
+  </String>
+  <String index="626">
+    <ToTranslate>Kazuto$&quot;Recruit applications, training reports... these go to Sei.&quot;@</ToTranslate>
+  </String>
+  <String index="627">
+    <ToTranslate>tcg_kan11ca</ToTranslate>
+  </String>
+  <String index="628">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="629">
+    <ToTranslate>aisy1443</ToTranslate>
+  </String>
+  <String index="630">
+    <ToTranslate>Aisha$&quot;Those recruit applications should be mine!&quot;@</ToTranslate>
+  </String>
+  <String index="631">
+    <ToTranslate>Kazuto$&quot;Okay, they&apos;re yours. Some gang activity on the outskirts of the city? Sui should be able to take care of that...&quot;@</ToTranslate>
+  </String>
+  <String index="632">
+    <ToTranslate>tcg_kan21ba</ToTranslate>
+  </String>
+  <String index="633">
+    <ToTranslate>tcg_kan21m</ToTranslate>
+  </String>
+  <String index="634">
+    <ToTranslate>aisy1444</ToTranslate>
+  </String>
+  <String index="635">
+    <ToTranslate>Aisha$&quot;Hee-hee, you&apos;re going through them so quickly.&quot;@</ToTranslate>
+  </String>
+  <String index="636">
+    <ToTranslate>$Yeah, it wasn&apos;t bad for little ol&apos; me! Just kidding. Once all the partitioning was through, there were only two or three documents remaining.@</ToTranslate>
+  </String>
+  <String index="637">
+    <ToTranslate>tcg_kan21na</ToTranslate>
+  </String>
+  <String index="638">
+    <ToTranslate>tcg_kan21m</ToTranslate>
+  </String>
+  <String index="639">
+    <ToTranslate>aisy1445</ToTranslate>
+  </String>
+  <String index="640">
+    <ToTranslate>Aisha$&quot;I see now. I shouldn&apos;t try to make decisions where I&apos;m not the most qualified. It&apos;s more efficient to leave it to those who are.&quot;@</ToTranslate>
+  </String>
+  <String index="641">
+    <ToTranslate>Kazuto$&quot;Exactly. I don&apos;t know everything about everything, but I have brilliant allies I can rely upon. That&apos;s what gets me through the day.&quot;@</ToTranslate>
+  </String>
+  <String index="642">
+    <ToTranslate>tcg_kan11aa</ToTranslate>
+  </String>
+  <String index="643">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="644">
+    <ToTranslate>aisy1446</ToTranslate>
+  </String>
+  <String index="645">
+    <ToTranslate>Aisha$&quot;We could say the same about you. We are fortunate to have a lord who works to bring out our full potential.&quot;@</ToTranslate>
+  </String>
+  <String index="646">
+    <ToTranslate>$It was good to hear her say that. Aisha bowed deeply to me, and I humbly scratched my head.@</ToTranslate>
+  </String>
+  <String index="647">
+    <ToTranslate>tcg_kan21ba</ToTranslate>
+  </String>
+  <String index="648">
+    <ToTranslate>tcg_kan21m</ToTranslate>
+  </String>
+  <String index="649">
+    <ToTranslate>aisy1447</ToTranslate>
+  </String>
+  <String index="650">
+    <ToTranslate>Aisha$&quot;I am grateful to you, My Lord.&quot;@</ToTranslate>
+  </String>
+  <String index="651">
+    <ToTranslate>Kazuto$&quot;I should be the one thanking you for giving me a day off when things are hectic. Thank you so much for today, Aisha.&quot;@</ToTranslate>
+  </String>
+  <String index="652">
+    <ToTranslate>tcg_kan21na</ToTranslate>
+  </String>
+  <String index="653">
+    <ToTranslate>tcg_kan21m</ToTranslate>
+  </String>
+  <String index="654">
+    <ToTranslate>aisy1448</ToTranslate>
+  </String>
+  <String index="655">
+    <ToTranslate>Aisha$&quot;I was the one who asked you to do it. So... did Rinrin have fun?&quot;@</ToTranslate>
+  </String>
+  <String index="656">
+    <ToTranslate>Kazuto$&quot;Ah, she had a great time. However I... had some mixed emotions.&quot;@</ToTranslate>
+  </String>
+  <String index="657">
+    <ToTranslate>tcg_kan21da</ToTranslate>
+  </String>
+  <String index="658">
+    <ToTranslate>tcg_kan21m</ToTranslate>
+  </String>
+  <String index="659">
+    <ToTranslate>aisy1449</ToTranslate>
+  </String>
+  <String index="660">
+    <ToTranslate>Aisha$&quot;Some mixed emotions? Did Rinrin become unmanageable?&quot;@</ToTranslate>
+  </String>
+  <String index="661">
+    <ToTranslate>Kazuto$&quot;Oh no, she was well-behaved. It got me thinking about what a good girl she is.&quot;@</ToTranslate>
+  </String>
+  <String index="662">
+    <ToTranslate>$I felt I could trust Aisha, not just with my memories of the special day, but about the feelings of confusion that knocked against my heart.@</ToTranslate>
+  </String>
+  <String index="663">
+    <ToTranslate>Kazuto$&quot;Rinrin said she was happy just seeing the people in the city happy. It&apos;s a pretty deep attitude for someone so immature.&quot;@</ToTranslate>
+  </String>
+  <String index="664">
+    <ToTranslate>tcg_kan11aa</ToTranslate>
+  </String>
+  <String index="665">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="666">
+    <ToTranslate>aisy1450</ToTranslate>
+  </String>
+  <String index="667">
+    <ToTranslate>Aisha$&quot;That&apos;s so like her.&quot;@</ToTranslate>
+  </String>
+  <String index="668">
+    <ToTranslate>Kazuto$&quot;She&apos;s at an age where she should be only thinking about her own happiness. She&apos;s too young for those kinds of burdens, don&apos;t you think?&quot;@</ToTranslate>
+  </String>
+  <String index="669">
+    <ToTranslate>tcg_kan31ka</ToTranslate>
+  </String>
+  <String index="670">
+    <ToTranslate>tcg_kan31m</ToTranslate>
+  </String>
+  <String index="671">
+    <ToTranslate>aisy1451</ToTranslate>
+  </String>
+  <String index="672">
+    <ToTranslate>Aisha$&quot;Yes, I do.&quot;@</ToTranslate>
+  </String>
+  <String index="673">
+    <ToTranslate>$Aisha nodded. Her expression was hard to classify. It was like joy, sorrow, and delight, all mixed into one.@</ToTranslate>
+  </String>
+  <String index="674">
+    <ToTranslate>Kazuto$&quot;In return for all she&apos;d done... all she wanted as a piggyback ride.&quot;@</ToTranslate>
+  </String>
+  <String index="675">
+    <ToTranslate>tcg_kan21da</ToTranslate>
+  </String>
+  <String index="676">
+    <ToTranslate>tcg_kan21m</ToTranslate>
+  </String>
+  <String index="677">
+    <ToTranslate>aisy1452</ToTranslate>
+  </String>
+  <String index="678">
+    <ToTranslate>Aisha$&quot;A piggyback ride... I see.&quot;@</ToTranslate>
+  </String>
+  <String index="679">
+    <ToTranslate>$I wondered if my confession pained her in the same way it did me.@</ToTranslate>
+  </String>
+  <String index="680">
+    <ToTranslate>Kazuto$&quot;It wasn&apos;t sad, it just felt... like a huge weight on my chest. I knew it was what she really wanted, but...&quot;@</ToTranslate>
+  </String>
+  <String index="681">
+    <ToTranslate>$I had to be a little selfish, now. I needed to share my unbearable burden with someone who shared my concerns.@</ToTranslate>
+  </String>
+  <String index="682">
+    <ToTranslate>tcg_kan11na</ToTranslate>
+  </String>
+  <String index="683">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="684">
+    <ToTranslate>aisy1453</ToTranslate>
+  </String>
+  <String index="685">
+    <ToTranslate>Aisha$&quot;Please let me thank you. Thank you for noticing the loneliness that she hasn&apos;t even noticed herself.&quot;@</ToTranslate>
+  </String>
+  <String index="686">
+    <ToTranslate>Kazuto$&quot;How could I fail to notice?&quot;@</ToTranslate>
+  </String>
+  <String index="687">
+    <ToTranslate>tcg_kan21aa</ToTranslate>
+  </String>
+  <String index="688">
+    <ToTranslate>tcg_kan21m</ToTranslate>
+  </String>
+  <String index="689">
+    <ToTranslate>aisy1454</ToTranslate>
+  </String>
+  <String index="690">
+    <ToTranslate>Aisha$&quot;Because she tries not to show it. She hides it behind her image as the brave, unstoppable general.&quot;@</ToTranslate>
+  </String>
+  <String index="691">
+    <ToTranslate>$Aisha was showing her strength. She smiled before I did, and her admiration for Rinrin radiated out from it.@</ToTranslate>
+  </String>
+  <String index="692">
+    <ToTranslate>tcg_kan31ka</ToTranslate>
+  </String>
+  <String index="693">
+    <ToTranslate>tcg_kan31m</ToTranslate>
+  </String>
+  <String index="694">
+    <ToTranslate>aisy1455</ToTranslate>
+  </String>
+  <String index="695">
+    <ToTranslate>Aisha$&quot;I guess she&apos;s doing it for us... we deserve the blame, for not letting her enjoy her youth.&quot;@</ToTranslate>
+  </String>
+  <String index="696">
+    <ToTranslate>tcg_kan31ja</ToTranslate>
+  </String>
+  <String index="697">
+    <ToTranslate>tcg_kan31m</ToTranslate>
+  </String>
+  <String index="698">
+    <ToTranslate>aisy1456</ToTranslate>
+  </String>
+  <String index="699">
+    <ToTranslate>Aisha$&quot;She wants to love her family and the people close to her... and she wants to feel that love in return.&quot;@</ToTranslate>
+  </String>
+  <String index="700">
+    <ToTranslate>$The smile I had mistaken for strength disappeared in an instant.@</ToTranslate>
+  </String>
+  <String index="701">
+    <ToTranslate>tcg_kan31ka</ToTranslate>
+  </String>
+  <String index="702">
+    <ToTranslate>tcg_kan31m</ToTranslate>
+  </String>
+  <String index="703">
+    <ToTranslate>aisy1457</ToTranslate>
+  </String>
+  <String index="704">
+    <ToTranslate>Aisha$&quot;She has suppressed her wishes for so long that she has become unaware she is doing it.&quot;@</ToTranslate>
+  </String>
+  <String index="705">
+    <ToTranslate>Kazuto$&quot;Aisha...&quot;@</ToTranslate>
+  </String>
+  <String index="706">
+    <ToTranslate>tcg_kan11aa</ToTranslate>
+  </String>
+  <String index="707">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="708">
+    <ToTranslate>aisy1458</ToTranslate>
+  </String>
+  <String index="709">
+    <ToTranslate>Aisha$&quot;... rather, she pretends as though she is unaware.&quot;@</ToTranslate>
+  </String>
+  <String index="710">
+    <ToTranslate>$Her smile returned, weaker this time. She tossed her hair off her shoulder in self-derision.@</ToTranslate>
+  </String>
+  <String index="711">
+    <ToTranslate>tcg_kan31ka</ToTranslate>
+  </String>
+  <String index="712">
+    <ToTranslate>tcg_kan31m</ToTranslate>
+  </String>
+  <String index="713">
+    <ToTranslate>aisy1459</ToTranslate>
+  </String>
+  <String index="714">
+    <ToTranslate>Aisha$&quot;I know that better than anyone, and yet...&quot;@</ToTranslate>
+  </String>
+  <String index="715">
+    <ToTranslate>Kazuto$&quot;... Rinrin loves you, Aisha.&quot;@</ToTranslate>
+  </String>
+  <String index="716">
+    <ToTranslate>$She seemed surprised as I interrupted her with a whisper. I stood up to pat her on the shoulder, encouragingly.@</ToTranslate>
+  </String>
+  <String index="717">
+    <ToTranslate>Kazuto$&quot;And you love her too... that&apos;s why you made her birthday wish come true.&quot;@</ToTranslate>
+  </String>
+  <String index="718">
+    <ToTranslate>tcg_kan31ga</ToTranslate>
+  </String>
+  <String index="719">
+    <ToTranslate>tcg_kan31m</ToTranslate>
+  </String>
+  <String index="720">
+    <ToTranslate>aisy1460</ToTranslate>
+  </String>
+  <String index="721">
+    <ToTranslate>Aisha$&quot;... and yet, I... can not bury her loneliness for her. I have no means to ease her sadness.&quot;@</ToTranslate>
+  </String>
+  <String index="722">
+    <ToTranslate>$She was doing this because she cared about Rinrin, but I knew Rinrin wouldn&apos;t be happy to see her beating herself up like this.@</ToTranslate>
+  </String>
+  <String index="723">
+    <ToTranslate>tcg_kan31ja</ToTranslate>
+  </String>
+  <String index="724">
+    <ToTranslate>tcg_kan31m</ToTranslate>
+  </String>
+  <String index="725">
+    <ToTranslate>aisy1461</ToTranslate>
+  </String>
+  <String index="726">
+    <ToTranslate>Aisha$&quot;For all that I spend so much time with her, for all that I act like her big sister... it&apos;s pathetic, isn&apos;t it.&quot;@</ToTranslate>
+  </String>
+  <String index="727">
+    <ToTranslate>Kazuto$&quot;That&apos;s not true. You&apos;re doing all you can to bury her loneliness. Rinrin said she&apos;s happy just being with all of us.&quot;@</ToTranslate>
+  </String>
+  <String index="728">
+    <ToTranslate>tcg_kan21pa</ToTranslate>
+  </String>
+  <String index="729">
+    <ToTranslate>tcg_kan21m</ToTranslate>
+  </String>
+  <String index="730">
+    <ToTranslate>aisy1462</ToTranslate>
+  </String>
+  <String index="731">
+    <ToTranslate>Aisha$&quot;Did she say that?&quot;@</ToTranslate>
+  </String>
+  <String index="732">
+    <ToTranslate>Kazuto$&quot;She said your name first. You&apos;re her sister, right? You have to believe in yourself.&quot;@</ToTranslate>
+  </String>
+  <String index="733">
+    <ToTranslate>tcg_kan21oa</ToTranslate>
+  </String>
+  <String index="734">
+    <ToTranslate>tcg_kan21m</ToTranslate>
+  </String>
+  <String index="735">
+    <ToTranslate>aisy1463</ToTranslate>
+  </String>
+  <String index="736">
+    <ToTranslate>Aisha$&quot;Heh. I suppose you&apos;re right.&quot;@</ToTranslate>
+  </String>
+  <String index="737">
+    <ToTranslate>$I breathed a sigh of relief as my plea hit its mark.@</ToTranslate>
+  </String>
+  <String index="738">
+    <ToTranslate>tcg_kan21aa</ToTranslate>
+  </String>
+  <String index="739">
+    <ToTranslate>tcg_kan21m</ToTranslate>
+  </String>
+  <String index="740">
+    <ToTranslate>aisy1464</ToTranslate>
+  </String>
+  <String index="741">
+    <ToTranslate>Aisha$&quot;Is Rinrin... in her room?&quot;@</ToTranslate>
+  </String>
+  <String index="742">
+    <ToTranslate>Kazuto$&quot;Yeah, she&apos;s asleep. She must have been exhausted after a day like that. We walked every square inch of the markets.&quot;@</ToTranslate>
+  </String>
+  <String index="743">
+    <ToTranslate>tcg_kan21ba</ToTranslate>
+  </String>
+  <String index="744">
+    <ToTranslate>tcg_kan21m</ToTranslate>
+  </String>
+  <String index="745">
+    <ToTranslate>aisy1465</ToTranslate>
+  </String>
+  <String index="746">
+    <ToTranslate>Aisha$&quot;I see... hee-hee, I can almost imagine it.&quot;@</ToTranslate>
+  </String>
+  <String index="747">
+    <ToTranslate>$She was as happy as if she had been there. Her previous fears had all been wiped away.@</ToTranslate>
+  </String>
+  <String index="748">
+    <ToTranslate>tcg_kan21aa</ToTranslate>
+  </String>
+  <String index="749">
+    <ToTranslate>tcg_kan21m</ToTranslate>
+  </String>
+  <String index="750">
+    <ToTranslate>aisy1466</ToTranslate>
+  </String>
+  <String index="751">
+    <ToTranslate>Aisha$&quot;I think I&apos;ll be heading back to my room then. Where are the documents you had for me...?&quot;@</ToTranslate>
+  </String>
+  <String index="752">
+    <ToTranslate>Kazuto$&quot;Worry about them tomorrow. Doing all this unfamiliar work must have you exhausted. Get a good night&apos;s rest.&quot;@</ToTranslate>
+  </String>
+  <String index="753">
+    <ToTranslate>tcg_kan11aa</ToTranslate>
+  </String>
+  <String index="754">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="755">
+    <ToTranslate>aisy1467</ToTranslate>
+  </String>
+  <String index="756">
+    <ToTranslate>Aisha$&quot;If you insist, My Lord. Then I shall take my leave... good night.&quot;@</ToTranslate>
+  </String>
+  <String index="757">
+    <ToTranslate>Kazuto$&quot;Good night.&quot;@</ToTranslate>
+  </String>
+  <String index="758">
+    <ToTranslate>$She bowed to me properly, her fists balled at her sides, then left the room.@</ToTranslate>
+  </String>
+  <String index="759">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="760">
+    <ToTranslate>SE058</ToTranslate>
+  </String>
+  <String index="761">
+    <ToTranslate>Kazuto$&quot;Let&apos;s see.&quot;@</ToTranslate>
+  </String>
+  <String index="762">
+    <ToTranslate>$After making the big show in front of Aisha, I figured I&apos;d better finish up the remaining documents.@</ToTranslate>
+  </String>
+  <String index="763">
+    <ToTranslate>$I wasn&apos;t ready to sleep yet. Thoughts of the time I shared with Rinrin were still dancing with my head, and I wanted to sort out my feelings toward her.@</ToTranslate>
+  </String>
+  <String index="764">
+    <ToTranslate>$Time drifted by. I spent most of the night with those thoughts still echoing in my mind.@</ToTranslate>
+  </String>
+  <String index="765">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="766">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="767">
+    <ToTranslate>bb</ToTranslate>
+  </String>
+  <String index="768">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="769">
+    <ToTranslate>bb</ToTranslate>
+  </String>
+  <String index="770">
+    <ToTranslate>bcg_heroroom_d</ToTranslate>
+  </String>
+  <String index="771">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="772">
+    <ToTranslate>bgm24</ToTranslate>
+  </String>
+  <String index="773">
+    <ToTranslate>SE057</ToTranslate>
+  </String>
+  <String index="774">
+    <ToTranslate>$I had been so exhausted that my conscious dissolved into blackness before I could even pull the blanket over me.@</ToTranslate>
+  </String>
+  <String index="775">
+    <ToTranslate>$That was some time ago; I didn&apos;t know how long.@</ToTranslate>
+  </String>
+  <String index="776">
+    <ToTranslate>$I awoke to the sound of the door opening... it couldn&apos;t have even been an hour later.@</ToTranslate>
+  </String>
+  <String index="777">
+    <ToTranslate>$It must have been the will of providence. I took a deep breath from where I lay.@</ToTranslate>
+  </String>
+  <String index="778">
+    <ToTranslate>$I reached to my bedside, and slowly put my hand around the dagger I had stashed there. I didn&apos;t draw it, in case the sound would alert the intruder.@</ToTranslate>
+  </String>
+  <String index="779">
+    <ToTranslate>$Men in my position didn&apos;t get night calls. Not friendly ones, at least.@</ToTranslate>
+  </String>
+  <String index="780">
+    <ToTranslate>$Aisha and the others even warned me about the possibility of an assassination.@</ToTranslate>
+  </String>
+  <String index="781">
+    <ToTranslate>Kazuto$&quot;(If he comes at me, I&apos;ll jump out of bed and strike... I don&apos;t even need to connect.)&quot;@</ToTranslate>
+  </String>
+  <String index="782">
+    <ToTranslate>Kazuto$&quot;(If I can startle him and get to the hallway, I can cry for help...)&quot;@</ToTranslate>
+  </String>
+  <String index="783">
+    <ToTranslate>$I just needed to hang in there long enough for the others to reach me.@</ToTranslate>
+  </String>
+  <String index="784">
+    <ToTranslate>$I ran over the various flight scenarios in my mind. My palms were getting sweaty.@</ToTranslate>
+  </String>
+  <String index="785">
+    <ToTranslate>$The footsteps were getting closer, padding softly across the floor.@</ToTranslate>
+  </String>
+  <String index="786">
+    <ToTranslate>$Almost time...@</ToTranslate>
+  </String>
+  <String index="787">
+    <ToTranslate>$I fixed my concentration into the intruder&apos;s every move, trying to adjust what my reaction would be...@</ToTranslate>
+  </String>
+  <String index="788">
+    <ToTranslate>rinr1521</ToTranslate>
+  </String>
+  <String index="789">
+    <ToTranslate>???$&quot;...... nii...... chan............&quot;@</ToTranslate>
+  </String>
+  <String index="790">
+    <ToTranslate>$Hmm?@</ToTranslate>
+  </String>
+  <String index="791">
+    <ToTranslate>tcg_cho41kc</ToTranslate>
+  </String>
+  <String index="792">
+    <ToTranslate>tcg_cho41m</ToTranslate>
+  </String>
+  <String index="793">
+    <ToTranslate>rinr1522</ToTranslate>
+  </String>
+  <String index="794">
+    <ToTranslate>Rinrin$&quot;*Sniffle*, Onii-chaaaan...&quot;@</ToTranslate>
+  </String>
+  <String index="795">
+    <ToTranslate>Kazuto$&quot;Rinrin!?&quot;@</ToTranslate>
+  </String>
+  <String index="796">
+    <ToTranslate>$I replaced the dagger from whence it came and jumped to my feet. I blinked repeatedly, trying to get my eyes accustomed to the twilight.@</ToTranslate>
+  </String>
+  <String index="797">
+    <ToTranslate>rinr1523</ToTranslate>
+  </String>
+  <String index="798">
+    <ToTranslate>Rinrin$&quot;Onii-chan...&quot;@</ToTranslate>
+  </String>
+  <String index="799">
+    <ToTranslate>Kazuto$&quot;It is you, Rinrin... what&apos;s wrong? Why are you out so late?&quot;@</ToTranslate>
+  </String>
+  <String index="800">
+    <ToTranslate>rinr1524</ToTranslate>
+  </String>
+  <String index="801">
+    <ToTranslate>Rinrin$&quot;Ooooo, *sniffle... sniffle*.&quot;@</ToTranslate>
+  </String>
+  <String index="802">
+    <ToTranslate>$She was sniffling, and her voice trembled. What was going on?@</ToTranslate>
+  </String>
+  <String index="803">
+    <ToTranslate>rinr1525</ToTranslate>
+  </String>
+  <String index="804">
+    <ToTranslate>Rinrin$&quot;Whahhhhh... mmm.&quot;@</ToTranslate>
+  </String>
+  <String index="805">
+    <ToTranslate>$I felt her warmth against me, long before my eyes adjusted. She had run the remaining distance and was clinging to my leg, hanging off the side of the bed.@</ToTranslate>
+  </String>
+  <String index="806">
+    <ToTranslate>Kazuto$&quot;H-hey... what happened?&quot;@</ToTranslate>
+  </String>
+  <String index="807">
+    <ToTranslate>$As I hurried to embrace her, I could feel tears on her cheeks. I held her tightly against my chest. Her wail pierced the silence.@</ToTranslate>
+  </String>
+  <String index="808">
+    <ToTranslate>Kazuto$&quot;Hey now, what&apos;s wrong? Did you hurt yourself?&quot;@</ToTranslate>
+  </String>
+  <String index="809">
+    <ToTranslate>rinr1526</ToTranslate>
+  </String>
+  <String index="810">
+    <ToTranslate>Rinrin$&quot;*Sniffle...*&quot;@</ToTranslate>
+  </String>
+  <String index="811">
+    <ToTranslate>$She shook her head slowly.@</ToTranslate>
+  </String>
+  <String index="812">
+    <ToTranslate>Kazuto$&quot;Do you feel feverish? Or... did you see a ghost?&quot;@</ToTranslate>
+  </String>
+  <String index="813">
+    <ToTranslate>$She shook her head again, this time widely, as if chastising me for my poor guesses.@</ToTranslate>
+  </String>
+  <String index="814">
+    <ToTranslate>Kazuto$&quot;I see. Then... did something bad happen?&quot;@</ToTranslate>
+  </String>
+  <String index="815">
+    <ToTranslate>rinr1527</ToTranslate>
+  </String>
+  <String index="816">
+    <ToTranslate>Rinrin$&quot;Ooo, oooo... whahhh.&quot;@</ToTranslate>
+  </String>
+  <String index="817">
+    <ToTranslate>$She nodded, at last. I stroked her hair and her back as gently as I could, and whispered soothingly into her ear.@</ToTranslate>
+  </String>
+  <String index="818">
+    <ToTranslate>Kazuto$&quot;I see, something bad, huh? Let&apos;s get all the tears out first. I&apos;ll hold you until then.&quot;@</ToTranslate>
+  </String>
+  <String index="819">
+    <ToTranslate>rinr1528</ToTranslate>
+  </String>
+  <String index="820">
+    <ToTranslate>Rinrin$&quot;*Sniffle, sniffle...* whahhhh.&quot;@</ToTranslate>
+  </String>
+  <String index="821">
+    <ToTranslate>Kazuto$&quot;I got you.&quot;@</ToTranslate>
+  </String>
+  <String index="822">
+    <ToTranslate>rinr1529</ToTranslate>
+  </String>
+  <String index="823">
+    <ToTranslate>Rinrin$&quot;Whahhhhhhhmmmm!&quot;@</ToTranslate>
+  </String>
+  <String index="824">
+    <ToTranslate>$I patted her lightly on the back. I could ask her what was wrong later... right now, I just wanted to ease her sadness.@</ToTranslate>
+  </String>
+  <String index="825">
+    <ToTranslate>rinr1530</ToTranslate>
+  </String>
+  <String index="826">
+    <ToTranslate>Rinrin$&quot;Onii... chan, Rinrin is... Rinrin... *sniffle, sniffle*.&quot;@</ToTranslate>
+  </String>
+  <String index="827">
+    <ToTranslate>Kazuto$&quot;Good girl.&quot;@</ToTranslate>
+  </String>
+  <String index="828">
+    <ToTranslate>rinr1531</ToTranslate>
+  </String>
+  <String index="829">
+    <ToTranslate>Rinrin$&quot;Whahhh... *sniffle, sniffle*.&quot;@</ToTranslate>
+  </String>
+  <String index="830">
+    <ToTranslate>$I would hold her until I felt her stop trembling. I pressed my cheek against her hair, to reassure her.@</ToTranslate>
+  </String>
+  <String index="831">
+    <ToTranslate>bgm25</ToTranslate>
+  </String>
+  <String index="832">
+    <ToTranslate>rinr1532</ToTranslate>
+  </String>
+  <String index="833">
+    <ToTranslate>Rinrin$&quot;Because you gave me that piggyback ride... *sniffle*, I got to remembering...&quot;@</ToTranslate>
+  </String>
+  <String index="834">
+    <ToTranslate>Kazuto$&quot;Remembering? Ah...&quot;@</ToTranslate>
+  </String>
+  <String index="835">
+    <ToTranslate>tcg_cho11fc</ToTranslate>
+  </String>
+  <String index="836">
+    <ToTranslate>tcg_cho11m</ToTranslate>
+  </String>
+  <String index="837">
+    <ToTranslate>rinr1533</ToTranslate>
+  </String>
+  <String index="838">
+    <ToTranslate>Rinrin$&quot;I was trying not to think about it because remembering would make me sad... but I remembered.&quot;@</ToTranslate>
+  </String>
+  <String index="839">
+    <ToTranslate>$The feelings I&apos;d been wrestling with passed through my mind again. The things she had told me during the piggyback ride were thoughts she had been repressing.@</ToTranslate>
+  </String>
+  <String index="840">
+    <ToTranslate>rinr1534</ToTranslate>
+  </String>
+  <String index="841">
+    <ToTranslate>Rinrin$&quot;... Rinrin had a dream about her mama and papa.&quot;@</ToTranslate>
+  </String>
+  <String index="842">
+    <ToTranslate>Kazuto$&quot;You had a dream... I see.&quot;@</ToTranslate>
+  </String>
+  <String index="843">
+    <ToTranslate>rinr1535</ToTranslate>
+  </String>
+  <String index="844">
+    <ToTranslate>Rinrin$&quot;Mmm... they smiled and asked me how I was doing.&quot;@</ToTranslate>
+  </String>
+  <String index="845">
+    <ToTranslate>$I was just a stranger, but I could empathize with her, the sadness of seeing the smile of a loved one long since gone out of reach.@</ToTranslate>
+  </String>
+  <String index="846">
+    <ToTranslate>rinr1536</ToTranslate>
+  </String>
+  <String index="847">
+    <ToTranslate>Rinrin$&quot;I said I was doing good... and then mama and papa disappeared. They left me.&quot;@</ToTranslate>
+  </String>
+  <String index="848">
+    <ToTranslate>tcg_cho41kc</ToTranslate>
+  </String>
+  <String index="849">
+    <ToTranslate>tcg_cho41m</ToTranslate>
+  </String>
+  <String index="850">
+    <ToTranslate>rinr1537</ToTranslate>
+  </String>
+  <String index="851">
+    <ToTranslate>Rinrin$&quot;Rinrin wanted to tell them lots more... but they just left me behind... *sniff*.&quot;@</ToTranslate>
+  </String>
+  <String index="852">
+    <ToTranslate>$If she started crying again, it would tear my heart out. I wiped her eyes with my fingers to try to stop her.@</ToTranslate>
+  </String>
+  <String index="853">
+    <ToTranslate>Kazuto$&quot;It&apos;s okay... that must have been lonely.&quot;@</ToTranslate>
+  </String>
+  <String index="854">
+    <ToTranslate>$I embraced her again, tightly, and went back to stroking her back.@</ToTranslate>
+  </String>
+  <String index="855">
+    <ToTranslate>rinr1538</ToTranslate>
+  </String>
+  <String index="856">
+    <ToTranslate>Rinrin$&quot;Because of the dream... the happy feelings I had went away. This is too sad...&quot;@</ToTranslate>
+  </String>
+  <String index="857">
+    <ToTranslate>Kazuto$&quot;... didn&apos;t you love you father and mother?&quot;@</ToTranslate>
+  </String>
+  <String index="858">
+    <ToTranslate>tcg_cho11fc</ToTranslate>
+  </String>
+  <String index="859">
+    <ToTranslate>tcg_cho11m</ToTranslate>
+  </String>
+  <String index="860">
+    <ToTranslate>rinr1539</ToTranslate>
+  </String>
+  <String index="861">
+    <ToTranslate>Rinrin$&quot;I love them so much! I love them... that&apos;s why.&quot;@</ToTranslate>
+  </String>
+  <String index="862">
+    <ToTranslate>Kazuto$&quot;They love you too, and that&apos;s why.&quot;@</ToTranslate>
+  </String>
+  <String index="863">
+    <ToTranslate>$I didn&apos;t think the words were irresponsible. She peered up at me, and her expression changed to one of confusion.@</ToTranslate>
+  </String>
+  <String index="864">
+    <ToTranslate>Kazuto$&quot;You know it wasn&apos;t just a dream. Today is your special day... so your father and mother came to see you. I know it.&quot;@</ToTranslate>
+  </String>
+  <String index="865">
+    <ToTranslate>rinr1540</ToTranslate>
+  </String>
+  <String index="866">
+    <ToTranslate>Rinrin$&quot;But why... this year? Rinrin&apos;s been waiting and waiting... to see mama and papa again...&quot;@</ToTranslate>
+  </String>
+  <String index="867">
+    <ToTranslate>Kazuto$&quot;Well...&quot;@</ToTranslate>
+  </String>
+  <String index="868">
+    <ToTranslate>rinr1541</ToTranslate>
+  </String>
+  <String index="869">
+    <ToTranslate>Rinrin$&quot;I&apos;ve been waiting forever...&quot;@</ToTranslate>
+  </String>
+  <String index="870">
+    <ToTranslate>$I put myself in the position of her parents, looking down on her from heaven.@</ToTranslate>
+  </String>
+  <String index="871">
+    <ToTranslate>Kazuto$&quot;If memories of them make you cry, they won&apos;t be able to come to see you.&quot;@</ToTranslate>
+  </String>
+  <String index="872">
+    <ToTranslate>tcg_cho41nc</ToTranslate>
+  </String>
+  <String index="873">
+    <ToTranslate>tcg_cho41m</ToTranslate>
+  </String>
+  <String index="874">
+    <ToTranslate>rinr1542</ToTranslate>
+  </String>
+  <String index="875">
+    <ToTranslate>Rinrin$&quot;What...?&quot;@</ToTranslate>
+  </String>
+  <String index="876">
+    <ToTranslate>Kazuto$&quot;They&apos;ve been watching over you and worrying about you for so long... you said they asked you how you were, right?&quot;@</ToTranslate>
+  </String>
+  <String index="877">
+    <ToTranslate>tcg_cho11fc</ToTranslate>
+  </String>
+  <String index="878">
+    <ToTranslate>tcg_cho11m</ToTranslate>
+  </String>
+  <String index="879">
+    <ToTranslate>rinr1543</ToTranslate>
+  </String>
+  <String index="880">
+    <ToTranslate>Rinrin$&quot;Yeah...&quot;@</ToTranslate>
+  </String>
+  <String index="881">
+    <ToTranslate>Kazuto$&quot;That&apos;s not a dream. Your father and mother actually asked you. They wanted to make sure so they don&apos;t have to worry about you.&quot;@</ToTranslate>
+  </String>
+  <String index="882">
+    <ToTranslate>$That was the answer I came up with. I didn&apos;t think it would be hard for Rinrin to understand.@</ToTranslate>
+  </String>
+  <String index="883">
+    <ToTranslate>rinr1544</ToTranslate>
+  </String>
+  <String index="884">
+    <ToTranslate>Rinrin$&quot;Rinrin wanted them to praise her... like Onii-chan does.&quot;@</ToTranslate>
+  </String>
+  <String index="885">
+    <ToTranslate>Kazuto$&quot;But you ended up crying, instead... maybe that&apos;s something you need to work on? Then they will praise you, the next time they see you.&quot;@</ToTranslate>
+  </String>
+  <String index="886">
+    <ToTranslate>tcg_cho11pc</ToTranslate>
+  </String>
+  <String index="887">
+    <ToTranslate>tcg_cho11m</ToTranslate>
+  </String>
+  <String index="888">
+    <ToTranslate>rinr1545</ToTranslate>
+  </String>
+  <String index="889">
+    <ToTranslate>Rinrin$&quot;Hee-hee...&quot;@</ToTranslate>
+  </String>
+  <String index="890">
+    <ToTranslate>Kazuto$&quot;Keep smiling like that, and they&apos;ll know they have nothing to worry about. They want you to be happy, Rinrin.&quot;@</ToTranslate>
+  </String>
+  <String index="891">
+    <ToTranslate>$I didn&apos;t want her to notice the strength draining from my arms. I was just so relieved to see her smile.@</ToTranslate>
+  </String>
+  <String index="892">
+    <ToTranslate>tcg_cho11fc</ToTranslate>
+  </String>
+  <String index="893">
+    <ToTranslate>tcg_cho11m</ToTranslate>
+  </String>
+  <String index="894">
+    <ToTranslate>rinr1546</ToTranslate>
+  </String>
+  <String index="895">
+    <ToTranslate>Rinrin$&quot;... I&apos;m sorry, Onii-chan... I shouldn&apos;t have come to you... at night like this. Mama and papa would have punished me.&quot;@</ToTranslate>
+  </String>
+  <String index="896">
+    <ToTranslate>Kazuto$&quot;I forgive you. I&apos;m actually really happy that you came to me.&quot;@</ToTranslate>
+  </String>
+  <String index="897">
+    <ToTranslate>$I spoke rather quickly, and patted her head.@</ToTranslate>
+  </String>
+  <String index="898">
+    <ToTranslate>Kazuto$&quot;I&apos;m here for you. If something makes you sad, you can come see me anytime.&quot;@</ToTranslate>
+  </String>
+  <String index="899">
+    <ToTranslate>tcg_cho11pc</ToTranslate>
+  </String>
+  <String index="900">
+    <ToTranslate>tcg_cho11m</ToTranslate>
+  </String>
+  <String index="901">
+    <ToTranslate>rinr1547</ToTranslate>
+  </String>
+  <String index="902">
+    <ToTranslate>Rinrin$&quot;Really...?&quot;@</ToTranslate>
+  </String>
+  <String index="903">
+    <ToTranslate>Kazuto$&quot;Sure, anytime. I would do anything to take away your sadness.&quot;@</ToTranslate>
+  </String>
+  <String index="904">
+    <ToTranslate>$I embraced her... tightly. She held onto me just as tightly, and I was happy that she did.@</ToTranslate>
+  </String>
+  <String index="905">
+    <ToTranslate>tcg_cho11lc</ToTranslate>
+  </String>
+  <String index="906">
+    <ToTranslate>tcg_cho11m</ToTranslate>
+  </String>
+  <String index="907">
+    <ToTranslate>rinr1548</ToTranslate>
+  </String>
+  <String index="908">
+    <ToTranslate>Rinrin$&quot;Even now...? Rinrin wants you to hold her tight.&quot;@</ToTranslate>
+  </String>
+  <String index="909">
+    <ToTranslate>$There was no more need for words. I put my strength into my arms at her back, and waited for Rinrin&apos;s sadness to go away.@</ToTranslate>
+  </String>
+  <String index="910">
+    <ToTranslate>$We stayed together in silence. Her breath tickled against my neck.@</ToTranslate>
+  </String>
+  <String index="911">
+    <ToTranslate>rinr1549</ToTranslate>
+  </String>
+  <String index="912">
+    <ToTranslate>Rinrin$&quot;If we stay like this... all my sadness is gonna go away.&quot;@</ToTranslate>
+  </String>
+  <String index="913">
+    <ToTranslate>$She might have been forcing herself a little, but that was okay. I just wanted to see the smile on her face.@</ToTranslate>
+  </String>
+  <String index="914">
+    <ToTranslate>rinr1550</ToTranslate>
+  </String>
+  <String index="915">
+    <ToTranslate>Rinrin$&quot;Now I know mama and papa are watching over Rinrin... from up above.&quot;@</ToTranslate>
+  </String>
+  <String index="916">
+    <ToTranslate>Kazuto$&quot;Yeah, I know they are!&quot;@</ToTranslate>
+  </String>
+  <String index="917">
+    <ToTranslate>rinr1551</ToTranslate>
+  </String>
+  <String index="918">
+    <ToTranslate>Rinrin$&quot;Rinrin&apos;s gonna work harder so that mama and papa don&apos;t have to worry at all. I&apos;m gonna work really, really hard!&quot;@</ToTranslate>
+  </String>
+  <String index="919">
+    <ToTranslate>Kazuto$&quot;But when you&apos;re tired, you can take a break... you can rest on my shoulder.&quot;@</ToTranslate>
+  </String>
+  <String index="920">
+    <ToTranslate>rinr1552</ToTranslate>
+  </String>
+  <String index="921">
+    <ToTranslate>Rinrin$&quot;Mm, thanks. I won&apos;t be afraid to come to you... because I know Onii-chan loves Rinrin...&quot;@</ToTranslate>
+  </String>
+  <String index="922">
+    <ToTranslate>Kazuto$&quot;... you don&apos;t have to be afraid. Because it&apos;s true, I do love you.&quot;@</ToTranslate>
+  </String>
+  <String index="923">
+    <ToTranslate>rinr1553</ToTranslate>
+  </String>
+  <String index="924">
+    <ToTranslate>Rinrin$&quot;And can we cuddle like this sometimes? That&apos;s all Rinrin needs to get her good feelings back...&quot;@</ToTranslate>
+  </String>
+  <String index="925">
+    <ToTranslate>$She held on to me tighter. It was the gesture of an innocent girl... and for now, I wanted to act like her father.@</ToTranslate>
+  </String>
+  <String index="926">
+    <ToTranslate>rinr1554</ToTranslate>
+  </String>
+  <String index="927">
+    <ToTranslate>Rinrin$&quot;Please stay with me always. Then I&apos;ll always feel okay...&quot;@</ToTranslate>
+  </String>
+  <String index="928">
+    <ToTranslate>Kazuto$&quot;Sure. Always.&quot;@</ToTranslate>
+  </String>
+  <String index="929">
+    <ToTranslate>$As a father, or a lover... I would be with her as someone who loves her, no matter what the title.@</ToTranslate>
+  </String>
+  <String index="930">
+    <ToTranslate>tcg_cho21ic</ToTranslate>
+  </String>
+  <String index="931">
+    <ToTranslate>tcg_cho21m</ToTranslate>
+  </String>
+  <String index="932">
+    <ToTranslate>rinr1555</ToTranslate>
+  </String>
+  <String index="933">
+    <ToTranslate>Rinrin$&quot;Nyah... I&apos;m happy. Mmm, mmm!&quot;@</ToTranslate>
+  </String>
+  <String index="934">
+    <ToTranslate>$Rinrin pressed her ear against my chest and stirred, then pressed her body up against mine.@</ToTranslate>
+  </String>
+  <String index="935">
+    <ToTranslate>Kazuto$&quot;Are you getting sleepy? You can fall asleep right here, if you want.&quot;@</ToTranslate>
+  </String>
+  <String index="936">
+    <ToTranslate>tcg_cho31mc</ToTranslate>
+  </String>
+  <String index="937">
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="938">
+    <ToTranslate>rinr1556</ToTranslate>
+  </String>
+  <String index="939">
+    <ToTranslate>Rinrin$&quot;Eh? No, that&apos;s not what it is. Hee-hee-hee...&quot;@</ToTranslate>
+  </String>
+  <String index="940">
+    <ToTranslate>$She laughed, her face flushed. She snuggled up close to me again. I suddenly realized why she was squirming.@</ToTranslate>
+  </String>
+  <String index="941">
+    <ToTranslate>tcg_cho21oc</ToTranslate>
+  </String>
+  <String index="942">
+    <ToTranslate>tcg_cho21m</ToTranslate>
+  </String>
+  <String index="943">
+    <ToTranslate>rinr1557</ToTranslate>
+  </String>
+  <String index="944">
+    <ToTranslate>Rinrin$&quot;Well, I...&quot;@</ToTranslate>
+  </String>
+  <String index="945">
+    <ToTranslate>$She glanced up at me, bashful and restless. The sadness in her eyes was replaced by a mysterious, brilliant twinkle.@</ToTranslate>
+  </String>
+  <String index="946">
+    <ToTranslate>tcg_cho11lc</ToTranslate>
+  </String>
+  <String index="947">
+    <ToTranslate>tcg_cho11m</ToTranslate>
+  </String>
+  <String index="948">
+    <ToTranslate>rinr1558</ToTranslate>
+  </String>
+  <String index="949">
+    <ToTranslate>Rinrin$&quot;I love Onii-chan&apos;s smell... *sniff, sniff*.&quot;@</ToTranslate>
+  </String>
+  <String index="950">
+    <ToTranslate>Kazuto$&quot;Haha, you&apos;re tickling me.&quot;@</ToTranslate>
+  </String>
+  <String index="951">
+    <ToTranslate>$I didn&apos;t really mind. I gently put my hand to the back of her head to keep her nose fixed against my neck.@</ToTranslate>
+  </String>
+  <String index="952">
+    <ToTranslate>rinr1559</ToTranslate>
+  </String>
+  <String index="953">
+    <ToTranslate>Rinrin$&quot;Nyaha, ha, Onii-chan. Onii-chan Onii-chan Onii-chaaaan!&quot;@</ToTranslate>
+  </String>
+  <String index="954">
+    <ToTranslate>$She bounced her head up and down and pulled at my clothes, like an innocent puppy at play.@</ToTranslate>
+  </String>
+  <String index="955">
+    <ToTranslate>$We were one in our happiness... and I would have happily stayed like that until Rinrin&apos;s eyes closed.@</ToTranslate>
+  </String>
+  <String index="956">
+    <ToTranslate>rinr1560</ToTranslate>
+  </String>
+  <String index="957">
+    <ToTranslate>Rinrin$&quot;I&apos;m gonna tell you a secret, Onii-chan... it&apos;s Rinrin&apos;s real dream.&quot;@</ToTranslate>
+  </String>
+  <String index="958">
+    <ToTranslate>Kazuto$&quot;Heh?&quot;@</ToTranslate>
+  </String>
+  <String index="959">
+    <ToTranslate>$I had thought she was going to sleep, so I was surprised when she turned to me again.@</ToTranslate>
+  </String>
+  <String index="960">
+    <ToTranslate>tcg_cho31mc</ToTranslate>
+  </String>
+  <String index="961">
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="962">
+    <ToTranslate>rinr1561</ToTranslate>
+  </String>
+  <String index="963">
+    <ToTranslate>Rinrin$&quot;Rinrin&apos;s dream is... umm, hee-hee! ... I wanna be like my mama some day...&quot;@</ToTranslate>
+  </String>
+  <String index="964">
+    <ToTranslate>Kazuto$&quot;What do you mean? As in, you want to be a kind lady like your mother?&quot;@</ToTranslate>
+  </String>
+  <String index="965">
+    <ToTranslate>tcg_cho11lc</ToTranslate>
+  </String>
+  <String index="966">
+    <ToTranslate>tcg_cho11m</ToTranslate>
+  </String>
+  <String index="967">
+    <ToTranslate>rinr1562</ToTranslate>
+  </String>
+  <String index="968">
+    <ToTranslate>Rinrin$&quot;Yeah! And Onii-chan will be the papa.&quot;@</ToTranslate>
+  </String>
+  <String index="969">
+    <ToTranslate>$I was confused, but I didn&apos;t ask. I stroked her back, and let Rinrin tell me about her dreams for the future.@</ToTranslate>
+  </String>
+  <String index="970">
+    <ToTranslate>rinr1563</ToTranslate>
+  </String>
+  <String index="971">
+    <ToTranslate>Rinrin$&quot;And then, and then, when Onii-chan and I have babies, I&apos;m gonna be the mama and I&apos;ll do all kinds of nice things for them and be happy!&quot;@</ToTranslate>
+  </String>
+  <String index="972">
+    <ToTranslate>Kazuto$&quot;Babies? Haha, that&apos;s right, a mother and a father should have babies.&quot;@</ToTranslate>
+  </String>
+  <String index="973">
+    <ToTranslate>rinr1564</ToTranslate>
+  </String>
+  <String index="974">
+    <ToTranslate>Rinrin$&quot;Two babies.&quot;@</ToTranslate>
+  </String>
+  <String index="975">
+    <ToTranslate>$That would be a happy future. A bright, smiling family... I wouldn&apos;t mind being a part of it.@</ToTranslate>
+  </String>
+  <String index="976">
+    <ToTranslate>tcg_cho31mc</ToTranslate>
+  </String>
+  <String index="977">
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="978">
+    <ToTranslate>rinr1565</ToTranslate>
+  </String>
+  <String index="979">
+    <ToTranslate>Rinrin$&quot;We&apos;ll be smiling every day. When we eat, when we take naps, when we take a walk, we&apos;ll have so much fun!&quot;@</ToTranslate>
+  </String>
+  <String index="980">
+    <ToTranslate>Kazuto$&quot;Yeah, we&apos;ll find lots of happiness.&quot;@</ToTranslate>
+  </String>
+  <String index="981">
+    <ToTranslate>tcg_cho31oc</ToTranslate>
+  </String>
+  <String index="982">
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="983">
+    <ToTranslate>rinr1566</ToTranslate>
+  </String>
+  <String index="984">
+    <ToTranslate>Rinrin$&quot;Is that what you want, too, Onii-chan?&quot;@</ToTranslate>
+  </String>
+  <String index="985">
+    <ToTranslate>Kazuto$&quot;Sure I do.&quot;@</ToTranslate>
+  </String>
+  <String index="986">
+    <ToTranslate>$I replied without hesitation. She shifted her position, curling her soft body around me as if surrendering it to me.@</ToTranslate>
+  </String>
+  <String index="987">
+    <ToTranslate>Kazuto$&quot;I want to watch you forever. As you grow big and strong... into a fine, beautiful lady. I&apos;ll stay at your side forever.&quot;@</ToTranslate>
+  </String>
+  <String index="988">
+    <ToTranslate>tcg_cho11lc</ToTranslate>
+  </String>
+  <String index="989">
+    <ToTranslate>tcg_cho11m</ToTranslate>
+  </String>
+  <String index="990">
+    <ToTranslate>rinr1567</ToTranslate>
+  </String>
+  <String index="991">
+    <ToTranslate>Rinrin$&quot;You&apos;d have to, since you promised you&apos;d be with me always.&quot;@</ToTranslate>
+  </String>
+  <String index="992">
+    <ToTranslate>Kazuto$&quot;I really mean it. We&apos;ll be together no matter what, okay?&quot;@</ToTranslate>
+  </String>
+  <String index="993">
+    <ToTranslate>rinr1568</ToTranslate>
+  </String>
+  <String index="994">
+    <ToTranslate>Rinrin$&quot;No matter what!&quot;@</ToTranslate>
+  </String>
+  <String index="995">
+    <ToTranslate>$I swore an oath there and then: I would spend my whole life to protect this wonderful girl. I drew her closer to me, as if to reinforce it.@</ToTranslate>
+  </String>
+  <String index="996">
+    <ToTranslate>tcg_cho31oc</ToTranslate>
+  </String>
+  <String index="997">
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="998">
+    <ToTranslate>rinr1569</ToTranslate>
+  </String>
+  <String index="999">
+    <ToTranslate>Rinrin$&quot;Hey, if I want a baby...&quot;@</ToTranslate>
+  </String>
+  <String index="1000">
+    <ToTranslate>$I was a little surprised, though her train of thought wasn&apos;t far from mine.@</ToTranslate>
+  </String>
+  <String index="1001">
+    <ToTranslate>rinr1570</ToTranslate>
+  </String>
+  <String index="1002">
+    <ToTranslate>Rinrin$&quot;If I want a baby, I don&apos;t want to wait... Rinrin wants to be a mother soon.&quot;@</ToTranslate>
+  </String>
+  <String index="1003">
+    <ToTranslate>Kazuto$&quot;Soon?&quot;@</ToTranslate>
+  </String>
+  <String index="1004">
+    <ToTranslate>tcg_cho11lc</ToTranslate>
+  </String>
+  <String index="1005">
+    <ToTranslate>tcg_cho11m</ToTranslate>
+  </String>
+  <String index="1006">
+    <ToTranslate>rinr1571</ToTranslate>
+  </String>
+  <String index="1007">
+    <ToTranslate>Rinrin$&quot;Yep, soon.&quot;@</ToTranslate>
+  </String>
+  <String index="1008">
+    <ToTranslate>$It wasn&apos;t far at all. Rinrin was still an innocent to me, even when she had reckless thoughts.@</ToTranslate>
+  </String>
+  <String index="1009">
+    <ToTranslate>Kazuto$&quot;Come here, Rinrin.&quot;@</ToTranslate>
+  </String>
+  <String index="1010">
+    <ToTranslate>$She was a special person, a person I wanted to pour my love into. The only person who could really excite me.@</ToTranslate>
+  </String>
+  <String index="1011">
+    <ToTranslate>rinr1572</ToTranslate>
+  </String>
+  <String index="1012">
+    <ToTranslate>Rinrin$&quot;Nyah...&quot;@</ToTranslate>
+  </String>
+  <String index="1013">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="1014">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="1015">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="1016">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="1017">
+    <ToTranslate>$She was the most precious person in the world. As I drew her close to me, a shock went through my body. The world became a blur.@</ToTranslate>
+  </String>
+  <String index="1018">
+    <ToTranslate>$It was a wave of desire, and I couldn&apos;t fight it any longer.@</ToTranslate>
+  </String>
+  <String index="1019">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="1020">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="1021">
+    <ToTranslate>ecg_cho09a</ToTranslate>
+  </String>
+  <String index="1022">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="1023">
+    <ToTranslate>bgm20</ToTranslate>
+  </String>
+  <String index="1024">
+    <ToTranslate>rinr1573</ToTranslate>
+  </String>
+  <String index="1025">
+    <ToTranslate>Rinrin$&quot;Nyahhh... ah, huff, huff!? Mmm, Onii-hya...... mmm, mmm.&quot;@</ToTranslate>
+  </String>
+  <String index="1026">
+    <ToTranslate>Kazuto$&quot;*Smack, smack...* mmm, huff, ah, Rinrin!&quot;@</ToTranslate>
+  </String>
+  <String index="1027">
+    <ToTranslate>$In the few seconds, the few minutes before my erection was thrust into Rinrin, I had lost control of myself.@</ToTranslate>
+  </String>
+  <String index="1028">
+    <ToTranslate>rinr1574</ToTranslate>
+  </String>
+  <String index="1029">
+    <ToTranslate>Rinrin$&quot;Ahhhh, heh... mmm, ammm, *smack*, fu, ahh, ahh, mmm, fu.&quot;@</ToTranslate>
+  </String>
+  <String index="1030">
+    <ToTranslate>$My crotch met her vulva, which was free of protective hair. My dick was deep inside her.@</ToTranslate>
+  </String>
+  <String index="1031">
+    <ToTranslate>Kazuto$&quot;Did it hurt that I went in so fast? I&apos;m sorry.&quot;@</ToTranslate>
+  </String>
+  <String index="1032">
+    <ToTranslate>rinr1575</ToTranslate>
+  </String>
+  <String index="1033">
+    <ToTranslate>Rinrin$&quot;Hyah, ahh... ahh, ooo.&quot;@</ToTranslate>
+  </String>
+  <String index="1034">
+    <ToTranslate>$I worked my way in almost to the base, and took a breath. I had been kissing her lips in my earlier frenzy, and I now began to lick them softly.@</ToTranslate>
+  </String>
+  <String index="1035">
+    <ToTranslate>rinr1576</ToTranslate>
+  </String>
+  <String index="1036">
+    <ToTranslate>Rinrin$&quot;No, ah, Rinrin... wanted you to be inside of her, so it&apos;s... it&apos;s okay, I wanted to be filled by you...&quot;@</ToTranslate>
+  </String>
+  <String index="1037">
+    <ToTranslate>Kazuto$&quot;Let&apos;s just stay like this for a while. Hey, Rinrin... how about a kiss?&quot;@</ToTranslate>
+  </String>
+  <String index="1038">
+    <ToTranslate>rinr1577</ToTranslate>
+  </String>
+  <String index="1039">
+    <ToTranslate>Rinrin$&quot;*Smack...* mmm, *smack*, fu, ahhmmm.&quot;@</ToTranslate>
+  </String>
+  <String index="1040">
+    <ToTranslate>Kazuto$&quot;Mmm... *schlp, schlp*, mmm, mmm... *smack*, your tongue, mmm, that&apos;s right, *slrrp*.&quot;@</ToTranslate>
+  </String>
+  <String index="1041">
+    <ToTranslate>rinr1578</ToTranslate>
+  </String>
+  <String index="1042">
+    <ToTranslate>Rinrin$&quot;*Smack, smack...* mmm, mmmaahh, fu, fu, mmm.&quot;@</ToTranslate>
+  </String>
+  <String index="1043">
+    <ToTranslate>$The breath from her nose tickled me. She still wasn&apos;t used to it, so our attempts at twining tongues and exchanging saliva went awkwardly.@</ToTranslate>
+  </String>
+  <String index="1044">
+    <ToTranslate>rinr1579</ToTranslate>
+  </String>
+  <String index="1045">
+    <ToTranslate>Rinrin$&quot;Heh, fu... *schlp, slrrp*, mmmm, mmm... huff, huff.&quot;@</ToTranslate>
+  </String>
+  <String index="1046">
+    <ToTranslate>$Our front teeth banged together. Irritated, she stretched out her neck and kissed me even deeper. Her breathing became rougher.@</ToTranslate>
+  </String>
+  <String index="1047">
+    <ToTranslate>$Starting tonight, we&apos;d be growing accustomed to each others&apos; kisses, and to the warmth of our bodies.@</ToTranslate>
+  </String>
+  <String index="1048">
+    <ToTranslate>rinr1580</ToTranslate>
+  </String>
+  <String index="1049">
+    <ToTranslate>Rinrin$&quot;Onii... hyaaan, ahh, aren&apos;t you going to go, in and out? I want your seedy stuff...&quot;@</ToTranslate>
+  </String>
+  <String index="1050">
+    <ToTranslate>Kazuto$&quot;If I move now, your pussy will get a shock.&quot;@</ToTranslate>
+  </String>
+  <String index="1051">
+    <ToTranslate>rinr1581</ToTranslate>
+  </String>
+  <String index="1052">
+    <ToTranslate>Rinrin$&quot;Nyah, but... but...&quot;@</ToTranslate>
+  </String>
+  <String index="1053">
+    <ToTranslate>$Rinrin&apos;s body was pleading in a way she couldn&apos;t put into words. Her restlessly squirming knees told me she was in pain.@</ToTranslate>
+  </String>
+  <String index="1054">
+    <ToTranslate>Kazuto$&quot;We&apos;re already joined together, so we don&apos;t need to rush... *smack*, look, our lips are so close, too.&quot;@</ToTranslate>
+  </String>
+  <String index="1055">
+    <ToTranslate>rinr1582</ToTranslate>
+  </String>
+  <String index="1056">
+    <ToTranslate>Rinrin$&quot;Mmm... we can kiss a lot, *smack*, huff, mmm... *smack*.&quot;@</ToTranslate>
+  </String>
+  <String index="1057">
+    <ToTranslate>$We still had to wait. I was afraid to move until she was sufficiently wet.@</ToTranslate>
+  </String>
+  <String index="1058">
+    <ToTranslate>rinr1583</ToTranslate>
+  </String>
+  <String index="1059">
+    <ToTranslate>Rinrin$&quot;But... when I kiss you, I feel strange.&quot;@</ToTranslate>
+  </String>
+  <String index="1060">
+    <ToTranslate>Kazuto$&quot;Strange? *Smack... slrrp*, don&apos;t you feel good?&quot;@</ToTranslate>
+  </String>
+  <String index="1061">
+    <ToTranslate>rinr1584</ToTranslate>
+  </String>
+  <String index="1062">
+    <ToTranslate>Rinrin$&quot;Hahhh, mmmm... mmm!? Mmm, fu, fu.&quot;@</ToTranslate>
+  </String>
+  <String index="1063">
+    <ToTranslate>$Her body convulsed. She pulled her face away, seeming repulsed by my saliva in her mouth.@</ToTranslate>
+  </String>
+  <String index="1064">
+    <ToTranslate>rinr1585</ToTranslate>
+  </String>
+  <String index="1065">
+    <ToTranslate>Rinrin$&quot;I feel like I&apos;m going to melt, heh!? I&apos;m scared.&quot;@</ToTranslate>
+  </String>
+  <String index="1066">
+    <ToTranslate>$I didn&apos;t pursue her against her will... I just felt her. Her hips had begun to move, seeking out the rhythm of my cock.@</ToTranslate>
+  </String>
+  <String index="1067">
+    <ToTranslate>Kazuto$&quot;Are you scared, even when I&apos;m holding you like this...? *Schlp.*&quot;@</ToTranslate>
+  </String>
+  <String index="1068">
+    <ToTranslate>rinr1586</ToTranslate>
+  </String>
+  <String index="1069">
+    <ToTranslate>Rinrin$&quot;Hyah, maybe I&apos;m not scared... I don&apos;t know. My body is twitching. Ahh, ahhhh.&quot;@</ToTranslate>
+  </String>
+  <String index="1070">
+    <ToTranslate>$I grabbed her small butt as if to punish her, applying a bit of force to restrain her hips.@</ToTranslate>
+  </String>
+  <String index="1071">
+    <ToTranslate>rinr1587</ToTranslate>
+  </String>
+  <String index="1072">
+    <ToTranslate>Rinrin$&quot;Rinrin needs... your white stuff, smack, Rinrin... is a good girl, so please... give me your hot stuff. I want to be a mother.&quot;@</ToTranslate>
+  </String>
+  <String index="1073">
+    <ToTranslate>Kazuto$&quot;So you know my white stuff makes a baby.&quot;@</ToTranslate>
+  </String>
+  <String index="1074">
+    <ToTranslate>rinr1588</ToTranslate>
+  </String>
+  <String index="1075">
+    <ToTranslate>Rinrin$&quot;Sure I do... Shion taught me that.&quot;@</ToTranslate>
+  </String>
+  <String index="1076">
+    <ToTranslate>Kazuto$&quot;You aren&apos;t a child anymore, right? You need to start learning about your own body.&quot;@</ToTranslate>
+  </String>
+  <String index="1077">
+    <ToTranslate>$I was trying hard not to hurt her, though I was sure I had inserted too early.@</ToTranslate>
+  </String>
+  <String index="1078">
+    <ToTranslate>rinr1589</ToTranslate>
+  </String>
+  <String index="1079">
+    <ToTranslate>Rinrin$&quot;Nyahhh, learn... learn about my body?&quot;@</ToTranslate>
+  </String>
+  <String index="1080">
+    <ToTranslate>Kazuto$&quot;What gives you pain and what gives you pleasure... I want you to feel it and let me know.&quot;@</ToTranslate>
+  </String>
+  <String index="1081">
+    <ToTranslate>rinr1590</ToTranslate>
+  </String>
+  <String index="1082">
+    <ToTranslate>Rinrin$&quot;Hehhh, heh... ah, ahhhh, huff, huff, mmm, mmm.&quot;@</ToTranslate>
+  </String>
+  <String index="1083">
+    <ToTranslate>$I began to shallowly move my manhood, just to spread her love juice around. Her nails cut into my cheek.@</ToTranslate>
+  </String>
+  <String index="1084">
+    <ToTranslate>Kazuto$&quot;I just moved a tiny bit... did it hurt?&quot;@</ToTranslate>
+  </String>
+  <String index="1085">
+    <ToTranslate>$I ignored the pain on my part, and focused all my attention on the movements of my shaft inside her most delicate part.@</ToTranslate>
+  </String>
+  <String index="1086">
+    <ToTranslate>rinr1591</ToTranslate>
+  </String>
+  <String index="1087">
+    <ToTranslate>Rinrin$&quot;Huff, huff... huff, this feels good...&quot;@</ToTranslate>
+  </String>
+  <String index="1088">
+    <ToTranslate>Kazuto$&quot;Don&apos;t lie. I can tell if you lie.&quot;@</ToTranslate>
+  </String>
+  <String index="1089">
+    <ToTranslate>rinr1592</ToTranslate>
+  </String>
+  <String index="1090">
+    <ToTranslate>Rinrin$&quot;I mean it... this feels good.&quot;@</ToTranslate>
+  </String>
+  <String index="1091">
+    <ToTranslate>Kazuto$&quot;Really? I&apos;m glad... I feel good too. It feels good to be squeezed by your pussy.&quot;@</ToTranslate>
+  </String>
+  <String index="1092">
+    <ToTranslate>$If I were only after my own pleasure, I would have picked up the pace right then... to tell the truth, controlling the urge was very hard.@</ToTranslate>
+  </String>
+  <String index="1093">
+    <ToTranslate>rinr1593</ToTranslate>
+  </String>
+  <String index="1094">
+    <ToTranslate>Rinrin$&quot;Nyah... ah, huff, it&apos;s making a squishy noise... hee-hee, it sounds naughty.&quot;@</ToTranslate>
+  </String>
+  <String index="1095">
+    <ToTranslate>$Her relaxed tone encouraged me. I gritted my teeth, trying desperately to control myself.@</ToTranslate>
+  </String>
+  <String index="1096">
+    <ToTranslate>Kazuto$&quot;I&apos;ll move a little more strongly now. Fu, ggh, huff, can you feel? I just reached your deepest spot.&quot;@</ToTranslate>
+  </String>
+  <String index="1097">
+    <ToTranslate>rinr1594</ToTranslate>
+  </String>
+  <String index="1098">
+    <ToTranslate>Rinrin$&quot;Heh... mmm, mmm, I felt you knocking.&quot;@</ToTranslate>
+  </String>
+  <String index="1099">
+    <ToTranslate>$Her butt was the perfect size to grab onto. I held on with both hands, keeping us in position, my penis in her deepest spot.@</ToTranslate>
+  </String>
+  <String index="1100">
+    <ToTranslate>Kazuto$&quot;The spot I&apos;m touching you is the entrance to your uterus. It&apos;s closed... it won&apos;t open until you become a mother.&quot;@</ToTranslate>
+  </String>
+  <String index="1101">
+    <ToTranslate>rinr1595</ToTranslate>
+  </String>
+  <String index="1102">
+    <ToTranslate>Rinrin$&quot;Is it where a baby is made? I can&apos;t wait, mm, mmm.&quot;@</ToTranslate>
+  </String>
+  <String index="1103">
+    <ToTranslate>Kazuto$&quot;Whew... don&apos;t get ahead of yourself. Does it feel good when I touch you here? Or is it too much?&quot;@</ToTranslate>
+  </String>
+  <String index="1104">
+    <ToTranslate>rinr1596</ToTranslate>
+  </String>
+  <String index="1105">
+    <ToTranslate>Rinrin$&quot;Mmmm... not really. I feel like I&apos;m floating... I don&apos;t mind at all. I feel you... a lot.&quot;@</ToTranslate>
+  </String>
+  <String index="1106">
+    <ToTranslate>Kazuto$&quot;I see... I&apos;m really glad you don&apos;t mind having me there.&quot;@</ToTranslate>
+  </String>
+  <String index="1107">
+    <ToTranslate>rinr1597</ToTranslate>
+  </String>
+  <String index="1108">
+    <ToTranslate>Rinrin$&quot;I told you a bunch of times... it feels good. When Onii-chan fills up Rinrin... it always feels good.&quot;@</ToTranslate>
+  </String>
+  <String index="1109">
+    <ToTranslate>$Her fingers were gentle. Her nails had dug themselves into my shoulders, but now they relaxed, and both of her hands were stroking my back.@</ToTranslate>
+  </String>
+  <String index="1110">
+    <ToTranslate>rinr1598</ToTranslate>
+  </String>
+  <String index="1111">
+    <ToTranslate>Rinrin$&quot;Onii-chan is so gentle with Rinrin... the first time, too, you were so careful not to hurt me...&quot;@</ToTranslate>
+  </String>
+  <String index="1112">
+    <ToTranslate>Kazuto$&quot;Yeah... I want to be as gentle as I can.&quot;@</ToTranslate>
+  </String>
+  <String index="1113">
+    <ToTranslate>rinr1599</ToTranslate>
+  </String>
+  <String index="1114">
+    <ToTranslate>Rinrin$&quot;Hee, hee, I love you... *smack*, mm, *smack, smack...* hee.&quot;@</ToTranslate>
+  </String>
+  <String index="1115">
+    <ToTranslate>$She was becoming more comfortable with kissing. Her tongue slipped into my mouth, to lick my front teeth.@</ToTranslate>
+  </String>
+  <String index="1116">
+    <ToTranslate>rinr1600</ToTranslate>
+  </String>
+  <String index="1117">
+    <ToTranslate>Rinrin$&quot;I want to practice feeding a baby... hee-hee, try and kiss Rinrin&apos;s boobs.&quot;@</ToTranslate>
+  </String>
+  <String index="1118">
+    <ToTranslate>Kazuto$&quot;Ah, ahh... okay, can you stretch a little? Mmm, *smack*.&quot;@</ToTranslate>
+  </String>
+  <String index="1119">
+    <ToTranslate>rinr1601</ToTranslate>
+  </String>
+  <String index="1120">
+    <ToTranslate>Rinrin$&quot;Nyahhhh! Aha... huff, ahh mmmm.&quot;@</ToTranslate>
+  </String>
+  <String index="1121">
+    <ToTranslate>Kazuto$&quot;*Slrrp, slrrp, schlp, schlp*, huff... you smell sweet, mmmm...&quot;@</ToTranslate>
+  </String>
+  <String index="1122">
+    <ToTranslate>$I was the one losing control. I ran my tongue over her swollen breasts, smearing saliva on her pale pink nipples.@</ToTranslate>
+  </String>
+  <String index="1123">
+    <ToTranslate>rinr1602</ToTranslate>
+  </String>
+  <String index="1124">
+    <ToTranslate>Rinrin$&quot;Huff, fu... you suck so much, mmm!? Do babies suck like that?&quot;@</ToTranslate>
+  </String>
+  <String index="1125">
+    <ToTranslate>Kazuto$&quot;Yeah... do you think you can bear it, as a mother?&quot;@</ToTranslate>
+  </String>
+  <String index="1126">
+    <ToTranslate>rinr1603</ToTranslate>
+  </String>
+  <String index="1127">
+    <ToTranslate>Rinrin$&quot;Sure, I can... it tingles a little, mm!? It tickles too, but I can handle it.&quot;@</ToTranslate>
+  </String>
+  <String index="1128">
+    <ToTranslate>$I sucked on her many times, tasting her sweat... listening to the blood pound in my ears...@</ToTranslate>
+  </String>
+  <String index="1129">
+    <ToTranslate>rinr1604</ToTranslate>
+  </String>
+  <String index="1130">
+    <ToTranslate>Rinrin$&quot;Hahhhhh...!? Mmm, mmm, Onii... hyan? Ah, ooo, ooo, mmm.&quot;@</ToTranslate>
+  </String>
+  <String index="1131">
+    <ToTranslate>$It was getting hard to restrain my hips. My penis made a bold cycle inside her, and Rinrin clutched my head in surprise.@</ToTranslate>
+  </String>
+  <String index="1132">
+    <ToTranslate>Kazuto$&quot;What do you think...? *Smack* Do you think your pussy would be okay if I went in and out like this?&quot;@</ToTranslate>
+  </String>
+  <String index="1133">
+    <ToTranslate>rinr1605</ToTranslate>
+  </String>
+  <String index="1134">
+    <ToTranslate>Rinrin$&quot;I feel you thrusting... I really do, ah, ahhh!&quot;@</ToTranslate>
+  </String>
+  <String index="1135">
+    <ToTranslate>Kazuto$&quot;Is it okay...? Do you want me to go slower, or is it okay to continue?&quot;@</ToTranslate>
+  </String>
+  <String index="1136">
+    <ToTranslate>rinr1606</ToTranslate>
+  </String>
+  <String index="1137">
+    <ToTranslate>Rinrin$&quot;Hold me...! Huff, huff, mmm, all done with my boobs. Hold me... if you hold me, I&apos;ll be okay!!&quot;@</ToTranslate>
+  </String>
+  <String index="1138">
+    <ToTranslate>$Her nipples were poking out cutely, teased by my licking. I was sad to leave them behind, even if it was only for now.@</ToTranslate>
+  </String>
+  <String index="1139">
+    <ToTranslate>rinr1607</ToTranslate>
+  </String>
+  <String index="1140">
+    <ToTranslate>Rinrin$&quot;Kiss me, too... huff, mmm, mmm, *slrrp, slrrp...* mmm, *smack*.&quot;@</ToTranslate>
+  </String>
+  <String index="1141">
+    <ToTranslate>$I sprung back upwards to draw her toward me, then parted her lips with my tongue. I kissed her, and she returned with equal force.@</ToTranslate>
+  </String>
+  <String index="1142">
+    <ToTranslate>Kazuto$&quot;Ggh, mmm... fuu, mm, mm, mm! Huff, huff, fu.&quot;@</ToTranslate>
+  </String>
+  <String index="1143">
+    <ToTranslate>rinr1608</ToTranslate>
+  </String>
+  <String index="1144">
+    <ToTranslate>Rinrin$&quot;Mmm, oo!? Ooo, mm... fu, hyah, huff, mmm... mmm, mmm, mmm.&quot;@</ToTranslate>
+  </String>
+  <String index="1145">
+    <ToTranslate>$There was a noise in my head: the shackles of my reason coming undone. I grabbed her hips with new power, thrusting into her needfully.@</ToTranslate>
+  </String>
+  <String index="1146">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="1147">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="1148">
+    <ToTranslate>ecg_cho09b</ToTranslate>
+  </String>
+  <String index="1149">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="1150">
+    <ToTranslate>rinr1609</ToTranslate>
+  </String>
+  <String index="1151">
+    <ToTranslate>Rinrin$&quot;Nyah... ha, huff, so strong... you&apos;re so strong, Oniihya, mmm!? Huff, huff, ahhh!? Ahh, mmm, mmm.&quot;@</ToTranslate>
+  </String>
+  <String index="1152">
+    <ToTranslate>Kazuto$&quot;*Slrrp, slrrp, slrrp... smack*, Rinrin, Rinrin, Rinrin!&quot;@</ToTranslate>
+  </String>
+  <String index="1153">
+    <ToTranslate>rinr1610</ToTranslate>
+  </String>
+  <String index="1154">
+    <ToTranslate>Rinrin$&quot;My private place... my pussy... it all feels your strength...&quot;@</ToTranslate>
+  </String>
+  <String index="1155">
+    <ToTranslate>$I thrust into her, twice, three times, four...@</ToTranslate>
+  </String>
+  <String index="1156">
+    <ToTranslate>rinr1611</ToTranslate>
+  </String>
+  <String index="1157">
+    <ToTranslate>Rinrin$&quot;I&apos;m happy... thrust harder, I want all of Onii-chan&apos;s love inside of me!&quot;@</ToTranslate>
+  </String>
+  <String index="1158">
+    <ToTranslate>Kazuto$&quot;I want your love too, Rinrin...!&quot;@</ToTranslate>
+  </String>
+  <String index="1159">
+    <ToTranslate>$Maybe because I had taken my time, my urethra didn&apos;t seem obliged to open... instead, it just gleefully parted her vaginal walls, pushing deep inside her.@</ToTranslate>
+  </String>
+  <String index="1160">
+    <ToTranslate>rinr1612</ToTranslate>
+  </String>
+  <String index="1161">
+    <ToTranslate>Rinrin$&quot;I love you... how can I give you my love? Like this? Or... *slrrp, slrrp, slrrp...* mmm, ahhhh.&quot;@</ToTranslate>
+  </String>
+  <String index="1162">
+    <ToTranslate>Kazuto$&quot;I feel it in your kiss. The way you move your hips makes me happy too.&quot;@</ToTranslate>
+  </String>
+  <String index="1163">
+    <ToTranslate>rinr1613</ToTranslate>
+  </String>
+  <String index="1164">
+    <ToTranslate>Rinrin$&quot;Then, I&apos;ll do everything, mmm! *Slrrp, slrrp, slrrp*.&quot;@</ToTranslate>
+  </String>
+  <String index="1165">
+    <ToTranslate>Kazuto$&quot;Ggh...!? Oh, ahh, ahh, oooo, ooo.&quot;@</ToTranslate>
+  </String>
+  <String index="1166">
+    <ToTranslate>$Her saliva flooded into my mouth. She started moving her hips. The interplay between our genitals felt like the dance of two snakes.@</ToTranslate>
+  </String>
+  <String index="1167">
+    <ToTranslate>rinr1614</ToTranslate>
+  </String>
+  <String index="1168">
+    <ToTranslate>Rinrin$&quot;*Slrrp...* ooo, *slrrp*, heh, mmm... mmm, *smack*, open your mouth... mmmm, *smack*, mmmm.&quot;@</ToTranslate>
+  </String>
+  <String index="1169">
+    <ToTranslate>Kazuto$&quot;Ah, ah... your kiss feels great. Can you continue?&quot;@</ToTranslate>
+  </String>
+  <String index="1170">
+    <ToTranslate>rinr1615</ToTranslate>
+  </String>
+  <String index="1171">
+    <ToTranslate>Rinrin$&quot;Huff, mmm... mmm, ahhhmmm, *slrrp, smack, smack*.&quot;@</ToTranslate>
+  </String>
+  <String index="1172">
+    <ToTranslate>$This is what it meant to become one. Our body temperatues had matched.@</ToTranslate>
+  </String>
+  <String index="1173">
+    <ToTranslate>rinr1616</ToTranslate>
+  </String>
+  <String index="1174">
+    <ToTranslate>Rinrin$&quot;Hahhhhh, huff, mmm!? Mmm, this feels good and I want to continue, but ah, I can&apos;t kiss.&quot;@</ToTranslate>
+  </String>
+  <String index="1175">
+    <ToTranslate>$There were no more boundaries between us. I pushed forcefully inside, churning in her vagina. I felt no resistance. It was so smooth...@</ToTranslate>
+  </String>
+  <String index="1176">
+    <ToTranslate>rinr1617</ToTranslate>
+  </String>
+  <String index="1177">
+    <ToTranslate>Rinrin$&quot;My body feels numb... because Onii-chan&apos;s thrusting into me, I feel so happy, too happy, mmm!?&quot;@</ToTranslate>
+  </String>
+  <String index="1178">
+    <ToTranslate>Kazuto$&quot;*Slrrp... slrrp, smack*, fu, then... I&apos;ll have to kiss you!&quot;@</ToTranslate>
+  </String>
+  <String index="1179">
+    <ToTranslate>$Rinrin accepted me gently, as always. The soft contracts of her vagina were like a reflection of her feelings.@</ToTranslate>
+  </String>
+  <String index="1180">
+    <ToTranslate>rinr1618</ToTranslate>
+  </String>
+  <String index="1181">
+    <ToTranslate>Rinrin$&quot;Mmmm... then Rinrin will do it too, mmm, *slrrp*, I want you to feel how much I love you...&quot;@</ToTranslate>
+  </String>
+  <String index="1182">
+    <ToTranslate>$I could feel it. In my penis, and my lips, and where we touched... I could feel Rinrin&apos;s glow, her excitement. That&apos;s what I was after.@</ToTranslate>
+  </String>
+  <String index="1183">
+    <ToTranslate>Kazuto$&quot;I love you... Rinrin, put your flushed cheek to mine... just like that. Then your feelings will get through.&quot;@</ToTranslate>
+  </String>
+  <String index="1184">
+    <ToTranslate>rinr1619</ToTranslate>
+  </String>
+  <String index="1185">
+    <ToTranslate>Rinrin$&quot;Heh, heh... ahhooo, oo, mmm, ah, ahh, ahh!?&quot;@</ToTranslate>
+  </String>
+  <String index="1186">
+    <ToTranslate>Kazuto$&quot;You don&apos;t need to force your happiness, Rinrin, because I can feel it. Don&apos;t worry... promise you&apos;ll stay the sweet Rinrin that I have in my arms.&quot;@</ToTranslate>
+  </String>
+  <String index="1187">
+    <ToTranslate>rinr1620</ToTranslate>
+  </String>
+  <String index="1188">
+    <ToTranslate>Rinrin$&quot;I&apos;m going to cry... I&apos;m so happy, I&apos;m going to cry.&quot;@</ToTranslate>
+  </String>
+  <String index="1189">
+    <ToTranslate>Kazuto$&quot;You can&apos;t, *schlp...* mmm, *smack*.&quot;@</ToTranslate>
+  </String>
+  <String index="1190">
+    <ToTranslate>rinr1621</ToTranslate>
+  </String>
+  <String index="1191">
+    <ToTranslate>Rinrin$&quot;They&apos;re happy tears, don&apos;t worry... *smack*, mmm.&quot;@</ToTranslate>
+  </String>
+  <String index="1192">
+    <ToTranslate>$I licked her cheek, and she trailed her tongue over my neck in response. I finally understood.@</ToTranslate>
+  </String>
+  <String index="1193">
+    <ToTranslate>rinr1622</ToTranslate>
+  </String>
+  <String index="1194">
+    <ToTranslate>Rinrin$&quot;I&apos;m going to feel Onii-chan&apos;s happy feelings, like this... Rinrin will also work hard, to let you feel hers...&quot;@</ToTranslate>
+  </String>
+  <String index="1195">
+    <ToTranslate>$She could no longer find the strength to move her hips. She had entrusted her body to me.@</ToTranslate>
+  </String>
+  <String index="1196">
+    <ToTranslate>rinr1623</ToTranslate>
+  </String>
+  <String index="1197">
+    <ToTranslate>Rinrin$&quot;I love you, Onii-chan... smack, mm, I love you so much! Mmm, huff, *schlp*, smack, mmm, mmm.&quot;@</ToTranslate>
+  </String>
+  <String index="1198">
+    <ToTranslate>Kazuto$&quot;Me too, I love you too! When I hold you, I feel so happy.&quot;@</ToTranslate>
+  </String>
+  <String index="1199">
+    <ToTranslate>rinr1624</ToTranslate>
+  </String>
+  <String index="1200">
+    <ToTranslate>Rinrin$&quot;Whenever you want to, you can squeeze me.&quot;@</ToTranslate>
+  </String>
+  <String index="1201">
+    <ToTranslate>Kazuto$&quot;Y-yeah... huff, huff, and whenever you want to do it, you can ask me, okay? You can be as selfish as you want to be with me!&quot;@</ToTranslate>
+  </String>
+  <String index="1202">
+    <ToTranslate>$Her vagina gave little, happy twitches. Her flesh began clinging to me, a sure sign of her excitement.@</ToTranslate>
+  </String>
+  <String index="1203">
+    <ToTranslate>Kazuto$&quot;Okay, I want you to remember... anything you want me to do is what I want to do for you.&quot;@</ToTranslate>
+  </String>
+  <String index="1204">
+    <ToTranslate>rinr1625</ToTranslate>
+  </String>
+  <String index="1205">
+    <ToTranslate>Rinrin$&quot;Huff... Rinrin&apos;s words... become Onii-chan&apos;s words...&quot;@</ToTranslate>
+  </String>
+  <String index="1206">
+    <ToTranslate>$Noticing my excitement, her vagina pulsed, pulling my penis greedily into her.@</ToTranslate>
+  </String>
+  <String index="1207">
+    <ToTranslate>rinr1626</ToTranslate>
+  </String>
+  <String index="1208">
+    <ToTranslate>Rinrin$&quot;Because you always say everything... Rinrin wants to say...&quot;@</ToTranslate>
+  </String>
+  <String index="1209">
+    <ToTranslate>$We smiled at each other. Even if we weren&apos;t looking at each other, I somehow knew we were smiling at the same time.@</ToTranslate>
+  </String>
+  <String index="1210">
+    <ToTranslate>rinr1627</ToTranslate>
+  </String>
+  <String index="1211">
+    <ToTranslate>Rinrin$&quot;It&apos;s all... what I&apos;m feeling. Nyah!? Right now, if Onii-chan&apos;s feeling good, then Rinrin&apos;s... Rinrin&apos;s feeling just as good...&quot;@</ToTranslate>
+  </String>
+  <String index="1212">
+    <ToTranslate>Kazuto$&quot;Then you must feel... amazing. I&apos;m glad you feel so good, Rinrin.&quot;@</ToTranslate>
+  </String>
+  <String index="1213">
+    <ToTranslate>rinr1628</ToTranslate>
+  </String>
+  <String index="1214">
+    <ToTranslate>Rinrin$&quot;I feel good because... of you, Onii-chan! I feel so good, I&apos;m melting... Rinrin&apos;s going to melt...&quot;@</ToTranslate>
+  </String>
+  <String index="1215">
+    <ToTranslate>$Our thoughts were linked... because we had become one person, it was natural.@</ToTranslate>
+  </String>
+  <String index="1216">
+    <ToTranslate>Kazuto$&quot;We really do feel the same thing! I feel like I&apos;m going to melt in your pussy. I think it&apos;s about time...&quot;@</ToTranslate>
+  </String>
+  <String index="1217">
+    <ToTranslate>rinr1629</ToTranslate>
+  </String>
+  <String index="1218">
+    <ToTranslate>Rinrin$&quot;You&apos;re going to come? Mmm, are you going to give Rinrin your white stuff?&quot;@</ToTranslate>
+  </String>
+  <String index="1219">
+    <ToTranslate>Kazuto$&quot;Yeah, I want to give it all to you...&quot;@</ToTranslate>
+  </String>
+  <String index="1220">
+    <ToTranslate>rinr1630</ToTranslate>
+  </String>
+  <String index="1221">
+    <ToTranslate>Rinrin$&quot;Okay, give it all to Rinrin! I want it all... so I can make a baby.&quot;@</ToTranslate>
+  </String>
+  <String index="1222">
+    <ToTranslate>$Her chin dug hard into my shoulder. Strength returned to her melted little body, and she gave a single jerk.@</ToTranslate>
+  </String>
+  <String index="1223">
+    <ToTranslate>rinr1631</ToTranslate>
+  </String>
+  <String index="1224">
+    <ToTranslate>Rinrin$&quot;I&apos;ll help... huff, huff, mmm, Rinrin&apos;s gonna try hard, so please come, come inside me...!&quot;@</ToTranslate>
+  </String>
+  <String index="1225">
+    <ToTranslate>Kazuto$&quot;Ah... don&apos;t force yourself, but, but... this really feels great.&quot;@</ToTranslate>
+  </String>
+  <String index="1226">
+    <ToTranslate>rinr1632</ToTranslate>
+  </String>
+  <String index="1227">
+    <ToTranslate>Rinrin$&quot;I&apos;ll do more... mmm, mmm, mmm! Huff, ah, ahhh.&quot;@</ToTranslate>
+  </String>
+  <String index="1228">
+    <ToTranslate>$She moved up and down, scattering beads of sweat. I caught a glimpse of her face for the first time... her ecstasy was breathtakingly beautiful.@</ToTranslate>
+  </String>
+  <String index="1229">
+    <ToTranslate>rinr1633</ToTranslate>
+  </String>
+  <String index="1230">
+    <ToTranslate>Rinrin$&quot;Onii-chaaaan, ahh!? Ahh, ah, my body, it feels so good... it&apos;s feeling better and better...&quot;@</ToTranslate>
+  </String>
+  <String index="1231">
+    <ToTranslate>Kazuto$&quot;Me too... I&apos;ve never felt this good, this happy before!&quot;@</ToTranslate>
+  </String>
+  <String index="1232">
+    <ToTranslate>$It was the first time... I bound my arms around the ecstatic Rinrin, dazed. I thrust deep inside her.@</ToTranslate>
+  </String>
+  <String index="1233">
+    <ToTranslate>rinr1634</ToTranslate>
+  </String>
+  <String index="1234">
+    <ToTranslate>Rinrin$&quot;It&apos;s spreading from my pussy to everywhere... Onii-chan&apos;s strong feelings, the warmth is... it&apos;s going everywhere!&quot;@</ToTranslate>
+  </String>
+  <String index="1235">
+    <ToTranslate>Kazuto$&quot;You melt so cutely... I wonder if we could come together.&quot;@</ToTranslate>
+  </String>
+  <String index="1236">
+    <ToTranslate>rinr1635</ToTranslate>
+  </String>
+  <String index="1237">
+    <ToTranslate>Rinrin$&quot;Come...? Do you mean, ahh, O-Onii-chan!?&quot;@</ToTranslate>
+  </String>
+  <String index="1238">
+    <ToTranslate>Kazuto$&quot;Let&apos;s come together... I&apos;ll work hard too! Right here, how is this?&quot;@</ToTranslate>
+  </String>
+  <String index="1239">
+    <ToTranslate>rinr1636</ToTranslate>
+  </String>
+  <String index="1240">
+    <ToTranslate>Rinrin$&quot;Nyahhhh!? It tingled... not there, no... huff.&quot;@</ToTranslate>
+  </String>
+  <String index="1241">
+    <ToTranslate>$The effect was immediate. I couldn&apos;t go completely in, so I slid my finger into the inviting gap, to brush her clit with my fingertip. That was all it took.@</ToTranslate>
+  </String>
+  <String index="1242">
+    <ToTranslate>rinr1637</ToTranslate>
+  </String>
+  <String index="1243">
+    <ToTranslate>Rinrin$&quot;I&apos;m scared... your finger tingled... it really did. I&apos;m scared, ah!? Hahhh, huff, fu.&quot;@</ToTranslate>
+  </String>
+  <String index="1244">
+    <ToTranslate>Kazuto$&quot;It&apos;s okay, relax... it&apos;s just my finger touching you.&quot;@</ToTranslate>
+  </String>
+  <String index="1245">
+    <ToTranslate>rinr1638</ToTranslate>
+  </String>
+  <String index="1246">
+    <ToTranslate>Rinrin$&quot;Huff, huff... Onii-hyan&apos;s...? Yeah, just Onii-chan&apos;s gentle finger...&quot;@</ToTranslate>
+  </String>
+  <String index="1247">
+    <ToTranslate>$The tension drained from her body. I reflected upon my happiness for the trust that she placed in me, and moved to the final, delicate steps.@</ToTranslate>
+  </String>
+  <String index="1248">
+    <ToTranslate>rinr1639</ToTranslate>
+  </String>
+  <String index="1249">
+    <ToTranslate>Rinrin$&quot;The shivers Onii-chan gives me... feel good, mmm, *smack*, huff... but my hips are feeling cold...&quot;@</ToTranslate>
+  </String>
+  <String index="1250">
+    <ToTranslate>Kazuto$&quot;Ggh... how can that be, when your pussy is so hot...&quot;@</ToTranslate>
+  </String>
+  <String index="1251">
+    <ToTranslate>$I was ready to go at any time... but I wanted to come with her. I slowed up my thrusts and focused on tickling her delicately with my finger.@</ToTranslate>
+  </String>
+  <String index="1252">
+    <ToTranslate>rinr1640</ToTranslate>
+  </String>
+  <String index="1253">
+    <ToTranslate>Rinrin$&quot;It&apos;s cold... sort of like chills, ah!? Maybe because I&apos;m cold, you feel so warm.&quot;@</ToTranslate>
+  </String>
+  <String index="1254">
+    <ToTranslate>$Her clit became engorged, poking out of its hood... I rubbed it, then pressed it.@</ToTranslate>
+  </String>
+  <String index="1255">
+    <ToTranslate>rinr1641</ToTranslate>
+  </String>
+  <String index="1256">
+    <ToTranslate>Rinrin$&quot;Onii-chan&apos;s so warm... mmm! More, huff, huff, hold me so tight!&quot;@</ToTranslate>
+  </String>
+  <String index="1257">
+    <ToTranslate>Kazuto$&quot;I&apos;ll hold you so tight, my beloved Rinrin... because we&apos;re going to come!&quot;@</ToTranslate>
+  </String>
+  <String index="1258">
+    <ToTranslate>rinr1642</ToTranslate>
+  </String>
+  <String index="1259">
+    <ToTranslate>Rinrin$&quot;Rinrin too? Huff, huff, fuuu, ooo, do I come too...?&quot;@</ToTranslate>
+  </String>
+  <String index="1260">
+    <ToTranslate>Kazuto$&quot;Yeah, I want us to come together...!&quot;@</ToTranslate>
+  </String>
+  <String index="1261">
+    <ToTranslate>$Her vagina squeezed me tightly. I held her body as shivers ran down it, like ripples in a pond. I re-applied myself, waiting for the moment.@</ToTranslate>
+  </String>
+  <String index="1262">
+    <ToTranslate>rinr1643</ToTranslate>
+  </String>
+  <String index="1263">
+    <ToTranslate>Rinrin$&quot;Okay, I want to be the same, Rinrin will come, what do I do... ah!? I-is this it? It&apos;s so strong, like I&apos;m flying, is this it!?&quot;@</ToTranslate>
+  </String>
+  <String index="1264">
+    <ToTranslate>Kazuto$&quot;Yeah, just let your body go! I&apos;m holding you... mmm.&quot;@</ToTranslate>
+  </String>
+  <String index="1265">
+    <ToTranslate>rinr1644</ToTranslate>
+  </String>
+  <String index="1266">
+    <ToTranslate>Rinrin$&quot;Heh, hyynn... heh, huff, hahhh, fuu, mmm, mmm!?&quot;@</ToTranslate>
+  </String>
+  <String index="1267">
+    <ToTranslate>Kazuto$&quot;Let&apos;s come together!&quot;@</ToTranslate>
+  </String>
+  <String index="1268">
+    <ToTranslate>$One last, long shudder went through Rinrin&apos;s whole body. Her lips pursed together in a line.@</ToTranslate>
+  </String>
+  <String index="1269">
+    <ToTranslate>rinr1645</ToTranslate>
+  </String>
+  <String index="1270">
+    <ToTranslate>Rinrin$&quot;Onii...! Oohhahh, huff, oooo... mmm, mmm, ah...!?&quot;@</ToTranslate>
+  </String>
+  <String index="1271">
+    <ToTranslate>$I released myself, to match her long-awaited climax...@</ToTranslate>
+  </String>
+  <String index="1272">
+    <ToTranslate>rinr1646</ToTranslate>
+  </String>
+  <String index="1273">
+    <ToTranslate>Rinrin$&quot;Ahhhhhhhh!?&quot;@</ToTranslate>
+  </String>
+  <String index="1274">
+    <ToTranslate>flash</ToTranslate>
+  </String>
+  <String index="1275">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="1276">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="1277">
+    <ToTranslate>ecg_cho09d</ToTranslate>
+  </String>
+  <String index="1278">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="1279">
+    <ToTranslate>rinr1647</ToTranslate>
+  </String>
+  <String index="1280">
+    <ToTranslate>Rinrin$&quot;Fahhhh... ahh, mmm, mmm, heh, huff, ahh, ahhhhh...&quot;@</ToTranslate>
+  </String>
+  <String index="1281">
+    <ToTranslate>Kazuto$&quot;*Schlp*, mmm... mmm, *smack*.&quot;@</ToTranslate>
+  </String>
+  <String index="1282">
+    <ToTranslate>rinr1648</ToTranslate>
+  </String>
+  <String index="1283">
+    <ToTranslate>Rinrin$&quot;Hyah, mm... huff, Onii-hya...n, mmm, *smack*.&quot;@</ToTranslate>
+  </String>
+  <String index="1284">
+    <ToTranslate>$We relaxed at the same time. Rinrin&apos;s body leaned against me, sucking on my tongue. I licked around her lips awkwardly.@</ToTranslate>
+  </String>
+  <String index="1285">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="1286">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="1287">
+    <ToTranslate>ecg_cho09c</ToTranslate>
+  </String>
+  <String index="1288">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="1289">
+    <ToTranslate>rinr1649</ToTranslate>
+  </String>
+  <String index="1290">
+    <ToTranslate>Rinrin$&quot;I feel dizzy... Rinrin&apos;s never felt this way before, I feel like I&apos;m floating.&quot;@</ToTranslate>
+  </String>
+  <String index="1291">
+    <ToTranslate>Kazuto$&quot;I&apos;m still coming... you made me feel so good, I can&apos;t stop coming.&quot;@</ToTranslate>
+  </String>
+  <String index="1292">
+    <ToTranslate>rinr1650</ToTranslate>
+  </String>
+  <String index="1293">
+    <ToTranslate>Rinrin$&quot;I&apos;m floating... I don&apos;t know what&apos;s going on.&quot;@</ToTranslate>
+  </String>
+  <String index="1294">
+    <ToTranslate>$I let her rest her head on my neck and kept holding her with what strength remained. Pleasure lingered in the area of my crotch.@</ToTranslate>
+  </String>
+  <String index="1295">
+    <ToTranslate>Kazuto$&quot;Mmm... here, why don&apos;t you try to feel it before it stops? I want you to feel me, Rinrin.&quot;@</ToTranslate>
+  </String>
+  <String index="1296">
+    <ToTranslate>rinr1651</ToTranslate>
+  </String>
+  <String index="1297">
+    <ToTranslate>Rinrin$&quot;Hahhhhhh...... mmm.&quot;@</ToTranslate>
+  </String>
+  <String index="1298">
+    <ToTranslate>$Her crotch made a lewd sound. Rinrin moved her knees, as though she were frightened of my penis still being inside of her.@</ToTranslate>
+  </String>
+  <String index="1299">
+    <ToTranslate>rinr1652</ToTranslate>
+  </String>
+  <String index="1300">
+    <ToTranslate>Rinrin$&quot;Nyah!? Huff, don&apos;t move... it tingles.&quot;@</ToTranslate>
+  </String>
+  <String index="1301">
+    <ToTranslate>$She unconsciously tried to move away, so I put my arms around her hips to pull her closer.@</ToTranslate>
+  </String>
+  <String index="1302">
+    <ToTranslate>rinr1653</ToTranslate>
+  </String>
+  <String index="1303">
+    <ToTranslate>Rinrin$&quot;Nyah, huff... huff, Onii-chan, Rinrin&apos;s body... feels itchy, and kinda cold...&quot;@</ToTranslate>
+  </String>
+  <String index="1304">
+    <ToTranslate>Kazuto$&quot;Really? Then I better hold you tight, so you don&apos;t catch a cold.&quot;@</ToTranslate>
+  </String>
+  <String index="1305">
+    <ToTranslate>rinr1654</ToTranslate>
+  </String>
+  <String index="1306">
+    <ToTranslate>Rinrin$&quot;But if you hold me... it makes me itchy even more.&quot;@</ToTranslate>
+  </String>
+  <String index="1307">
+    <ToTranslate>$I wanted to hear about how her first climax had felt. I pressed my ear close to her mouth.@</ToTranslate>
+  </String>
+  <String index="1308">
+    <ToTranslate>rinr1655</ToTranslate>
+  </String>
+  <String index="1309">
+    <ToTranslate>Rinrin$&quot;Mmmm... *smack*.&quot;@</ToTranslate>
+  </String>
+  <String index="1310">
+    <ToTranslate>$She had misunderstood my intent, but I didn&apos;t mind. The little kiss to my cheek brought a smile to my lips.@</ToTranslate>
+  </String>
+  <String index="1311">
+    <ToTranslate>rinr1656</ToTranslate>
+  </String>
+  <String index="1312">
+    <ToTranslate>Rinrin$&quot;If you&apos;re a good boy, I&apos;ll kiss you more... so don&apos;t move. I think I finally understand how you feel.&quot;@</ToTranslate>
+  </String>
+  <String index="1313">
+    <ToTranslate>Kazuto$&quot;You feel good with me inside you, right Rinrin?&quot;@</ToTranslate>
+  </String>
+  <String index="1314">
+    <ToTranslate>rinr1657</ToTranslate>
+  </String>
+  <String index="1315">
+    <ToTranslate>Rinrin$&quot;It&apos;s twitching... so cute! Did Rinrin&apos;s pussy feel that good?&quot;@</ToTranslate>
+  </String>
+  <String index="1316">
+    <ToTranslate>Kazuto$&quot;It was amazing, I&apos;m captivated by you.&quot;@</ToTranslate>
+  </String>
+  <String index="1317">
+    <ToTranslate>rinr1658</ToTranslate>
+  </String>
+  <String index="1318">
+    <ToTranslate>Rinrin$&quot;Nyahahahaha.&quot;@</ToTranslate>
+  </String>
+  <String index="1319">
+    <ToTranslate>$She slapped my shoulder, hard enough to hurt. We pressed our foreheads together to hide our mutual shyness.@</ToTranslate>
+  </String>
+  <String index="1320">
+    <ToTranslate>rinr1659</ToTranslate>
+  </String>
+  <String index="1321">
+    <ToTranslate>Rinrin$&quot;Rinrin&apos;s already captivated by Onii-chan... so now we&apos;re even.&quot;@</ToTranslate>
+  </String>
+  <String index="1322">
+    <ToTranslate>Kazuto$&quot;Haha, that makes me happy.&quot;@</ToTranslate>
+  </String>
+  <String index="1323">
+    <ToTranslate>$I thought I heard her say &apos;because it&apos;s true&apos;, but she seemed exhausted, because her voice was gradually getting softer.@</ToTranslate>
+  </String>
+  <String index="1324">
+    <ToTranslate>rinr1660</ToTranslate>
+  </String>
+  <String index="1325">
+    <ToTranslate>Rinrin$&quot;Do you think we made a baby...? You came a lot, so we did, don&apos;t you think?&quot;@</ToTranslate>
+  </String>
+  <String index="1326">
+    <ToTranslate>Kazuto$&quot;I-I don&apos;t know. I don&apos;t think it&apos;s that easy.&quot;@</ToTranslate>
+  </String>
+  <String index="1327">
+    <ToTranslate>rinr1661</ToTranslate>
+  </String>
+  <String index="1328">
+    <ToTranslate>Rinrin$&quot;Eh, really?&quot;@</ToTranslate>
+  </String>
+  <String index="1329">
+    <ToTranslate>Kazuto$&quot;Yeah, we just have to do this again and again.&quot;@</ToTranslate>
+  </String>
+  <String index="1330">
+    <ToTranslate>rinr1662</ToTranslate>
+  </String>
+  <String index="1331">
+    <ToTranslate>Rinrin$&quot;Okay, I got it.&quot;@</ToTranslate>
+  </String>
+  <String index="1332">
+    <ToTranslate>Kazuto$&quot;Not now!? Don&apos;t try to get on top of me.&quot;@</ToTranslate>
+  </String>
+  <String index="1333">
+    <ToTranslate>rinr1663</ToTranslate>
+  </String>
+  <String index="1334">
+    <ToTranslate>Rinrin$&quot;But, I want a baby...&quot;@</ToTranslate>
+  </String>
+  <String index="1335">
+    <ToTranslate>$I reasserted my grip on her, to make sure she&apos;d go to sleep. I decided to leave my penis in, since it would be a shock to pull it out.@</ToTranslate>
+  </String>
+  <String index="1336">
+    <ToTranslate>$I would pull it out gently, once she was fast asleep.@</ToTranslate>
+  </String>
+  <String index="1337">
+    <ToTranslate>Kazuto$&quot;We&apos;ll be together forever, right? You&apos;ll get pregnant when you&apos;re supposed to.&quot;@</ToTranslate>
+  </String>
+  <String index="1338">
+    <ToTranslate>rinr1664</ToTranslate>
+  </String>
+  <String index="1339">
+    <ToTranslate>Rinrin$&quot;Mmmm... I want it to be soon though.&quot;@</ToTranslate>
+  </String>
+  <String index="1340">
+    <ToTranslate>$She rested her head on my shoulder, and adjusted her arms around me...@</ToTranslate>
+  </String>
+  <String index="1341">
+    <ToTranslate>rinr1665</ToTranslate>
+  </String>
+  <String index="1342">
+    <ToTranslate>Rinrin$&quot;I&apos;m gonna be a mama... for Onii-chan...&quot;@</ToTranslate>
+  </String>
+  <String index="1343">
+    <ToTranslate>$Why would she be my mother? I gave a wry chuckle, and patted her on the back. Words would only get in the way.@</ToTranslate>
+  </String>
+  <String index="1344">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="1345">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="1346">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="1347">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="1348">
+    <ToTranslate>$They couldn&apos;t add to the happiness she felt, being in the arms of someone she loved.@</ToTranslate>
+  </String>
+  <String index="1349">
+    <ToTranslate>rinr1666</ToTranslate>
+  </String>
+  <String index="1350">
+    <ToTranslate>Rinrin$&quot;Zzzzz...&quot;@</ToTranslate>
+  </String>
+  <String index="1351">
+    <ToTranslate>$Rinrin drifted into the peaceful rhythms of sleep.. Thanks to her, I knew I&apos;d be able to fall asleep, this time, with happier thoughts in mind.@</ToTranslate>
+  </String>
+  <String index="1352">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="1353">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+</DBS>
+</poem>

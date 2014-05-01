@@ -1,0 +1,199 @@
+<poem>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<DBS>
+  <String index="0">
+    <Origin>Koihime Musou ver1.0</Origin>
+    <ToTranslate>Koihime Musou ver1.0</ToTranslate>
+  </String>
+  <String index="1">
+    <Origin>_SysBtn</Origin>
+    <ToTranslate>_SysBtn</ToTranslate>
+  </String>
+  <String index="2">
+    <Origin>_SysBtnMask</Origin>
+    <ToTranslate>_SysBtnMask</ToTranslate>
+  </String>
+  <String index="3">
+    <Origin>_MainMsg</Origin>
+    <ToTranslate>_MainMsg</ToTranslate>
+  </String>
+  <String index="4">
+    <Origin>_MainMsgMask</Origin>
+    <ToTranslate>_MainMsgMask</ToTranslate>
+  </String>
+  <String index="5">
+    <Origin>_BackLog</Origin>
+    <ToTranslate>_BackLog</ToTranslate>
+  </String>
+  <String index="6">
+    <Origin>_BackLogMask</Origin>
+    <ToTranslate>_BackLogMask</ToTranslate>
+  </String>
+  <String index="7">
+    <Origin>SoundPackSEVo</Origin>
+    <ToTranslate>SoundPackSEVo</ToTranslate>
+  </String>
+  <String index="8">
+    <Origin>Are you sure you want to start with FullScreen?</Origin>
+    <ToTranslate>Are you sure you want to start with FullScreen?</ToTranslate>
+  </String>
+  <String index="9">
+    <Origin>Confirm?</Origin>
+    <ToTranslate>Confirm?</ToTranslate>
+  </String>
+  <String index="10">
+    <Origin>Bitstream Vera Sans Mono</Origin>
+    <ToTranslate>Bitstream Vera Sans Mono</ToTranslate>
+  </String>
+  <String index="11">
+    <Origin>Bitstream Vera Sans Mono</Origin>
+    <ToTranslate>Bitstream Vera Sans Mono</ToTranslate>
+  </String>
+  <String index="12">
+    <Origin>Bitstream Vera Sans Mono</Origin>
+    <ToTranslate>Bitstream Vera Sans Mono</ToTranslate>
+  </String>
+  <String index="13">
+    <Origin>Bitstream Vera Sans Mono</Origin>
+    <ToTranslate>Bitstream Vera Sans Mono</ToTranslate>
+  </String>
+  <String index="14">
+    <Origin>Bitstream Vera Sans Mono</Origin>
+    <ToTranslate>Bitstream Vera Sans Mono</ToTranslate>
+  </String>
+  <String index="15">
+    <Origin>Bitstream Vera Sans Mono</Origin>
+    <ToTranslate>Bitstream Vera Sans Mono</ToTranslate>
+  </String>
+  <String index="16">
+    <Origin>Bitstream Vera Sans Mono</Origin>
+    <ToTranslate>Bitstream Vera Sans Mono</ToTranslate>
+  </String>
+  <String index="17">
+    <Origin>_SB_EraseMsgButton</Origin>
+    <ToTranslate>_SB_EraseMsgButton</ToTranslate>
+  </String>
+  <String index="18">
+    <Origin>dummy</Origin>
+    <ToTranslate>dummy</ToTranslate>
+  </String>
+  <String index="19">
+    <Origin>dummy</Origin>
+    <ToTranslate>dummy</ToTranslate>
+  </String>
+  <String index="20">
+    <Origin>_SB_QSave</Origin>
+    <ToTranslate>_SB_QSave</ToTranslate>
+  </String>
+  <String index="21">
+    <Origin>dummy</Origin>
+    <ToTranslate>dummy</ToTranslate>
+  </String>
+  <String index="22">
+    <Origin>dummy</Origin>
+    <ToTranslate>dummy</ToTranslate>
+  </String>
+  <String index="23">
+    <Origin>_SB_AutoMode</Origin>
+    <ToTranslate>_SB_AutoMode</ToTranslate>
+  </String>
+  <String index="24">
+    <Origin>dummy</Origin>
+    <ToTranslate>dummy</ToTranslate>
+  </String>
+  <String index="25">
+    <Origin>dummy</Origin>
+    <ToTranslate>dummy</ToTranslate>
+  </String>
+  <String index="26">
+    <Origin>_SB_SkipButton</Origin>
+    <ToTranslate>_SB_SkipButton</ToTranslate>
+  </String>
+  <String index="27">
+    <Origin>dummy</Origin>
+    <ToTranslate>dummy</ToTranslate>
+  </String>
+  <String index="28">
+    <Origin>dummy</Origin>
+    <ToTranslate>dummy</ToTranslate>
+  </String>
+  <String index="29">
+    <Origin>_SB_BackLogMode</Origin>
+    <ToTranslate>_SB_BackLogMode</ToTranslate>
+  </String>
+  <String index="30">
+    <Origin>dummy</Origin>
+    <ToTranslate>dummy</ToTranslate>
+  </String>
+  <String index="31">
+    <Origin>dummy</Origin>
+    <ToTranslate>dummy</ToTranslate>
+  </String>
+  <String index="32">
+    <Origin>_SB_BackLogPrev</Origin>
+    <ToTranslate>_SB_BackLogPrev</ToTranslate>
+  </String>
+  <String index="33">
+    <Origin>dummy</Origin>
+    <ToTranslate>dummy</ToTranslate>
+  </String>
+  <String index="34">
+    <Origin>dummy</Origin>
+    <ToTranslate>dummy</ToTranslate>
+  </String>
+  <String index="35">
+    <Origin>_SB_BackLogNext</Origin>
+    <ToTranslate>_SB_BackLogNext</ToTranslate>
+  </String>
+  <String index="36">
+    <Origin>dummy</Origin>
+    <ToTranslate>dummy</ToTranslate>
+  </String>
+  <String index="37">
+    <Origin>dummy</Origin>
+    <ToTranslate>dummy</ToTranslate>
+  </String>
+  <String index="38">
+    <Origin>�</Origin>
+    <ToTranslate>�</ToTranslate>
+  </String>
+  <String index="39">
+    <Origin>�</Origin>
+    <ToTranslate>�</ToTranslate>
+  </String>
+  <String index="40">
+    <Origin>�</Origin>
+    <ToTranslate>�</ToTranslate>
+  </String>
+  <String index="41">
+    <Origin>�</Origin>
+    <ToTranslate>�</ToTranslate>
+  </String>
+  <String index="42">
+    <Origin>�</Origin>
+    <ToTranslate>�</ToTranslate>
+  </String>
+  <String index="43">
+    <Origin>�</Origin>
+    <ToTranslate>�</ToTranslate>
+  </String>
+  <String index="44">
+    <Origin>�</Origin>
+    <ToTranslate>�</ToTranslate>
+  </String>
+  <String index="45">
+    <Origin>_BrandLogo</Origin>
+    <ToTranslate>_BrandLogo</ToTranslate>
+  </String>
+  <String index="46">
+    <Origin>bg_Black</Origin>
+    <ToTranslate>bg_Black</ToTranslate>
+  </String>
+  <String index="47">
+    <Origin>_title</Origin>
+    <ToTranslate>_title</ToTranslate>
+  </String>
+</DBS>
+
+</poem>

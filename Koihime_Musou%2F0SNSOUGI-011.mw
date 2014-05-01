@@ -1,0 +1,1534 @@
+[[Koihime Musou/Прогресс перевода/Сюжет|[Назад]]]
+<poem>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<DBS>
+  <String index="0">
+    <ToTranslate>bcg_map_a</ToTranslate>
+  </String>
+  <String index="1">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="2">
+    <ToTranslate>bgm23</ToTranslate>
+  </String>
+  <String index="3">
+    <ToTranslate>$После объединения больше части континента мы распустили армию и триумфально вернулись в Ючжоу.@</ToTranslate>
+  </String>
+  <String index="4">
+    <ToTranslate>$Вернувшись домой, мы взяли пару дней роздыху и теперь намереваемся провести территориальную реформу, но так как наш основной район Чжо расположен на самом севере страны, то это достаточно неудобно.@</ToTranslate>
+  </String>
+  <String index="5">
+    <ToTranslate>$Было решено перенести столицу в более удобное место и мы переехали в Лоян, бывшую столицу Ги.@</ToTranslate>
+  </String>
+  <String index="6">
+    <ToTranslate>$Народ Ючжоу с грустью на лицах провожал наш переезд в Лоян, и сразу по прибытии мы приступили к управлению нашими территориями.@</ToTranslate>
+  </String>
+  <String index="7">
+    <ToTranslate>$Сперва, после одобрения Цаоцао, мы направили заместителя казначея на бывшую территорию Ги, сеть равнин к югу от центра континента.@</ToTranslate>
+  </String>
+  <String index="8">
+    <ToTranslate>$Точно так же, после одобрения Сонкен, мы выбрали управляющего бывшими территориями Го на востоке.@</ToTranslate>
+  </String>
+  <String index="9">
+    <ToTranslate>$После этого, мы приняли меры для удаления с земель шрамов прошедшей войны, восстания Жёлтых повязок и прочих беспорядков.@</ToTranslate>
+  </String>
+  <String index="10">
+    <ToTranslate>$Что-то оказалось довольно легко, но кое-что оказалось почти непосильным.@</ToTranslate>
+  </String>
+  <String index="11">
+    <ToTranslate>$У меня то и дело возникали трудности с управлением внутренними землями, но все вокруг помогали мне с моими делами.@</ToTranslate>
+  </String>
+  <String index="12">
+    <ToTranslate>$И вот сегодня мне наконец-то удалось разгрестись с бумажной работой и выкроить немного свободного времени. Я решил поговорить с Шури и разослать по стране разведчиков для поисков людей в Белых одеждах.@</ToTranslate>
+  </String>
+  <String index="13">
+    <ToTranslate>$И пока мы ждали от них новостей, я решил насладиться мирными днями.@</ToTranslate>
+  </String>
+  <String index="14">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="15">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="16">
+    <ToTranslate>_kyotenphase</ToTranslate>
+  </String>
+  <String index="17">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="18">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="19">
+    <ToTranslate>bcg_town_a</ToTranslate>
+  </String>
+  <String index="20">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="21">
+    <ToTranslate>bgm03</ToTranslate>
+  </String>
+  <String index="22">
+    <ToTranslate>Казуто$"Говоришь...... люди стали улыбаться намного чаще? Ну, лично мне показалось, что город так же стал оживлённее."@</ToTranslate>
+  </String>
+  <String index="23">
+    <ToTranslate>tcg_kan21aa</ToTranslate>
+  </String>
+  <String index="24">
+    <ToTranslate>tcg_kan21m</ToTranslate>
+  </String>
+  <String index="25">
+    <ToTranslate>aisy0992</ToTranslate>
+  </String>
+  <String index="26">
+    <ToTranslate>Айша$"Вам не показалось, это и в самом деле так. Торговля на улицах города стала намного активнее."@</ToTranslate>
+  </String>
+  <String index="27">
+    <ToTranslate>aisy0993</ToTranslate>
+  </String>
+  <String index="28">
+    <ToTranslate>Айша$"Торговцы ведут себя активнее, экономика процветает и люди вокруг куда мотивированнее. Я считаю, что именно из-за них город стал ещё более шумным."@</ToTranslate>
+  </String>
+  <String index="29">
+    <ToTranslate>Казуто$"И правда, если подумать, купцы из Ву и Вэй досель также не посещали наши земли."@</ToTranslate>
+  </String>
+  <String index="30">
+    <ToTranslate>tcg_kan21ba</ToTranslate>
+  </String>
+  <String index="31">
+    <ToTranslate>tcg_kan21m</ToTranslate>
+  </String>
+  <String index="32">
+    <ToTranslate>aisy0994</ToTranslate>
+  </String>
+  <String index="33">
+    <ToTranslate>Айша$"Только частично, таможенные законы, которые вы утвердили, и система свободного рынка, также сыграли немаловажную роль."@</ToTranslate>
+  </String>
+  <String index="34">
+    <ToTranslate>Казуто$"Ну...... я всего-то применил то, что узнал ещё в своём мире."@</ToTranslate>
+  </String>
+  <String index="35">
+    <ToTranslate>tcg_kan11aa</ToTranslate>
+  </String>
+  <String index="36">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="37">
+    <ToTranslate>aisy0995</ToTranslate>
+  </String>
+  <String index="38">
+    <ToTranslate>Айша$"Своём мире...... вы говорите о Небесах?"@</ToTranslate>
+  </String>
+  <String index="39">
+    <ToTranslate>Казуто$"Ну да, что-то вроде этого."@</ToTranslate>
+  </String>
+  <String index="40">
+    <ToTranslate>$И пока я размышлял как же ответить......@</ToTranslate>
+  </String>
+  <String index="41">
+    <ToTranslate>tcg_hg11aa</ToTranslate>
+  </String>
+  <String index="42">
+    <ToTranslate>tcg_hg11m</ToTranslate>
+  </String>
+  <String index="43">
+    <ToTranslate>bgm16</ToTranslate>
+  </String>
+  <String index="44">
+    <ToTranslate>chos0044</ToTranslate>
+  </String>
+  <String index="45">
+    <ToTranslate>Чосэн$"Боже мой, Господин! Вместе с Айшей-чан решили прогуляться по городу? Как же мило!"@</ToTranslate>
+  </String>
+  <String index="46">
+    <ToTranslate>$Гигантский, полуголый пенис...... то есть мужик, предстал перед нами.@</ToTranslate>
+  </String>
+  <String index="47">
+    <ToTranslate>Казуто$"Скажи, Чосэн. Это у тебя что, такая утренняя разминка?"@</ToTranslate>
+  </String>
+  <String index="48">
+    <ToTranslate>tcg_hg11ba</ToTranslate>
+  </String>
+  <String index="49">
+    <ToTranslate>tcg_hg11m</ToTranslate>
+  </String>
+  <String index="50">
+    <ToTranslate>onpu</ToTranslate>
+  </String>
+  <String index="51">
+    <ToTranslate>chos0045</ToTranslate>
+  </String>
+  <String index="52">
+    <ToTranslate>Чосэн$"Скажем иначе......возможно я ищу кого-то особенного? Бу-ху-ху!"@</ToTranslate>
+  </String>
+  <String index="53">
+    <ToTranslate>tcg_hg11ba</ToTranslate>
+  </String>
+  <String index="54">
+    <ToTranslate>tcg_hg11m</ToTranslate>
+  </String>
+  <String index="55">
+    <ToTranslate>tcg_kan21pa</ToTranslate>
+  </String>
+  <String index="56">
+    <ToTranslate>tcg_kan21m</ToTranslate>
+  </String>
+  <String index="57">
+    <ToTranslate>aisy0996</ToTranslate>
+  </String>
+  <String index="58">
+    <ToTranslate>Айша$"И-ищешь кого-то?! Уа-а, в-все кто меня слышит, прячьтесь скорее! Иначе вас съедят заживо!!"@</ToTranslate>
+  </String>
+  <String index="59">
+    <ToTranslate>tcg_hg21ba</ToTranslate>
+  </String>
+  <String index="60">
+    <ToTranslate>tcg_hg21m</ToTranslate>
+  </String>
+  <String index="61">
+    <ToTranslate>chos0046</ToTranslate>
+  </String>
+  <String index="62">
+    <ToTranslate>Чосэн$"Оя, Айша-чан, ты грубиянка, будешь так громко кричать мне придётся на себя рассердиться!"@</ToTranslate>
+  </String>
+  <String index="63">
+    <ToTranslate>tcg_kan11qa</ToTranslate>
+  </String>
+  <String index="64">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="65">
+    <ToTranslate>muka</ToTranslate>
+  </String>
+  <String index="66">
+    <ToTranslate>aisy0997</ToTranslate>
+  </String>
+  <String index="67">
+    <ToTranslate>Айша$"Уа-а, прекрати так скалиться! Отвратительно!"@</ToTranslate>
+  </String>
+  <String index="68">
+    <ToTranslate>tcg_hg21da</ToTranslate>
+  </String>
+  <String index="69">
+    <ToTranslate>tcg_hg21m</ToTranslate>
+  </String>
+  <String index="70">
+    <ToTranslate>chos0047</ToTranslate>
+  </String>
+  <String index="71">
+    <ToTranslate>Чосэн$"У-у, какая вредина! Мой Господин, скажите же ей хоть что-нибудь!"@</ToTranslate>
+  </String>
+  <String index="72">
+    <ToTranslate>Казуто$"Ничего не могу поделать, она всегда злиться когда видит что-то отвратительное. ......однако, Чосэн, что скажешь о нашем городе? Заметил что-нибудь необычное?"@</ToTranslate>
+  </String>
+  <String index="73">
+    <ToTranslate>tcg_hg11aa</ToTranslate>
+  </String>
+  <String index="74">
+    <ToTranslate>tcg_hg11m</ToTranslate>
+  </String>
+  <String index="75">
+    <ToTranslate>chos0048</ToTranslate>
+  </String>
+  <String index="76">
+    <ToTranslate>Чосэн$"Боже, так вы осматриваете город?"@</ToTranslate>
+  </String>
+  <String index="77">
+    <ToTranslate>Казуто$"Что-то вроде этого. ......так тебе есть что сказать?"@</ToTranslate>
+  </String>
+  <String index="78">
+    <ToTranslate>tcg_hg11ba</ToTranslate>
+  </String>
+  <String index="79">
+    <ToTranslate>tcg_hg11m</ToTranslate>
+  </String>
+  <String index="80">
+    <ToTranslate>chos0049</ToTranslate>
+  </String>
+  <String index="81">
+    <ToTranslate>Чосэн$"Возможно, люди в городе улыбаются всё чаще, плюс стабилизируются цены......думаю, прекрасно, что город восстанавливается в столь быстрые сроки."@</ToTranslate>
+  </String>
+  <String index="82">
+    <ToTranslate>Казуто$"Ясно. Что ж, после твоих слов, как резидент города, я ещё больше уверен в правильности своих действий."@</ToTranslate>
+  </String>
+  <String index="83">
+    <ToTranslate>bgm13</ToTranslate>
+  </String>
+  <String index="84">
+    <ToTranslate>saji0080</ToTranslate>
+  </String>
+  <String index="85">
+    <ToTranslate>???$"Как вижу, ты доволен собой. В прошлом обычный человек безо всякого потенциала смог в настоящем стать героем и спасителем этой страны."@</ToTranslate>
+  </String>
+  <String index="86">
+    <ToTranslate>Казуто$"Га?"@</ToTranslate>
+  </String>
+  <String index="87">
+    <ToTranslate>tcg_kan11ma</ToTranslate>
+  </String>
+  <String index="88">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="89">
+    <ToTranslate>aisy0998</ToTranslate>
+  </String>
+  <String index="90">
+    <ToTranslate>Айша$"Кто здесь!?"@</ToTranslate>
+  </String>
+  <String index="91">
+    <ToTranslate>SE069</ToTranslate>
+  </String>
+  <String index="92">
+    <ToTranslate>SE079</ToTranslate>
+  </String>
+  <String index="93">
+    <ToTranslate>tcg_saj11aa</ToTranslate>
+  </String>
+  <String index="94">
+    <ToTranslate>tcg_saj11m</ToTranslate>
+  </String>
+  <String index="95">
+    <ToTranslate>saji0081</ToTranslate>
+  </String>
+  <String index="96">
+    <ToTranslate>Саджи$"Хм...... только не говорите, что уже забыли меня."@</ToTranslate>
+  </String>
+  <String index="97">
+    <ToTranslate>Казуто$"А...... это же ты!"@</ToTranslate>
+  </String>
+  <String index="98">
+    <ToTranslate>tcg_saj11ia</ToTranslate>
+  </String>
+  <String index="99">
+    <ToTranslate>tcg_saj11m</ToTranslate>
+  </String>
+  <String index="100">
+    <ToTranslate>saji0082</ToTranslate>
+  </String>
+  <String index="101">
+    <ToTranslate>Саджи$"Должен сказать, давно это было...... благодаря тебе, я сильно пострадал тогда, но теперь это в прошлом."@</ToTranslate>
+  </String>
+  <String index="102">
+    <ToTranslate>tcg_saj21ca</ToTranslate>
+  </String>
+  <String index="103">
+    <ToTranslate>tcg_saj21m</ToTranslate>
+  </String>
+  <String index="104">
+    <ToTranslate>saji0083</ToTranslate>
+  </String>
+  <String index="105">
+    <ToTranslate>Саджи$"Умри, Хонго Казуто!"@</ToTranslate>
+  </String>
+  <String index="106">
+    <ToTranslate>SE030</ToTranslate>
+  </String>
+  <String index="107">
+    <ToTranslate>battle_saj</ToTranslate>
+  </String>
+  <String index="108">
+    <ToTranslate>tcg_hg61aa</ToTranslate>
+  </String>
+  <String index="109">
+    <ToTranslate>tcg_hg61m</ToTranslate>
+  </String>
+  <String index="110">
+    <ToTranslate>chos0050</ToTranslate>
+  </String>
+  <String index="111">
+    <ToTranslate>Чосэн$"Ничего не получится!"@</ToTranslate>
+  </String>
+  <String index="112">
+    <ToTranslate>battle_hg</ToTranslate>
+  </String>
+  <String index="113">
+    <ToTranslate>SE002</ToTranslate>
+  </String>
+  <String index="114">
+    <ToTranslate>s_yure_r</ToTranslate>
+  </String>
+  <String index="115">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="116">
+    <ToTranslate>ecg_saj02a</ToTranslate>
+  </String>
+  <String index="117">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="118">
+    <ToTranslate>bgm17</ToTranslate>
+  </String>
+  <String index="119">
+    <ToTranslate>saji0084</ToTranslate>
+  </String>
+  <String index="120">
+    <ToTranslate>Саджи$"Гх...... не вмешивайся, Чосэн!"@</ToTranslate>
+  </String>
+  <String index="121">
+    <ToTranslate>chos0051</ToTranslate>
+  </String>
+  <String index="122">
+    <ToTranslate>Чосэн$"Ой нет, никак, никак, никак, не могу это сделать, Саджи-чан!"@</ToTranslate>
+  </String>
+  <String index="123">
+    <ToTranslate>saji0085</ToTranslate>
+  </String>
+  <String index="124">
+    <ToTranslate>Саджи$"Сволочь! Ты что, хочешь сказать, что признаёшь этот мир?!"@</ToTranslate>
+  </String>
+  <String index="125">
+    <ToTranslate>chos0052</ToTranslate>
+  </String>
+  <String index="126">
+    <ToTranslate>Чосэн$"Признаю или нет, факт в том что я здесь, вот и всё!"@</ToTranslate>
+  </String>
+  <String index="127">
+    <ToTranslate>saji0086</ToTranslate>
+  </String>
+  <String index="128">
+    <ToTranslate>Саджи$"Ты предатель!"@</ToTranslate>
+  </String>
+  <String index="129">
+    <ToTranslate>aisy0999</ToTranslate>
+  </String>
+  <String index="130">
+    <ToTranslate>Айша$"Предатель?! Чосэн, ты что, с ним заодно?!"@</ToTranslate>
+  </String>
+  <String index="131">
+    <ToTranslate>chos0053</ToTranslate>
+  </String>
+  <String index="132">
+    <ToTranslate>Чосэн$"Не-ет, я на стороне своего Господина! Поэтому прямо сейчас я пытаюсь его спасти!"@</ToTranslate>
+  </String>
+  <String index="133">
+    <ToTranslate>aisy1000</ToTranslate>
+  </String>
+  <String index="134">
+    <ToTranslate>Айша$"Но он ведь сказал только что......"@</ToTranslate>
+  </String>
+  <String index="135">
+    <ToTranslate>chos0054</ToTranslate>
+  </String>
+  <String index="136">
+    <ToTranslate>Чосэн$"А об этом я расскажу чуть позднее. Сейчас же мы должны остановить Саджи-чи-ин!"@</ToTranslate>
+  </String>
+  <String index="137">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="138">
+    <ToTranslate>ecg_saj02b</ToTranslate>
+  </String>
+  <String index="139">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="140">
+    <ToTranslate>saji0087</ToTranslate>
+  </String>
+  <String index="141">
+    <ToTranslate>Саджи$"Почему?! Почему, Чосэн?! Твоё существование в этом мире также должно быть ограниченным, так ведь?! Так почему ты позволяешь существовать этому миру?! Этой подделке?!"@</ToTranslate>
+  </String>
+  <String index="142">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="143">
+    <ToTranslate>ecg_saj02c</ToTranslate>
+  </String>
+  <String index="144">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="145">
+    <ToTranslate>chos0055</ToTranslate>
+  </String>
+  <String index="146">
+    <ToTranslate>Чосэн$"Даже если он подделка, сейчас у него есть собственная история. И я никому не позволено уничтожить его."@</ToTranslate>
+  </String>
+  <String index="147">
+    <ToTranslate>chos0056</ToTranslate>
+  </String>
+  <String index="148">
+    <ToTranslate>Чосэн$"Дерево этого мира будет расширяться......бесконечно. Его корни окрепнут и появятся новые ветки......"@</ToTranslate>
+  </String>
+  <String index="149">
+    <ToTranslate>chos0057</ToTranslate>
+  </String>
+  <String index="150">
+    <ToTranslate>Чосэн$"Если отбросить все альтернативы, то останутся только ноль и единица, безо всякого цвета. Это ведь совсем не интересно, не считаешь ли?"@</ToTranslate>
+  </String>
+  <String index="151">
+    <ToTranslate>chos0058</ToTranslate>
+  </String>
+  <String index="152">
+    <ToTranslate>Чосэн$"Тогда нам просто придётся признать все альтернативные истории. При этом истинная история станет их центром и обретёт свой собственный цвет."@</ToTranslate>
+  </String>
+  <String index="153">
+    <ToTranslate>chos0059</ToTranslate>
+  </String>
+  <String index="154">
+    <ToTranslate>Чосэн$"Скопление альтернатив создаёт истинную историю в настоящей реальности."@</ToTranslate>
+  </String>
+  <String index="155">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="156">
+    <ToTranslate>ecg_saj02b</ToTranslate>
+  </String>
+  <String index="157">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="158">
+    <ToTranslate>saji0088</ToTranslate>
+  </String>
+  <String index="159">
+    <ToTranslate>Саджи$"Хочешь сказать - мы должны повторять в этом сценарии это снова и снова и всё только для этого?"@</ToTranslate>
+  </String>
+  <String index="160">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="161">
+    <ToTranslate>ecg_saj02c</ToTranslate>
+  </String>
+  <String index="162">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="163">
+    <ToTranslate>chos0060</ToTranslate>
+  </String>
+  <String index="164">
+    <ToTranslate>Чосэн$"Совершенно верно. Ведь это не настолько сложно для таких полу-сценариев как мы?"@</ToTranslate>
+  </String>
+  <String index="165">
+    <ToTranslate>chos0061</ToTranslate>
+  </String>
+  <String index="166">
+    <ToTranslate>Чосэн$"И до тех пор, пока мы будем полностью исполнять свою роль, будут появляться люди, которые сделают этот мир лучше. ......ну разве всё это не замечательно?"@</ToTranslate>
+  </String>
+  <String index="167">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="168">
+    <ToTranslate>ecg_saj02b</ToTranslate>
+  </String>
+  <String index="169">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="170">
+    <ToTranslate>saji0089</ToTranslate>
+  </String>
+  <String index="171">
+    <ToTranslate>Саджи$"К твоему сожалению я совсем не мазохист который наслаждается служением другим. Лучше? Замечательно? ......какой смысл в альтернативной истории, которая причиняет лишь боль?"@</ToTranslate>
+  </String>
+  <String index="172">
+    <ToTranslate>saji0091</ToTranslate>
+  </String>
+  <String index="173">
+    <ToTranslate>Саджи$"......я только хочу уничтожить единую альтернативную историю созданную единым фактором, Хонго Казуто!"@</ToTranslate>
+  </String>
+  <String index="174">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="175">
+    <ToTranslate>ecg_saj02d</ToTranslate>
+  </String>
+  <String index="176">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="177">
+    <ToTranslate>chos0062</ToTranslate>
+  </String>
+  <String index="178">
+    <ToTranslate>Чосэн$"Отчасти я понимаю, что ты чувствуешь, но...всё это ещё одна реальность. Миры, созданные как альтернативные реальности всё труднее изменить по прошествии времени..."@</ToTranslate>
+  </String>
+  <String index="179">
+    <ToTranslate>chos0063</ToTranslate>
+  </String>
+  <String index="180">
+    <ToTranslate>Чосэн$"Поэтому, прошу, просто прими это Саджи-чан. ......даже если тобой движут импульсивность разрушения и созидания."@</ToTranslate>
+  </String>
+  <String index="181">
+    <ToTranslate>saji0092</ToTranslate>
+  </String>
+  <String index="182">
+    <ToTranslate>Саджи$"Хах, отказываюсь. ......похоже разговор с тобой уже ничего не принесёт."@</ToTranslate>
+  </String>
+  <String index="183">
+    <ToTranslate>chos0064</ToTranslate>
+  </String>
+  <String index="184">
+    <ToTranslate>Чосэн$"Ты всё таки решил уничтожить этот мир......?"@</ToTranslate>
+  </String>
+  <String index="185">
+    <ToTranslate>saji0093</ToTranslate>
+  </String>
+  <String index="186">
+    <ToTranslate>Саджи$"......?! Неплохо осведомлён, откуда ты всё это знаешь?"@</ToTranslate>
+  </String>
+  <String index="187">
+    <ToTranslate>chos0065</ToTranslate>
+  </String>
+  <String index="188">
+    <ToTranslate>Чосэн$"Ну, как у тебя у меня тоже есть свои союзники."@</ToTranslate>
+  </String>
+  <String index="189">
+    <ToTranslate>saji0094</ToTranslate>
+  </String>
+  <String index="190">
+    <ToTranslate>Саджи$"Вот как... ну да ладно, тебе уже не остановить меня. Этот сценарий уже прописан – и ему осталось не долго. Укицу уже почти готов. Этому миру придёт конец."@</ToTranslate>
+  </String>
+  <String index="191">
+    <ToTranslate>chos0066</ToTranslate>
+  </String>
+  <String index="192">
+    <ToTranslate>Чосэн$"Вот как...... под 'почти', ты подразумеваешь, что у нас есть ещё время?"@</ToTranslate>
+  </String>
+  <String index="193">
+    <ToTranslate>saji0095</ToTranslate>
+  </String>
+  <String index="194">
+    <ToTranslate>Саджи$"......возможно."@</ToTranslate>
+  </String>
+  <String index="195">
+    <ToTranslate>chos0067</ToTranslate>
+  </String>
+  <String index="196">
+    <ToTranslate>Чосэн$"Ау--! На твоём лице прямо написано 'о нет, я рассказал им!' Уфу-фу, ты такой милый, Саджи-чан!"@</ToTranslate>
+  </String>
+  <String index="197">
+    <ToTranslate>saji0096</ToTranslate>
+  </String>
+  <String index="198">
+    <ToTranslate>Саджи$"......фырк."@</ToTranslate>
+  </String>
+  <String index="199">
+    <ToTranslate>saji0097</ToTranslate>
+  </String>
+  <String index="200">
+    <ToTranslate>Саджи$"Мне помешали, и я не убью тебя сегодня. ......отныне твоя жизнь только в твоих руках."@</ToTranslate>
+  </String>
+  <String index="201">
+    <ToTranslate>saji0098</ToTranslate>
+  </String>
+  <String index="202">
+    <ToTranslate>Саджи$"Но при следующей встрече...... убью."@</ToTranslate>
+  </String>
+  <String index="203">
+    <ToTranslate>SE093</ToTranslate>
+  </String>
+  <String index="204">
+    <ToTranslate>bcg_town_a</ToTranslate>
+  </String>
+  <String index="205">
+    <ToTranslate>tcg_kan11ma</ToTranslate>
+  </String>
+  <String index="206">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="207">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="208">
+    <ToTranslate>bgm10</ToTranslate>
+  </String>
+  <String index="209">
+    <ToTranslate>aisy1001</ToTranslate>
+  </String>
+  <String index="210">
+    <ToTranslate>Айша$"Уа! Ч-Чосэн! Ты! Что всё это значит?!"@</ToTranslate>
+  </String>
+  <String index="211">
+    <ToTranslate>tcg_hg21da</ToTranslate>
+  </String>
+  <String index="212">
+    <ToTranslate>tcg_hg21m</ToTranslate>
+  </String>
+  <String index="213">
+    <ToTranslate>chos0068</ToTranslate>
+  </String>
+  <String index="214">
+    <ToTranslate>Чосэн$"Погоди! Главное успокойся, Айша-чан."@</ToTranslate>
+  </String>
+  <String index="215">
+    <ToTranslate>aisy1002</ToTranslate>
+  </String>
+  <String index="216">
+    <ToTranslate>Айша$"Ну и как сейчас я могу быть спокойной?"@</ToTranslate>
+  </String>
+  <String index="217">
+    <ToTranslate>Казуто$"Айша, остынь. Есть пара вопросов, ответы на которые я хотел бы получить."@</ToTranslate>
+  </String>
+  <String index="218">
+    <ToTranslate>tcg_kan11ea</ToTranslate>
+  </String>
+  <String index="219">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="220">
+    <ToTranslate>aisy1003</ToTranslate>
+  </String>
+  <String index="221">
+    <ToTranslate>Айша$"Н-но ведь Господин......"@</ToTranslate>
+  </String>
+  <String index="222">
+    <ToTranslate>Казуто$"Прости. Прошу, сделай как я говорю, ладно?"@</ToTranslate>
+  </String>
+  <String index="223">
+    <ToTranslate>tcg_kan11ca</ToTranslate>
+  </String>
+  <String index="224">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="225">
+    <ToTranslate>aisy1004</ToTranslate>
+  </String>
+  <String index="226">
+    <ToTranslate>Айша$"......хорошо."@</ToTranslate>
+  </String>
+  <String index="227">
+    <ToTranslate>$Должно быть Айша что-то заметила в моём поведении потому как перестала упрямится и просто кивнула.@</ToTranslate>
+  </String>
+  <String index="228">
+    <ToTranslate>Казуто$"Ладно, Чосэн, я о стольком должен разузнать у тебя... может лучше направимся ко мне в тронный зал?"@</ToTranslate>
+  </String>
+  <String index="229">
+    <ToTranslate>tcg_hg11aa</ToTranslate>
+  </String>
+  <String index="230">
+    <ToTranslate>tcg_hg11m</ToTranslate>
+  </String>
+  <String index="231">
+    <ToTranslate>chos0069</ToTranslate>
+  </String>
+  <String index="232">
+    <ToTranslate>Чосэн$"Так лучше всего, история этой альтернативной реальности близится к своему завершению. Возможно, сейчас самое время что-бы рассказать вам и всем остальным."@</ToTranslate>
+  </String>
+  <String index="233">
+    <ToTranslate>Казуто$"Именно. Что ж, идём?"@</ToTranslate>
+  </String>
+  <String index="234">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="235">
+    <ToTranslate>bb</ToTranslate>
+  </String>
+  <String index="236">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="237">
+    <ToTranslate>bb</ToTranslate>
+  </String>
+  <String index="238">
+    <ToTranslate>bcg_impseat_a</ToTranslate>
+  </String>
+  <String index="239">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="240">
+    <ToTranslate>bgm23</ToTranslate>
+  </String>
+  <String index="241">
+    <ToTranslate>Казуто$"Что ж, Чосэн...... прошу, поведай нам всем. Расскажи нам об этом мире, и о твоих связях с Саджи."@</ToTranslate>
+  </String>
+  <String index="242">
+    <ToTranslate>tcg_hg11aa</ToTranslate>
+  </String>
+  <String index="243">
+    <ToTranslate>tcg_hg11m</ToTranslate>
+  </String>
+  <String index="244">
+    <ToTranslate>chos0070</ToTranslate>
+  </String>
+  <String index="245">
+    <ToTranslate>Чосэн$"Разумеется. ......и пусть началом станет новость о том, что я не принадлежу этому миру."@</ToTranslate>
+  </String>
+  <String index="246">
+    <ToTranslate>tcg_hg11ba</ToTranslate>
+  </String>
+  <String index="247">
+    <ToTranslate>tcg_hg11m</ToTranslate>
+  </String>
+  <String index="248">
+    <ToTranslate>chos0071</ToTranslate>
+  </String>
+  <String index="249">
+    <ToTranslate>Чосэн$"Нет, пожалуй, куда правильнее будет сказать – я был создан чтобы служить этому миру, заимствуя имя того, кого я заменяю в этом мире."@</ToTranslate>
+  </String>
+  <String index="250">
+    <ToTranslate>tcg_cho31ja</ToTranslate>
+  </String>
+  <String index="251">
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="252">
+    <ToTranslate>rinr0529</ToTranslate>
+  </String>
+  <String index="253">
+    <ToTranslate>Ринрин$"Мя? Что ты хочешь сказать?"@</ToTranslate>
+  </String>
+  <String index="254">
+    <ToTranslate>tcg_syo21ja</ToTranslate>
+  </String>
+  <String index="255">
+    <ToTranslate>tcg_syo21m</ToTranslate>
+  </String>
+  <String index="256">
+    <ToTranslate>syur0504</ToTranslate>
+  </String>
+  <String index="257">
+    <ToTranslate>Шури$"Когда ты сказал что не принадлежишь этому миру...... значит ли это, что существуют и другие миры?"@</ToTranslate>
+  </String>
+  <String index="258">
+    <ToTranslate>tcg_hg21ba</ToTranslate>
+  </String>
+  <String index="259">
+    <ToTranslate>tcg_hg21m</ToTranslate>
+  </String>
+  <String index="260">
+    <ToTranslate>chos0072</ToTranslate>
+  </String>
+  <String index="261">
+    <ToTranslate>Чосэн$"Именно! Для примера...... подумаем. Да хотя бы мир нашего Господина."@</ToTranslate>
+  </String>
+  <String index="262">
+    <ToTranslate>tcg_cun11da</ToTranslate>
+  </String>
+  <String index="263">
+    <ToTranslate>tcg_cun11m</ToTranslate>
+  </String>
+  <String index="264">
+    <ToTranslate>sei_0328</ToTranslate>
+  </String>
+  <String index="265">
+    <ToTranslate>Сэй$"О-о, ясно. Мир, который мы зовём Небесами?"@</ToTranslate>
+  </String>
+  <String index="266">
+    <ToTranslate>tcg_kan11ca</ToTranslate>
+  </String>
+  <String index="267">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="268">
+    <ToTranslate>aisy1005</ToTranslate>
+  </String>
+  <String index="269">
+    <ToTranslate>Айша$"Ум......похоже на правду. Значит, существует два мира, наш и мир, зовущийся Небесами."@</ToTranslate>
+  </String>
+  <String index="270">
+    <ToTranslate>tcg_hg11aa</ToTranslate>
+  </String>
+  <String index="271">
+    <ToTranslate>tcg_hg11m</ToTranslate>
+  </String>
+  <String index="272">
+    <ToTranslate>chos0073</ToTranslate>
+  </String>
+  <String index="273">
+    <ToTranslate>Чосэн$"Жаль перебивать тебя, но их куда больше чем два. Есть ещё много-много других."@</ToTranslate>
+  </String>
+  <String index="274">
+    <ToTranslate>chos0074</ToTranslate>
+  </String>
+  <String index="275">
+    <ToTranslate>Чосэн$"Мы зовём их альтернативными историями."@</ToTranslate>
+  </String>
+  <String index="276">
+    <ToTranslate>Казуто$"Альтернативными историями...... я ведь не ошибаюсь, это истории без собственной реализации, правильно?"@</ToTranslate>
+  </String>
+  <String index="277">
+    <ToTranslate>chos0075</ToTranslate>
+  </String>
+  <String index="278">
+    <ToTranslate>Чосэн$"По определению, да. Но я не это пытался сказать. ......ну, частично я уже объяснил."@</ToTranslate>
+  </String>
+  <String index="279">
+    <ToTranslate>chos0076</ToTranslate>
+  </String>
+  <String index="280">
+    <ToTranslate>Чосэн$"В любом случае, наш мир, мир нашего Господина и другие...... мы их все называем альтернативными историями."@</ToTranslate>
+  </String>
+  <String index="281">
+    <ToTranslate>chos0077</ToTranslate>
+  </String>
+  <String index="282">
+    <ToTranslate>Чосэн$"Но есть ещё один, мир подлинной истории, чья концепция отличается от альтернативных историй."@</ToTranslate>
+  </String>
+  <String index="283">
+    <ToTranslate>tcg_hg31ea</ToTranslate>
+  </String>
+  <String index="284">
+    <ToTranslate>tcg_hg31m</ToTranslate>
+  </String>
+  <String index="285">
+    <ToTranslate>chos0078</ToTranslate>
+  </String>
+  <String index="286">
+    <ToTranslate>Чосэн$"Проще говоря, существует два типа миров, истинной и альтернативной истории."@</ToTranslate>
+  </String>
+  <String index="287">
+    <ToTranslate>tcg_hg11aa</ToTranslate>
+  </String>
+  <String index="288">
+    <ToTranslate>tcg_hg11m</ToTranslate>
+  </String>
+  <String index="289">
+    <ToTranslate>chos0079</ToTranslate>
+  </String>
+  <String index="290">
+    <ToTranslate>Чосэн$"Как альтернативные и истинная истории......истинная история принадлежала бы первичному миру. Люди в нём живут собственной жизнью, но это всего один мир, и он никогда не откроет путь в другой мир."@</ToTranslate>
+  </String>
+  <String index="291">
+    <ToTranslate>chos0080</ToTranslate>
+  </String>
+  <String index="292">
+    <ToTranslate>Чосэн$"В нём нет ни магии, ни волшебства, ни существ вроде драконов. Да и люди живущие в нём уверены что такого просто не может быть. Это мир, который порождает истории и их восприятие."@</ToTranslate>
+  </String>
+  <String index="293">
+    <ToTranslate>Чосэн$"Такой мир основан на универсальных и абстрактных понятиях, что может существовать только то, что уже существует."@</ToTranslate>
+  </String>
+  <String index="294">
+    <ToTranslate>Казуто$"......?? С каждой минутой становится всё сложнее."@</ToTranslate>
+  </String>
+  <String index="295">
+    <ToTranslate>tcg_hg21ba</ToTranslate>
+  </String>
+  <String index="296">
+    <ToTranslate>tcg_hg21m</ToTranslate>
+  </String>
+  <String index="297">
+    <ToTranslate>chos0081</ToTranslate>
+  </String>
+  <String index="298">
+    <ToTranslate>Чосэн$"Проще говоря, существует несколько видов реальностей."@</ToTranslate>
+  </String>
+  <String index="299">
+    <ToTranslate>chos0082</ToTranslate>
+  </String>
+  <String index="300">
+    <ToTranslate>Чосэн$"Есть настоящий мир, в котором наш Господин главный герой одной альтернативной истории, и есть реальный мир как часть истинной истории, в котором у людей есть свой Господин."@</ToTranslate>
+  </String>
+  <String index="301">
+    <ToTranslate>Казуто$"......тогда что такое альтернативная история?"@</ToTranslate>
+  </String>
+  <String index="302">
+    <ToTranslate>tcg_hg11aa</ToTranslate>
+  </String>
+  <String index="303">
+    <ToTranslate>tcg_hg11m</ToTranslate>
+  </String>
+  <String index="304">
+    <ToTranslate>chos0083</ToTranslate>
+  </String>
+  <String index="305">
+    <ToTranslate>Чосэн$"Альтернативная история концептуальный мир, созданный порождениями мыслей от истинной истории."@</ToTranslate>
+  </String>
+  <String index="306">
+    <ToTranslate>chos0084</ToTranslate>
+  </String>
+  <String index="307">
+    <ToTranslate>Чосэн$"Скажем иначе, кто-то в истинной истории просто создал эту историю."@</ToTranslate>
+  </String>
+  <String index="308">
+    <ToTranslate>Казуто$"Создал? ......то есть просто взял и написал как это делают писатели?"@</ToTranslate>
+  </String>
+  <String index="309">
+    <ToTranslate>chos0085</ToTranslate>
+  </String>
+  <String index="310">
+    <ToTranslate>Чосэн$"Верно. И такой созданный мир становится первой альтернативной реальностью."@</ToTranslate>
+  </String>
+  <String index="311">
+    <ToTranslate>chos0086</ToTranslate>
+  </String>
+  <String index="312">
+    <ToTranslate>Чосэн$"Тогда появляются люди которым интересна такая история и поддерживают его, продолжая додумывать другие истории. ......другими словами, они думают о различных возможных поворотах в истории."@</ToTranslate>
+  </String>
+  <String index="313">
+    <ToTranslate>chos0087</ToTranslate>
+  </String>
+  <String index="314">
+    <ToTranslate>Чосэн$"Такие мысли вслед порождают другие альтернативные истории."@</ToTranslate>
+  </String>
+  <String index="315">
+    <ToTranslate>tcg_hg21ba</ToTranslate>
+  </String>
+  <String index="316">
+    <ToTranslate>tcg_hg21m</ToTranslate>
+  </String>
+  <String index="317">
+    <ToTranslate>chos0088</ToTranslate>
+  </String>
+  <String index="318">
+    <ToTranslate>Чосэн$"К примеру...ах да, милорд, уверен, что вы поймёте меня. В вашем мире ведь существует истории о Времени Троецарствия, да?"@</ToTranslate>
+  </String>
+  <String index="319">
+    <ToTranslate>Чосэн$"Тот самый, в котором по преданию все генералы мужчины."@</ToTranslate>
+  </String>
+  <String index="320">
+    <ToTranslate>Казуто$"Да. Первоисточник называется Роман о Троецарствии, и похоже достаточно отличается от этого мира, угадал?"@</ToTranslate>
+  </String>
+  <String index="321">
+    <ToTranslate>tcg_hg21ca</ToTranslate>
+  </String>
+  <String index="322">
+    <ToTranslate>tcg_hg21m</ToTranslate>
+  </String>
+  <String index="323">
+    <ToTranslate>chos0089</ToTranslate>
+  </String>
+  <String index="324">
+    <ToTranslate>Чосэн$"Возможно. И те, кто читал и кому понравился этот мир продолжили думать об этом."@</ToTranslate>
+  </String>
+  <String index="325">
+    <ToTranslate>tcg_hg21fa</ToTranslate>
+  </String>
+  <String index="326">
+    <ToTranslate>tcg_hg21m</ToTranslate>
+  </String>
+  <String index="327">
+    <ToTranslate>chos0090</ToTranslate>
+  </String>
+  <String index="328">
+    <ToTranslate>Чосэн$"Что если Цаоцао и Какотон были любовниками......"@</ToTranslate>
+  </String>
+  <String index="329">
+    <ToTranslate>chos0091</ToTranslate>
+  </String>
+  <String index="330">
+    <ToTranslate>Чосэн$"А что если дружба между Шую и Сонсаку была видна только на поверхности..."@</ToTranslate>
+  </String>
+  <String index="331">
+    <ToTranslate>tcg_hg11ba</ToTranslate>
+  </String>
+  <String index="332">
+    <ToTranslate>tcg_hg11m</ToTranslate>
+  </String>
+  <String index="333">
+    <ToTranslate>chos0092</ToTranslate>
+  </String>
+  <String index="334">
+    <ToTranslate>Чосэн$"Подобные мысли порождают альтернативные истории, подвластные этим мыслям. Осуществляемым в другом измерении от истинной истории. ......метафизический мир."@</ToTranslate>
+  </String>
+  <String index="335">
+    <ToTranslate>tcg_hg11aa</ToTranslate>
+  </String>
+  <String index="336">
+    <ToTranslate>tcg_hg11m</ToTranslate>
+  </String>
+  <String index="337">
+    <ToTranslate>chos0093</ToTranslate>
+  </String>
+  <String index="338">
+    <ToTranslate>Чосэн$"Персонажи этих историй живут здесь собственной жизнью, так же, как и их читатели. У них есть собственные чувства и они действуют по своему усмотрению......так создаются концептуальные миры."@</ToTranslate>
+  </String>
+  <String index="339">
+    <ToTranslate>tcg_hg21da</ToTranslate>
+  </String>
+  <String index="340">
+    <ToTranslate>tcg_hg21m</ToTranslate>
+  </String>
+  <String index="341">
+    <ToTranslate>chos0094</ToTranslate>
+  </String>
+  <String index="342">
+    <ToTranslate>Чосэн$"Возможно Цаоцао, живущая в ином мире возненавидит Какотон."@</ToTranslate>
+  </String>
+  <String index="343">
+    <ToTranslate>tcg_hg21ca</ToTranslate>
+  </String>
+  <String index="344">
+    <ToTranslate>tcg_hg21m</ToTranslate>
+  </String>
+  <String index="345">
+    <ToTranslate>chos0095</ToTranslate>
+  </String>
+  <String index="346">
+    <ToTranslate>Чосэн$"Но возможно в другом мире, ну очень похожем на этот, Цаоцао безумно влюбится к Какотон."@</ToTranslate>
+  </String>
+  <String index="347">
+    <ToTranslate>tcg_hg11ba</ToTranslate>
+  </String>
+  <String index="348">
+    <ToTranslate>tcg_hg11m</ToTranslate>
+  </String>
+  <String index="349">
+    <ToTranslate>chos0096</ToTranslate>
+  </String>
+  <String index="350">
+    <ToTranslate>Чосэн$"Каждая мысль, порождённая в истинной истории порождает свой абстрактный, концептуальный и метафизический мир."@</ToTranslate>
+  </String>
+  <String index="351">
+    <ToTranslate>chos0097</ToTranslate>
+  </String>
+  <String index="352">
+    <ToTranslate>Чосэн$"Мы определяем те истории, которые создаются из подлинной, ветвясь и распространяясь в качестве альтернативных историй."@</ToTranslate>
+  </String>
+  <String index="353">
+    <ToTranslate>tcg_hg21da</ToTranslate>
+  </String>
+  <String index="354">
+    <ToTranslate>tcg_hg21m</ToTranslate>
+  </String>
+  <String index="355">
+    <ToTranslate>chos0098</ToTranslate>
+  </String>
+  <String index="356">
+    <ToTranslate>Чосэн$"И всё же, такие миры являются хрупкими и эфемерными. ......когда люди забывают истории, породившие их, такие миры исчезают."@</ToTranslate>
+  </String>
+  <String index="357">
+    <ToTranslate>chos0099</ToTranslate>
+  </String>
+  <String index="358">
+    <ToTranslate>Чосэн$"Однажды покидая память людей, исчезают и их причины, ни остаётся ничего для поддержания альтернативных историй и они исчезают."@</ToTranslate>
+  </String>
+  <String index="359">
+    <ToTranslate>chos0100</ToTranslate>
+  </String>
+  <String index="360">
+    <ToTranslate>Чосэн$"Или может быть, людям становятся интересны другие истории и они забывают о том, что когда-то поддерживали. И затем такие миры перестают существовать......"@</ToTranslate>
+  </String>
+  <String index="361">
+    <ToTranslate>chos0101</ToTranslate>
+  </String>
+  <String index="362">
+    <ToTranslate>Чосэн$"Мы либо рушим такие альтернативным миры один за другим, либо даём им концептуальные ссылки на подлинные истории, и обеспечиваем им концепцию в установленной форме."@</ToTranslate>
+  </String>
+  <String index="363">
+    <ToTranslate>tcg_hg21ca</ToTranslate>
+  </String>
+  <String index="364">
+    <ToTranslate>tcg_hg21m</ToTranslate>
+  </String>
+  <String index="365">
+    <ToTranslate>chos0102</ToTranslate>
+  </String>
+  <String index="366">
+    <ToTranslate>Чосэн$"Находим в них роль, которую мы мудрецы, герои, или кто ещё должны выполнить. В этом мире всё именно так..."@</ToTranslate>
+  </String>
+  <String index="367">
+    <ToTranslate>Казуто$"Погоди, я ещё не до конца понял...... другая реальность? Это же вообще невозможно."@</ToTranslate>
+  </String>
+  <String index="368">
+    <ToTranslate>tcg_hg11aa</ToTranslate>
+  </String>
+  <String index="369">
+    <ToTranslate>tcg_hg11m</ToTranslate>
+  </String>
+  <String index="370">
+    <ToTranslate>chos0103</ToTranslate>
+  </String>
+  <String index="371">
+    <ToTranslate>Чосэн$"Вы в этом уверены? Почему же?"@</ToTranslate>
+  </String>
+  <String index="372">
+    <ToTranslate>Казуто$"Га...... ведь я здесь......"@</ToTranslate>
+  </String>
+  <String index="373">
+    <ToTranslate>tcg_hg11ba</ToTranslate>
+  </String>
+  <String index="374">
+    <ToTranslate>tcg_hg11m</ToTranslate>
+  </String>
+  <String index="375">
+    <ToTranslate>chos0104</ToTranslate>
+  </String>
+  <String index="376">
+    <ToTranslate>Чосэн$"На самом деле этот мир далеко не единственный. Есть и другие реальности, которых нет в этом мире."@</ToTranslate>
+  </String>
+  <String index="377">
+    <ToTranslate>chos0105</ToTranslate>
+  </String>
+  <String index="378">
+    <ToTranslate>Чосэн$"Концепция реальности довольна устойчива, но в зависимости от каждого человека, она очень абстракта и субъективна."@</ToTranslate>
+  </String>
+  <String index="379">
+    <ToTranslate>chos0106</ToTranslate>
+  </String>
+  <String index="380">
+    <ToTranslate>Чосэн$"Реальность может существовать в различных формах. Но вы так же не можете сказать, что у неё нет своей формы."@</ToTranslate>
+  </String>
+  <String index="381">
+    <ToTranslate>Казуто$"А по-другому?"@</ToTranslate>
+  </String>
+  <String index="382">
+    <ToTranslate>tcg_hg21da</ToTranslate>
+  </String>
+  <String index="383">
+    <ToTranslate>tcg_hg21m</ToTranslate>
+  </String>
+  <String index="384">
+    <ToTranslate>chos0107</ToTranslate>
+  </String>
+  <String index="385">
+    <ToTranslate>Чосэн$"Ни в чём нельзя быть абсолютно уверенным, даже если вы не хотите себе в этом признаться ."@</ToTranslate>
+  </String>
+  <String index="386">
+    <ToTranslate>chos0108</ToTranslate>
+  </String>
+  <String index="387">
+    <ToTranslate>Чосэн$"Когда-нибудь исчезнет и эта альтернативная реальность, Айша-чан, Шури-чан, Ринрин-чан, исчезнет абсолютно всё......"@</ToTranslate>
+  </String>
+  <String index="388">
+    <ToTranslate>tcg_hg11ga</ToTranslate>
+  </String>
+  <String index="389">
+    <ToTranslate>tcg_hg11m</ToTranslate>
+  </String>
+  <String index="390">
+    <ToTranslate>chos0109</ToTranslate>
+  </String>
+  <String index="391">
+    <ToTranslate>Чосэн$"Но, даже если он и исчезнет, кто-нибудь другой сможет создать новую альтернативную историю."@</ToTranslate>
+  </String>
+  <String index="392">
+    <ToTranslate>chos0110</ToTranslate>
+  </String>
+  <String index="393">
+    <ToTranslate>Чосэн$"Созданные альтернативные миры концептуально принадлежат личности из истинной истории, а люди из этой альтернативной реальности могут стать основателями новой."@</ToTranslate>
+  </String>
+  <String index="394">
+    <ToTranslate>chos0111</ToTranslate>
+  </String>
+  <String index="395">
+    <ToTranslate>Чосэн$"Создав такой мир, люди из альтернативной реальности уже не смогут исчезнуть......но это так же лишь временное явление."@</ToTranslate>
+  </String>
+  <String index="396">
+    <ToTranslate>tcg_hg21da</ToTranslate>
+  </String>
+  <String index="397">
+    <ToTranslate>tcg_hg21m</ToTranslate>
+  </String>
+  <String index="398">
+    <ToTranslate>chos0112</ToTranslate>
+  </String>
+  <String index="399">
+    <ToTranslate>Чосэн$"Но, рассказ итак достаточно затянулся, если по существу, то этот мир скоро погибнет от рук Саджи и Укицу."@</ToTranslate>
+  </String>
+  <String index="400">
+    <ToTranslate>tcg_hg21da</ToTranslate>
+  </String>
+  <String index="401">
+    <ToTranslate>tcg_hg21m</ToTranslate>
+  </String>
+  <String index="402">
+    <ToTranslate>tcg_kan11ea</ToTranslate>
+  </String>
+  <String index="403">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="404">
+    <ToTranslate>aisy1006</ToTranslate>
+  </String>
+  <String index="405">
+    <ToTranslate>Айша$"Что именно ты подразумеваешь под словом...... погибнуть?"@</ToTranslate>
+  </String>
+  <String index="406">
+    <ToTranslate>chos0113</ToTranslate>
+  </String>
+  <String index="407">
+    <ToTranslate>Чосэн$"Именно то, что и означает, само его существование скоро исчезнет, исчезнет всё. Такова судьба всякой альтернативной реальности."@</ToTranslate>
+  </String>
+  <String index="408">
+    <ToTranslate>Казуто$"......я не позволю такому случиться!"@</ToTranslate>
+  </String>
+  <String index="409">
+    <ToTranslate>Казуто$"Всё здесь принадлежит людям этого мира!"@</ToTranslate>
+  </String>
+  <String index="410">
+    <ToTranslate>tcg_hg11ga</ToTranslate>
+  </String>
+  <String index="411">
+    <ToTranslate>tcg_hg11m</ToTranslate>
+  </String>
+  <String index="412">
+    <ToTranslate>chos0114</ToTranslate>
+  </String>
+  <String index="413">
+    <ToTranslate>Чосэн$"......это так, но только частично, можно сказать и иначе, если разобрать его как концепцию, родившуюся из другой альтернативной истории."@</ToTranslate>
+  </String>
+  <String index="414">
+    <ToTranslate>tcg_hg11aa</ToTranslate>
+  </String>
+  <String index="415">
+    <ToTranslate>tcg_hg11m</ToTranslate>
+  </String>
+  <String index="416">
+    <ToTranslate>chos0115</ToTranslate>
+  </String>
+  <String index="417">
+    <ToTranslate>Чосэн$"Однако...... возможно вы что-то решили, что вы намереваетесь делать?"@</ToTranslate>
+  </String>
+  <String index="418">
+    <ToTranslate>bgm29</ToTranslate>
+  </String>
+  <String index="419">
+    <ToTranslate>Казуто$"У меня есть только один путь! Я ни за что не позволю этому миру погибнуть!"@</ToTranslate>
+  </String>
+  <String index="420">
+    <ToTranslate>Казуто$"Ведь если этот мир исчезнет, то Айша и другие тоже исчезнут?! Разве я могу позволить такому случиться?!"@</ToTranslate>
+  </String>
+  <String index="421">
+    <ToTranslate>tcg_kan21da</ToTranslate>
+  </String>
+  <String index="422">
+    <ToTranslate>tcg_kan21m</ToTranslate>
+  </String>
+  <String index="423">
+    <ToTranslate>aisy1007</ToTranslate>
+  </String>
+  <String index="424">
+    <ToTranslate>Айша$"Господин......"@</ToTranslate>
+  </String>
+  <String index="425">
+    <ToTranslate>tcg_hg11ba</ToTranslate>
+  </String>
+  <String index="426">
+    <ToTranslate>tcg_hg11m</ToTranslate>
+  </String>
+  <String index="427">
+    <ToTranslate>chos0116</ToTranslate>
+  </String>
+  <String index="428">
+    <ToTranslate>Чосэн$"Ясно...... тогда остаётся сражаться. Такова ваша роль."@</ToTranslate>
+  </String>
+  <String index="429">
+    <ToTranslate>Казуто$"Я буду сражаться. Не стоило меня даже спрашивать об этом! Вы все...... прошу, помогите мне."@</ToTranslate>
+  </String>
+  <String index="430">
+    <ToTranslate>tcg_kan11ca</ToTranslate>
+  </String>
+  <String index="431">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="432">
+    <ToTranslate>aisy1008</ToTranslate>
+  </String>
+  <String index="433">
+    <ToTranslate>Айша$"Есть!"@</ToTranslate>
+  </String>
+  <String index="434">
+    <ToTranslate>tcg_cun21ca</ToTranslate>
+  </String>
+  <String index="435">
+    <ToTranslate>tcg_cun21m</ToTranslate>
+  </String>
+  <String index="436">
+    <ToTranslate>sei_0329</ToTranslate>
+  </String>
+  <String index="437">
+    <ToTranslate>Сэй$"Как и я, помогу с удовольствием."@</ToTranslate>
+  </String>
+  <String index="438">
+    <ToTranslate>tcg_syo21da</ToTranslate>
+  </String>
+  <String index="439">
+    <ToTranslate>tcg_syo21m</ToTranslate>
+  </String>
+  <String index="440">
+    <ToTranslate>syur0505</ToTranslate>
+  </String>
+  <String index="441">
+    <ToTranslate>Шури$"Я, тоже буду сражаться!"@</ToTranslate>
+  </String>
+  <String index="442">
+    <ToTranslate>tcg_cho11aa</ToTranslate>
+  </String>
+  <String index="443">
+    <ToTranslate>tcg_cho11m</ToTranslate>
+  </String>
+  <String index="444">
+    <ToTranslate>rinr0530</ToTranslate>
+  </String>
+  <String index="445">
+    <ToTranslate>Ринрин$"Разумеется и я тоже!"@</ToTranslate>
+  </String>
+  <String index="446">
+    <ToTranslate>tcg_bac11ba</ToTranslate>
+  </String>
+  <String index="447">
+    <ToTranslate>tcg_bac11m</ToTranslate>
+  </String>
+  <String index="448">
+    <ToTranslate>sui_0243</ToTranslate>
+  </String>
+  <String index="449">
+    <ToTranslate>Суи$"Всегда готова рискнуть своей жизнью ради вас, Господин."@</ToTranslate>
+  </String>
+  <String index="450">
+    <ToTranslate>tcg_koc11ba</ToTranslate>
+  </String>
+  <String index="451">
+    <ToTranslate>tcg_koc11m</ToTranslate>
+  </String>
+  <String index="452">
+    <ToTranslate>shio0112</ToTranslate>
+  </String>
+  <String index="453">
+    <ToTranslate>Сион$"Такова наша роль, всегда быть рядом с вами, Господин."@</ToTranslate>
+  </String>
+  <String index="454">
+    <ToTranslate>tcg_hg11ga</ToTranslate>
+  </String>
+  <String index="455">
+    <ToTranslate>tcg_hg11m</ToTranslate>
+  </String>
+  <String index="456">
+    <ToTranslate>chos0117</ToTranslate>
+  </String>
+  <String index="457">
+    <ToTranslate>Чосэн$"......что ж, я понимаю что вы чувствуете. Пора нам навестить старых друзей Саджи и Укицу."@</ToTranslate>
+  </String>
+  <String index="458">
+    <ToTranslate>chos0118</ToTranslate>
+  </String>
+  <String index="459">
+    <ToTranslate>Чосэн$"У них есть огромное зеркало, положившее начало этой истории, и оно же является символом конца, если вы сможете защитить его, то у вас всё получится."@</ToTranslate>
+  </String>
+  <String index="460">
+    <ToTranslate>chos0119</ToTranslate>
+  </String>
+  <String index="461">
+    <ToTranslate>Чосэн$"Зеркало отражает собственные представления о мире...... если вы сможете защитить его, то эта альтернативная история станет ещё крепче, и навсегда останется в сердцах людей."@</ToTranslate>
+  </String>
+  <String index="462">
+    <ToTranslate>chos0120</ToTranslate>
+  </String>
+  <String index="463">
+    <ToTranslate>Чосэн$"В самом сердце нашего Господина, в сердцах тех, кто мечтал о такой истории в истинном мире..."@</ToTranslate>
+  </String>
+  <String index="464">
+    <ToTranslate>Казуто$"Что ты подразумевал когда говорил 'сможете'......?"@</ToTranslate>
+  </String>
+  <String index="465">
+    <ToTranslate>tcg_hg11aa</ToTranslate>
+  </String>
+  <String index="466">
+    <ToTranslate>tcg_hg11m</ToTranslate>
+  </String>
+  <String index="467">
+    <ToTranslate>chos0121</ToTranslate>
+  </String>
+  <String index="468">
+    <ToTranslate>Чосэн$"......к несчастью, в этом мы не можем быть полностью уверены. ......делай что можешь и пусть Небеса позаботятся об остальном. Это всё, что я могу сказать."@</ToTranslate>
+  </String>
+  <String index="469">
+    <ToTranslate>Казуто$"Ждать подарок с Небес? ......что ж, это лучше чем сидеть и вообще ничего не делать."@</ToTranslate>
+  </String>
+  <String index="470">
+    <ToTranslate>chos0122</ToTranslate>
+  </String>
+  <String index="471">
+    <ToTranslate>Чосэн$"Верно. Но запомните ещё кое-что: каждый мир формируется из баланса созидания и разрушения."@</ToTranslate>
+  </String>
+  <String index="472">
+    <ToTranslate>chos0123</ToTranslate>
+  </String>
+  <String index="473">
+    <ToTranslate>Чосэн$"......даже если этот мир исчезнет, он снова возродится в качестве семени для чего-то нового. Не смотря ни на что......"@</ToTranslate>
+  </String>
+  <String index="474">
+    <ToTranslate>Казуто$"Лады...... я никогда не позволю этому миру исчезнуть."@</ToTranslate>
+  </String>
+  <String index="475">
+    <ToTranslate>$У меня есть друзья, которые всегда защищали меня и следовали за мной.@</ToTranslate>
+  </String>
+  <String index="476">
+    <ToTranslate>$Есть люди в этом мире которые приняли меня.@</ToTranslate>
+  </String>
+  <String index="477">
+    <ToTranslate>$Я отказываюсь верить, что эти люди прекратят своё существование.@</ToTranslate>
+  </String>
+  <String index="478">
+    <ToTranslate>$Меня не волнует история об альтернативных реалиях, о которых говорил Чосэн.@</ToTranslate>
+  </String>
+  <String index="479">
+    <ToTranslate>$Я просто хочу защитить своих товарищей.@</ToTranslate>
+  </String>
+  <String index="480">
+    <ToTranslate>$И это единственная эмоция которая есть у меня.@</ToTranslate>
+  </String>
+  <String index="481">
+    <ToTranslate>Казуто$"Я буду сражаться...... и защищу всех."@</ToTranslate>
+  </String>
+  <String index="482">
+    <ToTranslate>$С этой клятвой в сердце, я начал раздавать указания.@</ToTranslate>
+  </String>
+  <String index="483">
+    <ToTranslate>tcg_hg11ga</ToTranslate>
+  </String>
+  <String index="484">
+    <ToTranslate>tcg_hg11m</ToTranslate>
+  </String>
+  <String index="485">
+    <ToTranslate>chos0124</ToTranslate>
+  </String>
+  <String index="486">
+    <ToTranslate>Чосэн$"Да прибудет с вами сила...... вы найдёте их на горе Тай. В ночь полнолуния они будут проводить церемонию раскола зеркала...... через двадцать дней с этого дня."@</ToTranslate>
+  </String>
+  <String index="487">
+    <ToTranslate>tcg_hg11ba</ToTranslate>
+  </String>
+  <String index="488">
+    <ToTranslate>tcg_hg11m</ToTranslate>
+  </String>
+  <String index="489">
+    <ToTranslate>chos0125</ToTranslate>
+  </String>
+  <String index="490">
+    <ToTranslate>Чосэн$"Воспользуйтесь этим временем чтобы должным образом подготовиться."@</ToTranslate>
+  </String>
+  <String index="491">
+    <ToTranslate>Казуто$"Непременно......!"@</ToTranslate>
+  </String>
+  <String index="492">
+    <ToTranslate>$Можно было и не напоминать мне об этом.@</ToTranslate>
+  </String>
+  <String index="493">
+    <ToTranslate>$Я сделаю всё возможное ради товарищей.@</ToTranslate>
+  </String>
+  <String index="494">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="495">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="496">
+    <ToTranslate>tcg_hg11aa</ToTranslate>
+  </String>
+  <String index="497">
+    <ToTranslate>tcg_hg11m</ToTranslate>
+  </String>
+  <String index="498">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="499">
+    <ToTranslate>chos0126</ToTranslate>
+  </String>
+  <String index="500">
+    <ToTranslate>Чосэн$"Удачи. Даже если в твоём сценарии это так же было прописано......"@</ToTranslate>
+  </String>
+  <String index="501">
+    <ToTranslate>tcg_hg11ga</ToTranslate>
+  </String>
+  <String index="502">
+    <ToTranslate>tcg_hg11m</ToTranslate>
+  </String>
+  <String index="503">
+    <ToTranslate>chos0127</ToTranslate>
+  </String>
+  <String index="504">
+    <ToTranslate>Чосэн$"Это станет началом новой истории..."@</ToTranslate>
+  </String>
+  <String index="505">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="506">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="507">
+    <ToTranslate>_kyotenphase</ToTranslate>
+  </String>
+</DBS>
+
+
+</poem>
+[[Koihime Musou/Прогресс перевода/Сюжет|[Назад]]]

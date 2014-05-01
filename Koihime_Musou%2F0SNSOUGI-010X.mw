@@ -1,0 +1,186 @@
+[[Koihime Musou/Прогресс перевода/Сюжет|[Назад]]]
+<poem>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<DBS>
+  <String index="0">
+    <ToTranslate>bcg_wasteland_a</ToTranslate>
+  </String>
+  <String index="1">
+    <ToTranslate>tcg_syu31ea</ToTranslate>
+  </String>
+  <String index="2">
+    <ToTranslate>tcg_syu31m</ToTranslate>
+  </String>
+  <String index="3">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="4">
+    <ToTranslate>syuy0232</ToTranslate>
+  </String>
+  <String index="5">
+    <ToTranslate>Шую$"Сейчас! Стреляйте огненными стрелами по правому флангу противника! Утопите их в пламени!"@</ToTranslate>
+  </String>
+  <String index="6">
+    <ToTranslate>SE019</ToTranslate>
+  </String>
+  <String index="7">
+    <ToTranslate>syuy0233</ToTranslate>
+  </String>
+  <String index="8">
+    <ToTranslate>Шую$"Всепоглощающее пламя, сожги врага!"@</ToTranslate>
+  </String>
+  <String index="9">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="10">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="11">
+    <ToTranslate>bcg_wasteland_a</ToTranslate>
+  </String>
+  <String index="12">
+    <ToTranslate>tcg_syu31ea</ToTranslate>
+  </String>
+  <String index="13">
+    <ToTranslate>tcg_syu31m</ToTranslate>
+  </String>
+  <String index="14">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="15">
+    <ToTranslate>syuy0234</ToTranslate>
+  </String>
+  <String index="16">
+    <ToTranslate>Шую$"Это наш шанс! Сжечь всё до тла!"@</ToTranslate>
+  </String>
+  <String index="17">
+    <ToTranslate>SE019</ToTranslate>
+  </String>
+  <String index="18">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="19">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="20">
+    <ToTranslate>bcg_wasteland_a</ToTranslate>
+  </String>
+  <String index="21">
+    <ToTranslate>tcg_syu31ea</ToTranslate>
+  </String>
+  <String index="22">
+    <ToTranslate>tcg_syu31m</ToTranslate>
+  </String>
+  <String index="23">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="24">
+    <ToTranslate>syuy0235</ToTranslate>
+  </String>
+  <String index="25">
+    <ToTranslate>Шую$"Наше беспощадное пламя сожжёт всё на своём пути! Всем, использовать только зажжённые стрелы!"@</ToTranslate>
+  </String>
+  <String index="26">
+    <ToTranslate>SE019</ToTranslate>
+  </String>
+  <String index="27">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="28">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="29">
+    <ToTranslate>bcg_wasteland_a</ToTranslate>
+  </String>
+  <String index="30">
+    <ToTranslate>tcg_syu31ea</ToTranslate>
+  </String>
+  <String index="31">
+    <ToTranslate>tcg_syu31m</ToTranslate>
+  </String>
+  <String index="32">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="33">
+    <ToTranslate>SE047</ToTranslate>
+  </String>
+  <String index="34">
+    <ToTranslate>syuy0236</ToTranslate>
+  </String>
+  <String index="35">
+    <ToTranslate>Шую$"Левый фланг, разбить линию противника! Тыловым войскам, начать окружение!"@</ToTranslate>
+  </String>
+  <String index="36">
+    <ToTranslate>SE048</ToTranslate>
+  </String>
+  <String index="37">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="38">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="39">
+    <ToTranslate>bcg_wasteland_a</ToTranslate>
+  </String>
+  <String index="40">
+    <ToTranslate>tcg_syu31ea</ToTranslate>
+  </String>
+  <String index="41">
+    <ToTranslate>tcg_syu31m</ToTranslate>
+  </String>
+  <String index="42">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="43">
+    <ToTranslate>SE047</ToTranslate>
+  </String>
+  <String index="44">
+    <ToTranslate>syuy0237</ToTranslate>
+  </String>
+  <String index="45">
+    <ToTranslate>Шую$"Пришло время показать им всё, на что мы способны! Всем кто в резерве, ударить их с фланга!"@</ToTranslate>
+  </String>
+  <String index="46">
+    <ToTranslate>SE048</ToTranslate>
+  </String>
+  <String index="47">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="48">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="49">
+    <ToTranslate>bcg_wasteland_a</ToTranslate>
+  </String>
+  <String index="50">
+    <ToTranslate>tcg_syu31ea</ToTranslate>
+  </String>
+  <String index="51">
+    <ToTranslate>tcg_syu31m</ToTranslate>
+  </String>
+  <String index="52">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="53">
+    <ToTranslate>SE047</ToTranslate>
+  </String>
+  <String index="54">
+    <ToTranslate>syuy0238</ToTranslate>
+  </String>
+  <String index="55">
+    <ToTranslate>Шую$"Моя стратегия непобедима. Храбрецы, снести головы с плеч сломленных врагов!"@</ToTranslate>
+  </String>
+  <String index="56">
+    <ToTranslate>SE048</ToTranslate>
+  </String>
+  <String index="57">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="58">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+</DBS>
+
+</poem>
+[[Koihime Musou/Прогресс перевода/Сюжет|[Назад]]]

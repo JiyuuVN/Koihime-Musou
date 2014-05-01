@@ -1,0 +1,71 @@
+<poem>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<DBS>
+  <String index="0">
+    <Origin>_Title_bk</Origin>
+    <ToTranslate>_Title_bk</ToTranslate>
+  </String>
+  <String index="1">
+    <Origin>_Title_Chip</Origin>
+    <ToTranslate>_Title_Chip</ToTranslate>
+  </String>
+  <String index="2">
+    <Origin>dummy</Origin>
+    <ToTranslate>dummy</ToTranslate>
+  </String>
+  <String index="3">
+    <Origin>dummy</Origin>
+    <ToTranslate>dummy</ToTranslate>
+  </String>
+  <String index="4">
+    <Origin>BGM01</Origin>
+    <ToTranslate>BGM01</ToTranslate>
+  </String>
+  <String index="5">
+    <Origin>bg_black</Origin>
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="6">
+    <Origin>__MainStream</Origin>
+    <ToTranslate>__MainStream</ToTranslate>
+  </String>
+  <String index="7">
+    <Origin>_loadattitle</Origin>
+    <ToTranslate>_loadattitle</ToTranslate>
+  </String>
+  <String index="8">
+    <Origin>bg_Black</Origin>
+    <ToTranslate>bg_Black</ToTranslate>
+  </String>
+  <String index="9">
+    <Origin>_ocm</Origin>
+    <ToTranslate>_ocm</ToTranslate>
+  </String>
+  <String index="10">
+    <Origin>bg_Black</Origin>
+    <ToTranslate>bg_Black</ToTranslate>
+  </String>
+  <String index="11">
+    <Origin>_okm</Origin>
+    <ToTranslate>_okm</ToTranslate>
+  </String>
+  <String index="12">
+    <Origin>bg_Black</Origin>
+    <ToTranslate>bg_Black</ToTranslate>
+  </String>
+  <String index="13">
+    <Origin>_omm</Origin>
+    <ToTranslate>_omm</ToTranslate>
+  </String>
+  <String index="14">
+    <Origin>Are you sure you want to exit this game?</Origin>
+    <ToTranslate>Are you sure you want to exit this game?</ToTranslate>
+  </String>
+  <String index="15">
+    <Origin>Exit game</Origin>
+    <ToTranslate>Exit game</ToTranslate>
+  </String>
+</DBS>
+
+</poem>

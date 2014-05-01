@@ -1,0 +1,143 @@
+<poem>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<DBS>
+  <String index="0">
+    <Origin>RClick_btl</Origin>
+    <ToTranslate>RClick_btl</ToTranslate>
+  </String>
+  <String index="1">
+    <Origin>_RCMenuBk</Origin>
+    <ToTranslate>_RCMenuBk</ToTranslate>
+  </String>
+  <String index="2">
+    <Origin>_RCMenuChip</Origin>
+    <ToTranslate>_RCMenuChip</ToTranslate>
+  </String>
+  <String index="3">
+    <Origin>dummy</Origin>
+    <ToTranslate>dummy</ToTranslate>
+  </String>
+  <String index="4">
+    <Origin>dummy</Origin>
+    <ToTranslate>dummy</ToTranslate>
+  </String>
+  <String index="5">
+    <Origin>_RC_ResetBGMVol</Origin>
+    <ToTranslate>_RC_ResetBGMVol</ToTranslate>
+  </String>
+  <String index="6">
+    <Origin>_RC_ResetBGMVol</Origin>
+    <ToTranslate>_RC_ResetBGMVol</ToTranslate>
+  </String>
+  <String index="7">
+    <Origin>_RC_ResetBGMVol</Origin>
+    <ToTranslate>_RC_ResetBGMVol</ToTranslate>
+  </String>
+  <String index="8">
+    <Origin>_RC_ResetBGMVol</Origin>
+    <ToTranslate>_RC_ResetBGMVol</ToTranslate>
+  </String>
+  <String index="9">
+    <Origin>_RC_ResetBGMVol</Origin>
+    <ToTranslate>_RC_ResetBGMVol</ToTranslate>
+  </String>
+  <String index="10">
+    <Origin>_RC_ResetBGMVol</Origin>
+    <ToTranslate>_RC_ResetBGMVol</ToTranslate>
+  </String>
+  <String index="11">
+    <Origin>_RC_ResetBGMVol</Origin>
+    <ToTranslate>_RC_ResetBGMVol</ToTranslate>
+  </String>
+  <String index="12">
+    <Origin>_RC_ResetBGMVol</Origin>
+    <ToTranslate>_RC_ResetBGMVol</ToTranslate>
+  </String>
+  <String index="13">
+    <Origin>_RC_ResetBGMVol</Origin>
+    <ToTranslate>_RC_ResetBGMVol</ToTranslate>
+  </String>
+  <String index="14">
+    <Origin>_RC_ResetBGMVol</Origin>
+    <ToTranslate>_RC_ResetBGMVol</ToTranslate>
+  </String>
+  <String index="15">
+    <Origin>_RC_ResetBGMVol</Origin>
+    <ToTranslate>_RC_ResetBGMVol</ToTranslate>
+  </String>
+  <String index="16">
+    <Origin>_RC_ResetSEVol</Origin>
+    <ToTranslate>_RC_ResetSEVol</ToTranslate>
+  </String>
+  <String index="17">
+    <Origin>_RC_ResetSEVol</Origin>
+    <ToTranslate>_RC_ResetSEVol</ToTranslate>
+  </String>
+  <String index="18">
+    <Origin>_RC_ResetSEVol</Origin>
+    <ToTranslate>_RC_ResetSEVol</ToTranslate>
+  </String>
+  <String index="19">
+    <Origin>_RC_ResetSEVol</Origin>
+    <ToTranslate>_RC_ResetSEVol</ToTranslate>
+  </String>
+  <String index="20">
+    <Origin>_RC_ResetSEVol</Origin>
+    <ToTranslate>_RC_ResetSEVol</ToTranslate>
+  </String>
+  <String index="21">
+    <Origin>_RC_ResetSEVol</Origin>
+    <ToTranslate>_RC_ResetSEVol</ToTranslate>
+  </String>
+  <String index="22">
+    <Origin>_RC_ResetSEVol</Origin>
+    <ToTranslate>_RC_ResetSEVol</ToTranslate>
+  </String>
+  <String index="23">
+    <Origin>_RC_ResetSEVol</Origin>
+    <ToTranslate>_RC_ResetSEVol</ToTranslate>
+  </String>
+  <String index="24">
+    <Origin>_RC_ResetSEVol</Origin>
+    <ToTranslate>_RC_ResetSEVol</ToTranslate>
+  </String>
+  <String index="25">
+    <Origin>_RC_ResetSEVol</Origin>
+    <ToTranslate>_RC_ResetSEVol</ToTranslate>
+  </String>
+  <String index="26">
+    <Origin>_RC_ResetSEVol</Origin>
+    <ToTranslate>_RC_ResetSEVol</ToTranslate>
+  </String>
+  <String index="27">
+    <Origin>RCSL</Origin>
+    <ToTranslate>RCSL</ToTranslate>
+  </String>
+  <String index="28">
+    <Origin>RCSL</Origin>
+    <ToTranslate>RCSL</ToTranslate>
+  </String>
+  <String index="29">
+    <Origin>Are you sure you want to return to title?</Origin>
+    <ToTranslate>Are you sure you want to return to title?</ToTranslate>
+  </String>
+  <String index="30">
+    <Origin>Confirm?</Origin>
+    <ToTranslate>Confirm?</ToTranslate>
+  </String>
+  <String index="31">
+    <Origin>bg_black</Origin>
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="32">
+    <Origin>Are you sure you want to exit this game?</Origin>
+    <ToTranslate>Are you sure you want to exit this game?</ToTranslate>
+  </String>
+  <String index="33">
+    <Origin>Exit game</Origin>
+    <ToTranslate>Exit game</ToTranslate>
+  </String>
+</DBS>
+
+</poem>

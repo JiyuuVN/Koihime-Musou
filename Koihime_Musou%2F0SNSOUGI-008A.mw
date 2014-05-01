@@ -1,0 +1,1884 @@
+[[Koihime Musou/Прогресс перевода/Сюжет|[Назад]]]
+<poem>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<DBS>
+  <String index="0">
+    <ToTranslate>bcg_wasteland_a</ToTranslate>
+  </String>
+  <String index="1">
+    <ToTranslate>tcg_rik21ha</ToTranslate>
+  </String>
+  <String index="2">
+    <ToTranslate>tcg_rik21m</ToTranslate>
+  </String>
+  <String index="3">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="4">
+    <ToTranslate>bgm13</ToTranslate>
+  </String>
+  <String index="5">
+    <ToTranslate>riku0041</ToTranslate>
+  </String>
+  <String index="6">
+    <ToTranslate>Рикусон$Ш-Шаорен-сама! Слишком опасно здесь оставаться! Немедленно бегите, прошу вас!@</ToTranslate>
+  </String>
+  <String index="7">
+    <ToTranslate>tcg_syk21da</ToTranslate>
+  </String>
+  <String index="8">
+    <ToTranslate>tcg_syk21m</ToTranslate>
+  </String>
+  <String index="9">
+    <ToTranslate>sons0016</ToTranslate>
+  </String>
+  <String index="10">
+    <ToTranslate>Соншоко$Уууу... нет, ни за что! Мы ещё не проиграли!@</ToTranslate>
+  </String>
+  <String index="11">
+    <ToTranslate>riku0042</ToTranslate>
+  </String>
+  <String index="12">
+    <ToTranslate>Рикусон$Мы проиграли!@</ToTranslate>
+  </String>
+  <String index="13">
+    <ToTranslate>tcg_syk21ea</ToTranslate>
+  </String>
+  <String index="14">
+    <ToTranslate>tcg_syk21m</ToTranslate>
+  </String>
+  <String index="15">
+    <ToTranslate>sons0017</ToTranslate>
+  </String>
+  <String index="16">
+    <ToTranslate>Соншоко$Не проиграли! Если хочешь убежать, Нон, беги одна.@</ToTranslate>
+  </String>
+  <String index="17">
+    <ToTranslate>tcg_rik21ga</ToTranslate>
+  </String>
+  <String index="18">
+    <ToTranslate>tcg_rik21m</ToTranslate>
+  </String>
+  <String index="19">
+    <ToTranslate>riku0043</ToTranslate>
+  </String>
+  <String index="20">
+    <ToTranslate>Рикусон$Если я убегу и оставлю вас здесь, принцесса, то Рэнфа-сама и Шишун-тян меня точно убьют!@</ToTranslate>
+  </String>
+  <String index="21">
+    <ToTranslate>tcg_syk11ia</ToTranslate>
+  </String>
+  <String index="22">
+    <ToTranslate>tcg_syk11m</ToTranslate>
+  </String>
+  <String index="23">
+    <ToTranslate>sons0018</ToTranslate>
+  </String>
+  <String index="24">
+    <ToTranslate>Соншоко$Не убьют. Ты намного полезнее для сестрицы Рэнфы, чем я.@</ToTranslate>
+  </String>
+  <String index="25">
+    <ToTranslate>sons0019</ToTranslate>
+  </String>
+  <String index="26">
+    <ToTranslate>Соншоко$Поэтому ты должна бежать одна. Это приказ члена семьи Сунь.@</ToTranslate>
+  </String>
+  <String index="27">
+    <ToTranslate>tcg_rik21ha</ToTranslate>
+  </String>
+  <String index="28">
+    <ToTranslate>tcg_rik21m</ToTranslate>
+  </String>
+  <String index="29">
+    <ToTranslate>riku0044</ToTranslate>
+  </String>
+  <String index="30">
+    <ToTranslate>Рикусон$Н-но тогда вы должны будете пойти со мной, Шаорен-сама!..@</ToTranslate>
+  </String>
+  <String index="31">
+    <ToTranslate>tcg_cun41aa</ToTranslate>
+  </String>
+  <String index="32">
+    <ToTranslate>tcg_cun41m</ToTranslate>
+  </String>
+  <String index="33">
+    <ToTranslate>bgm17</ToTranslate>
+  </String>
+  <String index="34">
+    <ToTranslate>sei_0255</ToTranslate>
+  </String>
+  <String index="35">
+    <ToTranslate>Сэй$Я так не думаю.@</ToTranslate>
+  </String>
+  <String index="36">
+    <ToTranslate>tcg_rik21ha</ToTranslate>
+  </String>
+  <String index="37">
+    <ToTranslate>tcg_rik21m</ToTranslate>
+  </String>
+  <String index="38">
+    <ToTranslate>riku0045</ToTranslate>
+  </String>
+  <String index="39">
+    <ToTranslate>Рикусон$Ааааааа, чудовище!@</ToTranslate>
+  </String>
+  <String index="40">
+    <ToTranslate>tcg_cun11da</ToTranslate>
+  </String>
+  <String index="41">
+    <ToTranslate>tcg_cun11m</ToTranslate>
+  </String>
+  <String index="42">
+    <ToTranslate>sei_0256</ToTranslate>
+  </String>
+  <String index="43">
+    <ToTranslate>Сэй$Эй, не очень-то вежливое приветствие. Это нормально для воина - напасть на вражеского генерала.@</ToTranslate>
+  </String>
+  <String index="44">
+    <ToTranslate>tcg_syk21da</ToTranslate>
+  </String>
+  <String index="45">
+    <ToTranslate>tcg_syk21m</ToTranslate>
+  </String>
+  <String index="46">
+    <ToTranslate>sons0020</ToTranslate>
+  </String>
+  <String index="47">
+    <ToTranslate>Соншоко$...Кто ты такая?@</ToTranslate>
+  </String>
+  <String index="48">
+    <ToTranslate>tcg_cun21ca</ToTranslate>
+  </String>
+  <String index="49">
+    <ToTranslate>tcg_cun21m</ToTranslate>
+  </String>
+  <String index="50">
+    <ToTranslate>sei_0257</ToTranslate>
+  </String>
+  <String index="51">
+    <ToTranslate>Сэй$Моё имя - Чё Ширью. А ты, я так понимаю, Шоко, младшая дочь семьи Сунь.@</ToTranslate>
+  </String>
+  <String index="52">
+    <ToTranslate>tcg_syk21ea</ToTranslate>
+  </String>
+  <String index="53">
+    <ToTranslate>tcg_syk21m</ToTranslate>
+  </String>
+  <String index="54">
+    <ToTranslate>sons0021</ToTranslate>
+  </String>
+  <String index="55">
+    <ToTranslate>Соншоко$Верно. Ты пришла, чтобы срубить мне голову?@</ToTranslate>
+  </String>
+  <String index="56">
+    <ToTranslate>sei_0258</ToTranslate>
+  </String>
+  <String index="57">
+    <ToTranslate>Сэй$Именно так. Сразись со мной.@</ToTranslate>
+  </String>
+  <String index="58">
+    <ToTranslate>SE014</ToTranslate>
+  </String>
+  <String index="59">
+    <ToTranslate>tcg_cun41aa</ToTranslate>
+  </String>
+  <String index="60">
+    <ToTranslate>tcg_cun41m</ToTranslate>
+  </String>
+  <String index="61">
+    <ToTranslate>sei_0259</ToTranslate>
+  </String>
+  <String index="62">
+    <ToTranslate>Сэй$Я хочу, чтобы принцесса семьи Сунь получила удар моего священного копья.@</ToTranslate>
+  </String>
+  <String index="63">
+    <ToTranslate>tcg_syk11ia</ToTranslate>
+  </String>
+  <String index="64">
+    <ToTranslate>tcg_syk11m</ToTranslate>
+  </String>
+  <String index="65">
+    <ToTranslate>sons0022</ToTranslate>
+  </String>
+  <String index="66">
+    <ToTranslate>Соншоко$...Нон, иди уже.@</ToTranslate>
+  </String>
+  <String index="67">
+    <ToTranslate>tcg_rik21ha</ToTranslate>
+  </String>
+  <String index="68">
+    <ToTranslate>tcg_rik21m</ToTranslate>
+  </String>
+  <String index="69">
+    <ToTranslate>riku0046</ToTranslate>
+  </String>
+  <String index="70">
+    <ToTranslate>Рикусон$Н-но!..@</ToTranslate>
+  </String>
+  <String index="71">
+    <ToTranslate>tcg_syk21ea</ToTranslate>
+  </String>
+  <String index="72">
+    <ToTranslate>tcg_syk21m</ToTranslate>
+  </String>
+  <String index="73">
+    <ToTranslate>sons0023</ToTranslate>
+  </String>
+  <String index="74">
+    <ToTranslate>Соншоко$Это приказ! Уходи побыстрее!@</ToTranslate>
+  </String>
+  <String index="75">
+    <ToTranslate>tcg_rik11da</ToTranslate>
+  </String>
+  <String index="76">
+    <ToTranslate>tcg_rik11m</ToTranslate>
+  </String>
+  <String index="77">
+    <ToTranslate>riku0047</ToTranslate>
+  </String>
+  <String index="78">
+    <ToTranslate>Рикусон$Х-хорошо! Но пообещайте мне, что вы тоже вернётесь! Пообещайте мне это, пожалуйста!@</ToTranslate>
+  </String>
+  <String index="79">
+    <ToTranslate>SE026</ToTranslate>
+  </String>
+  <String index="80">
+    <ToTranslate>tcg_syk11ia</ToTranslate>
+  </String>
+  <String index="81">
+    <ToTranslate>tcg_syk11m</ToTranslate>
+  </String>
+  <String index="82">
+    <ToTranslate>sons0024</ToTranslate>
+  </String>
+  <String index="83">
+    <ToTranslate>Соншоко$Хотелось бы мне, чтобы я могла это сделать...@</ToTranslate>
+  </String>
+  <String index="84">
+    <ToTranslate>tcg_cun31fa</ToTranslate>
+  </String>
+  <String index="85">
+    <ToTranslate>tcg_cun31m</ToTranslate>
+  </String>
+  <String index="86">
+    <ToTranslate>sei_0260</ToTranslate>
+  </String>
+  <String index="87">
+    <ToTranslate>Сэй$К сожалению, я не думаю, что это возможно. Я не дам тебе уйти.@</ToTranslate>
+  </String>
+  <String index="88">
+    <ToTranslate>sons0025</ToTranslate>
+  </String>
+  <String index="89">
+    <ToTranslate>Соншоко$Но ты отпустила Нон.@</ToTranslate>
+  </String>
+  <String index="90">
+    <ToTranslate>tcg_cun31ea</ToTranslate>
+  </String>
+  <String index="91">
+    <ToTranslate>tcg_cun31m</ToTranslate>
+  </String>
+  <String index="92">
+    <ToTranslate>sei_0261</ToTranslate>
+  </String>
+  <String index="93">
+    <ToTranslate>Сэй$Мне совершенно безразлична судьба одного или двух стратегов. Но семья Сунь намного больше интересует меня в качестве трофея или 
+
+заложника.@</ToTranslate>
+  </String>
+  <String index="94">
+    <ToTranslate>tcg_syk21da</ToTranslate>
+  </String>
+  <String index="95">
+    <ToTranslate>tcg_syk21m</ToTranslate>
+  </String>
+  <String index="96">
+    <ToTranslate>sons0026</ToTranslate>
+  </String>
+  <String index="97">
+    <ToTranslate>Соншоко$Интересно. Я тоже дочь семьи Сунь! Не думай, что со мной так легко справиться!@</ToTranslate>
+  </String>
+  <String index="98">
+    <ToTranslate>tcg_cun11aa</ToTranslate>
+  </String>
+  <String index="99">
+    <ToTranslate>tcg_cun11m</ToTranslate>
+  </String>
+  <String index="100">
+    <ToTranslate>sei_0262</ToTranslate>
+  </String>
+  <String index="101">
+    <ToTranslate>Сэй$О, ты говоришь, что будешь сопротивляться, принцесса? Я знаю, что ты довольно сильна, но... посмотрим, сможешь ли ты победить меня.@</ToTranslate>
+  </String>
+  <String index="102">
+    <ToTranslate>tcg_syk21ea</ToTranslate>
+  </String>
+  <String index="103">
+    <ToTranslate>tcg_syk21m</ToTranslate>
+  </String>
+  <String index="104">
+    <ToTranslate>sons0027</ToTranslate>
+  </String>
+  <String index="105">
+    <ToTranslate>Соншоко$Меня не просто так называют Красавицей с осиной талией! Ты пожалеешь, если недооценишь меня!@</ToTranslate>
+  </String>
+  <String index="106">
+    <ToTranslate>tcg_cun11ba</ToTranslate>
+  </String>
+  <String index="107">
+    <ToTranslate>tcg_cun11m</ToTranslate>
+  </String>
+  <String index="108">
+    <ToTranslate>sei_0263</ToTranslate>
+  </String>
+  <String index="109">
+    <ToTranslate>Сэй$О, звучит забавно. Ну что, обменяемся ударами?@</ToTranslate>
+  </String>
+  <String index="110">
+    <ToTranslate>tcg_syk21ea</ToTranslate>
+  </String>
+  <String index="111">
+    <ToTranslate>tcg_syk21m</ToTranslate>
+  </String>
+  <String index="112">
+    <ToTranslate>sons0028</ToTranslate>
+  </String>
+  <String index="113">
+    <ToTranslate>Соншоко$Давай! Я сокрушу тебя и отправлю обратно!@</ToTranslate>
+  </String>
+  <String index="114">
+    <ToTranslate>tcg_syk41aa</ToTranslate>
+  </String>
+  <String index="115">
+    <ToTranslate>tcg_syk41m</ToTranslate>
+  </String>
+  <String index="116">
+    <ToTranslate>sons0029</ToTranslate>
+  </String>
+  <String index="117">
+    <ToTranslate>Соншоко$Да!@</ToTranslate>
+  </String>
+  <String index="118">
+    <ToTranslate>battle_syk</ToTranslate>
+  </String>
+  <String index="119">
+    <ToTranslate>SE016</ToTranslate>
+  </String>
+  <String index="120">
+    <ToTranslate>m_yure_y</ToTranslate>
+  </String>
+  <String index="121">
+    <ToTranslate>tcg_cun41aa</ToTranslate>
+  </String>
+  <String index="122">
+    <ToTranslate>tcg_cun41m</ToTranslate>
+  </String>
+  <String index="123">
+    <ToTranslate>sei_0264</ToTranslate>
+  </String>
+  <String index="124">
+    <ToTranslate>Сэй$Хмф. Слишком слабо! Если это лучшее, на что ты способна, то Красавица с осиной талией - всего лишь шутка.@</ToTranslate>
+  </String>
+  <String index="125">
+    <ToTranslate>tcg_syk21da</ToTranslate>
+  </String>
+  <String index="126">
+    <ToTranslate>tcg_syk21m</ToTranslate>
+  </String>
+  <String index="127">
+    <ToTranslate>sons0030</ToTranslate>
+  </String>
+  <String index="128">
+    <ToTranslate>Соншоко$Что?!@</ToTranslate>
+  </String>
+  <String index="129">
+    <ToTranslate>tcg_cun31fa</ToTranslate>
+  </String>
+  <String index="130">
+    <ToTranslate>tcg_cun31m</ToTranslate>
+  </String>
+  <String index="131">
+    <ToTranslate>sei_0265</ToTranslate>
+  </String>
+  <String index="132">
+    <ToTranslate>Сэй$Похоже, семейству Сунь нравится играть в игры.@</ToTranslate>
+  </String>
+  <String index="133">
+    <ToTranslate>sons0031</ToTranslate>
+  </String>
+  <String index="134">
+    <ToTranslate>Соншоко$Э-это из-за того, что я говорила не серьёзно!@</ToTranslate>
+  </String>
+  <String index="135">
+    <ToTranslate>tcg_cun31ia</ToTranslate>
+  </String>
+  <String index="136">
+    <ToTranslate>tcg_cun31m</ToTranslate>
+  </String>
+  <String index="137">
+    <ToTranslate>sei_0266</ToTranslate>
+  </String>
+  <String index="138">
+    <ToTranslate>Сэй$О, так почему бы тебе не показать мне всё, на что ты способна? Слабый противник - это просто скучно.@</ToTranslate>
+  </String>
+  <String index="139">
+    <ToTranslate>tcg_syk21ea</ToTranslate>
+  </String>
+  <String index="140">
+    <ToTranslate>tcg_syk21m</ToTranslate>
+  </String>
+  <String index="141">
+    <ToTranslate>sons0032</ToTranslate>
+  </String>
+  <String index="142">
+    <ToTranslate>Соншоко$К-как ты смеешь так говорить?!@</ToTranslate>
+  </String>
+  <String index="143">
+    <ToTranslate>sei_0267</ToTranslate>
+  </String>
+  <String index="144">
+    <ToTranslate>Сэй$Если тебе это не нравится, сразись со мной!@</ToTranslate>
+  </String>
+  <String index="145">
+    <ToTranslate>tcg_syk21ea</ToTranslate>
+  </String>
+  <String index="146">
+    <ToTranslate>tcg_syk21m</ToTranslate>
+  </String>
+  <String index="147">
+    <ToTranslate>sons0033</ToTranslate>
+  </String>
+  <String index="148">
+    <ToTranslate>Соншоко$Можешь мне это не говорить!@</ToTranslate>
+  </String>
+  <String index="149">
+    <ToTranslate>tcg_syk91aa</ToTranslate>
+  </String>
+  <String index="150">
+    <ToTranslate>tcg_syk91m</ToTranslate>
+  </String>
+  <String index="151">
+    <ToTranslate>sons0034</ToTranslate>
+  </String>
+  <String index="152">
+    <ToTranslate>Соншоко$Дааааааааа!@</ToTranslate>
+  </String>
+  <String index="153">
+    <ToTranslate>battle_harai</ToTranslate>
+  </String>
+  <String index="154">
+    <ToTranslate>SE015</ToTranslate>
+  </String>
+  <String index="155">
+    <ToTranslate>yure_r</ToTranslate>
+  </String>
+  <String index="156">
+    <ToTranslate>tcg_cun61aa</ToTranslate>
+  </String>
+  <String index="157">
+    <ToTranslate>tcg_cun61m</ToTranslate>
+  </String>
+  <String index="158">
+    <ToTranslate>sei_0268</ToTranslate>
+  </String>
+  <String index="159">
+    <ToTranslate>Сэй$Всё равно слабо.@</ToTranslate>
+  </String>
+  <String index="160">
+    <ToTranslate>tcg_syk91aa</ToTranslate>
+  </String>
+  <String index="161">
+    <ToTranslate>tcg_syk91m</ToTranslate>
+  </String>
+  <String index="162">
+    <ToTranslate>sons0035</ToTranslate>
+  </String>
+  <String index="163">
+    <ToTranslate>Соншоко$Вот тебе, вот, вот!@</ToTranslate>
+  </String>
+  <String index="164">
+    <ToTranslate>ef_harai01b</ToTranslate>
+  </String>
+  <String index="165">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="166">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="167">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="168">
+    <ToTranslate>ef_harai01b_m</ToTranslate>
+  </String>
+  <String index="169">
+    <ToTranslate>BSE14</ToTranslate>
+  </String>
+  <String index="170">
+    <ToTranslate>ef_harai01a_m</ToTranslate>
+  </String>
+  <String index="171">
+    <ToTranslate>SE010</ToTranslate>
+  </String>
+  <String index="172">
+    <ToTranslate>ef_harai01a</ToTranslate>
+  </String>
+  <String index="173">
+    <ToTranslate>bg_white</ToTranslate>
+  </String>
+  <String index="174">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="175">
+    <ToTranslate>bg_white</ToTranslate>
+  </String>
+  <String index="176">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="177">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="178">
+    <ToTranslate>SE016</ToTranslate>
+  </String>
+  <String index="179">
+    <ToTranslate>m_yure_t</ToTranslate>
+  </String>
+  <String index="180">
+    <ToTranslate>SE015</ToTranslate>
+  </String>
+  <String index="181">
+    <ToTranslate>m_yure_y</ToTranslate>
+  </String>
+  <String index="182">
+    <ToTranslate>tcg_cun41aa</ToTranslate>
+  </String>
+  <String index="183">
+    <ToTranslate>tcg_cun41m</ToTranslate>
+  </String>
+  <String index="184">
+    <ToTranslate>sei_0269</ToTranslate>
+  </String>
+  <String index="185">
+    <ToTranslate>Сэй$...Это трата времени.@</ToTranslate>
+  </String>
+  <String index="186">
+    <ToTranslate>tcg_syk21da</ToTranslate>
+  </String>
+  <String index="187">
+    <ToTranslate>tcg_syk21m</ToTranslate>
+  </String>
+  <String index="188">
+    <ToTranslate>sons0036</ToTranslate>
+  </String>
+  <String index="189">
+    <ToTranslate>Соншоко$Ууу, ууу, ууу!..@</ToTranslate>
+  </String>
+  <String index="190">
+    <ToTranslate>tcg_cun21ca</ToTranslate>
+  </String>
+  <String index="191">
+    <ToTranslate>tcg_cun21m</ToTranslate>
+  </String>
+  <String index="192">
+    <ToTranslate>sei_0270</ToTranslate>
+  </String>
+  <String index="193">
+    <ToTranslate>Сэй$Это просто трата времени. Позволь мне покончить с этим.@</ToTranslate>
+  </String>
+  <String index="194">
+    <ToTranslate>tcg_syk21ea</ToTranslate>
+  </String>
+  <String index="195">
+    <ToTranslate>tcg_syk21m</ToTranslate>
+  </String>
+  <String index="196">
+    <ToTranslate>sons0037</ToTranslate>
+  </String>
+  <String index="197">
+    <ToTranslate>Соншоко$Я не могу тебе этого позволить!@</ToTranslate>
+  </String>
+  <String index="198">
+    <ToTranslate>tcg_cun21ga</ToTranslate>
+  </String>
+  <String index="199">
+    <ToTranslate>tcg_cun21m</ToTranslate>
+  </String>
+  <String index="200">
+    <ToTranslate>sei_0271</ToTranslate>
+  </String>
+  <String index="201">
+    <ToTranslate>Сэй$Кричи, пока можешь. Наслаждайся танцем священного копья Чё Ширью!@</ToTranslate>
+  </String>
+  <String index="202">
+    <ToTranslate>tcg_cun91aa</ToTranslate>
+  </String>
+  <String index="203">
+    <ToTranslate>tcg_cun91m</ToTranslate>
+  </String>
+  <String index="204">
+    <ToTranslate>sei_0272</ToTranslate>
+  </String>
+  <String index="205">
+    <ToTranslate>Сэй$Йяяяяяяяяяяяя!@</ToTranslate>
+  </String>
+  <String index="206">
+    <ToTranslate>battle_tuki2</ToTranslate>
+  </String>
+  <String index="207">
+    <ToTranslate>tcg_syk61aa</ToTranslate>
+  </String>
+  <String index="208">
+    <ToTranslate>tcg_syk61m</ToTranslate>
+  </String>
+  <String index="209">
+    <ToTranslate>sons0038</ToTranslate>
+  </String>
+  <String index="210">
+    <ToTranslate>Соншоко$Ах!@</ToTranslate>
+  </String>
+  <String index="211">
+    <ToTranslate>SE002</ToTranslate>
+  </String>
+  <String index="212">
+    <ToTranslate>s_yure_r</ToTranslate>
+  </String>
+  <String index="213">
+    <ToTranslate>SE004</ToTranslate>
+  </String>
+  <String index="214">
+    <ToTranslate>s_yure_t</ToTranslate>
+  </String>
+  <String index="215">
+    <ToTranslate>tcg_syk21oa</ToTranslate>
+  </String>
+  <String index="216">
+    <ToTranslate>tcg_syk21m</ToTranslate>
+  </String>
+  <String index="217">
+    <ToTranslate>sons0039</ToTranslate>
+  </String>
+  <String index="218">
+    <ToTranslate>Соншоко$Нгх... О-оой...@</ToTranslate>
+  </String>
+  <String index="219">
+    <ToTranslate>tcg_cun31ea</ToTranslate>
+  </String>
+  <String index="220">
+    <ToTranslate>tcg_cun31m</ToTranslate>
+  </String>
+  <String index="221">
+    <ToTranslate>sei_0273</ToTranslate>
+  </String>
+  <String index="222">
+    <ToTranslate>Сэй$Хмф... я победила.@</ToTranslate>
+  </String>
+  <String index="223">
+    <ToTranslate>tcg_syk21la</ToTranslate>
+  </String>
+  <String index="224">
+    <ToTranslate>tcg_syk21m</ToTranslate>
+  </String>
+  <String index="225">
+    <ToTranslate>sons0040</ToTranslate>
+  </String>
+  <String index="226">
+    <ToTranslate>Соншоко$Ещё нет! Я ещё не проиграла!@</ToTranslate>
+  </String>
+  <String index="227">
+    <ToTranslate>tcg_cun11da</ToTranslate>
+  </String>
+  <String index="228">
+    <ToTranslate>tcg_cun11m</ToTranslate>
+  </String>
+  <String index="229">
+    <ToTranslate>sei_0274</ToTranslate>
+  </String>
+  <String index="230">
+    <ToTranslate>Сэй$Хмм... вижу, ты не собираешься сдаваться.@</ToTranslate>
+  </String>
+  <String index="231">
+    <ToTranslate>tcg_syk21oa</ToTranslate>
+  </String>
+  <String index="232">
+    <ToTranslate>tcg_syk21m</ToTranslate>
+  </String>
+  <String index="233">
+    <ToTranslate>sons0041</ToTranslate>
+  </String>
+  <String index="234">
+    <ToTranslate>Соншоко$Конечно!@</ToTranslate>
+  </String>
+  <String index="235">
+    <ToTranslate>tcg_cun31ia</ToTranslate>
+  </String>
+  <String index="236">
+    <ToTranslate>tcg_cun31m</ToTranslate>
+  </String>
+  <String index="237">
+    <ToTranslate>sei_0275</ToTranslate>
+  </String>
+  <String index="238">
+    <ToTranslate>Сэй$Хорошо, тогда я поступлю соответствующим образом. Хи-хи...@</ToTranslate>
+  </String>
+  <String index="239">
+    <ToTranslate>tcg_syk21da</ToTranslate>
+  </String>
+  <String index="240">
+    <ToTranslate>tcg_syk21m</ToTranslate>
+  </String>
+  <String index="241">
+    <ToTranslate>sons0042</ToTranslate>
+  </String>
+  <String index="242">
+    <ToTranslate>Соншоко$Эй, что ты хочешь сделать с этой верёвкой?@</ToTranslate>
+  </String>
+  <String index="243">
+    <ToTranslate>sei_0276</ToTranslate>
+  </String>
+  <String index="244">
+    <ToTranslate>Сэй$Я подумала, что неплохо было бы тебя связать. Я сделаю это хорошо, так что тебе следует быть благодарной.@</ToTranslate>
+  </String>
+  <String index="245">
+    <ToTranslate>bgm28</ToTranslate>
+  </String>
+  <String index="246">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="247">
+    <ToTranslate>tcg_syk61aa</ToTranslate>
+  </String>
+  <String index="248">
+    <ToTranslate>tcg_syk61m</ToTranslate>
+  </String>
+  <String index="249">
+    <ToTranslate>sons0043</ToTranslate>
+  </String>
+  <String index="250">
+    <ToTranslate>Соншоко$Э-эй, нет, это неприлично! Убери от меня руки, дура! Озабоченная! Извращенка!@</ToTranslate>
+  </String>
+  <String index="251">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="252">
+    <ToTranslate>tcg_cun31na</ToTranslate>
+  </String>
+  <String index="253">
+    <ToTranslate>tcg_cun31m</ToTranslate>
+  </String>
+  <String index="254">
+    <ToTranslate>sei_0277</ToTranslate>
+  </String>
+  <String index="255">
+    <ToTranslate>Сэй$Будем считать это комплиментом.@</ToTranslate>
+  </String>
+  <String index="256">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="257">
+    <ToTranslate>tcg_syk61aa</ToTranslate>
+  </String>
+  <String index="258">
+    <ToTranslate>tcg_syk61m</ToTranslate>
+  </String>
+  <String index="259">
+    <ToTranslate>sons0044</ToTranslate>
+  </String>
+  <String index="260">
+    <ToTranslate>Соншоко$Я не собиралась делать тебе комплименты... Ахх!@</ToTranslate>
+  </String>
+  <String index="261">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="262">
+    <ToTranslate>bb</ToTranslate>
+  </String>
+  <String index="263">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="264">
+    <ToTranslate>bb</ToTranslate>
+  </String>
+  <String index="265">
+    <ToTranslate>bcg_camp_a</ToTranslate>
+  </String>
+  <String index="266">
+    <ToTranslate>tcg_syo11aa</ToTranslate>
+  </String>
+  <String index="267">
+    <ToTranslate>tcg_syo11m</ToTranslate>
+  </String>
+  <String index="268">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="269">
+    <ToTranslate>bgm03</ToTranslate>
+  </String>
+  <String index="270">
+    <ToTranslate>syur0449</ToTranslate>
+  </String>
+  <String index="271">
+    <ToTranslate>Шури$Противник бежал. Пока мы победили.@</ToTranslate>
+  </String>
+  <String index="272">
+    <ToTranslate>Казуто$Да, думаю, это так. Меня удивило то, что солдат было так мало, особенно если учесть, что именно они начали этот конфликт.@</ToTranslate>
+  </String>
+  <String index="273">
+    <ToTranslate>tcg_koc32ca</ToTranslate>
+  </String>
+  <String index="274">
+    <ToTranslate>tcg_koc32m</ToTranslate>
+  </String>
+  <String index="275">
+    <ToTranslate>shio0087</ToTranslate>
+  </String>
+  <String index="276">
+    <ToTranslate>Сион$Вы думаете, что это был передовой отряд?@</ToTranslate>
+  </String>
+  <String index="277">
+    <ToTranslate>tcg_bac12ca</ToTranslate>
+  </String>
+  <String index="278">
+    <ToTranslate>tcg_bac12m</ToTranslate>
+  </String>
+  <String index="279">
+    <ToTranslate>sui_0191</ToTranslate>
+  </String>
+  <String index="280">
+    <ToTranslate>Суй$Это значит, что их основные силы в пути? Если это так, то я не думаю, что у нас хватит солдат, чтобы сражаться против них.@</ToTranslate>
+  </String>
+  <String index="281">
+    <ToTranslate>tcg_cho31da</ToTranslate>
+  </String>
+  <String index="282">
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="283">
+    <ToTranslate>rinr0495</ToTranslate>
+  </String>
+  <String index="284">
+    <ToTranslate>Ринрин$Количество солдат решает исход битвы. Тот, у кого больше войск, имеет явное преимущество, а это значит, что у нас такого преимущества 
+
+нет.@</ToTranslate>
+  </String>
+  <String index="285">
+    <ToTranslate>tcg_syo41ea</ToTranslate>
+  </String>
+  <String index="286">
+    <ToTranslate>tcg_syo41m</ToTranslate>
+  </String>
+  <String index="287">
+    <ToTranslate>syur0450</ToTranslate>
+  </String>
+  <String index="288">
+    <ToTranslate>Шури$Ринрин-тян права. Что нам делать?..@</ToTranslate>
+  </String>
+  <String index="289">
+    <ToTranslate>$Когда Шури закрыла глаза, чтобы придумать план, кто-то вышел из-за её спины.@</ToTranslate>
+  </String>
+  <String index="290">
+    <ToTranslate>tcg_cun11ba</ToTranslate>
+  </String>
+  <String index="291">
+    <ToTranslate>tcg_cun11m</ToTranslate>
+  </String>
+  <String index="292">
+    <ToTranslate>bgm06</ToTranslate>
+  </String>
+  <String index="293">
+    <ToTranslate>sei_0278</ToTranslate>
+  </String>
+  <String index="294">
+    <ToTranslate>Сэй$Мой господин, я хочу, чтобы вы похвалили меня за отличную работу.@</ToTranslate>
+  </String>
+  <String index="295">
+    <ToTranslate>$С уверенностью сказав это, она приблизилась, таща кого-то за собой.@</ToTranslate>
+  </String>
+  <String index="296">
+    <ToTranslate>Казуто$С возвращением, Сэй... И за что же я должен тебя похвалить?@</ToTranslate>
+  </String>
+  <String index="297">
+    <ToTranslate>tcg_kan21da</ToTranslate>
+  </String>
+  <String index="298">
+    <ToTranslate>tcg_kan21m</ToTranslate>
+  </String>
+  <String index="299">
+    <ToTranslate>aisy0911</ToTranslate>
+  </String>
+  <String index="300">
+    <ToTranslate>Айша$Хмм? Кто это? Ты взяла в плен генерала Сунь-Ву?@</ToTranslate>
+  </String>
+  <String index="301">
+    <ToTranslate>tcg_cun31ea</ToTranslate>
+  </String>
+  <String index="302">
+    <ToTranslate>tcg_cun31m</ToTranslate>
+  </String>
+  <String index="303">
+    <ToTranslate>sei_0279</ToTranslate>
+  </String>
+  <String index="304">
+    <ToTranslate>Сэй$Верно.@</ToTranslate>
+  </String>
+  <String index="305">
+    <ToTranslate>$Гордо ответила Сэй. Девушка, которую она привела, опустилась на колени.@</ToTranslate>
+  </String>
+  <String index="306">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="307">
+    <ToTranslate>ecg_syk01a</ToTranslate>
+  </String>
+  <String index="308">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="309">
+    <ToTranslate>bgm13</ToTranslate>
+  </String>
+  <String index="310">
+    <ToTranslate>sons0045</ToTranslate>
+  </String>
+  <String index="311">
+    <ToTranslate>Соншоко$Ммм...@</ToTranslate>
+  </String>
+  <String index="312">
+    <ToTranslate>sei_0280</ToTranslate>
+  </String>
+  <String index="313">
+    <ToTranslate>Сэй$Это Соншоко-доно, младшая дочь семьи Сунь и сестра Сонкен.@</ToTranslate>
+  </String>
+  <String index="314">
+    <ToTranslate>aisy0912</ToTranslate>
+  </String>
+  <String index="315">
+    <ToTranslate>Айша$Что?! Принцесса семьи Сунь?! Значит, она командовала теми войсками, верно?@</ToTranslate>
+  </String>
+  <String index="316">
+    <ToTranslate>sei_0281</ToTranslate>
+  </String>
+  <String index="317">
+    <ToTranslate>Сэй$Поэтому я и сказала, что вам следует меня похвалить.@</ToTranslate>
+  </String>
+  <String index="318">
+    <ToTranslate>sui_0192</ToTranslate>
+  </String>
+  <String index="319">
+    <ToTranslate>Суй$Чёрт. Сэй, ты нас опередила!@</ToTranslate>
+  </String>
+  <String index="320">
+    <ToTranslate>rinr0496</ToTranslate>
+  </String>
+  <String index="321">
+    <ToTranslate>Ринрин$Нечестно!@</ToTranslate>
+  </String>
+  <String index="322">
+    <ToTranslate>sei_0282</ToTranslate>
+  </String>
+  <String index="323">
+    <ToTranslate>Сэй$Я вас не опережала. Просто у меня хватило бдительности, чтобы не упустить этот шанс.@</ToTranslate>
+  </String>
+  <String index="324">
+    <ToTranslate>sui_0193</ToTranslate>
+  </String>
+  <String index="325">
+    <ToTranslate>Суй$Это одно и то же. Ахх, чёрт... я бы хотела быть первой.@</ToTranslate>
+  </String>
+  <String index="326">
+    <ToTranslate>Казуто$Ха-ха, всё в порядке. Кстати, Соншоко-тян, верно? Я хочу у тебя кое о чём спросить... Буду признателен, если ты честно ответишь 
+
+мне.@</ToTranslate>
+  </String>
+  <String index="327">
+    <ToTranslate>sons0046</ToTranslate>
+  </String>
+  <String index="328">
+    <ToTranslate>Соншоко$Мммм...@</ToTranslate>
+  </String>
+  <String index="329">
+    <ToTranslate>Казуто$Во-первых... почему Сонкен предала нас и напала на этот город?@</ToTranslate>
+  </String>
+  <String index="330">
+    <ToTranslate>sons0047</ToTranslate>
+  </String>
+  <String index="331">
+    <ToTranslate>Соншоко$Что ты говоришь?! Это вы нас предали!@</ToTranslate>
+  </String>
+  <String index="332">
+    <ToTranslate>aisy0913</ToTranslate>
+  </String>
+  <String index="333">
+    <ToTranslate>Айша$Лгунья! Вы без предупреждения нарушили Альянс против Дун и напали на этот город! Мы нашли флаги Сунь-Ву и разбитую броню, так что вам не 
+
+отвертеться!@</ToTranslate>
+  </String>
+  <String index="334">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="335">
+    <ToTranslate>ecg_syk01b</ToTranslate>
+  </String>
+  <String index="336">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="337">
+    <ToTranslate>sons0048</ToTranslate>
+  </String>
+  <String index="338">
+    <ToTranslate>Соншоко$Мы этого не делали! Мы прибыли сюда только потому, что нам доложили о том, что вы напали на нас!@</ToTranslate>
+  </String>
+  <String index="339">
+    <ToTranslate>syur0451</ToTranslate>
+  </String>
+  <String index="340">
+    <ToTranslate>Шури$П-подождите. Вы говорите, что вам доложили о том, что наша армия перешла границу и вторглась на территорию Ву?@</ToTranslate>
+  </String>
+  <String index="341">
+    <ToTranslate>sons0049</ToTranslate>
+  </String>
+  <String index="342">
+    <ToTranslate>Соншоко$Да! Так что это вы нас предали!@</ToTranslate>
+  </String>
+  <String index="343">
+    <ToTranslate>shio0088</ToTranslate>
+  </String>
+  <String index="344">
+    <ToTranslate>Сион$Да, наверное, так вы и думаете... но что произошло?@</ToTranslate>
+  </String>
+  <String index="345">
+    <ToTranslate>sei_0283</ToTranslate>
+  </String>
+  <String index="346">
+    <ToTranslate>Сэй$Мы услышали, что Сунь-Ву атаковали город, и поэтому мы отправились на границу...@</ToTranslate>
+  </String>
+  <String index="347">
+    <ToTranslate>sui_0194</ToTranslate>
+  </String>
+  <String index="348">
+    <ToTranslate>Суй$Но Сунь-Ву собирались напасть на нас из засады, потому что они услышали о нашем нападении...@</ToTranslate>
+  </String>
+  <String index="349">
+    <ToTranslate>shio0089</ToTranslate>
+  </String>
+  <String index="350">
+    <ToTranslate>Сион$И обе армии столкнулись на границе. Боже мой, как же нас подставили.@</ToTranslate>
+  </String>
+  <String index="351">
+    <ToTranslate>syur0452</ToTranslate>
+  </String>
+  <String index="352">
+    <ToTranslate>Шури$Да, подставили. Как-то слишком неестественно. Это похоже на совпадение, но на самом деле нас вовлекли в хитрый план.@</ToTranslate>
+  </String>
+  <String index="353">
+    <ToTranslate>sons0050</ToTranslate>
+  </String>
+  <String index="354">
+    <ToTranslate>Соншоко$Какой хитрый план? Что такое, что происходит?@</ToTranslate>
+  </String>
+  <String index="355">
+    <ToTranslate>Казуто$Нам доложили, что Ву напали на город, вот почему мы прибыли сюда.@</ToTranslate>
+  </String>
+  <String index="356">
+    <ToTranslate>Казуто$В сожжённом городе были флаги Сунь-Ву и броня. Казалось очевидным, что его атаковали солдаты Сунь-Ву.@</ToTranslate>
+  </String>
+  <String index="357">
+    <ToTranslate>syur0453</ToTranslate>
+  </String>
+  <String index="358">
+    <ToTranslate>Шури$Если бы в это время в Сунь-Ву доложили о нашем вторжении, Сунь-Ву послали бы сюда свою армию или разведчиков, и они увидели бы нас на 
+
+границе.@</ToTranslate>
+  </String>
+  <String index="359">
+    <ToTranslate>sei_0284</ToTranslate>
+  </String>
+  <String index="360">
+    <ToTranslate>Сэй$Тогда в Сунь-Ву подумали бы, что Хонго действительно вторгся на их территорию, а если бы мы увидели бойцов Сунь-Ву, то подумали бы, что они 
+
+возвращаются для повторного нападения на город.@</ToTranslate>
+  </String>
+  <String index="361">
+    <ToTranslate>rinr0497</ToTranslate>
+  </String>
+  <String index="362">
+    <ToTranslate>Ринрин$Таким образом, обе армии должны были столкнуться.@</ToTranslate>
+  </String>
+  <String index="363">
+    <ToTranslate>sui_0195</ToTranslate>
+  </String>
+  <String index="364">
+    <ToTranslate>Суй$Хаххх. Должно быть, человек, придумавший этот план, очень злой...@</ToTranslate>
+  </String>
+  <String index="365">
+    <ToTranslate>syur0454</ToTranslate>
+  </String>
+  <String index="366">
+    <ToTranslate>Шури$Разделяй и властвуй... это очень эффективный план, но я никогда не подумала бы, что мы можем попасться на такое...@</ToTranslate>
+  </String>
+  <String index="367">
+    <ToTranslate>syur0455</ToTranslate>
+  </String>
+  <String index="368">
+    <ToTranslate>Шури$Простите. Как стратег, я должна была это заметить... это я виновата.@</ToTranslate>
+  </String>
+  <String index="369">
+    <ToTranslate>Казуто$Ты не виновата, Шури. Конечно, вины Соншоко-тян в этом тоже нет.@</ToTranslate>
+  </String>
+  <String index="370">
+    <ToTranslate>sons0051</ToTranslate>
+  </String>
+  <String index="371">
+    <ToTranslate>Соншоко$...Что это значит? Кто мог придумать такой сложный план?@</ToTranslate>
+  </String>
+  <String index="372">
+    <ToTranslate>sei_0285</ToTranslate>
+  </String>
+  <String index="373">
+    <ToTranslate>Сэй$Я уверена, что это кто-то, кто хочет оборвать наши связи с другими странами, но, так как Цао Вей теперь вне игры, мне приходят на ум только 
+
+соседние маленькие страны.@</ToTranslate>
+  </String>
+  <String index="374">
+    <ToTranslate>syur0456</ToTranslate>
+  </String>
+  <String index="375">
+    <ToTranslate>Шури$Нет... есть ещё кое-кто. Возможно, это сильнейший враг из всех, с которыми мы боролись.@</ToTranslate>
+  </String>
+  <String index="376">
+    <ToTranslate>Казуто$Да... это они.@</ToTranslate>
+  </String>
+  <String index="377">
+    <ToTranslate>aisy0914</ToTranslate>
+  </String>
+  <String index="378">
+    <ToTranslate>Айша$Они... Ээ?! Ты говоришь о Белых Плащах?@</ToTranslate>
+  </String>
+  <String index="379">
+    <ToTranslate>shio0090</ToTranslate>
+  </String>
+  <String index="380">
+    <ToTranslate>Сион$Возможно, это они. Но... в Сунь-Ву есть отличный стратег, Шую. Не могу поверить, что даже она была ими обманута...@</ToTranslate>
+  </String>
+  <String index="381">
+    <ToTranslate>rinr0498</ToTranslate>
+  </String>
+  <String index="382">
+    <ToTranslate>Ринрин$Ничего не понимаю.@</ToTranslate>
+  </String>
+  <String index="383">
+    <ToTranslate>sons0052</ToTranslate>
+  </String>
+  <String index="384">
+    <ToTranslate>Соншоко$...Мне кажется, я понимаю. Думаю, я разгадала, что за всем этим стоит.@</ToTranslate>
+  </String>
+  <String index="385">
+    <ToTranslate>sei_0286</ToTranslate>
+  </String>
+  <String index="386">
+    <ToTranslate>Сэй$О, тогда расскажи нам поскорее!@</ToTranslate>
+  </String>
+  <String index="387">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="388">
+    <ToTranslate>ecg_syk01a</ToTranslate>
+  </String>
+  <String index="389">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="390">
+    <ToTranslate>sons0053</ToTranslate>
+  </String>
+  <String index="391">
+    <ToTranslate>Соншоко$Но сначала можете меня развязать? А то я вам не расскажу.@</ToTranslate>
+  </String>
+  <String index="392">
+    <ToTranslate>sei_0287</ToTranslate>
+  </String>
+  <String index="393">
+    <ToTranslate>Сэй$Я не могу этого сделать. Нет никакой гарантии, что ты не сбежишь.@</ToTranslate>
+  </String>
+  <String index="394">
+    <ToTranslate>sons0054</ToTranslate>
+  </String>
+  <String index="395">
+    <ToTranslate>Соншоко$У меня болят руки и грудь! Обещаю тебе, я не убегу, так что развяжи меня!@</ToTranslate>
+  </String>
+  <String index="396">
+    <ToTranslate>sei_0288</ToTranslate>
+  </String>
+  <String index="397">
+    <ToTranslate>Сэй$Ммм... что же мне делать, мой господин?@</ToTranslate>
+  </String>
+  <String index="398">
+    <ToTranslate>Казуто$Всё будет в порядке. Кстати, ты сама её связала, Сэй?@</ToTranslate>
+  </String>
+  <String index="399">
+    <ToTranslate>sei_0289</ToTranslate>
+  </String>
+  <String index="400">
+    <ToTranslate>Сэй$Конечно. Что-то не так?@</ToTranslate>
+  </String>
+  <String index="401">
+    <ToTranslate>Казуто$Способ, которым ты её связала...@</ToTranslate>
+  </String>
+  <String index="402">
+    <ToTranslate>sei_0290</ToTranslate>
+  </String>
+  <String index="403">
+    <ToTranslate>Сэй$Да, это моё хобби. Я очень горжусь своей великолепной работой.@</ToTranslate>
+  </String>
+  <String index="404">
+    <ToTranslate>Казуто$Твоё хобби, да? Хахх...@</ToTranslate>
+  </String>
+  <String index="405">
+    <ToTranslate>$Я думаю, не каждый день можно встретиться с генералом, чьё хобби - связывание в технике "черепаший панцирь".@</ToTranslate>
+  </String>
+  <String index="406">
+    <ToTranslate>Казуто$В любом случае, теперь, когда мы знаем, что произошло недоразумение, всё должно быть в порядке. Почему бы тебе её не развязать?@</ToTranslate>
+  </String>
+  <String index="407">
+    <ToTranslate>sei_0291</ToTranslate>
+  </String>
+  <String index="408">
+    <ToTranslate>Сэй$Как пожелаете.@</ToTranslate>
+  </String>
+  <String index="409">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="410">
+    <ToTranslate>bcg_camp_a</ToTranslate>
+  </String>
+  <String index="411">
+    <ToTranslate>tcg_syk21da</ToTranslate>
+  </String>
+  <String index="412">
+    <ToTranslate>tcg_syk21m</ToTranslate>
+  </String>
+  <String index="413">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="414">
+    <ToTranslate>sons0055</ToTranslate>
+  </String>
+  <String index="415">
+    <ToTranslate>Соншоко$Фух... Наконец-то я свободна...@</ToTranslate>
+  </String>
+  <String index="416">
+    <ToTranslate>tcg_cun31fa</ToTranslate>
+  </String>
+  <String index="417">
+    <ToTranslate>tcg_cun31m</ToTranslate>
+  </String>
+  <String index="418">
+    <ToTranslate>sei_0292</ToTranslate>
+  </String>
+  <String index="419">
+    <ToTranslate>Сэй$Хмм? Похоже, тебе не понравилось, как я тебя связала.@</ToTranslate>
+  </String>
+  <String index="420">
+    <ToTranslate>tcg_syk21ea</ToTranslate>
+  </String>
+  <String index="421">
+    <ToTranslate>tcg_syk21m</ToTranslate>
+  </String>
+  <String index="422">
+    <ToTranslate>sons0056</ToTranslate>
+  </String>
+  <String index="423">
+    <ToTranslate>Соншоко$Разумеется!@</ToTranslate>
+  </String>
+  <String index="424">
+    <ToTranslate>tcg_kan11ca</ToTranslate>
+  </String>
+  <String index="425">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="426">
+    <ToTranslate>aisy0915</ToTranslate>
+  </String>
+  <String index="427">
+    <ToTranslate>Айша$Кого волнует, как ты была связана? Принцесса Сунь-Ву, ты только что сказала, что поняла план, так что, может, объяснишь нам?@</ToTranslate>
+  </String>
+  <String index="428">
+    <ToTranslate>sons0057</ToTranslate>
+  </String>
+  <String index="429">
+    <ToTranslate>Соншоко$Это просто. Тот, кто придумал этот хитрый план, и Шую - сообщники. Ох... может быть, Шую сама это спланировала.@</ToTranslate>
+  </String>
+  <String index="430">
+    <ToTranslate>tcg_kan11ea</ToTranslate>
+  </String>
+  <String index="431">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="432">
+    <ToTranslate>aisy0916</ToTranslate>
+  </String>
+  <String index="433">
+    <ToTranslate>Айша$Что... Ты говоришь, что Шую хочет предать Сунь-Ву?@</ToTranslate>
+  </String>
+  <String index="434">
+    <ToTranslate>tcg_syk21da</ToTranslate>
+  </String>
+  <String index="435">
+    <ToTranslate>tcg_syk21m</ToTranslate>
+  </String>
+  <String index="436">
+    <ToTranslate>sons0058</ToTranslate>
+  </String>
+  <String index="437">
+    <ToTranslate>Соншоко$...Я в этом не уверена. Но, думаю, Мейрин имеет к этому какое-то отношение.@</ToTranslate>
+  </String>
+  <String index="438">
+    <ToTranslate>tcg_cho21ja</ToTranslate>
+  </String>
+  <String index="439">
+    <ToTranslate>tcg_cho21m</ToTranslate>
+  </String>
+  <String index="440">
+    <ToTranslate>rinr0499</ToTranslate>
+  </String>
+  <String index="441">
+    <ToTranslate>Ринрин$Тогда мы должны немедленно сообщить Ву, что среди них есть предатель.@</ToTranslate>
+  </String>
+  <String index="442">
+    <ToTranslate>sons0059</ToTranslate>
+  </String>
+  <String index="443">
+    <ToTranslate>Соншоко$Это бесполезно.@</ToTranslate>
+  </String>
+  <String index="444">
+    <ToTranslate>tcg_koc22da</ToTranslate>
+  </String>
+  <String index="445">
+    <ToTranslate>tcg_koc22m</ToTranslate>
+  </String>
+  <String index="446">
+    <ToTranslate>shio0091</ToTranslate>
+  </String>
+  <String index="447">
+    <ToTranslate>Сион$О боже, что ты имеешь в виду?@</ToTranslate>
+  </String>
+  <String index="448">
+    <ToTranslate>sons0060</ToTranslate>
+  </String>
+  <String index="449">
+    <ToTranslate>Соншоко$...Хотя нас обманули, наши солдаты получили ранения. Моя сестра не настолько бессердечна, чтобы забыть об этом...@</ToTranslate>
+  </String>
+  <String index="450">
+    <ToTranslate>tcg_cun31fa</ToTranslate>
+  </String>
+  <String index="451">
+    <ToTranslate>tcg_cun31m</ToTranslate>
+  </String>
+  <String index="452">
+    <ToTranslate>sei_0293</ToTranslate>
+  </String>
+  <String index="453">
+    <ToTranslate>Сэй$Иными словами, она собирается затеять ещё большую битву, чтобы отомстить за раненых?@</ToTranslate>
+  </String>
+  <String index="454">
+    <ToTranslate>sons0061</ToTranslate>
+  </String>
+  <String index="455">
+    <ToTranslate>Соншоко$Да... для этого нет особых причин, мы ничего не выиграем и не потеряем. Это просто положение и гордость Сунь-Ву... что-то связанное с 
+
+эмоциями.@</ToTranslate>
+  </String>
+  <String index="456">
+    <ToTranslate>sons0062</ToTranslate>
+  </String>
+  <String index="457">
+    <ToTranslate>Соншоко$Если наши товарищи ранены, мы всем сердцем и душой готовы отомстить за них. Именно так происходит в Сунь-Ву.@</ToTranslate>
+  </String>
+  <String index="458">
+    <ToTranslate>Казуто$Тогда нам просто придётся сражаться снова, да?..@</ToTranslate>
+  </String>
+  <String index="459">
+    <ToTranslate>tcg_syo11ea</ToTranslate>
+  </String>
+  <String index="460">
+    <ToTranslate>tcg_syo11m</ToTranslate>
+  </String>
+  <String index="461">
+    <ToTranslate>syur0457</ToTranslate>
+  </String>
+  <String index="462">
+    <ToTranslate>Шури$...Если мы не сможем их убедить, нам придётся применить силу, чтобы выиграть.@</ToTranslate>
+  </String>
+  <String index="463">
+    <ToTranslate>Казуто$Понятно... Ладно, тогда давайте сразимся здесь с Сонкен и убедим её с помощью силы.@</ToTranslate>
+  </String>
+  <String index="464">
+    <ToTranslate>Казуто$Не думаю, что это лучший способ... но иначе от этой битвы будет слишком много неприятностей.@</ToTranslate>
+  </String>
+  <String index="465">
+    <ToTranslate>Казуто$И от этого выиграют только Белые Плащи. Следовательно, мы должны максимально уменьшить урон и разобраться с Сунь-Ву.@</ToTranslate>
+  </String>
+  <String index="466">
+    <ToTranslate>tcg_bac12ca</ToTranslate>
+  </String>
+  <String index="467">
+    <ToTranslate>tcg_bac12m</ToTranslate>
+  </String>
+  <String index="468">
+    <ToTranslate>sui_0196</ToTranslate>
+  </String>
+  <String index="469">
+    <ToTranslate>Суй$Как только мы во всём разберёмся, мы сможем выяснить, кто придумал такой коварный план. Я согласна с господином.@</ToTranslate>
+  </String>
+  <String index="470">
+    <ToTranslate>tcg_kan11ca</ToTranslate>
+  </String>
+  <String index="471">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="472">
+    <ToTranslate>aisy0917</ToTranslate>
+  </String>
+  <String index="473">
+    <ToTranslate>Айша$Хмм, наверное, это единственное, что мы можем сделать.@</ToTranslate>
+  </String>
+  <String index="474">
+    <ToTranslate>tcg_cun21ca</ToTranslate>
+  </String>
+  <String index="475">
+    <ToTranslate>tcg_cun21m</ToTranslate>
+  </String>
+  <String index="476">
+    <ToTranslate>sei_0294</ToTranslate>
+  </String>
+  <String index="477">
+    <ToTranslate>Сэй$Согласна.@</ToTranslate>
+  </String>
+  <String index="478">
+    <ToTranslate>Казуто$Хорошо. Тогда сообщите об этом всей армии. Мы подождём прибытия Сонкен.@</ToTranslate>
+  </String>
+  <String index="479">
+    <ToTranslate>tcg_cho31ja</ToTranslate>
+  </String>
+  <String index="480">
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="481">
+    <ToTranslate>rinr0500</ToTranslate>
+  </String>
+  <String index="482">
+    <ToTranslate>Ринрин$А если она не придёт?@</ToTranslate>
+  </String>
+  <String index="483">
+    <ToTranslate>tcg_syk21ea</ToTranslate>
+  </String>
+  <String index="484">
+    <ToTranslate>tcg_syk21m</ToTranslate>
+  </String>
+  <String index="485">
+    <ToTranslate>sons0063</ToTranslate>
+  </String>
+  <String index="486">
+    <ToTranslate>Соншоко$Это невозможно. Сестрица наверняка придёт со своей армией.@</ToTranslate>
+  </String>
+  <String index="487">
+    <ToTranslate>tcg_koc22aa</ToTranslate>
+  </String>
+  <String index="488">
+    <ToTranslate>tcg_koc22m</ToTranslate>
+  </String>
+  <String index="489">
+    <ToTranslate>shio0092</ToTranslate>
+  </String>
+  <String index="490">
+    <ToTranslate>Сион$Тогда давайте воспользуемся этим временем для пополнения наших войск и продовольствия.@</ToTranslate>
+  </String>
+  <String index="491">
+    <ToTranslate>tcg_syo41ea</ToTranslate>
+  </String>
+  <String index="492">
+    <ToTranslate>tcg_syo41m</ToTranslate>
+  </String>
+  <String index="493">
+    <ToTranslate>syur0458</ToTranslate>
+  </String>
+  <String index="494">
+    <ToTranslate>Шури$Я не знаю, сколько солдат мы сможем собрать в таких обстоятельствах...@</ToTranslate>
+  </String>
+  <String index="495">
+    <ToTranslate>Казуто$Я понимаю, просто сделай всё, что сможешь.@</ToTranslate>
+  </String>
+  <String index="496">
+    <ToTranslate>tcg_syo11aa</ToTranslate>
+  </String>
+  <String index="497">
+    <ToTranslate>tcg_syo11m</ToTranslate>
+  </String>
+  <String index="498">
+    <ToTranslate>syur0459</ToTranslate>
+  </String>
+  <String index="499">
+    <ToTranslate>Шури$Как пожелаете!@</ToTranslate>
+  </String>
+  <String index="500">
+    <ToTranslate>bgm02</ToTranslate>
+  </String>
+  <String index="501">
+    <ToTranslate>Казуто$И наконец... насчёт Соншоко-тян.@</ToTranslate>
+  </String>
+  <String index="502">
+    <ToTranslate>tcg_syk11ia</ToTranslate>
+  </String>
+  <String index="503">
+    <ToTranslate>tcg_syk11m</ToTranslate>
+  </String>
+  <String index="504">
+    <ToTranslate>sons0064</ToTranslate>
+  </String>
+  <String index="505">
+    <ToTranslate>Соншоко$Меня? Что насчёт меня?@</ToTranslate>
+  </String>
+  <String index="506">
+    <ToTranslate>tcg_cun31fa</ToTranslate>
+  </String>
+  <String index="507">
+    <ToTranslate>tcg_cun31m</ToTranslate>
+  </String>
+  <String index="508">
+    <ToTranslate>sei_0295</ToTranslate>
+  </String>
+  <String index="509">
+    <ToTranslate>Сэй$Мы не можем просто отпустить тебя домой.@</ToTranslate>
+  </String>
+  <String index="510">
+    <ToTranslate>Казуто$Верно... Кроме того, может быть, тебе придётся убедить Сонкен за нас.@</ToTranslate>
+  </String>
+  <String index="511">
+    <ToTranslate>tcg_syk21da</ToTranslate>
+  </String>
+  <String index="512">
+    <ToTranslate>tcg_syk21m</ToTranslate>
+  </String>
+  <String index="513">
+    <ToTranslate>sons0065</ToTranslate>
+  </String>
+  <String index="514">
+    <ToTranslate>Соншоко$Но я не думаю, что сестрица меня послушает...@</ToTranslate>
+  </String>
+  <String index="515">
+    <ToTranslate>Казуто$Но на всякий случай я хочу, чтобы ты ненадолго осталась с нами в качестве заложницы. Когда придёт время, мы обязательно тебя 
+
+отпустим.@</ToTranslate>
+  </String>
+  <String index="516">
+    <ToTranslate>sons0066</ToTranslate>
+  </String>
+  <String index="517">
+    <ToTranslate>Соншоко$...Ты не думаешь, что я тут же сбегу?@</ToTranslate>
+  </String>
+  <String index="518">
+    <ToTranslate>Казуто$Я буду тебе признателен, если ты этого не сделаешь.@</ToTranslate>
+  </String>
+  <String index="519">
+    <ToTranslate>sons0067</ToTranslate>
+  </String>
+  <String index="520">
+    <ToTranslate>Соншоко$Точно?@</ToTranslate>
+  </String>
+  <String index="521">
+    <ToTranslate>Казуто$Точно. Ну, Айша и Сэй считают меня слишком наивным, но я думаю, что мужчины не должны грубо относиться к девушкам.@</ToTranslate>
+  </String>
+  <String index="522">
+    <ToTranslate>tcg_kan31ha</ToTranslate>
+  </String>
+  <String index="523">
+    <ToTranslate>tcg_kan31m</ToTranslate>
+  </String>
+  <String index="524">
+    <ToTranslate>aisy0918</ToTranslate>
+  </String>
+  <String index="525">
+    <ToTranslate>Айша$Какая разница, парень она или девушка...@</ToTranslate>
+  </String>
+  <String index="526">
+    <ToTranslate>tcg_cun11ba</ToTranslate>
+  </String>
+  <String index="527">
+    <ToTranslate>tcg_cun11m</ToTranslate>
+  </String>
+  <String index="528">
+    <ToTranslate>sei_0296</ToTranslate>
+  </String>
+  <String index="529">
+    <ToTranslate>Сэй$Ну, не злись на него, Айша. Это его слабость и одновременно его сила.@</ToTranslate>
+  </String>
+  <String index="530">
+    <ToTranslate>Казуто$Жестоко...@</ToTranslate>
+  </String>
+  <String index="531">
+    <ToTranslate>$Когда я повесил голову, слушая жалобы Айши и Сэй...@</ToTranslate>
+  </String>
+  <String index="532">
+    <ToTranslate>tcg_syk31fa</ToTranslate>
+  </String>
+  <String index="533">
+    <ToTranslate>tcg_syk31m</ToTranslate>
+  </String>
+  <String index="534">
+    <ToTranslate>bgm26</ToTranslate>
+  </String>
+  <String index="535">
+    <ToTranslate>sons0068</ToTranslate>
+  </String>
+  <String index="536">
+    <ToTranslate>Соншоко$Хмм...@</ToTranslate>
+  </String>
+  <String index="537">
+    <ToTranslate>$Соншоко уставилась на меня.@</ToTranslate>
+  </String>
+  <String index="538">
+    <ToTranslate>Казуто$Ч-что?@</ToTranslate>
+  </String>
+  <String index="539">
+    <ToTranslate>tcg_syk11aa</ToTranslate>
+  </String>
+  <String index="540">
+    <ToTranslate>tcg_syk11m</ToTranslate>
+  </String>
+  <String index="541">
+    <ToTranslate>sons0069</ToTranslate>
+  </String>
+  <String index="542">
+    <ToTranslate>Соншоко$...Ты хороший парень.@</ToTranslate>
+  </String>
+  <String index="543">
+    <ToTranslate>Казуто$Я? Ха-ха, спасибо.@</ToTranslate>
+  </String>
+  <String index="544">
+    <ToTranslate>tcg_syk11ca</ToTranslate>
+  </String>
+  <String index="545">
+    <ToTranslate>tcg_syk11m</ToTranslate>
+  </String>
+  <String index="546">
+    <ToTranslate>sons0070</ToTranslate>
+  </String>
+  <String index="547">
+    <ToTranslate>Соншоко$...Я решила! Я не убегу. Ты мне тоже интересен.@</ToTranslate>
+  </String>
+  <String index="548">
+    <ToTranslate>tcg_syk11ca</ToTranslate>
+  </String>
+  <String index="549">
+    <ToTranslate>tcg_syk11m</ToTranslate>
+  </String>
+  <String index="550">
+    <ToTranslate>tcg_kan11qa</ToTranslate>
+  </String>
+  <String index="551">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="552">
+    <ToTranslate>aisy0919</ToTranslate>
+  </String>
+  <String index="553">
+    <ToTranslate>Айша$Но я не позволю тебе даже притронуться к моему господину.@</ToTranslate>
+  </String>
+  <String index="554">
+    <ToTranslate>tcg_syk11ba</ToTranslate>
+  </String>
+  <String index="555">
+    <ToTranslate>tcg_syk11m</ToTranslate>
+  </String>
+  <String index="556">
+    <ToTranslate>sons0071</ToTranslate>
+  </String>
+  <String index="557">
+    <ToTranslate>Соншоко$О, но зачем мне слушать простого вассала... В конце концов, я принцесса Сунь-Ву!@</ToTranslate>
+  </String>
+  <String index="558">
+    <ToTranslate>tcg_syk31fa</ToTranslate>
+  </String>
+  <String index="559">
+    <ToTranslate>tcg_syk31m</ToTranslate>
+  </String>
+  <String index="560">
+    <ToTranslate>sons0072</ToTranslate>
+  </String>
+  <String index="561">
+    <ToTranslate>Соншоко$Может быть, у нас будет свадьба в политических целях!@</ToTranslate>
+  </String>
+  <String index="562">
+    <ToTranslate>aisy0920</ToTranslate>
+  </String>
+  <String index="563">
+    <ToTranslate>Айша$Я-я этого не допущу! Если это должно будет случиться, я клянусь, что я, Кан Унчё, буду противостоять этому всем сердцем и душой!@</ToTranslate>
+  </String>
+  <String index="564">
+    <ToTranslate>tcg_syk11ca</ToTranslate>
+  </String>
+  <String index="565">
+    <ToTranslate>tcg_syk11m</ToTranslate>
+  </String>
+  <String index="566">
+    <ToTranslate>sons0073</ToTranslate>
+  </String>
+  <String index="567">
+    <ToTranslate>Соншоко$О, я вижу, в любовных делах Кан Унчё тоже драматична. Как неприглядно!@</ToTranslate>
+  </String>
+  <String index="568">
+    <ToTranslate>tcg_kan11sa</ToTranslate>
+  </String>
+  <String index="569">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="570">
+    <ToTranslate>aisy0921</ToTranslate>
+  </String>
+  <String index="571">
+    <ToTranslate>Айша$Угх... С-Сэй! Скажи что-нибудь этой девчонке!@</ToTranslate>
+  </String>
+  <String index="572">
+    <ToTranslate>tcg_cun31fa</ToTranslate>
+  </String>
+  <String index="573">
+    <ToTranslate>tcg_cun31m</ToTranslate>
+  </String>
+  <String index="574">
+    <ToTranslate>sei_0297</ToTranslate>
+  </String>
+  <String index="575">
+    <ToTranslate>Сэй$Не втягивай меня в это только потому, что ты не можешь с ней спорить.@</ToTranslate>
+  </String>
+  <String index="576">
+    <ToTranslate>tcg_kan11qa</ToTranslate>
+  </String>
+  <String index="577">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="578">
+    <ToTranslate>aisy0922</ToTranslate>
+  </String>
+  <String index="579">
+    <ToTranslate>Айша$Суй! Ринрин!@</ToTranslate>
+  </String>
+  <String index="580">
+    <ToTranslate>tcg_bac12ga</ToTranslate>
+  </String>
+  <String index="581">
+    <ToTranslate>tcg_bac12m</ToTranslate>
+  </String>
+  <String index="582">
+    <ToTranslate>sui_0197</ToTranslate>
+  </String>
+  <String index="583">
+    <ToTranslate>Суй$Аааххх... Я плохо умею общаться с людьми, которые хороши в спорах...@</ToTranslate>
+  </String>
+  <String index="584">
+    <ToTranslate>tcg_cho31ba</ToTranslate>
+  </String>
+  <String index="585">
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="586">
+    <ToTranslate>rinr0501</ToTranslate>
+  </String>
+  <String index="587">
+    <ToTranslate>Ринрин$Эхем, я тоже!@</ToTranslate>
+  </String>
+  <String index="588">
+    <ToTranslate>tcg_kan11sa</ToTranslate>
+  </String>
+  <String index="589">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="590">
+    <ToTranslate>aisy0923</ToTranslate>
+  </String>
+  <String index="591">
+    <ToTranslate>Айша$Ннгх, н-но, даже если мне придётся спорить с тобой в одиночку, я никогда не позволю тебе забрать у меня господина!@</ToTranslate>
+  </String>
+  <String index="592">
+    <ToTranslate>tcg_syk11ca</ToTranslate>
+  </String>
+  <String index="593">
+    <ToTranslate>tcg_syk11m</ToTranslate>
+  </String>
+  <String index="594">
+    <ToTranslate>onpu</ToTranslate>
+  </String>
+  <String index="595">
+    <ToTranslate>sons0074</ToTranslate>
+  </String>
+  <String index="596">
+    <ToTranslate>Соншоко$Об этом надо спросить у Казуто!@</ToTranslate>
+  </String>
+  <String index="597">
+    <ToTranslate>tcg_kan21pa</ToTranslate>
+  </String>
+  <String index="598">
+    <ToTranslate>tcg_kan21m</ToTranslate>
+  </String>
+  <String index="599">
+    <ToTranslate>aisy0924</ToTranslate>
+  </String>
+  <String index="600">
+    <ToTranslate>Айша$К-как ты смеешь называть моего господина по имени! Как я завидую... в смысле, как это грубо! Я этого не позволю!@</ToTranslate>
+  </String>
+  <String index="601">
+    <ToTranslate>tcg_syk31fa</ToTranslate>
+  </String>
+  <String index="602">
+    <ToTranslate>tcg_syk31m</ToTranslate>
+  </String>
+  <String index="603">
+    <ToTranslate>sons0075</ToTranslate>
+  </String>
+  <String index="604">
+    <ToTranslate>Соншоко$Какая разница? Ты можешь называть меня Шаорен, ладно, Казуто?@</ToTranslate>
+  </String>
+  <String index="605">
+    <ToTranslate>Казуто$Ха-ха, хорошо.@</ToTranslate>
+  </String>
+  <String index="606">
+    <ToTranslate>tcg_kan11qa</ToTranslate>
+  </String>
+  <String index="607">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="608">
+    <ToTranslate>aisy0925</ToTranslate>
+  </String>
+  <String index="609">
+    <ToTranslate>Айша$Мой господин! Как вы можете позволять так легко себя соблазнить?!@</ToTranslate>
+  </String>
+  <String index="610">
+    <ToTranslate>aisy0926</ToTranslate>
+  </String>
+  <String index="611">
+    <ToTranslate>Айша$Будьте твёрже! Галантнее! Благороднее! Вы не можете так свободно вести себя с женщинами!@</ToTranslate>
+  </String>
+  <String index="612">
+    <ToTranslate>bcg_sky_a</ToTranslate>
+  </String>
+  <String index="613">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="614">
+    <ToTranslate>$Голос Айши разносился по лагерю.@</ToTranslate>
+  </String>
+  <String index="615">
+    <ToTranslate>$Слушая этот голос, смешанный со всеобщим смехом, я задумался о нашей следующей битве...@</ToTranslate>
+  </String>
+  <String index="616">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="617">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="618">
+    <ToTranslate>_kyotenphase</ToTranslate>
+  </String>
+</DBS>
+
+</poem>
+[[Koihime Musou/Прогресс перевода/Сюжет|[Назад]]]

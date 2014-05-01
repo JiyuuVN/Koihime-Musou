@@ -1,0 +1,935 @@
+<poem>
+<?xml version="1.0" encoding="UTF-8"?>
+<DBS>
+  <String index="0">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="1">
+    <ToTranslate>bcg_castgurden_a</ToTranslate>
+  </String>
+  <String index="2">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="3">
+    <ToTranslate>bgm02</ToTranslate>
+  </String>
+  <String index="4">
+    <ToTranslate>$У-у-у... я истощён. Знаю, что уже давно следовало сделать перерыв, но ещё столько работы осталось.@</ToTranslate>
+  </String>
+  <String index="5">
+    <ToTranslate>$Я не наговариваю! Мне просто кажется, что пора устроить небольшой перерыв.@</ToTranslate>
+  </String>
+  <String index="6">
+    <ToTranslate>$Однако, если Айша или Сэй заметят меня то конечно же отругают. На всякий случай я огляделся по сторонам и уже после начать искать место в тени деревьев...@</ToTranslate>
+  </String>
+  <String index="7">
+    <ToTranslate>syur1749</ToTranslate>
+  </String>
+  <String index="8">
+    <ToTranslate>Шури$"Вот, ваш ход."@</ToTranslate>
+  </String>
+  <String index="9">
+    <ToTranslate>sei_2449</ToTranslate>
+  </String>
+  <String index="10">
+    <ToTranslate>Сэй$"Хм... интересный манёвр. Так, одну секундочку."@</ToTranslate>
+  </String>
+  <String index="11">
+    <ToTranslate>$Там кто-то есть! Я услышал голоса из тени которую я обнаружил. Там стол...? За которым друг против друга сидят Шури и Сэй.@</ToTranslate>
+  </String>
+  <String index="12">
+    <ToTranslate>$Заметив ещё одну длинную тень я понял что и мне тоже не стоит больше скрываться.@</ToTranslate>
+  </String>
+  <String index="13">
+    <ToTranslate>$Кажись они тоже устроили себе перерыв.@</ToTranslate>
+  </String>
+  <String index="14">
+    <ToTranslate>Казуто$"Девчонки, что делаете?"@</ToTranslate>
+  </String>
+  <String index="15">
+    <ToTranslate>tcg_kan21da</ToTranslate>
+  </String>
+  <String index="16">
+    <ToTranslate>tcg_kan21m</ToTranslate>
+  </String>
+  <String index="17">
+    <ToTranslate>aisy3263</ToTranslate>
+  </String>
+  <String index="18">
+    <ToTranslate>Айша$"...? А, Господин."@</ToTranslate>
+  </String>
+  <String index="19">
+    <ToTranslate>$Они не стали бранить меня за то что я шатаюсь без дела, так что, присвистывая, я подошёл к ним.@</ToTranslate>
+  </String>
+  <String index="20">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="21">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="22">
+    <ToTranslate>ecg_syo11d</ToTranslate>
+  </String>
+  <String index="23">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="24">
+    <ToTranslate>bgm26</ToTranslate>
+  </String>
+  <String index="25">
+    <ToTranslate>sei_2450</ToTranslate>
+  </String>
+  <String index="26">
+    <ToTranslate>Сэй$"М-м... впечатляюще, Шури. До чего необычно хороший ход."@</ToTranslate>
+  </String>
+  <String index="27">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="28">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="29">
+    <ToTranslate>ecg_syo11e</ToTranslate>
+  </String>
+  <String index="30">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="31">
+    <ToTranslate>syur1750</ToTranslate>
+  </String>
+  <String index="32">
+    <ToTranslate>Шури$"А, Господин, решили прогуляться?"@</ToTranslate>
+  </String>
+  <String index="33">
+    <ToTranslate>$Га...!? Издалека я сразу и не приметил, но разве не в эту игру они играли недавно.@</ToTranslate>
+  </String>
+  <String index="34">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="35">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="36">
+    <ToTranslate>ecg_syo11g</ToTranslate>
+  </String>
+  <String index="37">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="38">
+    <ToTranslate>Казуто$"А, ну да... как сказать, вышел подышать свежим воздухом. Позднее я обязательно вернусь к документам, честно."@</ToTranslate>
+  </String>
+  <String index="39">
+    <ToTranslate>aisy3264</ToTranslate>
+  </String>
+  <String index="40">
+    <ToTranslate>Айша$"Правда? Подозрительно неожиданное трудолюбие. Раз уж вы проделали столь долгий путь то почему бы вам не присоединиться к нам?"@</ToTranslate>
+  </String>
+  <String index="41">
+    <ToTranslate>Казуто$"Ум, с удовольствием конечно, но--"@</ToTranslate>
+  </String>
+  <String index="42">
+    <ToTranslate>$Я вспоминаю что помешал Шури сосредоточиться когда появился во время игры в прошлый раз.@</ToTranslate>
+  </String>
+  <String index="43">
+    <ToTranslate>sei_2451</ToTranslate>
+  </String>
+  <String index="44">
+    <ToTranslate>Сэй$"Хм... может быть так? Нет, я только попаду в очередную ловушку при таком расположении. Ещё немного времени..."@</ToTranslate>
+  </String>
+  <String index="45">
+    <ToTranslate>aisy3265</ToTranslate>
+  </String>
+  <String index="46">
+    <ToTranslate>Айша$"Сэй, я знаю что ты занята, но можешь хотя бы два слова сказать нашему Господину?"@</ToTranslate>
+  </String>
+  <String index="47">
+    <ToTranslate>sei_2452</ToTranslate>
+  </String>
+  <String index="48">
+    <ToTranslate>Сэй$"Мм? А, Лордище здесь."@</ToTranslate>
+  </String>
+  <String index="49">
+    <ToTranslate>$Она не замечала меня? Она задумчиво подняла голову и... кивнула.@</ToTranslate>
+  </String>
+  <String index="50">
+    <ToTranslate>Казуто$"Как игра?"@</ToTranslate>
+  </String>
+  <String index="51">
+    <ToTranslate>sei_2453</ToTranslate>
+  </String>
+  <String index="52">
+    <ToTranslate>Сэй$"С чего вдруг такой интерес?"@</ToTranslate>
+  </String>
+  <String index="53">
+    <ToTranslate>Казуто$"Н-ну... просто так, интересно стало."@</ToTranslate>
+  </String>
+  <String index="54">
+    <ToTranslate>sei_2454</ToTranslate>
+  </String>
+  <String index="55">
+    <ToTranslate>Сэй$"...думаю, вы и сами всё видите. Продаётся ваз 2101! Не стоит приходить сюда и мешать концентрации конкурентов."@</ToTranslate>
+  </String>
+  <String index="56">
+    <ToTranslate>$И всё таки она меня сразу заметила... мне страшно!@</ToTranslate>
+  </String>
+  <String index="57">
+    <ToTranslate>syur1751</ToTranslate>
+  </String>
+  <String index="58">
+    <ToTranslate>Шури$"Пожалуйста, не расстраивайтесь Сэй-сан. Эхе-хе, это всё лишь игра."@</ToTranslate>
+  </String>
+  <String index="59">
+    <ToTranslate>sei_2455</ToTranslate>
+  </String>
+  <String index="60">
+    <ToTranslate>Сэй$"Мм-м... смейся пока можешь. Тогда вот такой ход!"@</ToTranslate>
+  </String>
+  <String index="61">
+    <ToTranslate>SE064</ToTranslate>
+  </String>
+  <String index="62">
+    <ToTranslate>aisy3266</ToTranslate>
+  </String>
+  <String index="63">
+    <ToTranslate>Айша$"А."@</ToTranslate>
+  </String>
+  <String index="64">
+    <ToTranslate>syur1752</ToTranslate>
+  </String>
+  <String index="65">
+    <ToTranslate>Шури$"А."@</ToTranslate>
+  </String>
+  <String index="66">
+    <ToTranslate>sei_2456</ToTranslate>
+  </String>
+  <String index="67">
+    <ToTranslate>Сэй$"...!? Ч-что такое?"@</ToTranslate>
+  </String>
+  <String index="68">
+    <ToTranslate>$У тех двоих вид, будто третья что-то напутала...?@</ToTranslate>
+  </String>
+  <String index="69">
+    <ToTranslate>$Айша и Шури удивлённо захлопали ресницами. Мне остаётся только догадываться о причинах такой реакции.@</ToTranslate>
+  </String>
+  <String index="70">
+    <ToTranslate>syur1753</ToTranslate>
+  </String>
+  <String index="71">
+    <ToTranslate>Шури$"Тогда..... вот."@</ToTranslate>
+  </String>
+  <String index="72">
+    <ToTranslate>SE064</ToTranslate>
+  </String>
+  <String index="73">
+    <ToTranslate>sei_2457</ToTranslate>
+  </String>
+  <String index="74">
+    <ToTranslate>Сэй$"......у-у, ни капли милосердия. Нет, это ещё не всё! Тогда......хм."@</ToTranslate>
+  </String>
+  <String index="75">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="76">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="77">
+    <ToTranslate>ecg_syo11h</ToTranslate>
+  </String>
+  <String index="78">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="79">
+    <ToTranslate>aisy3267</ToTranslate>
+  </String>
+  <String index="80">
+    <ToTranslate>Айша$"Снова собираешься пол часа обдумывать ход, Сэй?"@</ToTranslate>
+  </String>
+  <String index="81">
+    <ToTranslate>sei_2458</ToTranslate>
+  </String>
+  <String index="82">
+    <ToTranslate>Сэй$"Ни звука мне! Вы все мешаете!"@</ToTranslate>
+  </String>
+  <String index="83">
+    <ToTranslate>$Сэй начала хныкать и рассматривать игровое поле. Она взволнована, похоже, на сей раз ход игры более благосклонен к Шури.@</ToTranslate>
+  </String>
+  <String index="84">
+    <ToTranslate>syur1754</ToTranslate>
+  </String>
+  <String index="85">
+    <ToTranslate>Шури$"Я не тороплю вас с ответом. Фух... а я тогда выпью чаю."@</ToTranslate>
+  </String>
+  <String index="86">
+    <ToTranslate>$Шури кажется полностью расслабленной, она выпила чаю и улыбнулась мне после того как наши глаза встретились.@</ToTranslate>
+  </String>
+  <String index="87">
+    <ToTranslate>$Я нервно улыбнулся в ответ. ...мм? Я прошептал Айше.@</ToTranslate>
+  </String>
+  <String index="88">
+    <ToTranslate>Казуто$"Эм, Айша, ход игры в самом деле такой как мне кажется?"@</ToTranslate>
+  </String>
+  <String index="89">
+    <ToTranslate>aisy3268</ToTranslate>
+  </String>
+  <String index="90">
+    <ToTranslate>Айша$"Разве вам не знакома такая игра? Это полный разгром, как мне кажется."@</ToTranslate>
+  </String>
+  <String index="91">
+    <ToTranslate>$!? Н-не так же громко, Айша!@</ToTranslate>
+  </String>
+  <String index="92">
+    <ToTranslate>sei_2459</ToTranslate>
+  </String>
+  <String index="93">
+    <ToTranslate>Сэй$"Я всё слышу! Если не можете просто молчать, то убирайтесь прочь!!"@</ToTranslate>
+  </String>
+  <String index="94">
+    <ToTranslate>Казуто$"П-прости!"@</ToTranslate>
+  </String>
+  <String index="95">
+    <ToTranslate>$Не верю что Сэй может так сильно расстроиться, думаю, кто именно на стороне потерпевших мне точно не стоит уточнять.@</ToTranslate>
+  </String>
+  <String index="96">
+    <ToTranslate>syur1755</ToTranslate>
+  </String>
+  <String index="97">
+    <ToTranslate>Шури$"В такие моменты просто необходимо хранить спокойствие, иначе шансы на победу будут уменьшаться как песок просачивается сквозь пальцы ." @</ToTranslate>
+  </String>
+  <String index="98">
+    <ToTranslate>sei_2460</ToTranslate>
+  </String>
+  <String index="99">
+    <ToTranslate>Сэй$"Пытаешься отомстить за предыдущий раз? Гр-р, я не дам этому случиться."@</ToTranslate>
+  </String>
+  <String index="100">
+    <ToTranslate>$Я не слишком ли много об этом думаю? Шури выглядит даже слишком расслабленно.@</ToTranslate>
+  </String>
+  <String index="101">
+    <ToTranslate>Казуто$"Кажись, вам тут не скучно, я рад за вас."@</ToTranslate>
+  </String>
+  <String index="102">
+    <ToTranslate>syur1756</ToTranslate>
+  </String>
+  <String index="103">
+    <ToTranslate>Шури$"Да! Большое спасибо!"@</ToTranslate>
+  </String>
+  <String index="104">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="105">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="106">
+    <ToTranslate>ecg_syo11g</ToTranslate>
+  </String>
+  <String index="107">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="108">
+    <ToTranslate>aisy3269</ToTranslate>
+  </String>
+  <String index="109">
+    <ToTranslate>Айша$"Не стоит слишком склоняться в одну сторону, надеюсь, вы также понимаете чувства Сэй."@</ToTranslate>
+  </String>
+  <String index="110">
+    <ToTranslate>Казуто$"Э? Ой, простите. Но она не сильно-то щадила Шури в последний раз, н-да?"@</ToTranslate>
+  </String>
+  <String index="111">
+    <ToTranslate>sei_2461</ToTranslate>
+  </String>
+  <String index="112">
+    <ToTranslate>Сэй$"Уа-а, сколько ещё раз вам нужно сказать!? Молчать, молчать, молчать!"@</ToTranslate>
+  </String>
+  <String index="113">
+    <ToTranslate>$Ого. Столько раз повторила!?@</ToTranslate>
+  </String>
+  <String index="114">
+    <ToTranslate>syur1757</ToTranslate>
+  </String>
+  <String index="115">
+    <ToTranslate>Шури$"Эхе-хе."@</ToTranslate>
+  </String>
+  <String index="116">
+    <ToTranslate>$Шури поблагодарила меня своей улыбкой и я решил замолчать, и смотреть далее молча.@</ToTranslate>
+  </String>
+  <String index="117">
+    <ToTranslate>SE064</ToTranslate>
+  </String>
+  <String index="118">
+    <ToTranslate>syur1758</ToTranslate>
+  </String>
+  <String index="119">
+    <ToTranslate>Шури$"Вот, Сэй-сан снова ваш ход."@</ToTranslate>
+  </String>
+  <String index="120">
+    <ToTranslate>sei_2462</ToTranslate>
+  </String>
+  <String index="121">
+    <ToTranslate>Сэй$"Гм, одну секундочку... может быть так? А что если так?"@</ToTranslate>
+  </String>
+  <String index="122">
+    <ToTranslate>SE064</ToTranslate>
+  </String>
+  <String index="123">
+    <ToTranslate>syur1759</ToTranslate>
+  </String>
+  <String index="124">
+    <ToTranslate>Шури$"Ладно."@</ToTranslate>
+  </String>
+  <String index="125">
+    <ToTranslate>sei_2463</ToTranslate>
+  </String>
+  <String index="126">
+    <ToTranslate>Сэй$"............"@</ToTranslate>
+  </String>
+  <String index="127">
+    <ToTranslate>$Точно разгром, загнанная в угол непрекращающимися атаками Шури, Сэй не может решиться с выбором места хода для своего рыцаря.@</ToTranslate>
+  </String>
+  <String index="128">
+    <ToTranslate>sei_2464</ToTranslate>
+  </String>
+  <String index="129">
+    <ToTranslate>Сэй$"Ум, м...!"@</ToTranslate>
+  </String>
+  <String index="130">
+    <ToTranslate>$Прошло несколько минут...@</ToTranslate>
+  </String>
+  <String index="131">
+    <ToTranslate>$Сэй так и не смогла решить.@</ToTranslate>
+  </String>
+  <String index="132">
+    <ToTranslate>sei_2465</ToTranslate>
+  </String>
+  <String index="133">
+    <ToTranslate>Сэй$"......ещё времени."@</ToTranslate>
+  </String>
+  <String index="134">
+    <ToTranslate>syur1760</ToTranslate>
+  </String>
+  <String index="135">
+    <ToTranslate>Шури$"Конечно."@</ToTranslate>
+  </String>
+  <String index="136">
+    <ToTranslate>$Сколько же времени ей нужно? Шури снова сёрбает чай... когда же её кружка уже опустеет.@</ToTranslate>
+  </String>
+  <String index="137">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="138">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="139">
+    <ToTranslate>ecg_syo11h</ToTranslate>
+  </String>
+  <String index="140">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="141">
+    <ToTranslate>aisy3270</ToTranslate>
+  </String>
+  <String index="142">
+    <ToTranslate>Айша$"Хе-хе, не время ли сдаться, Сэй? Ты будешь чувствовать себя на много спокойнее, если признаешь поражение."@</ToTranslate>
+  </String>
+  <String index="143">
+    <ToTranslate>sei_2466</ToTranslate>
+  </String>
+  <String index="144">
+    <ToTranslate>Сэй$"Игра ещё не закончена! Ещё нет... я не могу допустить этого! О-о-о..."@</ToTranslate>
+  </String>
+  <String index="145">
+    <ToTranslate>syur1761</ToTranslate>
+  </String>
+  <String index="146">
+    <ToTranslate>Шури$"Вы уверены в своём ходе?"@</ToTranslate>
+  </String>
+  <String index="147">
+    <ToTranslate>sei_2467</ToTranslate>
+  </String>
+  <String index="148">
+    <ToTranslate>Сэй$"Не-ет... я хотела... вот."@</ToTranslate>
+  </String>
+  <String index="149">
+    <ToTranslate>SE064</ToTranslate>
+  </String>
+  <String index="150">
+    <ToTranslate>$Очевидно же что Сэй загнана в угол, звук хода её фигуры был уже почти не слышен.@</ToTranslate>
+  </String>
+  <String index="151">
+    <ToTranslate>syur1762</ToTranslate>
+  </String>
+  <String index="152">
+    <ToTranslate>Шури$"Ясно... тогда, чем ответите мне на это?"@</ToTranslate>
+  </String>
+  <String index="153">
+    <ToTranslate>SE064</ToTranslate>
+  </String>
+  <String index="154">
+    <ToTranslate>sei_2468</ToTranslate>
+  </String>
+  <String index="155">
+    <ToTranslate>Сэй$"......"@</ToTranslate>
+  </String>
+  <String index="156">
+    <ToTranslate>$Даже я понял что этот ход решил всю игру. Айша еле сдерживается, чтобы не захихикать.@</ToTranslate>
+  </String>
+  <String index="157">
+    <ToTranslate>sei_2469</ToTranslate>
+  </String>
+  <String index="158">
+    <ToTranslate>Сэй$"Тогда может быть вот так...? Нет, тогда так? Хм."@</ToTranslate>
+  </String>
+  <String index="159">
+    <ToTranslate>sei_2470</ToTranslate>
+  </String>
+  <String index="160">
+    <ToTranslate>Сэй$"Ум-м-м..."@</ToTranslate>
+  </String>
+  <String index="161">
+    <ToTranslate>$Сэй робко взглянула на Шури, но увидев демонический взгляд лишённый всякого сострадания снова потупила взор куда-то вниз.@</ToTranslate>
+  </String>
+  <String index="162">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="163">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="164">
+    <ToTranslate>ecg_syo11n</ToTranslate>
+  </String>
+  <String index="165">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="166">
+    <ToTranslate>sei_2471</ToTranslate>
+  </String>
+  <String index="167">
+    <ToTranslate>Сэй$"Шах и мат... чёрт, ненавижу признавать поражение... но ты провела меня...." @</ToTranslate>
+  </String>
+  <String index="168">
+    <ToTranslate>$Сэй признала поражение, и опустила голову в знак поражения.... как настоящий друг, Аша похлопала её по плечу.@</ToTranslate>
+  </String>
+  <String index="169">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="170">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="171">
+    <ToTranslate>ecg_syo11l</ToTranslate>
+  </String>
+  <String index="172">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="173">
+    <ToTranslate>syur1763</ToTranslate>
+  </String>
+  <String index="174">
+    <ToTranslate>Шури$"Спасибо за игру. Хе-хе, на этот раз победа за мной! Теперь у нас одно по одной победе и одному поражению."@</ToTranslate>
+  </String>
+  <String index="175">
+    <ToTranslate>sei_2472</ToTranslate>
+  </String>
+  <String index="176">
+    <ToTranslate>Сэй$"Точно... это означает ничью, думаю теперь мы квиты."@</ToTranslate>
+  </String>
+  <String index="177">
+    <ToTranslate>syur1764</ToTranslate>
+  </String>
+  <String index="178">
+    <ToTranslate>Шури$"Да, спасибо за интересную игру."@</ToTranslate>
+  </String>
+  <String index="179">
+    <ToTranslate>sei_2473</ToTranslate>
+  </String>
+  <String index="180">
+    <ToTranslate>Сэй$"...большое пожалуйста."@</ToTranslate>
+  </String>
+  <String index="181">
+    <ToTranslate>$Похоже что Сэй уже успела отойти после перенесённого поражения. На поклон Шури она ответила ещё более низким поклоном.@</ToTranslate>
+  </String>
+  <String index="182">
+    <ToTranslate>sei_2474</ToTranslate>
+  </String>
+  <String index="183">
+    <ToTranslate>Сэй$"Сегодня я вынуждена признать своё поражение... это ещё далеко не конец, сегодня я была не в лучшем своём состоянии."@</ToTranslate>
+  </String>
+  <String index="184">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="185">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="186">
+    <ToTranslate>ecg_syo11m</ToTranslate>
+  </String>
+  <String index="187">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="188">
+    <ToTranslate>aisy3271</ToTranslate>
+  </String>
+  <String index="189">
+    <ToTranslate>Айша$"Не нужно столь жалких оправданий, итак ясно что это было жуткое поражение."@</ToTranslate>
+  </String>
+  <String index="190">
+    <ToTranslate>sei_2475</ToTranslate>
+  </String>
+  <String index="191">
+    <ToTranslate>Сэй$"М-м?"@</ToTranslate>
+  </String>
+  <String index="192">
+    <ToTranslate>$Они что, решили поссориться!? После секунды молчания Сэй тяжело вздохнула.@</ToTranslate>
+  </String>
+  <String index="193">
+    <ToTranslate>sei_2476</ToTranslate>
+  </String>
+  <String index="194">
+    <ToTranslate>Сэй$"Ладно, если Шури серьёзна она непобедима, не думаю, что смогу выиграть с моими нынешними способностями."@</ToTranslate>
+  </String>
+  <String index="195">
+    <ToTranslate>syur1765</ToTranslate>
+  </String>
+  <String index="196">
+    <ToTranslate>Шури$"Премного благодарна."@</ToTranslate>
+  </String>
+  <String index="197">
+    <ToTranslate>aisy3272</ToTranslate>
+  </String>
+  <String index="198">
+    <ToTranslate>Айша$"Превознесение своего противника дабы оправдать собственную слабость, это всё ещё звучит как оправдание."@</ToTranslate>
+  </String>
+  <String index="199">
+    <ToTranslate>sei_2477</ToTranslate>
+  </String>
+  <String index="200">
+    <ToTranslate>Сэй$"Ни слова больше! После столь высокопарных речей, почему бы тебе самой не сразиться с ней?"@</ToTranslate>
+  </String>
+  <String index="201">
+    <ToTranslate>syur1766</ToTranslate>
+  </String>
+  <String index="202">
+    <ToTranslate>Шури$"Уа? Это-о....."@</ToTranslate>
+  </String>
+  <String index="203">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="204">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="205">
+    <ToTranslate>ecg_syo11l</ToTranslate>
+  </String>
+  <String index="206">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="207">
+    <ToTranslate>aisy3273</ToTranslate>
+  </String>
+  <String index="208">
+    <ToTranslate>Айша$"Хе-хе, пожалуй я воздержусь."@</ToTranslate>
+  </String>
+  <String index="209">
+    <ToTranslate>$Пожав плечами, неловко улыбнувшись, она сделала шаг в сторону.@</ToTranslate>
+  </String>
+  <String index="210">
+    <ToTranslate>aisy3274</ToTranslate>
+  </String>
+  <String index="211">
+    <ToTranslate>Айша$"Мне ведомы пределы своих возможностей. Не люблю просто так сражаться с сильными оппонентами и понапрасну причинять себе боль."@</ToTranslate>
+  </String>
+  <String index="212">
+    <ToTranslate>sei_2478</ToTranslate>
+  </String>
+  <String index="213">
+    <ToTranslate>Сэй$"Фырк, обычная трусость."@</ToTranslate>
+  </String>
+  <String index="214">
+    <ToTranslate>aisy3275</ToTranslate>
+  </String>
+  <String index="215">
+    <ToTranslate>Айша$"Можешь и так это называть, а теперь, Господин, мне пора."@</ToTranslate>
+  </String>
+  <String index="216">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="217">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="218">
+    <ToTranslate>bcg_castgurden_a</ToTranslate>
+  </String>
+  <String index="219">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="220">
+    <ToTranslate>$Я попытался спросить куда, но Айша вместе с Сэй	уже успели пройти к выходу из парка.@</ToTranslate>
+  </String>
+  <String index="221">
+    <ToTranslate>tcg_kan11aa</ToTranslate>
+  </String>
+  <String index="222">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="223">
+    <ToTranslate>aisy3276</ToTranslate>
+  </String>
+  <String index="224">
+    <ToTranslate>Айша$"Сэй и я сейчас обходим окрестности. Думаю, вам тоже следует вернуться к работе после вашего перерыва."@</ToTranslate>
+  </String>
+  <String index="225">
+    <ToTranslate>Казуто$"А, конечно же, берегите себя."@</ToTranslate>
+  </String>
+  <String index="226">
+    <ToTranslate>tcg_kan21na</ToTranslate>
+  </String>
+  <String index="227">
+    <ToTranslate>tcg_kan21m</ToTranslate>
+  </String>
+  <String index="228">
+    <ToTranslate>aisy3277</ToTranslate>
+  </String>
+  <String index="229">
+    <ToTranslate>Айша$"Благодарю за вашу заботу. Сэй, выходи из уныния от поражения, чтобы мы смогли вернуться к работе."@</ToTranslate>
+  </String>
+  <String index="230">
+    <ToTranslate>tcg_cun21ha</ToTranslate>
+  </String>
+  <String index="231">
+    <ToTranslate>tcg_cun21m</ToTranslate>
+  </String>
+  <String index="232">
+    <ToTranslate>muka</ToTranslate>
+  </String>
+  <String index="233">
+    <ToTranslate>sei_2479</ToTranslate>
+  </String>
+  <String index="234">
+    <ToTranslate>Сэй$"Во мне ни капли уныния!"@</ToTranslate>
+  </String>
+  <String index="235">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="236">
+    <ToTranslate>tcg_syo21ja</ToTranslate>
+  </String>
+  <String index="237">
+    <ToTranslate>tcg_syo21m</ToTranslate>
+  </String>
+  <String index="238">
+    <ToTranslate>bgm05</ToTranslate>
+  </String>
+  <String index="239">
+    <ToTranslate>syur1767</ToTranslate>
+  </String>
+  <String index="240">
+    <ToTranslate>Шури$"И всё таки она выглядит подавленной... может быть, это было для неё слишком?"@</ToTranslate>
+  </String>
+  <String index="241">
+    <ToTranslate>Казуто$"Она злилась бы куда сильнее не играй ты в полную силу. Думаю, переживёт как-нибудь."@</ToTranslate>
+  </String>
+  <String index="242">
+    <ToTranslate>$Сегодня Шури куда оживлённее, чем в прошлый раз, но не думаю, что стоит упоминать ей об этом.@</ToTranslate>
+  </String>
+  <String index="243">
+    <ToTranslate>tcg_syo11ba</ToTranslate>
+  </String>
+  <String index="244">
+    <ToTranslate>tcg_syo11m</ToTranslate>
+  </String>
+  <String index="245">
+    <ToTranslate>syur1768</ToTranslate>
+  </String>
+  <String index="246">
+    <ToTranslate>Шури$"Эхе-хе... она победила меня в тот раз, так что думаю теперь мы в расчёте."@</ToTranslate>
+  </String>
+  <String index="247">
+    <ToTranslate>Казуто$"Правда? Но, похоже, что в этот раз это была лёгкая победа."@</ToTranslate>
+  </String>
+  <String index="248">
+    <ToTranslate>tcg_syo31oa</ToTranslate>
+  </String>
+  <String index="249">
+    <ToTranslate>tcg_syo31m</ToTranslate>
+  </String>
+  <String index="250">
+    <ToTranslate>syur1769</ToTranslate>
+  </String>
+  <String index="251">
+    <ToTranslate>Шури$"Всё потому что я проиграла в прошлый раз, и на этот раз я сделала всё возможное."@</ToTranslate>
+  </String>
+  <String index="252">
+    <ToTranslate>$Шури подняла руку в знак победы, а я пощекотал её мягкие, улыбающиеся щёчки.@</ToTranslate>
+  </String>
+  <String index="253">
+    <ToTranslate>Казуто$"Сначала я даже испугался что снова пришёл не вовремя, ведь в прошлый раз я сильно тебе помешал, правда?"@</ToTranslate>
+  </String>
+  <String index="254">
+    <ToTranslate>tcg_syo11aa</ToTranslate>
+  </String>
+  <String index="255">
+    <ToTranslate>tcg_syo11m</ToTranslate>
+  </String>
+  <String index="256">
+    <ToTranslate>syur1770</ToTranslate>
+  </String>
+  <String index="257">
+    <ToTranslate>Шури$"Вы не мешаете мне..."@</ToTranslate>
+  </String>
+  <String index="258">
+    <ToTranslate>Казуто$"Сегодня ты выглядела гораздо увереннее, даже после того как я оказался рядом."@</ToTranslate>
+  </String>
+  <String index="259">
+    <ToTranslate>tcg_syo21da</ToTranslate>
+  </String>
+  <String index="260">
+    <ToTranslate>tcg_syo21m</ToTranslate>
+  </String>
+  <String index="261">
+    <ToTranslate>syur1771</ToTranslate>
+  </String>
+  <String index="262">
+    <ToTranslate>Шури$"А? Да, сегодня всё было совсем по-другому."@</ToTranslate>
+  </String>
+  <String index="263">
+    <ToTranslate>$Хм? Она упёрлась рукой в подбородок и сильно задумалась.@</ToTranslate>
+  </String>
+  <String index="264">
+    <ToTranslate>tcg_syo41ba</ToTranslate>
+  </String>
+  <String index="265">
+    <ToTranslate>tcg_syo41m</ToTranslate>
+  </String>
+  <String index="266">
+    <ToTranslate>syur1772</ToTranslate>
+  </String>
+  <String index="267">
+    <ToTranslate>Шури$"До вашего появления ход игры оставался почти таким же. Странно, но я даже обрадовалась когда вы появились."@</ToTranslate>
+  </String>
+  <String index="268">
+    <ToTranslate>Казуто$"Я всё ещё та же личность что и тогда, и правда странно."@</ToTranslate>
+  </String>
+  <String index="269">
+    <ToTranslate>tcg_syo41aa</ToTranslate>
+  </String>
+  <String index="270">
+    <ToTranslate>tcg_syo41m</ToTranslate>
+  </String>
+  <String index="271">
+    <ToTranslate>syur1773</ToTranslate>
+  </String>
+  <String index="272">
+    <ToTranslate>Шури$"Совершенно верно."@</ToTranslate>
+  </String>
+  <String index="273">
+    <ToTranslate>$Я тоже склоняю голову в попытках хоть что-то понять.@</ToTranslate>
+  </String>
+  <String index="274">
+    <ToTranslate>Казуто$"Ну и ладно, нам остаётся только радоваться победе." @</ToTranslate>
+  </String>
+  <String index="275">
+    <ToTranslate>tcg_syo11la</ToTranslate>
+  </String>
+  <String index="276">
+    <ToTranslate>tcg_syo11m</ToTranslate>
+  </String>
+  <String index="277">
+    <ToTranslate>syur1774</ToTranslate>
+  </String>
+  <String index="278">
+    <ToTranslate>Шури$"А, да, наверное вы правы."@</ToTranslate>
+  </String>
+  <String index="279">
+    <ToTranslate>$Надеюсь, она просто свыклась с моим присутствием. Не могу не улыбнуться тому факту, что мы остались одни.@</ToTranslate>
+  </String>
+  <String index="280">
+    <ToTranslate>Казуто$"Итак, Шури... есть свободное время?"@</ToTranslate>
+  </String>
+  <String index="281">
+    <ToTranslate>tcg_syo21da</ToTranslate>
+  </String>
+  <String index="282">
+    <ToTranslate>tcg_syo21m</ToTranslate>
+  </String>
+  <String index="283">
+    <ToTranslate>syur1775</ToTranslate>
+  </String>
+  <String index="284">
+    <ToTranslate>Шури$"Что? Ну, ничего срочного у меня сейчас нет. Вы что-то хотели?"@</ToTranslate>
+  </String>
+  <String index="285">
+    <ToTranslate>Казуто$"Хм? Я тут подумал, что мы могли бы вместе провести моё свободное время."@</ToTranslate>
+  </String>
+  <String index="286">
+    <ToTranslate>$Я сажусь на свободное место, доставшееся мне после Сэй.@</ToTranslate>
+  </String>
+  <String index="287">
+    <ToTranslate>Казуто$"Может быть мы тоже сыграем? У меня всегда вызывали интерес подобные игры."@</ToTranslate>
+  </String>
+  <String index="288">
+    <ToTranslate>tcg_syo21ma</ToTranslate>
+  </String>
+  <String index="289">
+    <ToTranslate>tcg_syo21m</ToTranslate>
+  </String>
+  <String index="290">
+    <ToTranslate>syur1776</ToTranslate>
+  </String>
+  <String index="291">
+    <ToTranslate>Шури$"А!? Мне можно сразиться с Господином...? Ой, что я только что сказала?"@</ToTranslate>
+  </String>
+  <String index="292">
+    <ToTranslate>Казуто$"Расслабься. Я новобранец, и обещаю не дуться когда ты разделаешься со мной."@</ToTranslate>
+  </String>
+  <String index="293">
+    <ToTranslate>tcg_syo11aa</ToTranslate>
+  </String>
+  <String index="294">
+    <ToTranslate>tcg_syo11m</ToTranslate>
+  </String>
+  <String index="295">
+    <ToTranslate>syur1777</ToTranslate>
+  </String>
+  <String index="296">
+    <ToTranslate>Шури$"Аха-а... если вы настаиваете, я с радостью сыграю с вами, если это не будет слишком дерзко с моей стороны."@</ToTranslate>
+  </String>
+  <String index="297">
+    <ToTranslate>$Как я и надеялся, я смогу провести время с Шури наедине в лучах прекрасного летнего солнца.@</ToTranslate>
+  </String>
+  <String index="298">
+    <ToTranslate>tcg_syo11ba</ToTranslate>
+  </String>
+  <String index="299">
+    <ToTranslate>tcg_syo11m</ToTranslate>
+  </String>
+  <String index="300">
+    <ToTranslate>syur1778</ToTranslate>
+  </String>
+  <String index="301">
+    <ToTranslate>Шури$"...ладно!"@</ToTranslate>
+  </String>
+  <String index="302">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="303">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="304">
+    <ToTranslate>bb</ToTranslate>
+  </String>
+  <String index="305">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="306">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="307">
+    <ToTranslate>$К Шури внезапно пришёл прилив бодрости... ну и конечный результат был таким как и ожидалось.@</ToTranslate>
+  </String>
+  <String index="308">
+    <ToTranslate>$Разве способен обычный старшеклассник победить Шокацурё Комэй.@</ToTranslate>
+  </String>
+  <String index="309">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+</DBS>
+</poem>

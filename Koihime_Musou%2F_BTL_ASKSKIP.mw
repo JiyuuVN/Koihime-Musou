@@ -1,0 +1,31 @@
+[[Koihime Musou/Прогресс перевода/Системные|[Назад]]]
+<poem>
+<?xml version="1.0" encoding="UTF-8"?>
+<DBS>
+  <String index="0">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="1">
+    <ToTranslate>$You may skip this battle and continue to the next part of the story. Would you like to do so?@</ToTranslate>
+  </String>
+  <String index="2">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="3">
+    <ToTranslate>sentaku_mae</ToTranslate>
+  </String>
+  <String index="4">
+    <ToTranslate>Skip</ToTranslate>
+  </String>
+  <String index="5">
+    <ToTranslate>Don&apos;t skip</ToTranslate>
+  </String>
+  <String index="6">
+    <ToTranslate>%</ToTranslate>
+  </String>
+  <String index="7">
+    <ToTranslate>sentaku_ato</ToTranslate>
+  </String>
+</DBS>
+</poem>
+[[Koihime Musou/Прогресс перевода/Системные|[Назад]]]

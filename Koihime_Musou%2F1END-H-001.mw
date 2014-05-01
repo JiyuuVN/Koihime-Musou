@@ -1,0 +1,5326 @@
+[[Koihime Musou/Прогресс перевода/Сюжет|[Назад]]]
+<poem>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<DBS>
+  <String index="0">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="1">
+    <ToTranslate>bcg_mir_impseat_a</ToTranslate>
+  </String>
+  <String index="2">
+    <ToTranslate>SE042</ToTranslate>
+  </String>
+  <String index="3">
+    <ToTranslate>bcg_edeff</ToTranslate>
+  </String>
+  <String index="4">
+    <ToTranslate>bcg_edeffmask2</ToTranslate>
+  </String>
+  <String index="5">
+    <ToTranslate>_msg_black</ToTranslate>
+  </String>
+  <String index="6">
+    <ToTranslate>_msg_mask</ToTranslate>
+  </String>
+  <String index="7">
+    <ToTranslate>sounyu_vom</ToTranslate>
+  </String>
+  <String index="8">
+    <ToTranslate>%$Зеркало засветилось ярким светом.</ToTranslate>
+  </String>
+  <String index="9">
+    <ToTranslate>%$Как и тогда, в день, когда всё началось.</ToTranslate>
+  </String>
+  <String index="10">
+    <ToTranslate>%$Всё сильнее погружаясь в свет, я понимаю, что прощаюсь с этим миром.</ToTranslate>
+  </String>
+  <String index="11">
+    <ToTranslate>%$ Мои помыслы породили этот мир из моего существования.</ToTranslate>
+  </String>
+  <String index="12">
+    <ToTranslate>%$Чувствуя, как всё вокруг исчезает, я мысленно представил тех, кого так люблю.</ToTranslate>
+  </String>
+  <String index="13">
+    <ToTranslate>%$Всех, кто был рядом со мной--</ToTranslate>
+  </String>
+  <String index="14">
+    <ToTranslate>%$Всех тех, кто поддерживал меня.</ToTranslate>
+  </String>
+  <String index="15">
+    <ToTranslate>%$Молчаливая Рэн, задорная Сия, ворчащая Эй, и милая Юэ.</ToTranslate>
+  </String>
+  <String index="16">
+    <ToTranslate>%$Цаоцао и её генералы, бывшие мне когда-то врагами но со временем подружившиеся со мною, теперь все рядом со мной.</ToTranslate>
+  </String>
+  <String index="17">
+    <ToTranslate>%$Сонкен и её окружение, показавшие мне что значит быть настоящим правителем.</ToTranslate>
+  </String>
+  <String index="18">
+    <ToTranslate>%$Полную доблести Косонсан, которая помогла мне в момент моего бессилия.</ToTranslate>
+  </String>
+  <String index="19">
+    <ToTranslate>%$Их лица появлялись одно за другим – ой, стоп, здесь всё ещё не хватает одного человека...</ToTranslate>
+  </String>
+  <String index="20">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="21">
+    <ToTranslate>%Казуто$"Кто же это?"@</ToTranslate>
+  </String>
+  <String index="22">
+    <ToTranslate>tcg_hg11aa</ToTranslate>
+  </String>
+  <String index="23">
+    <ToTranslate>tcg_hg11m</ToTranslate>
+  </String>
+  <String index="24">
+    <ToTranslate>chos0154</ToTranslate>
+  </String>
+  <String index="25">
+    <ToTranslate>Чосэн$"Что-то случилось?"@</ToTranslate>
+  </String>
+  <String index="26">
+    <ToTranslate>Казуто$"Кажется, я кого-то забыл..."@</ToTranslate>
+  </String>
+  <String index="27">
+    <ToTranslate>SE072</ToTranslate>
+  </String>
+  <String index="28">
+    <ToTranslate>yure_t</ToTranslate>
+  </String>
+  <String index="29">
+    <ToTranslate>bgm18</ToTranslate>
+  </String>
+  <String index="30">
+    <ToTranslate>Казуто$"...!? О-откуда!?"@</ToTranslate>
+  </String>
+  <String index="31">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="32">
+    <ToTranslate>tcg_ukt21ea</ToTranslate>
+  </String>
+  <String index="33">
+    <ToTranslate>tcg_ukt21m</ToTranslate>
+  </String>
+  <String index="34">
+    <ToTranslate>tcg_hg11aa</ToTranslate>
+  </String>
+  <String index="35">
+    <ToTranslate>tcg_hg11m</ToTranslate>
+  </String>
+  <String index="36">
+    <ToTranslate>ukit0145</ToTranslate>
+  </String>
+  <String index="37">
+    <ToTranslate>Укицу$"Хм!? Землетрясение? Его не должно быть в сюжете...!"@</ToTranslate>
+  </String>
+  <String index="38">
+    <ToTranslate>chos0155</ToTranslate>
+  </String>
+  <String index="39">
+    <ToTranslate>Чосэн$"Что-то меняется в этом мире..."@</ToTranslate>
+  </String>
+  <String index="40">
+    <ToTranslate>tcg_ukt11aa</ToTranslate>
+  </String>
+  <String index="41">
+    <ToTranslate>tcg_ukt11m</ToTranslate>
+  </String>
+  <String index="42">
+    <ToTranslate>ukit0146</ToTranslate>
+  </String>
+  <String index="43">
+    <ToTranslate>Укицу$"Неужели, иной финал будет создан вместо прописанного в сценарии...?" @</ToTranslate>
+  </String>
+  <String index="44">
+    <ToTranslate>tcg_hg11ga</ToTranslate>
+  </String>
+  <String index="45">
+    <ToTranslate>tcg_hg11m</ToTranslate>
+  </String>
+  <String index="46">
+    <ToTranslate>chos0156</ToTranslate>
+  </String>
+  <String index="47">
+    <ToTranslate>Чосэн$"Верно, что ж, тоже неплохо. Любая история имеет право на существование, если найдётся тот, кто поддержит её..."@</ToTranslate>
+  </String>
+  <String index="48">
+    <ToTranslate>tcg_ukt11ba</ToTranslate>
+  </String>
+  <String index="49">
+    <ToTranslate>tcg_ukt11m</ToTranslate>
+  </String>
+  <String index="50">
+    <ToTranslate>ukit0147</ToTranslate>
+  </String>
+  <String index="51">
+    <ToTranslate>Укицу$"Да уж... альтернативные истории так нестабильны..."@</ToTranslate>
+  </String>
+  <String index="52">
+    <ToTranslate>chos0157</ToTranslate>
+  </String>
+  <String index="53">
+    <ToTranslate>Чосэн$"О да... возможно поэтому люди из подлинной истории так тянутся к ним, понимая их бесконечность возможностей..."@</ToTranslate>
+  </String>
+  <String index="54">
+    <ToTranslate>ukit0148</ToTranslate>
+  </String>
+  <String index="55">
+    <ToTranslate>Укицу$"Почему бы нам не оставить всё как есть, и пусть время разберётся со всем? Посмотрим, что станет с этой историей..."@</ToTranslate>
+  </String>
+  <String index="56">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="57">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="58">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="59">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="60">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="61">
+    <ToTranslate>ensy0150</ToTranslate>
+  </String>
+  <String index="62">
+    <ToTranslate>Эншо$"Как--"@</ToTranslate>
+  </String>
+  <String index="63">
+    <ToTranslate>ensy0151</ToTranslate>
+  </String>
+  <String index="64">
+    <ToTranslate>Эншо$"Как это произошло...?"@</ToTranslate>
+  </String>
+  <String index="65">
+    <ToTranslate>ganr0115</ToTranslate>
+  </String>
+  <String index="66">
+    <ToTranslate>Ганрю$"Хе-хе. Эншо-сама..."@</ToTranslate>
+  </String>
+  <String index="67">
+    <ToTranslate>ensy0152</ToTranslate>
+  </String>
+  <String index="68">
+    <ToTranslate>Эншо$"Нет... нет...!"@</ToTranslate>
+  </String>
+  <String index="69">
+    <ToTranslate>dd</ToTranslate>
+  </String>
+  <String index="70">
+    <ToTranslate>bcg_street_a</ToTranslate>
+  </String>
+  <String index="71">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="72">
+    <ToTranslate>bgm02</ToTranslate>
+  </String>
+  <String index="73">
+    <ToTranslate>tcg_gan22ia</ToTranslate>
+  </String>
+  <String index="74">
+    <ToTranslate>tcg_gan22m</ToTranslate>
+  </String>
+  <String index="75">
+    <ToTranslate>ganr0116</ToTranslate>
+  </String>
+  <String index="76">
+    <ToTranslate>Ганрю$"А, Эншо-сама?"@</ToTranslate>
+  </String>
+  <String index="77">
+    <ToTranslate>tcg_ens12aa</ToTranslate>
+  </String>
+  <String index="78">
+    <ToTranslate>tcg_ens12m</ToTranslate>
+  </String>
+  <String index="79">
+    <ToTranslate>ensy0153</ToTranslate>
+  </String>
+  <String index="80">
+    <ToTranslate>Эншо$"Что это, Ганрю-сан?"@</ToTranslate>
+  </String>
+  <String index="81">
+    <ToTranslate>ganr0117</ToTranslate>
+  </String>
+  <String index="82">
+    <ToTranslate>Ганрю$"Это, и есть рай?"@</ToTranslate>
+  </String>
+  <String index="83">
+    <ToTranslate>tcg_ens22ia</ToTranslate>
+  </String>
+  <String index="84">
+    <ToTranslate>tcg_ens22m</ToTranslate>
+  </String>
+  <String index="85">
+    <ToTranslate>ensy0154</ToTranslate>
+  </String>
+  <String index="86">
+    <ToTranslate>Эншо$"Разумеется. Или ты сомневаешься в моём умении собирать информацию?"@</ToTranslate>
+  </String>
+  <String index="87">
+    <ToTranslate>ganr0118</ToTranslate>
+  </String>
+  <String index="88">
+    <ToTranslate>Ганрю$"Хм, но даже местные ничего не знают об этом острове. Откуда о нём знать странствующему даосскому монаху...?"@</ToTranslate>
+  </String>
+  <String index="89">
+    <ToTranslate>tcg_ens12aa</ToTranslate>
+  </String>
+  <String index="90">
+    <ToTranslate>tcg_ens12m</ToTranslate>
+  </String>
+  <String index="91">
+    <ToTranslate>ensy0155</ToTranslate>
+  </String>
+  <String index="92">
+    <ToTranslate>Эншо$"От этого история становится только правдивее. Если бы местные знали о нём, то он не назывался бы легендарным затерянным раем."@</ToTranslate>
+  </String>
+  <String index="93">
+    <ToTranslate>ganr0119</ToTranslate>
+  </String>
+  <String index="94">
+    <ToTranslate>Ганрю$"Ну... в этом есть смысл..."@</ToTranslate>
+  </String>
+  <String index="95">
+    <ToTranslate>tcg_gan22ea</ToTranslate>
+  </String>
+  <String index="96">
+    <ToTranslate>tcg_gan22m</ToTranslate>
+  </String>
+  <String index="97">
+    <ToTranslate>ganr0120</ToTranslate>
+  </String>
+  <String index="98">
+    <ToTranslate>Ганрю$"Неужели рай может находиться в этой пещере, а?"@</ToTranslate>
+  </String>
+  <String index="99">
+    <ToTranslate>tcg_ens12ja</ToTranslate>
+  </String>
+  <String index="100">
+    <ToTranslate>tcg_ens12m</ToTranslate>
+  </String>
+  <String index="101">
+    <ToTranslate>ensy0156</ToTranslate>
+  </String>
+  <String index="102">
+    <ToTranslate>Эншо$"Неужели... Ганрю-сан, ты всё ещё сомневаешься в полученных мною сведениях?" @</ToTranslate>
+  </String>
+  <String index="103">
+    <ToTranslate>ganr0121</ToTranslate>
+  </String>
+  <String index="104">
+    <ToTranslate>Ганрю$"Не то чтобы сомневаюсь..."@</ToTranslate>
+  </String>
+  <String index="105">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="106">
+    <ToTranslate>tcg_bun22ba</ToTranslate>
+  </String>
+  <String index="107">
+    <ToTranslate>tcg_bun22m</ToTranslate>
+  </String>
+  <String index="108">
+    <ToTranslate>bgm26</ToTranslate>
+  </String>
+  <String index="109">
+    <ToTranslate>buns0110</ToTranslate>
+  </String>
+  <String index="110">
+    <ToTranslate>Бушу$"Эншо-сама! Мы нашли лодку!"@</ToTranslate>
+  </String>
+  <String index="111">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="112">
+    <ToTranslate>tcg_ens12ha</ToTranslate>
+  </String>
+  <String index="113">
+    <ToTranslate>tcg_ens12m</ToTranslate>
+  </String>
+  <String index="114">
+    <ToTranslate>tcg_gan22ea</ToTranslate>
+  </String>
+  <String index="115">
+    <ToTranslate>tcg_gan22m</ToTranslate>
+  </String>
+  <String index="116">
+    <ToTranslate>tcg_bun22ba</ToTranslate>
+  </String>
+  <String index="117">
+    <ToTranslate>tcg_bun22m</ToTranslate>
+  </String>
+  <String index="118">
+    <ToTranslate>ensy0157</ToTranslate>
+  </String>
+  <String index="119">
+    <ToTranslate>Эншо$"О, Бушу-сан, ты явно стараешься. Так, Ганрю-сан, мы направляемся в рай!"@</ToTranslate>
+  </String>
+  <String index="120">
+    <ToTranslate>tcg_gan12aa</ToTranslate>
+  </String>
+  <String index="121">
+    <ToTranslate>tcg_gan12m</ToTranslate>
+  </String>
+  <String index="122">
+    <ToTranslate>ganr0122</ToTranslate>
+  </String>
+  <String index="123">
+    <ToTranslate>Ганрю$"Ум, ладно."@</ToTranslate>
+  </String>
+  <String index="124">
+    <ToTranslate>tcg_ens12aa</ToTranslate>
+  </String>
+  <String index="125">
+    <ToTranslate>tcg_ens12m</ToTranslate>
+  </String>
+  <String index="126">
+    <ToTranslate>ensy0158</ToTranslate>
+  </String>
+  <String index="127">
+    <ToTranslate>Эншо$"Бушу-сан, ведь корабль достаточно изыскан для такой персоны как я, верно?"@</ToTranslate>
+  </String>
+  <String index="128">
+    <ToTranslate>tcg_bun12ia</ToTranslate>
+  </String>
+  <String index="129">
+    <ToTranslate>tcg_bun12m</ToTranslate>
+  </String>
+  <String index="130">
+    <ToTranslate>buns0111</ToTranslate>
+  </String>
+  <String index="131">
+    <ToTranslate>Бушу$"Разумеется! Я арендовала лучший из всех в этом порту!"@</ToTranslate>
+  </String>
+  <String index="132">
+    <ToTranslate>tcg_ens12ha</ToTranslate>
+  </String>
+  <String index="133">
+    <ToTranslate>tcg_ens12m</ToTranslate>
+  </String>
+  <String index="134">
+    <ToTranslate>ensy0159</ToTranslate>
+  </String>
+  <String index="135">
+    <ToTranslate>Эншо$"Великолепно, Бушу-сан! Ты сможешь деликатно им править?"@</ToTranslate>
+  </String>
+  <String index="136">
+    <ToTranslate>buns0112</ToTranslate>
+  </String>
+  <String index="137">
+    <ToTranslate>Бушу$"Конечно! Я разузнала всё о нём от владельца!"@</ToTranslate>
+  </String>
+  <String index="138">
+    <ToTranslate>tcg_ens12aa</ToTranslate>
+  </String>
+  <String index="139">
+    <ToTranslate>tcg_ens12m</ToTranslate>
+  </String>
+  <String index="140">
+    <ToTranslate>ensy0160</ToTranslate>
+  </String>
+  <String index="141">
+    <ToTranslate>Эншо$"Ты оправдываешь должность моего фаворита, Бушу-сан. Ганрю, тебе следует поучиться у неё."@</ToTranslate>
+  </String>
+  <String index="142">
+    <ToTranslate>tcg_gan22ea</ToTranslate>
+  </String>
+  <String index="143">
+    <ToTranslate>tcg_gan22m</ToTranslate>
+  </String>
+  <String index="144">
+    <ToTranslate>ganr0123</ToTranslate>
+  </String>
+  <String index="145">
+    <ToTranslate>Ганрю$"Да-а."@</ToTranslate>
+  </String>
+  <String index="146">
+    <ToTranslate>tcg_ens22ba</ToTranslate>
+  </String>
+  <String index="147">
+    <ToTranslate>tcg_ens22m</ToTranslate>
+  </String>
+  <String index="148">
+    <ToTranslate>ensy0161</ToTranslate>
+  </String>
+  <String index="149">
+    <ToTranslate>Эншо$"Что ж, а теперь мы плывём в рай!"@</ToTranslate>
+  </String>
+  <String index="150">
+    <ToTranslate>tcg_bun22ba</ToTranslate>
+  </String>
+  <String index="151">
+    <ToTranslate>tcg_bun22m</ToTranslate>
+  </String>
+  <String index="152">
+    <ToTranslate>buns0113</ToTranslate>
+  </String>
+  <String index="153">
+    <ToTranslate>Бушу$"Да!"@</ToTranslate>
+  </String>
+  <String index="154">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="155">
+    <ToTranslate>aa</ToTranslate>
+  </String>
+  <String index="156">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="157">
+    <ToTranslate>aa</ToTranslate>
+  </String>
+  <String index="158">
+    <ToTranslate>bcg_sea_a</ToTranslate>
+  </String>
+  <String index="159">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="160">
+    <ToTranslate>bgm11</ToTranslate>
+  </String>
+  <String index="161">
+    <ToTranslate>tcg_ens12ja</ToTranslate>
+  </String>
+  <String index="162">
+    <ToTranslate>tcg_ens12m</ToTranslate>
+  </String>
+  <String index="163">
+    <ToTranslate>tcg_gan12aa</ToTranslate>
+  </String>
+  <String index="164">
+    <ToTranslate>tcg_gan12m</ToTranslate>
+  </String>
+  <String index="165">
+    <ToTranslate>tcg_bun12aa</ToTranslate>
+  </String>
+  <String index="166">
+    <ToTranslate>tcg_bun12m</ToTranslate>
+  </String>
+  <String index="167">
+    <ToTranslate>ensy0162</ToTranslate>
+  </String>
+  <String index="168">
+    <ToTranslate>Эншо$"Бушу-сан...?"@</ToTranslate>
+  </String>
+  <String index="169">
+    <ToTranslate>buns0114</ToTranslate>
+  </String>
+  <String index="170">
+    <ToTranslate>Бушу$"Да?"@</ToTranslate>
+  </String>
+  <String index="171">
+    <ToTranslate>ensy0163</ToTranslate>
+  </String>
+  <String index="172">
+    <ToTranslate>Эншо$"Разве я не спрашивала у тебя достаточно ли изыскано судно для аристократа вроде меня?"@</ToTranslate>
+  </String>
+  <String index="173">
+    <ToTranslate>tcg_bun12ia</ToTranslate>
+  </String>
+  <String index="174">
+    <ToTranslate>tcg_bun12m</ToTranslate>
+  </String>
+  <String index="175">
+    <ToTranslate>buns0115</ToTranslate>
+  </String>
+  <String index="176">
+    <ToTranslate>Бушу$"Верно, спрашивали."@</ToTranslate>
+  </String>
+  <String index="177">
+    <ToTranslate>ensy0164</ToTranslate>
+  </String>
+  <String index="178">
+    <ToTranslate>Эншо$"Я где то слышала что воды здесь неспокойные и полны акул людоедов."@</ToTranslate>
+  </String>
+  <String index="179">
+    <ToTranslate>tcg_bun12aa</ToTranslate>
+  </String>
+  <String index="180">
+    <ToTranslate>tcg_bun12m</ToTranslate>
+  </String>
+  <String index="181">
+    <ToTranslate>buns0116</ToTranslate>
+  </String>
+  <String index="182">
+    <ToTranslate>Бушу$"Я тоже об этом слышала."@</ToTranslate>
+  </String>
+  <String index="183">
+    <ToTranslate>tcg_ens12fa</ToTranslate>
+  </String>
+  <String index="184">
+    <ToTranslate>tcg_ens12m</ToTranslate>
+  </String>
+  <String index="185">
+    <ToTranslate>ensy0165</ToTranslate>
+  </String>
+  <String index="186">
+    <ToTranslate>Эншо$"Тогда к чему здесь эта дырявая лодка... даже нет, с чем ни сравни, а это плот! Как мы сможем переплыть океан вот на этом?!"@</ToTranslate>
+  </String>
+  <String index="187">
+    <ToTranslate>tcg_bun22fa</ToTranslate>
+  </String>
+  <String index="188">
+    <ToTranslate>tcg_bun22m</ToTranslate>
+  </String>
+  <String index="189">
+    <ToTranslate>buns0117</ToTranslate>
+  </String>
+  <String index="190">
+    <ToTranslate>Бушу$"Но я правда взяла самый лучших корабль который бы подошёл......к нашим финансам."@</ToTranslate>
+  </String>
+  <String index="191">
+    <ToTranslate>tcg_gan12ca</ToTranslate>
+  </String>
+  <String index="192">
+    <ToTranslate>tcg_gan12m</ToTranslate>
+  </String>
+  <String index="193">
+    <ToTranslate>ganr0124</ToTranslate>
+  </String>
+  <String index="194">
+    <ToTranslate>Ганрю$"Н-не смотрите так на меня!"@</ToTranslate>
+  </String>
+  <String index="195">
+    <ToTranslate>ensy0166</ToTranslate>
+  </String>
+  <String index="196">
+    <ToTranslate>Эншо$"Хм. Это только доказывает что вы совсем не цените положением быть в моём обществе... почему вы не нашли что-то вроде того парусника, Бушу-сан?"@</ToTranslate>
+  </String>
+  <String index="197">
+    <ToTranslate>tcg_bun22ha</ToTranslate>
+  </String>
+  <String index="198">
+    <ToTranslate>tcg_bun22m</ToTranslate>
+  </String>
+  <String index="199">
+    <ToTranslate>buns0118</ToTranslate>
+  </String>
+  <String index="200">
+    <ToTranslate>Бушу$"О, я уже пробовала договориться с ними о лодке с экипажем, но цена...*бормотание*"@</ToTranslate>
+  </String>
+  <String index="201">
+    <ToTranslate>tcg_ens12ja</ToTranslate>
+  </String>
+  <String index="202">
+    <ToTranslate>tcg_ens12m</ToTranslate>
+  </String>
+  <String index="203">
+    <ToTranslate>ensy0167</ToTranslate>
+  </String>
+  <String index="204">
+    <ToTranslate>Эншо$"Что...?"@</ToTranslate>
+  </String>
+  <String index="205">
+    <ToTranslate>buns0119</ToTranslate>
+  </String>
+  <String index="206">
+    <ToTranslate>Бушу$"Тоши, ты правда не знаешь?"@</ToTranslate>
+  </String>
+  <String index="207">
+    <ToTranslate>ganr0125</ToTranslate>
+  </String>
+  <String index="208">
+    <ToTranslate>Ганрю$"Не особо, но, сколько же?"@</ToTranslate>
+  </String>
+  <String index="209">
+    <ToTranslate>buns0120</ToTranslate>
+  </String>
+  <String index="210">
+    <ToTranslate>Бушу$"(Шёпот, шёпот.)"@</ToTranslate>
+  </String>
+  <String index="211">
+    <ToTranslate>tcg_gan22da</ToTranslate>
+  </String>
+  <String index="212">
+    <ToTranslate>tcg_gan22m</ToTranslate>
+  </String>
+  <String index="213">
+    <ToTranslate>ganr0126</ToTranslate>
+  </String>
+  <String index="214">
+    <ToTranslate>Ганрю$"Что...? Неужели так дорого?"@</ToTranslate>
+  </String>
+  <String index="215">
+    <ToTranslate>buns0121</ToTranslate>
+  </String>
+  <String index="216">
+    <ToTranslate>Бушу$"Они столько назвали, но даже так это настолько дёшево, что они просили меня не назвать цену вслух."@</ToTranslate>
+  </String>
+  <String index="217">
+    <ToTranslate>tcg_gan22ea</ToTranslate>
+  </String>
+  <String index="218">
+    <ToTranslate>tcg_gan22m</ToTranslate>
+  </String>
+  <String index="219">
+    <ToTranslate>ganr0127</ToTranslate>
+  </String>
+  <String index="220">
+    <ToTranslate>Ганрю$"Мне жаль, Эншо-сама, но при всём желании мы не можем себе этого позволить."@</ToTranslate>
+  </String>
+  <String index="221">
+    <ToTranslate>tcg_ens22ea</ToTranslate>
+  </String>
+  <String index="222">
+    <ToTranslate>tcg_ens22m</ToTranslate>
+  </String>
+  <String index="223">
+    <ToTranslate>ensy0168</ToTranslate>
+  </String>
+  <String index="224">
+    <ToTranslate>Эншо$"Н-но разве мы сможем проплыть по волнам мимо акул на этом плоту?"@</ToTranslate>
+  </String>
+  <String index="225">
+    <ToTranslate>tcg_bun12aa</ToTranslate>
+  </String>
+  <String index="226">
+    <ToTranslate>tcg_bun12m</ToTranslate>
+  </String>
+  <String index="227">
+    <ToTranslate>buns0122</ToTranslate>
+  </String>
+  <String index="228">
+    <ToTranslate>Бушу$"Не волнуйтесь. У нас всё получится, наверное."@</ToTranslate>
+  </String>
+  <String index="229">
+    <ToTranslate>ganr0128</ToTranslate>
+  </String>
+  <String index="230">
+    <ToTranslate>Ганрю$"Бун-чан... может, стоит ещё немного подумать..?" @</ToTranslate>
+  </String>
+  <String index="231">
+    <ToTranslate>tcg_bun22ba</ToTranslate>
+  </String>
+  <String index="232">
+    <ToTranslate>tcg_bun22m</ToTranslate>
+  </String>
+  <String index="233">
+    <ToTranslate>buns0123</ToTranslate>
+  </String>
+  <String index="234">
+    <ToTranslate>Бушу$"О, не переживай, Ганрю. Удача на нашей стороне, мы просто так не умрём."@</ToTranslate>
+  </String>
+  <String index="235">
+    <ToTranslate>tcg_gan22ia</ToTranslate>
+  </String>
+  <String index="236">
+    <ToTranslate>tcg_gan22m</ToTranslate>
+  </String>
+  <String index="237">
+    <ToTranslate>ganr0129</ToTranslate>
+  </String>
+  <String index="238">
+    <ToTranslate>Ганрю$"Ты уверена...?"@</ToTranslate>
+  </String>
+  <String index="239">
+    <ToTranslate>buns0124</ToTranslate>
+  </String>
+  <String index="240">
+    <ToTranslate>Бушу$"Залезайте, я умею им управлять!"@</ToTranslate>
+  </String>
+  <String index="241">
+    <ToTranslate>ensy0169</ToTranslate>
+  </String>
+  <String index="242">
+    <ToTranslate>Эншо$"Правда? Значит, мы можем довериться тебе, правда?"@</ToTranslate>
+  </String>
+  <String index="243">
+    <ToTranslate>tcg_bun12ia</ToTranslate>
+  </String>
+  <String index="244">
+    <ToTranslate>tcg_bun12m</ToTranslate>
+  </String>
+  <String index="245">
+    <ToTranslate>buns0125</ToTranslate>
+  </String>
+  <String index="246">
+    <ToTranslate>Бушу$"Не стоит беспокоится! Просто расслабьтесь и получайте удовольствие!"@</ToTranslate>
+  </String>
+  <String index="247">
+    <ToTranslate>tcg_gan22ea</ToTranslate>
+  </String>
+  <String index="248">
+    <ToTranslate>tcg_gan22m</ToTranslate>
+  </String>
+  <String index="249">
+    <ToTranslate>ganr0130</ToTranslate>
+  </String>
+  <String index="250">
+    <ToTranslate>Ганрю$"Что-то мне не по себе..."@</ToTranslate>
+  </String>
+  <String index="251">
+    <ToTranslate>buns0126</ToTranslate>
+  </String>
+  <String index="252">
+    <ToTranslate>Бушу$"Поехали!"@</ToTranslate>
+  </String>
+  <String index="253">
+    <ToTranslate>ganr0131</ToTranslate>
+  </String>
+  <String index="254">
+    <ToTranslate>Ганрю$"Да."@</ToTranslate>
+  </String>
+  <String index="255">
+    <ToTranslate>tcg_ens12ja</ToTranslate>
+  </String>
+  <String index="256">
+    <ToTranslate>tcg_ens12m</ToTranslate>
+  </String>
+  <String index="257">
+    <ToTranslate>ensy0170</ToTranslate>
+  </String>
+  <String index="258">
+    <ToTranslate>Эншо$"Да."@</ToTranslate>
+  </String>
+  <String index="259">
+    <ToTranslate>tcg_bun12ia</ToTranslate>
+  </String>
+  <String index="260">
+    <ToTranslate>tcg_bun12m</ToTranslate>
+  </String>
+  <String index="261">
+    <ToTranslate>buns0127</ToTranslate>
+  </String>
+  <String index="262">
+    <ToTranslate>Бушу$"Громче!"@</ToTranslate>
+  </String>
+  <String index="263">
+    <ToTranslate>tcg_gan22fa</ToTranslate>
+  </String>
+  <String index="264">
+    <ToTranslate>tcg_gan22m</ToTranslate>
+  </String>
+  <String index="265">
+    <ToTranslate>ganr0132</ToTranslate>
+  </String>
+  <String index="266">
+    <ToTranslate>Ганрю$"Д-да!"@</ToTranslate>
+  </String>
+  <String index="267">
+    <ToTranslate>tcg_ens12fa</ToTranslate>
+  </String>
+  <String index="268">
+    <ToTranslate>tcg_ens12m</ToTranslate>
+  </String>
+  <String index="269">
+    <ToTranslate>ensy0171</ToTranslate>
+  </String>
+  <String index="270">
+    <ToTranslate>Эншо$"Да!"@</ToTranslate>
+  </String>
+  <String index="271">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="272">
+    <ToTranslate>aa</ToTranslate>
+  </String>
+  <String index="273">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="274">
+    <ToTranslate>aa</ToTranslate>
+  </String>
+  <String index="275">
+    <ToTranslate>bcg_sky_a</ToTranslate>
+  </String>
+  <String index="276">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="277">
+    <ToTranslate>bgm18</ToTranslate>
+  </String>
+  <String index="278">
+    <ToTranslate>buns0128</ToTranslate>
+  </String>
+  <String index="279">
+    <ToTranslate>Бушу$"Уй!"@</ToTranslate>
+  </String>
+  <String index="280">
+    <ToTranslate>SE122</ToTranslate>
+  </String>
+  <String index="281">
+    <ToTranslate>yure_r</ToTranslate>
+  </String>
+  <String index="282">
+    <ToTranslate>$Бульк!@</ToTranslate>
+  </String>
+  <String index="283">
+    <ToTranslate>ganr0133</ToTranslate>
+  </String>
+  <String index="284">
+    <ToTranslate>Ганрю$"Уа-а!"@</ToTranslate>
+  </String>
+  <String index="285">
+    <ToTranslate>ensy0172</ToTranslate>
+  </String>
+  <String index="286">
+    <ToTranslate>Эншо$"Б-Бушу-сан! В воде промелькнула чья-то тень!"@</ToTranslate>
+  </String>
+  <String index="287">
+    <ToTranslate>SE123</ToTranslate>
+  </String>
+  <String index="288">
+    <ToTranslate>$Брызг, брызг...@</ToTranslate>
+  </String>
+  <String index="289">
+    <ToTranslate>ganr0134</ToTranslate>
+  </String>
+  <String index="290">
+    <ToTranslate>Ганрю$"Э-это акула...? А-а!"@</ToTranslate>
+  </String>
+  <String index="291">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="292">
+    <ToTranslate>dd</ToTranslate>
+  </String>
+  <String index="293">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="294">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="295">
+    <ToTranslate>bgm02</ToTranslate>
+  </String>
+  <String index="296">
+    <ToTranslate>ganr0135</ToTranslate>
+  </String>
+  <String index="297">
+    <ToTranslate>Ганрю$"Эншо-сама! Эншо-сама!"@</ToTranslate>
+  </String>
+  <String index="298">
+    <ToTranslate>ensy0173</ToTranslate>
+  </String>
+  <String index="299">
+    <ToTranslate>Эншо$"Хм... я больше не съем..."@</ToTranslate>
+  </String>
+  <String index="300">
+    <ToTranslate>ganr0136</ToTranslate>
+  </String>
+  <String index="301">
+    <ToTranslate>Ганрю$"Прошу вас, проснитесь, Эншо-сама."@</ToTranslate>
+  </String>
+  <String index="302">
+    <ToTranslate>ensy0174</ToTranslate>
+  </String>
+  <String index="303">
+    <ToTranslate>Эншо$"Ум, что-то случилось, Ганрю-сан...?"@</ToTranslate>
+  </String>
+  <String index="304">
+    <ToTranslate>ganr0137</ToTranslate>
+  </String>
+  <String index="305">
+    <ToTranslate>Ганрю$"О-о-о, вы наконец-то проснулись."@</ToTranslate>
+  </String>
+  <String index="306">
+    <ToTranslate>ensy0175</ToTranslate>
+  </String>
+  <String index="307">
+    <ToTranslate>Эншо$"Ох? Это место? Мне показалось что мы..."@</ToTranslate>
+  </String>
+  <String index="308">
+    <ToTranslate>dd</ToTranslate>
+  </String>
+  <String index="309">
+    <ToTranslate>bcg_impseat_a</ToTranslate>
+  </String>
+  <String index="310">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="311">
+    <ToTranslate>tcg_ens12ja</ToTranslate>
+  </String>
+  <String index="312">
+    <ToTranslate>tcg_ens12m</ToTranslate>
+  </String>
+  <String index="313">
+    <ToTranslate>tcg_gan22ia</ToTranslate>
+  </String>
+  <String index="314">
+    <ToTranslate>tcg_gan22m</ToTranslate>
+  </String>
+  <String index="315">
+    <ToTranslate>ganr0138</ToTranslate>
+  </String>
+  <String index="316">
+    <ToTranslate>Ганрю$"Да, мы упали с плота и акулы накинулись на нас, но..." @</ToTranslate>
+  </String>
+  <String index="317">
+    <ToTranslate>ensy0176</ToTranslate>
+  </String>
+  <String index="318">
+    <ToTranslate>Эншо$"А разве вы не спасли меня?"@</ToTranslate>
+  </String>
+  <String index="319">
+    <ToTranslate>tcg_gan12aa</ToTranslate>
+  </String>
+  <String index="320">
+    <ToTranslate>tcg_gan12m</ToTranslate>
+  </String>
+  <String index="321">
+    <ToTranslate>ganr0139</ToTranslate>
+  </String>
+  <String index="322">
+    <ToTranslate>Ганрю$"Я совсем ничего не помню о том что случилось потом, как и Бун-чан. Все мы проснулись в этом зале."@</ToTranslate>
+  </String>
+  <String index="323">
+    <ToTranslate>ensy0177</ToTranslate>
+  </String>
+  <String index="324">
+    <ToTranslate>Эншо$"Изнутри чем-то похоже на замок... здесь есть выход?"@</ToTranslate>
+  </String>
+  <String index="325">
+    <ToTranslate>ganr0140</ToTranslate>
+  </String>
+  <String index="326">
+    <ToTranslate>Ганрю$"Да, он здесь."@</ToTranslate>
+  </String>
+  <String index="327">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="328">
+    <ToTranslate>aa</ToTranslate>
+  </String>
+  <String index="329">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="330">
+    <ToTranslate>aa</ToTranslate>
+  </String>
+  <String index="331">
+    <ToTranslate>bcg_shrine_a</ToTranslate>
+  </String>
+  <String index="332">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="333">
+    <ToTranslate>tcg_ens12ja</ToTranslate>
+  </String>
+  <String index="334">
+    <ToTranslate>tcg_ens12m</ToTranslate>
+  </String>
+  <String index="335">
+    <ToTranslate>tcg_gan12aa</ToTranslate>
+  </String>
+  <String index="336">
+    <ToTranslate>tcg_gan12m</ToTranslate>
+  </String>
+  <String index="337">
+    <ToTranslate>ensy0178</ToTranslate>
+  </String>
+  <String index="338">
+    <ToTranslate>Эншо$"Это место всё больше походит на храм..."@</ToTranslate>
+  </String>
+  <String index="339">
+    <ToTranslate>ganr0141</ToTranslate>
+  </String>
+  <String index="340">
+    <ToTranslate>Ганрю$"Бун-чан осматривает окрестности. Уверена, когда она вернётся, мы выясним что это за место." @</ToTranslate>
+  </String>
+  <String index="341">
+    <ToTranslate>ensy0179</ToTranslate>
+  </String>
+  <String index="342">
+    <ToTranslate>Эншо$"Ганрю-сан... скажи, а мы не могли...?"@</ToTranslate>
+  </String>
+  <String index="343">
+    <ToTranslate>tcg_gan12ka</ToTranslate>
+  </String>
+  <String index="344">
+    <ToTranslate>tcg_gan12m</ToTranslate>
+  </String>
+  <String index="345">
+    <ToTranslate>ganr0142</ToTranslate>
+  </String>
+  <String index="346">
+    <ToTranslate>Ганрю$"У-у, стоп, Эншо-сама, не договаривайте остальоного..."@</ToTranslate>
+  </String>
+  <String index="347">
+    <ToTranslate>ensy0180</ToTranslate>
+  </String>
+  <String index="348">
+    <ToTranslate>Эншо$"Погибнуть...?"@</ToTranslate>
+  </String>
+  <String index="349">
+    <ToTranslate>tcg_gan22fa</ToTranslate>
+  </String>
+  <String index="350">
+    <ToTranslate>tcg_gan22m</ToTranslate>
+  </String>
+  <String index="351">
+    <ToTranslate>ganr0143</ToTranslate>
+  </String>
+  <String index="352">
+    <ToTranslate>Ганрю$"Не-е-ет, не-е-ет! Прошу, не говорите об этом! Бун-чан, возвращаейся скорее!"@</ToTranslate>
+  </String>
+  <String index="353">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="354">
+    <ToTranslate>tcg_bun12aa</ToTranslate>
+  </String>
+  <String index="355">
+    <ToTranslate>tcg_bun12m</ToTranslate>
+  </String>
+  <String index="356">
+    <ToTranslate>bgm26</ToTranslate>
+  </String>
+  <String index="357">
+    <ToTranslate>buns0129</ToTranslate>
+  </String>
+  <String index="358">
+    <ToTranslate>Бушу$"Я вернулась."@</ToTranslate>
+  </String>
+  <String index="359">
+    <ToTranslate>tcg_ens12ja</ToTranslate>
+  </String>
+  <String index="360">
+    <ToTranslate>tcg_ens12m</ToTranslate>
+  </String>
+  <String index="361">
+    <ToTranslate>tcg_bun12aa</ToTranslate>
+  </String>
+  <String index="362">
+    <ToTranslate>tcg_bun12m</ToTranslate>
+  </String>
+  <String index="363">
+    <ToTranslate>tcg_gan22fa</ToTranslate>
+  </String>
+  <String index="364">
+    <ToTranslate>tcg_gan22m</ToTranslate>
+  </String>
+  <String index="365">
+    <ToTranslate>ganr0144</ToTranslate>
+  </String>
+  <String index="366">
+    <ToTranslate>Ганрю$"Уа-а-а. Бун-чан, ты вернулась!" @</ToTranslate>
+  </String>
+  <String index="367">
+    <ToTranslate>tcg_bun12ma</ToTranslate>
+  </String>
+  <String index="368">
+    <ToTranslate>tcg_bun12m</ToTranslate>
+  </String>
+  <String index="369">
+    <ToTranslate>buns0130</ToTranslate>
+  </String>
+  <String index="370">
+    <ToTranslate>Бушу$"Д-да что с тобой, Тоши? Зечем ты вцепилась в меня? Что-то случилось, ты сама на себя не похожа...?"@</ToTranslate>
+  </String>
+  <String index="371">
+    <ToTranslate>ganr0145</ToTranslate>
+  </String>
+  <String index="372">
+    <ToTranslate>Ганрю$"Эншо-сама напугала меня... ты ведь выяснила где мы находимся?" @</ToTranslate>
+  </String>
+  <String index="373">
+    <ToTranslate>tcg_bun12aa</ToTranslate>
+  </String>
+  <String index="374">
+    <ToTranslate>tcg_bun12m</ToTranslate>
+  </String>
+  <String index="375">
+    <ToTranslate>buns0131</ToTranslate>
+  </String>
+  <String index="376">
+    <ToTranslate>Бушу$"Я нашла указатель г.Пэнлай, уверена, это тот самый остров на который мы хотели попасть... правда, я так и не нашла признаков жизни. И это единственное строение поблизости."@</ToTranslate>
+  </String>
+  <String index="377">
+    <ToTranslate>tcg_gan22ia</ToTranslate>
+  </String>
+  <String index="378">
+    <ToTranslate>tcg_gan22m</ToTranslate>
+  </String>
+  <String index="379">
+    <ToTranslate>ganr0146</ToTranslate>
+  </String>
+  <String index="380">
+    <ToTranslate>Ганрю$"Тогда кто-же нас спас...?"@</ToTranslate>
+  </String>
+  <String index="381">
+    <ToTranslate>tcg_bun12fa</ToTranslate>
+  </String>
+  <String index="382">
+    <ToTranslate>tcg_bun12m</ToTranslate>
+  </String>
+  <String index="383">
+    <ToTranslate>buns0132</ToTranslate>
+  </String>
+  <String index="384">
+    <ToTranslate>Бушу$"Не знаю. Я видела ручей и пару фруктовых деревьев, так что голод нам не грозит... но это и правда может оказаться местом загробной жизни... иа-а-а-а-а!"@</ToTranslate>
+  </String>
+  <String index="385">
+    <ToTranslate>tcg_ens12fa</ToTranslate>
+  </String>
+  <String index="386">
+    <ToTranslate>tcg_ens12m</ToTranslate>
+  </String>
+  <String index="387">
+    <ToTranslate>ensy0181</ToTranslate>
+  </String>
+  <String index="388">
+    <ToTranslate>Эншо$"Как может этот рот говорить настолько зловещие вещи?!"@</ToTranslate>
+  </String>
+  <String index="389">
+    <ToTranslate>tcg_bun22ga</ToTranslate>
+  </String>
+  <String index="390">
+    <ToTranslate>tcg_bun22m</ToTranslate>
+  </String>
+  <String index="391">
+    <ToTranslate>buns0133</ToTranslate>
+  </String>
+  <String index="392">
+    <ToTranslate>Бушу$"Но Эншо-сама, мне больше нечего было сказать!"@</ToTranslate>
+  </String>
+  <String index="393">
+    <ToTranslate>ensy0182</ToTranslate>
+  </String>
+  <String index="394">
+    <ToTranslate>Эншо$"Я совсем тебя не понимаю! Ганрю-сан, помогай мне!"@</ToTranslate>
+  </String>
+  <String index="395">
+    <ToTranslate>tcg_gan22ma</ToTranslate>
+  </String>
+  <String index="396">
+    <ToTranslate>tcg_gan22m</ToTranslate>
+  </String>
+  <String index="397">
+    <ToTranslate>ganr0147</ToTranslate>
+  </String>
+  <String index="398">
+    <ToTranslate>Ганрю$"Ум-м, знаешь как говорят, если больно значт всё по-настоящему... прости Бун-чан."@</ToTranslate>
+  </String>
+  <String index="399">
+    <ToTranslate>buns0134</ToTranslate>
+  </String>
+  <String index="400">
+    <ToTranslate>Бушу$"Ува-а-а! Больно! Больно!"@</ToTranslate>
+  </String>
+  <String index="401">
+    <ToTranslate>tcg_ens12ja</ToTranslate>
+  </String>
+  <String index="402">
+    <ToTranslate>tcg_ens12m</ToTranslate>
+  </String>
+  <String index="403">
+    <ToTranslate>ensy0183</ToTranslate>
+  </String>
+  <String index="404">
+    <ToTranslate>Эншо$"Сдаётся что и в самом деле больно."@</ToTranslate>
+  </String>
+  <String index="405">
+    <ToTranslate>tcg_gan12aa</ToTranslate>
+  </String>
+  <String index="406">
+    <ToTranslate>tcg_gan12m</ToTranslate>
+  </String>
+  <String index="407">
+    <ToTranslate>ganr0148</ToTranslate>
+  </String>
+  <String index="408">
+    <ToTranslate>Ганрю$"Значит это не сон и мы в самом деле живы."@</ToTranslate>
+  </String>
+  <String index="409">
+    <ToTranslate>tcg_bun22ha</ToTranslate>
+  </String>
+  <String index="410">
+    <ToTranslate>tcg_bun22m</ToTranslate>
+  </String>
+  <String index="411">
+    <ToTranslate>buns0135</ToTranslate>
+  </String>
+  <String index="412">
+    <ToTranslate>Бушу$"Ай, могли бы найти лучший способ чтобы проверить. Ай-ай... было больно, в самом деле, очень больно."@</ToTranslate>
+  </String>
+  <String index="413">
+    <ToTranslate>tcg_ens12fa</ToTranslate>
+  </String>
+  <String index="414">
+    <ToTranslate>tcg_ens12m</ToTranslate>
+  </String>
+  <String index="415">
+    <ToTranslate>ensy0184</ToTranslate>
+  </String>
+  <String index="416">
+    <ToTranslate>Эншо$"Ты заслужила."@</ToTranslate>
+  </String>
+  <String index="417">
+    <ToTranslate>tcg_gan12ca</ToTranslate>
+  </String>
+  <String index="418">
+    <ToTranslate>tcg_gan12m</ToTranslate>
+  </String>
+  <String index="419">
+    <ToTranslate>ganr0149</ToTranslate>
+  </String>
+  <String index="420">
+    <ToTranslate>Ганрю$"Определённо."@</ToTranslate>
+  </String>
+  <String index="421">
+    <ToTranslate>buns0136</ToTranslate>
+  </String>
+  <String index="422">
+    <ToTranslate>Бушу$"Но ведь Эншо-сама тоже пылась сказать тоже самое... ува-ава-ва!"@</ToTranslate>
+  </String>
+  <String index="423">
+    <ToTranslate>ganr0150</ToTranslate>
+  </String>
+  <String index="424">
+    <ToTranslate>Ганрю$"Так, теперь мы знаем что живы и это уже неплохо."@</ToTranslate>
+  </String>
+  <String index="425">
+    <ToTranslate>tcg_ens12ja</ToTranslate>
+  </String>
+  <String index="426">
+    <ToTranslate>tcg_ens12m</ToTranslate>
+  </String>
+  <String index="427">
+    <ToTranslate>ensy0185</ToTranslate>
+  </String>
+  <String index="428">
+    <ToTranslate>Эншо$"Ну... в чём-то ты права. Думаю, нам следует найти способ выбраться из этого мрачного места, а не резвиться с Бушу-сан."@</ToTranslate>
+  </String>
+  <String index="429">
+    <ToTranslate>tcg_bun12aa</ToTranslate>
+  </String>
+  <String index="430">
+    <ToTranslate>tcg_bun12m</ToTranslate>
+  </String>
+  <String index="431">
+    <ToTranslate>buns0137</ToTranslate>
+  </String>
+  <String index="432">
+    <ToTranslate>Бушу$"Ум, это невозможно."@</ToTranslate>
+  </String>
+  <String index="433">
+    <ToTranslate>tcg_ens12aa</ToTranslate>
+  </String>
+  <String index="434">
+    <ToTranslate>tcg_ens12m</ToTranslate>
+  </String>
+  <String index="435">
+    <ToTranslate>ensy0186</ToTranslate>
+  </String>
+  <String index="436">
+    <ToTranslate>Эншо$"Как?"@</ToTranslate>
+  </String>
+  <String index="437">
+    <ToTranslate>tcg_gan22ia</ToTranslate>
+  </String>
+  <String index="438">
+    <ToTranslate>tcg_gan22m</ToTranslate>
+  </String>
+  <String index="439">
+    <ToTranslate>ganr0151</ToTranslate>
+  </String>
+  <String index="440">
+    <ToTranslate>Ганрю$"Э-э?"@</ToTranslate>
+  </String>
+  <String index="441">
+    <ToTranslate>tcg_bun22fa</ToTranslate>
+  </String>
+  <String index="442">
+    <ToTranslate>tcg_bun22m</ToTranslate>
+  </String>
+  <String index="443">
+    <ToTranslate>buns0138</ToTranslate>
+  </String>
+  <String index="444">
+    <ToTranslate>Бушу$"Я же сказала, что здесь никого нет, ни людей ни лодки. Как тогда вы собираетесь покинуть этот остров?"@</ToTranslate>
+  </String>
+  <String index="445">
+    <ToTranslate>tcg_ens12ha</ToTranslate>
+  </String>
+  <String index="446">
+    <ToTranslate>tcg_ens12m</ToTranslate>
+  </String>
+  <String index="447">
+    <ToTranslate>ensy0187</ToTranslate>
+  </String>
+  <String index="448">
+    <ToTranslate>Эншо$"Э-х? Почему бы тебе не построить плот?"@</ToTranslate>
+  </String>
+  <String index="449">
+    <ToTranslate>tcg_gan22da</ToTranslate>
+  </String>
+  <String index="450">
+    <ToTranslate>tcg_gan22m</ToTranslate>
+  </String>
+  <String index="451">
+    <ToTranslate>ganr0152</ToTranslate>
+  </String>
+  <String index="452">
+    <ToTranslate>Ганрю$"Ух..."@</ToTranslate>
+  </String>
+  <String index="453">
+    <ToTranslate>buns0139</ToTranslate>
+  </String>
+  <String index="454">
+    <ToTranslate>Бушу$"Вы разве не помните почему мы оказались здесь?"@</ToTranslate>
+  </String>
+  <String index="455">
+    <ToTranslate>tcg_ens22ga</ToTranslate>
+  </String>
+  <String index="456">
+    <ToTranslate>tcg_ens22m</ToTranslate>
+  </String>
+  <String index="457">
+    <ToTranslate>ensy0188</ToTranslate>
+  </String>
+  <String index="458">
+    <ToTranslate>Эншо$"Ох..."@</ToTranslate>
+  </String>
+  <String index="459">
+    <ToTranslate>buns0140</ToTranslate>
+  </String>
+  <String index="460">
+    <ToTranslate>Бушу$"Проще говоря мы здесь застряли. Почему бы нам не подкрепиться и не подумать об этом уже после?"@</ToTranslate>
+  </String>
+  <String index="461">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="462">
+    <ToTranslate>bb</ToTranslate>
+  </String>
+  <String index="463">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="464">
+    <ToTranslate>bb</ToTranslate>
+  </String>
+  <String index="465">
+    <ToTranslate>bcg_impseat_a</ToTranslate>
+  </String>
+  <String index="466">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="467">
+    <ToTranslate>bgm02</ToTranslate>
+  </String>
+  <String index="468">
+    <ToTranslate>tcg_bun11aa</ToTranslate>
+  </String>
+  <String index="469">
+    <ToTranslate>tcg_bun11m</ToTranslate>
+  </String>
+  <String index="470">
+    <ToTranslate>buns0141</ToTranslate>
+  </String>
+  <String index="471">
+    <ToTranslate>Бушу$"Я вернулась."@</ToTranslate>
+  </String>
+  <String index="472">
+    <ToTranslate>tcg_gan11aa</ToTranslate>
+  </String>
+  <String index="473">
+    <ToTranslate>tcg_gan11m</ToTranslate>
+  </String>
+  <String index="474">
+    <ToTranslate>ganr0153</ToTranslate>
+  </String>
+  <String index="475">
+    <ToTranslate>Ганрю$"Добро пожаловать Бун-чан. Поймала что-нибудь?"@</ToTranslate>
+  </String>
+  <String index="476">
+    <ToTranslate>tcg_bun21ca</ToTranslate>
+  </String>
+  <String index="477">
+    <ToTranslate>tcg_bun21m</ToTranslate>
+  </String>
+  <String index="478">
+    <ToTranslate>buns0142</ToTranslate>
+  </String>
+  <String index="479">
+    <ToTranslate>Бушу$"Простите. Я сражалась с огромным кабаном но у нас была ничья. Так что я принесла несколько фруктов."@</ToTranslate>
+  </String>
+  <String index="480">
+    <ToTranslate>tcg_gan21ia</ToTranslate>
+  </String>
+  <String index="481">
+    <ToTranslate>tcg_gan21m</ToTranslate>
+  </String>
+  <String index="482">
+    <ToTranslate>ganr0154</ToTranslate>
+  </String>
+  <String index="483">
+    <ToTranslate>Ганрю$"Ничья...? Ты не ранена? Болит где-нибудь?"@</ToTranslate>
+  </String>
+  <String index="484">
+    <ToTranslate>tcg_bun11aa</ToTranslate>
+  </String>
+  <String index="485">
+    <ToTranslate>tcg_bun11m</ToTranslate>
+  </String>
+  <String index="486">
+    <ToTranslate>buns0143</ToTranslate>
+  </String>
+  <String index="487">
+    <ToTranslate>Бушу$"В норме, должно быть, здешний кабан владелец этого острова."@</ToTranslate>
+  </String>
+  <String index="488">
+    <ToTranslate>tcg_gan21ba</ToTranslate>
+  </String>
+  <String index="489">
+    <ToTranslate>tcg_gan21m</ToTranslate>
+  </String>
+  <String index="490">
+    <ToTranslate>ganr0155</ToTranslate>
+  </String>
+  <String index="491">
+    <ToTranslate>Ганрю$"Хорошо... Бун-чан, хочешь ванну? Или сперва поужинать? А может...?"@</ToTranslate>
+  </String>
+  <String index="492">
+    <ToTranslate>tcg_gan11ja</ToTranslate>
+  </String>
+  <String index="493">
+    <ToTranslate>tcg_gan11m</ToTranslate>
+  </String>
+  <String index="494">
+    <ToTranslate>ganr0156</ToTranslate>
+  </String>
+  <String index="495">
+    <ToTranslate>Ганрю$"Меня?"@</ToTranslate>
+  </String>
+  <String index="496">
+    <ToTranslate>tcg_bun21ja</ToTranslate>
+  </String>
+  <String index="497">
+    <ToTranslate>tcg_bun21m</ToTranslate>
+  </String>
+  <String index="498">
+    <ToTranslate>buns0144</ToTranslate>
+  </String>
+  <String index="499">
+    <ToTranslate>Бушу$"О-о-о... Тоши!"@</ToTranslate>
+  </String>
+  <String index="500">
+    <ToTranslate>tcg_gan21la</ToTranslate>
+  </String>
+  <String index="501">
+    <ToTranslate>tcg_gan21m</ToTranslate>
+  </String>
+  <String index="502">
+    <ToTranslate>ganr0157</ToTranslate>
+  </String>
+  <String index="503">
+    <ToTranslate>Ганрю$"Уа-а! Б-Бун-чан... ты слишком нетерпелива... следует... хотя-бы матрас разложить... ум-м."@</ToTranslate>
+  </String>
+  <String index="504">
+    <ToTranslate>buns0145</ToTranslate>
+  </String>
+  <String index="505">
+    <ToTranslate>Бушу$"Но......м-м-м... Тоши, ты первая  начала... м-м... чмок... м-м-ма!"@</ToTranslate>
+  </String>
+  <String index="506">
+    <ToTranslate>tcg_gan11ja</ToTranslate>
+  </String>
+  <String index="507">
+    <ToTranslate>tcg_gan11m</ToTranslate>
+  </String>
+  <String index="508">
+    <ToTranslate>ganr0158</ToTranslate>
+  </String>
+  <String index="509">
+    <ToTranslate>Ганрю$"О-о, Бун-чан..."@</ToTranslate>
+  </String>
+  <String index="510">
+    <ToTranslate>buns0146</ToTranslate>
+  </String>
+  <String index="511">
+    <ToTranslate>Бушу$"Хе-хе. Такая фраза  взаправду может сделать меня счастливой, как я рада, что мы оказались здесь."@</ToTranslate>
+  </String>
+  <String index="512">
+    <ToTranslate>tcg_gan21ba</ToTranslate>
+  </String>
+  <String index="513">
+    <ToTranslate>tcg_gan21m</ToTranslate>
+  </String>
+  <String index="514">
+    <ToTranslate>ganr0159</ToTranslate>
+  </String>
+  <String index="515">
+    <ToTranslate>Ганрю$"Ты преувеличиваешь, Бун-чан."@</ToTranslate>
+  </String>
+  <String index="516">
+    <ToTranslate>tcg_bun21ca</ToTranslate>
+  </String>
+  <String index="517">
+    <ToTranslate>tcg_bun21m</ToTranslate>
+  </String>
+  <String index="518">
+    <ToTranslate>buns0147</ToTranslate>
+  </String>
+  <String index="519">
+    <ToTranslate>Бушу$"Но не окажись мы здесь, ты бы никогда не произнесла этих слов."@</ToTranslate>
+  </String>
+  <String index="520">
+    <ToTranslate>tcg_gan11ja</ToTranslate>
+  </String>
+  <String index="521">
+    <ToTranslate>tcg_gan11m</ToTranslate>
+  </String>
+  <String index="522">
+    <ToTranslate>ganr0160</ToTranslate>
+  </String>
+  <String index="523">
+    <ToTranslate>Ганрю$"Вот потому что мы оказались именно здесь я стараюсь быть заботливой... и хочу как-то вас поддержать..."@</ToTranslate>
+  </String>
+  <String index="524">
+    <ToTranslate>tcg_bun11aa</ToTranslate>
+  </String>
+  <String index="525">
+    <ToTranslate>tcg_bun11m</ToTranslate>
+  </String>
+  <String index="526">
+    <ToTranslate>buns0148</ToTranslate>
+  </String>
+  <String index="527">
+    <ToTranslate>Бушу$"Вот как... но я хочу дождаться ночи и сильнее распробовать тебя."@</ToTranslate>
+  </String>
+  <String index="528">
+    <ToTranslate>ganr0161</ToTranslate>
+  </String>
+  <String index="529">
+    <ToTranslate>Ганрю$"Видишь? Ты всегда насильно заставляла меня делать это. Пока мы не приехали сюда."@</ToTranslate>
+  </String>
+  <String index="530">
+    <ToTranslate>buns0149</ToTranslate>
+  </String>
+  <String index="531">
+    <ToTranslate>Бушу$"Э, возможно ты и права... как долго мы уже здесь?" @</ToTranslate>
+  </String>
+  <String index="532">
+    <ToTranslate>tcg_gan21ia</ToTranslate>
+  </String>
+  <String index="533">
+    <ToTranslate>tcg_gan21m</ToTranslate>
+  </String>
+  <String index="534">
+    <ToTranslate>ganr0162</ToTranslate>
+  </String>
+  <String index="535">
+    <ToTranslate>Ганрю$"Дней двадцать примерно?"@</ToTranslate>
+  </String>
+  <String index="536">
+    <ToTranslate>tcg_bun21ca</ToTranslate>
+  </String>
+  <String index="537">
+    <ToTranslate>tcg_bun21m</ToTranslate>
+  </String>
+  <String index="538">
+    <ToTranslate>buns0150</ToTranslate>
+  </String>
+  <String index="539">
+    <ToTranslate>Бушу$"Первые десять дней мы строили плот, но... не думаешь, что теперь мы все ведём себя куда спокойнее?"@</ToTranslate>
+  </String>
+  <String index="540">
+    <ToTranslate>ganr0163</ToTranslate>
+  </String>
+  <String index="541">
+    <ToTranslate>Ганрю$"Думаешь, всё потому что мы передумали покидать этот остров?"@</ToTranslate>
+  </String>
+  <String index="542">
+    <ToTranslate>tcg_bun11aa</ToTranslate>
+  </String>
+  <String index="543">
+    <ToTranslate>tcg_bun11m</ToTranslate>
+  </String>
+  <String index="544">
+    <ToTranslate>buns0151</ToTranslate>
+  </String>
+  <String index="545">
+    <ToTranslate>Бушу$"Мы ещё не оставили эту идею. Но у меня есть ты, вкусная еда и я построянно занята на охоте... в принципе, мне этого вполне достаточно."@</ToTranslate>
+  </String>
+  <String index="546">
+    <ToTranslate>tcg_gan11aa</ToTranslate>
+  </String>
+  <String index="547">
+    <ToTranslate>tcg_gan11m</ToTranslate>
+  </String>
+  <String index="548">
+    <ToTranslate>ganr0164</ToTranslate>
+  </String>
+  <String index="549">
+    <ToTranslate>Ганрю$"Не уверена что хочу покинуть остров... меня тоже устраивает всё как есть. Но вот Эншо-сама, кажется, ненавидит это место..."@</ToTranslate>
+  </String>
+  <String index="550">
+    <ToTranslate>buns0152</ToTranslate>
+  </String>
+  <String index="551">
+    <ToTranslate>Бушу$"Ой, кста, а где она?"@</ToTranslate>
+  </String>
+  <String index="552">
+    <ToTranslate>ganr0165</ToTranslate>
+  </String>
+  <String index="553">
+    <ToTranslate>Ганрю$"Эм, наверное направилась ловить рыбу."@</ToTranslate>
+  </String>
+  <String index="554">
+    <ToTranslate>tcg_bun21ga</ToTranslate>
+  </String>
+  <String index="555">
+    <ToTranslate>tcg_bun21m</ToTranslate>
+  </String>
+  <String index="556">
+    <ToTranslate>buns0153</ToTranslate>
+  </String>
+  <String index="557">
+    <ToTranslate>Бушу$"Что? Никогда не видела, чтобы она держала удочку, даже в Нанпи. Что с ней случилось?"@</ToTranslate>
+  </String>
+  <String index="558">
+    <ToTranslate>tcg_gan21ia</ToTranslate>
+  </String>
+  <String index="559">
+    <ToTranslate>tcg_gan21m</ToTranslate>
+  </String>
+  <String index="560">
+    <ToTranslate>ganr0166</ToTranslate>
+  </String>
+  <String index="561">
+    <ToTranslate>Ганрю$"Странно, правда же? До отплытия я слышала, что рыба собирается возле этого острова... может быть, она тоже это услышала?" @</ToTranslate>
+  </String>
+  <String index="562">
+    <ToTranslate>tcg_bun11aa</ToTranslate>
+  </String>
+  <String index="563">
+    <ToTranslate>tcg_bun11m</ToTranslate>
+  </String>
+  <String index="564">
+    <ToTranslate>buns0154</ToTranslate>
+  </String>
+  <String index="565">
+    <ToTranslate>Бушу$"Очень странно......как думаешь, не польёт ли сейчас дождь из копий?"@</ToTranslate>
+  </String>
+  <String index="566">
+    <ToTranslate>tcg_gan21ba</ToTranslate>
+  </String>
+  <String index="567">
+    <ToTranslate>tcg_gan21m</ToTranslate>
+  </String>
+  <String index="568">
+    <ToTranslate>ganr0167</ToTranslate>
+  </String>
+  <String index="569">
+    <ToTranslate>Ганрю$"Аха-ха, ты слишком недоверчива."@</ToTranslate>
+  </String>
+  <String index="570">
+    <ToTranslate>buns0155</ToTranslate>
+  </String>
+  <String index="571">
+    <ToTranslate>Бушу$"Что ж, я в ванной до возвращения Эншо-самы с рыбой. Ты ведь тоже идёшь, верно?"@</ToTranslate>
+  </String>
+  <String index="572">
+    <ToTranslate>tcg_gan11aa</ToTranslate>
+  </String>
+  <String index="573">
+    <ToTranslate>tcg_gan11m</ToTranslate>
+  </String>
+  <String index="574">
+    <ToTranslate>ganr0168</ToTranslate>
+  </String>
+  <String index="575">
+    <ToTranslate>Ганрю$"Ой, я сперва должна доубирать комнату... можешь пока подождать меня там."@</ToTranslate>
+  </String>
+  <String index="576">
+    <ToTranslate>buns0156</ToTranslate>
+  </String>
+  <String index="577">
+    <ToTranslate>Бушу$"Ой, да о чём ты? Я помогу тебе, будет куда быстрее, чем делать всё тебе одной."@</ToTranslate>
+  </String>
+  <String index="578">
+    <ToTranslate>tcg_gan21ia</ToTranslate>
+  </String>
+  <String index="579">
+    <ToTranslate>tcg_gan21m</ToTranslate>
+  </String>
+  <String index="580">
+    <ToTranslate>ganr0169</ToTranslate>
+  </String>
+  <String index="581">
+    <ToTranslate>Ганрю$"Уверена?"@</ToTranslate>
+  </String>
+  <String index="582">
+    <ToTranslate>tcg_bun21ca</ToTranslate>
+  </String>
+  <String index="583">
+    <ToTranslate>tcg_bun21m</ToTranslate>
+  </String>
+  <String index="584">
+    <ToTranslate>buns0157</ToTranslate>
+  </String>
+  <String index="585">
+    <ToTranslate>Бушу$"Ещё бы."@</ToTranslate>
+  </String>
+  <String index="586">
+    <ToTranslate>tcg_gan21ba</ToTranslate>
+  </String>
+  <String index="587">
+    <ToTranslate>tcg_gan21m</ToTranslate>
+  </String>
+  <String index="588">
+    <ToTranslate>ganr0170</ToTranslate>
+  </String>
+  <String index="589">
+    <ToTranslate>Ганрю$"Эхе-хе. Благодарю, Бун-чан."@</ToTranslate>
+  </String>
+  <String index="590">
+    <ToTranslate>tcg_bun11aa</ToTranslate>
+  </String>
+  <String index="591">
+    <ToTranslate>tcg_bun11m</ToTranslate>
+  </String>
+  <String index="592">
+    <ToTranslate>buns0158</ToTranslate>
+  </String>
+  <String index="593">
+    <ToTranslate>Бушу$"Та-ак! Приступим же! Вот эту коробку куда мне поставить?"@</ToTranslate>
+  </String>
+  <String index="594">
+    <ToTranslate>tcg_gan21ia</ToTranslate>
+  </String>
+  <String index="595">
+    <ToTranslate>tcg_gan21m</ToTranslate>
+  </String>
+  <String index="596">
+    <ToTranslate>ganr0171</ToTranslate>
+  </String>
+  <String index="597">
+    <ToTranslate>Ганрю$"Ох, коробку? Я ещё не открывала её, можешь пока открыть и глянуть что внутри?"@</ToTranslate>
+  </String>
+  <String index="598">
+    <ToTranslate>tcg_bun11ia</ToTranslate>
+  </String>
+  <String index="599">
+    <ToTranslate>tcg_bun11m</ToTranslate>
+  </String>
+  <String index="600">
+    <ToTranslate>buns0159</ToTranslate>
+  </String>
+  <String index="601">
+    <ToTranslate>Бушу$"Лады. Может вместе посмотрим?"@</ToTranslate>
+  </String>
+  <String index="602">
+    <ToTranslate>tcg_gan21ba</ToTranslate>
+  </String>
+  <String index="603">
+    <ToTranslate>tcg_gan21m</ToTranslate>
+  </String>
+  <String index="604">
+    <ToTranslate>ganr0172</ToTranslate>
+  </String>
+  <String index="605">
+    <ToTranslate>Ганрю$"Давай."@</ToTranslate>
+  </String>
+  <String index="606">
+    <ToTranslate>tcg_bun11da</ToTranslate>
+  </String>
+  <String index="607">
+    <ToTranslate>tcg_bun11m</ToTranslate>
+  </String>
+  <String index="608">
+    <ToTranslate>buns0160</ToTranslate>
+  </String>
+  <String index="609">
+    <ToTranslate>Бушу$"Ох..."@</ToTranslate>
+  </String>
+  <String index="610">
+    <ToTranslate>tcg_gan21ia</ToTranslate>
+  </String>
+  <String index="611">
+    <ToTranslate>tcg_gan21m</ToTranslate>
+  </String>
+  <String index="612">
+    <ToTranslate>ganr0173</ToTranslate>
+  </String>
+  <String index="613">
+    <ToTranslate>Ганрю$"Тут... зеркало?"@</ToTranslate>
+  </String>
+  <String index="614">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="615">
+    <ToTranslate>aa</ToTranslate>
+  </String>
+  <String index="616">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="617">
+    <ToTranslate>aa</ToTranslate>
+  </String>
+  <String index="618">
+    <ToTranslate>bcg_sea_a</ToTranslate>
+  </String>
+  <String index="619">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="620">
+    <ToTranslate>tcg_ens11aa</ToTranslate>
+  </String>
+  <String index="621">
+    <ToTranslate>tcg_ens11m</ToTranslate>
+  </String>
+  <String index="622">
+    <ToTranslate>ensy0189</ToTranslate>
+  </String>
+  <String index="623">
+    <ToTranslate>Эншо$"Рыбалка может оказаться на удивление интересной, хотя лично я чуть не померла от скуки..."@</ToTranslate>
+  </String>
+  <String index="624">
+    <ToTranslate>ensy0190</ToTranslate>
+  </String>
+  <String index="625">
+    <ToTranslate>Эншо$"Кто бы поверил что я выловлю рыбу одной только палкой заместо удочки... как то раньше об этом совсем не задумывалась, хотя, возможно я обладаю редким даром рыбной ловли."@</ToTranslate>
+  </String>
+  <String index="626">
+    <ToTranslate>tcg_ens21ba</ToTranslate>
+  </String>
+  <String index="627">
+    <ToTranslate>tcg_ens21m</ToTranslate>
+  </String>
+  <String index="628">
+    <ToTranslate>ensy0191</ToTranslate>
+  </String>
+  <String index="629">
+    <ToTranslate>Эншо$"Прямо как у легендарного рыболова Тай Кунг Вана... ох, мои таланты прямо пугают меня!"@</ToTranslate>
+  </String>
+  <String index="630">
+    <ToTranslate>tcg_ens11aa</ToTranslate>
+  </String>
+  <String index="631">
+    <ToTranslate>tcg_ens11m</ToTranslate>
+  </String>
+  <String index="632">
+    <ToTranslate>ensy0192</ToTranslate>
+  </String>
+  <String index="633">
+    <ToTranslate>Эншо$"Думаю, нам троим этого хватит... стоп, Бушу-сан такая жадная, что в одиночку может всё слопать..."@</ToTranslate>
+  </String>
+  <String index="634">
+    <ToTranslate>tcg_ens21la</ToTranslate>
+  </String>
+  <String index="635">
+    <ToTranslate>tcg_ens21m</ToTranslate>
+  </String>
+  <String index="636">
+    <ToTranslate>ensy0193</ToTranslate>
+  </String>
+  <String index="637">
+    <ToTranslate>Эншо$"Ну и пусть, я всегда смогу наловить ещё. Для гения вроде меня это проще простого! Охо-хо-хо-хо!"@</ToTranslate>
+  </String>
+  <String index="638">
+    <ToTranslate>tcg_ens11ja</ToTranslate>
+  </String>
+  <String index="639">
+    <ToTranslate>tcg_ens11m</ToTranslate>
+  </String>
+  <String index="640">
+    <ToTranslate>ensy0194</ToTranslate>
+  </String>
+  <String index="641">
+    <ToTranslate>Эншо$"Вах...!"@</ToTranslate>
+  </String>
+  <String index="642">
+    <ToTranslate>tcg_ens11fa</ToTranslate>
+  </String>
+  <String index="643">
+    <ToTranslate>tcg_ens11m</ToTranslate>
+  </String>
+  <String index="644">
+    <ToTranslate>ensy0195</ToTranslate>
+  </String>
+  <String index="645">
+    <ToTranslate>Эншо$"Нет-нет, стоять... я не должна привыкать к такой жизни..."@</ToTranslate>
+  </String>
+  <String index="646">
+    <ToTranslate>ensy0196</ToTranslate>
+  </String>
+  <String index="647">
+    <ToTranslate>Эншо$"Бушу-сан и Ганрю-сан много сачкуют в последее время, я должна наказать их!"@</ToTranslate>
+  </String>
+  <String index="648">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="649">
+    <ToTranslate>aa</ToTranslate>
+  </String>
+  <String index="650">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="651">
+    <ToTranslate>aa</ToTranslate>
+  </String>
+  <String index="652">
+    <ToTranslate>bcg_impseat_a</ToTranslate>
+  </String>
+  <String index="653">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="654">
+    <ToTranslate>bgm26</ToTranslate>
+  </String>
+  <String index="655">
+    <ToTranslate>tcg_ens21ia</ToTranslate>
+  </String>
+  <String index="656">
+    <ToTranslate>tcg_ens21m</ToTranslate>
+  </String>
+  <String index="657">
+    <ToTranslate>ensy0197</ToTranslate>
+  </String>
+  <String index="658">
+    <ToTranslate>Эншо$"Бушу-сан! Ганрю-сан! Я вернулась!"@</ToTranslate>
+  </String>
+  <String index="659">
+    <ToTranslate>tcg_gan11aa</ToTranslate>
+  </String>
+  <String index="660">
+    <ToTranslate>tcg_gan11m</ToTranslate>
+  </String>
+  <String index="661">
+    <ToTranslate>ganr0174</ToTranslate>
+  </String>
+  <String index="662">
+    <ToTranslate>Ганрю$"Добро пожаловать Эншо-сама."@</ToTranslate>
+  </String>
+  <String index="663">
+    <ToTranslate>tcg_bun21ha</ToTranslate>
+  </String>
+  <String index="664">
+    <ToTranslate>tcg_bun21m</ToTranslate>
+  </String>
+  <String index="665">
+    <ToTranslate>buns0161</ToTranslate>
+  </String>
+  <String index="666">
+    <ToTranslate>Бушу$"Поздно же вы, мы уже заждались."@</ToTranslate>
+  </String>
+  <String index="667">
+    <ToTranslate>tcg_ens11aa</ToTranslate>
+  </String>
+  <String index="668">
+    <ToTranslate>tcg_ens11m</ToTranslate>
+  </String>
+  <String index="669">
+    <ToTranslate>ensy0198</ToTranslate>
+  </String>
+  <String index="670">
+    <ToTranslate>Эншо$"Ха, с чего вдруг?"@</ToTranslate>
+  </String>
+  <String index="671">
+    <ToTranslate>tcg_gan21ba</ToTranslate>
+  </String>
+  <String index="672">
+    <ToTranslate>tcg_gan21m</ToTranslate>
+  </String>
+  <String index="673">
+    <ToTranslate>ganr0175</ToTranslate>
+  </String>
+  <String index="674">
+    <ToTranslate>Ганрю$"Эншо-сама, сперва поужинаете? Или желаете принять ванну? А может быть..."@</ToTranslate>
+  </String>
+  <String index="675">
+    <ToTranslate>tcg_ens11ha</ToTranslate>
+  </String>
+  <String index="676">
+    <ToTranslate>tcg_ens11m</ToTranslate>
+  </String>
+  <String index="677">
+    <ToTranslate>ensy0199</ToTranslate>
+  </String>
+  <String index="678">
+    <ToTranslate>Эншо$"Что, даже сегодня? Я то решила, что ты так приветствуешь исключительно Бушу-сан."@</ToTranslate>
+  </String>
+  <String index="679">
+    <ToTranslate>ganr0176</ToTranslate>
+  </String>
+  <String index="680">
+    <ToTranslate>Ганрю$"Хи-хи. Всё потому что вы сегодня что-то поймали. Да, Бун-чан?"@</ToTranslate>
+  </String>
+  <String index="681">
+    <ToTranslate>tcg_bun11aa</ToTranslate>
+  </String>
+  <String index="682">
+    <ToTranslate>tcg_bun11m</ToTranslate>
+  </String>
+  <String index="683">
+    <ToTranslate>buns0162</ToTranslate>
+  </String>
+  <String index="684">
+    <ToTranslate>Бушу$"Верно, сегодня вы заслужили."@</ToTranslate>
+  </String>
+  <String index="685">
+    <ToTranslate>tcg_gan11ja</ToTranslate>
+  </String>
+  <String index="686">
+    <ToTranslate>tcg_gan11m</ToTranslate>
+  </String>
+  <String index="687">
+    <ToTranslate>ganr0177</ToTranslate>
+  </String>
+  <String index="688">
+    <ToTranslate>Ганрю$"Итак, хотите сперва поужинать, или ванну, или может... меня?"@</ToTranslate>
+  </String>
+  <String index="689">
+    <ToTranslate>tcg_ens11ka</ToTranslate>
+  </String>
+  <String index="690">
+    <ToTranslate>tcg_ens11m</ToTranslate>
+  </String>
+  <String index="691">
+    <ToTranslate>ensy0200</ToTranslate>
+  </String>
+  <String index="692">
+    <ToTranslate>Эншо$"А-а-а... теперь я понимаю почему Иши не хочет покидать остров... нет, я не этого хотела..."@</ToTranslate>
+  </String>
+  <String index="693">
+    <ToTranslate>ganr0178</ToTranslate>
+  </String>
+  <String index="694">
+    <ToTranslate>Ганрю$"Всё же, что вы выберете, Эншо-сама?"@</ToTranslate>
+  </String>
+  <String index="695">
+    <ToTranslate>ensy0201</ToTranslate>
+  </String>
+  <String index="696">
+    <ToTranslate>Эншо$"Разумеется я выберу тебя, Тоши."@</ToTranslate>
+  </String>
+  <String index="697">
+    <ToTranslate>tcg_bun21ha</ToTranslate>
+  </String>
+  <String index="698">
+    <ToTranslate>tcg_bun21m</ToTranslate>
+  </String>
+  <String index="699">
+    <ToTranslate>buns0163</ToTranslate>
+  </String>
+  <String index="700">
+    <ToTranslate>Бушу$"Эй, так не честно, Тоши моя."@</ToTranslate>
+  </String>
+  <String index="701">
+    <ToTranslate>ensy0202</ToTranslate>
+  </String>
+  <String index="702">
+    <ToTranslate>Эншо$"Разумеется, ты можешь присоединиться, Иши. Я выбираю вас обеих."@</ToTranslate>
+  </String>
+  <String index="703">
+    <ToTranslate>tcg_gan21ba</ToTranslate>
+  </String>
+  <String index="704">
+    <ToTranslate>tcg_gan21m</ToTranslate>
+  </String>
+  <String index="705">
+    <ToTranslate>ganr0179</ToTranslate>
+  </String>
+  <String index="706">
+    <ToTranslate>Ганрю$"Ура, Эншо-сама..."@</ToTranslate>
+  </String>
+  <String index="707">
+    <ToTranslate>tcg_bun21ja</ToTranslate>
+  </String>
+  <String index="708">
+    <ToTranslate>tcg_bun21m</ToTranslate>
+  </String>
+  <String index="709">
+    <ToTranslate>buns0164</ToTranslate>
+  </String>
+  <String index="710">
+    <ToTranslate>Бушу$"Эншо-сама..."@</ToTranslate>
+  </String>
+  <String index="711">
+    <ToTranslate>tcg_ens31ma</ToTranslate>
+  </String>
+  <String index="712">
+    <ToTranslate>tcg_ens31m</ToTranslate>
+  </String>
+  <String index="713">
+    <ToTranslate>bgm11</ToTranslate>
+  </String>
+  <String index="714">
+    <ToTranslate>ensy0203</ToTranslate>
+  </String>
+  <String index="715">
+    <ToTranslate>Эншо$"Э-э...!? Что с вами случилось...?"@</ToTranslate>
+  </String>
+  <String index="716">
+    <ToTranslate>buns0165</ToTranslate>
+  </String>
+  <String index="717">
+    <ToTranslate>Бушу$"А? Вы, наверное, об этом?"@</ToTranslate>
+  </String>
+  <String index="718">
+    <ToTranslate>tcg_gan11ja</ToTranslate>
+  </String>
+  <String index="719">
+    <ToTranslate>tcg_gan11m</ToTranslate>
+  </String>
+  <String index="720">
+    <ToTranslate>ganr0180</ToTranslate>
+  </String>
+  <String index="721">
+    <ToTranslate>Ганрю$"Хе-хе. Разве вы не знаете что это? Это пенис."@</ToTranslate>
+  </String>
+  <String index="722">
+    <ToTranslate>ensy0204</ToTranslate>
+  </String>
+  <String index="723">
+    <ToTranslate>Эншо$"Знаю разумеется, но... почему он у вас...?"@</ToTranslate>
+  </String>
+  <String index="724">
+    <ToTranslate>ganr0181</ToTranslate>
+  </String>
+  <String index="725">
+    <ToTranslate>Ганрю$"Не знаю. Но когда я опробовала его на Бун-чан, нам было очень приятно. Видите? Она такая мокрая..."@</ToTranslate>
+  </String>
+  <String index="726">
+    <ToTranslate>tcg_bun21ca</ToTranslate>
+  </String>
+  <String index="727">
+    <ToTranslate>tcg_bun21m</ToTranslate>
+  </String>
+  <String index="728">
+    <ToTranslate>buns0166</ToTranslate>
+  </String>
+  <String index="729">
+    <ToTranslate>Бушу$"Я тоже столько раз кончила в Тоши, но он всё ещё стоит... с ними мы сделаем вас счастливой, Эншо-сама..."@</ToTranslate>
+  </String>
+  <String index="730">
+    <ToTranslate>ensy0205</ToTranslate>
+  </String>
+  <String index="731">
+    <ToTranslate>Эншо$"Нет...!? Ии-и...!"@</ToTranslate>
+  </String>
+  <String index="732">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="733">
+    <ToTranslate>bb</ToTranslate>
+  </String>
+  <String index="734">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="735">
+    <ToTranslate>bb</ToTranslate>
+  </String>
+  <String index="736">
+    <ToTranslate>ecg_ens13a</ToTranslate>
+  </String>
+  <String index="737">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="738">
+    <ToTranslate>bgm26</ToTranslate>
+  </String>
+  <String index="739">
+    <ToTranslate>ganr0182</ToTranslate>
+  </String>
+  <String index="740">
+    <ToTranslate>Ганрю$"Эншо-сама... прошу вас, поцелуйте его..."@</ToTranslate>
+  </String>
+  <String index="741">
+    <ToTranslate>$Slurp.@</ToTranslate>
+  </String>
+  <String index="742">
+    <ToTranslate>ensy0206</ToTranslate>
+  </String>
+  <String index="743">
+    <ToTranslate>Эншо$"Э-э-э... но он ведь такой слизистый...? Это гадко..."@</ToTranslate>
+  </String>
+  <String index="744">
+    <ToTranslate>ganr0183</ToTranslate>
+  </String>
+  <String index="745">
+    <ToTranslate>Ганрю$"Я успела немного опробовать его на Бун-чан... она вылизала его, но так получилось. что мы сделали это снова..."@</ToTranslate>
+  </String>
+  <String index="746">
+    <ToTranslate>ensy0207</ToTranslate>
+  </String>
+  <String index="747">
+    <ToTranslate>Эншо$"Этот... запах... ух..." @</ToTranslate>
+  </String>
+  <String index="748">
+    <ToTranslate>buns0167</ToTranslate>
+  </String>
+  <String index="749">
+    <ToTranslate>Бушу$"Вы бы видели на что Тоши способна... она раз за разом кончала в меня... потом я сказала что нужно почистить его, но она возразила что больше не может его сдерживать."@</ToTranslate>
+  </String>
+  <String index="750">
+    <ToTranslate>ganr0184</ToTranslate>
+  </String>
+  <String index="751">
+    <ToTranslate>Ганрю$"Бун-чан, просто твой ротик слишком хорош... я просто не могла себя сдерживать..."@</ToTranslate>
+  </String>
+  <String index="752">
+    <ToTranslate>buns0168</ToTranslate>
+  </String>
+  <String index="753">
+    <ToTranslate>Бушу$"Я уже полна твоим семенем, Рэйха-сама, уверена что и для вас у неё ещё хватит."@</ToTranslate>
+  </String>
+  <String index="754">
+    <ToTranslate>ensy0208</ToTranslate>
+  </String>
+  <String index="755">
+    <ToTranslate>Эншо$"Э-э-э... нет, я не разрешаю тебе... тыкать в меня этой штукой..."@</ToTranslate>
+  </String>
+  <String index="756">
+    <ToTranslate>buns0169</ToTranslate>
+  </String>
+  <String index="757">
+    <ToTranslate>Бушу$"Но, Рэйха-сама, тогда может вам почистить мой член...?"@</ToTranslate>
+  </String>
+  <String index="758">
+    <ToTranslate>ensy0209</ToTranslate>
+  </String>
+  <String index="759">
+    <ToTranslate>Эншо$"Уа-а... Бушу-сан, хватит тыкать мне в щёку этой штукой... ну пожалуйста?"@</ToTranslate>
+  </String>
+  <String index="760">
+    <ToTranslate>ganr0185</ToTranslate>
+  </String>
+  <String index="761">
+    <ToTranslate>Ганрю$"Рэйха-сама, но у вас такие мягкие щёки..."@</ToTranslate>
+  </String>
+  <String index="762">
+    <ToTranslate>ensy0210</ToTranslate>
+  </String>
+  <String index="763">
+    <ToTranslate>Эншо$"У-у... какой же он... мерзский..."@</ToTranslate>
+  </String>
+  <String index="764">
+    <ToTranslate>buns0170</ToTranslate>
+  </String>
+  <String index="765">
+    <ToTranslate>Бушу$"Что? Рэйха-сама, флюиды Тоши совсем не мерсике, вы ведь не возражали когда облизывали её прежде." @</ToTranslate>
+  </String>
+  <String index="766">
+    <ToTranslate>ganr0186</ToTranslate>
+  </String>
+  <String index="767">
+    <ToTranslate>Ганрю$"Точно-точно, просто попробуйте наслиться этим и сегодня? Ну же, разве его вкус не восхитителен, Рэйха-сама?"@</ToTranslate>
+  </String>
+  <String index="768">
+    <ToTranslate>ensy0211</ToTranslate>
+  </String>
+  <String index="769">
+    <ToTranslate>Эншо$"Хум... ум, э-э... ум-м, а-а... он воняет... стоп, всё совсем ... не так... как тогда..."@</ToTranslate>
+  </String>
+  <String index="770">
+    <ToTranslate>ganr0187</ToTranslate>
+  </String>
+  <String index="771">
+    <ToTranslate>Ганрю$"Хе-хе. Но, вы все-таки облизали его... я рада..." @</ToTranslate>
+  </String>
+  <String index="772">
+    <ToTranslate>ensy0212</ToTranslate>
+  </String>
+  <String index="773">
+    <ToTranslate>Эншо$"Н-нет... вы, вы заставили меня сделать это... Уа-а..."@</ToTranslate>
+  </String>
+  <String index="774">
+    <ToTranslate>ganr0188</ToTranslate>
+  </String>
+  <String index="775">
+    <ToTranslate>Ганрю$"Разве справедливо что вы всегда заставляете нас что-то делать и никогда наоборот... да, Бун-чан?"@</ToTranslate>
+  </String>
+  <String index="776">
+    <ToTranslate>buns0171</ToTranslate>
+  </String>
+  <String index="777">
+    <ToTranslate>Бушу$"Ты права. Хм, что бы мне ещё попросить её сделать...?"@</ToTranslate>
+  </String>
+  <String index="778">
+    <ToTranslate>ensy0213</ToTranslate>
+  </String>
+  <String index="779">
+    <ToTranslate>Эншо$"Ч-что с вами... происходит...? Вы совсем... не похожи... ум-м, м-м-м... на себя... м-м-м.... а-ам."@</ToTranslate>
+  </String>
+  <String index="780">
+    <ToTranslate>buns0172</ToTranslate>
+  </String>
+  <String index="781">
+    <ToTranslate>Бушу$"Рэйха-сама, я придумала."@</ToTranslate>
+  </String>
+  <String index="782">
+    <ToTranslate>ensy0214</ToTranslate>
+  </String>
+  <String index="783">
+    <ToTranslate>Эншо$"Э-эй! Бушу-сан! Н-не...!"@</ToTranslate>
+  </String>
+  <String index="784">
+    <ToTranslate>buns0173</ToTranslate>
+  </String>
+  <String index="785">
+    <ToTranslate>Бушу$"Здоровенные сиськи..."@</ToTranslate>
+  </String>
+  <String index="786">
+    <ToTranslate>ensy0215</ToTranslate>
+  </String>
+  <String index="787">
+    <ToTranslate>Эншо$"Ты что делаешь!? Буш... у-у-у."@</ToTranslate>
+  </String>
+  <String index="788">
+    <ToTranslate>buns0174</ToTranslate>
+  </String>
+  <String index="789">
+    <ToTranslate>Бушу$"Рэйха-сама... какие у вас мягкие губы."@</ToTranslate>
+  </String>
+  <String index="790">
+    <ToTranslate>ensy0216</ToTranslate>
+  </String>
+  <String index="791">
+    <ToTranslate>Эншо$"Прошу... не... убери эту штуку от моих губ..."@</ToTranslate>
+  </String>
+  <String index="792">
+    <ToTranslate>ganr0189</ToTranslate>
+  </String>
+  <String index="793">
+    <ToTranslate>Ганрю$"Но, как же ваши губы заблестели после моего сока... хи-хи. Я уже вижу белые нити, если провожу вдоль них."@</ToTranslate>
+  </String>
+  <String index="794">
+    <ToTranslate>ensy0217</ToTranslate>
+  </String>
+  <String index="795">
+    <ToTranslate>Эншо$"Н-не говори что... ты уже...! Б-Бушу-сан!?"@</ToTranslate>
+  </String>
+  <String index="796">
+    <ToTranslate>buns0175</ToTranslate>
+  </String>
+  <String index="797">
+    <ToTranslate>Бушу$"Что?"@</ToTranslate>
+  </String>
+  <String index="798">
+    <ToTranslate>ensy0218</ToTranslate>
+  </String>
+  <String index="799">
+    <ToTranslate>Эншо$"Ч-что ты собираешься сделать...?"@</ToTranslate>
+  </String>
+  <String index="800">
+    <ToTranslate>buns0176</ToTranslate>
+  </String>
+  <String index="801">
+    <ToTranslate>Бушу$"Думаю, мне будет очень приятно если ткнуть этим членом прямиком в ваши сиьки..."@</ToTranslate>
+  </String>
+  <String index="802">
+    <ToTranslate>ensy0219</ToTranslate>
+  </String>
+  <String index="803">
+    <ToTranslate>Эншо$"Стоп! Не делай этого, а-а-а!"@</ToTranslate>
+  </String>
+  <String index="804">
+    <ToTranslate>buns0177</ToTranslate>
+  </String>
+  <String index="805">
+    <ToTranslate>Бушу$"Ого... они же огромные...!"@</ToTranslate>
+  </String>
+  <String index="806">
+    <ToTranslate>ganr0190</ToTranslate>
+  </String>
+  <String index="807">
+    <ToTranslate>Ганрю$"Что там, тебе нравится, Бун-чан?"@</ToTranslate>
+  </String>
+  <String index="808">
+    <ToTranslate>buns0178</ToTranslate>
+  </String>
+  <String index="809">
+    <ToTranslate>Бушу$"Мягкие и очень тёплые... он полностью утонул в них... а-а-а, вот это ощущение..."@</ToTranslate>
+  </String>
+  <String index="810">
+    <ToTranslate>ensy0220</ToTranslate>
+  </String>
+  <String index="811">
+    <ToTranslate>Эншо$"Чувствую что-то липкое......между грудями... Б-Бушу-сан... прекрати... прекрати двигаться!"@</ToTranslate>
+  </String>
+  <String index="812">
+    <ToTranslate>$Хлюп... хлюп-хлюп... @</ToTranslate>
+  </String>
+  <String index="813">
+    <ToTranslate>buns0179</ToTranslate>
+  </String>
+  <String index="814">
+    <ToTranslate>Бушу$"Э-Эншо-сама... сосите его..."@</ToTranslate>
+  </String>
+  <String index="815">
+    <ToTranslate>ensy0221</ToTranslate>
+  </String>
+  <String index="816">
+    <ToTranslate>Эншо$"А-а... м-м-м... ум... у-ум... м-м-м..."@</ToTranslate>
+  </String>
+  <String index="817">
+    <ToTranslate>buns0180</ToTranslate>
+  </String>
+  <String index="818">
+    <ToTranslate>Бушу$"О-о... вы потрясающи, Рэйха-сама..."@</ToTranslate>
+  </String>
+  <String index="819">
+    <ToTranslate>ganr0191</ToTranslate>
+  </String>
+  <String index="820">
+    <ToTranslate>Ганрю$"Это так возбуждающе..."@</ToTranslate>
+  </String>
+  <String index="821">
+    <ToTranslate>buns0181</ToTranslate>
+  </String>
+  <String index="822">
+    <ToTranslate>Бушу$"Позже вы тоже сможете почувствовать это, но сейчас вы не должны останавливаться."@</ToTranslate>
+  </String>
+  <String index="823">
+    <ToTranslate>ensy0222</ToTranslate>
+  </String>
+  <String index="824">
+    <ToTranslate>Эншо$"П-прекрати это неме... у-у-у."@</ToTranslate>
+  </String>
+  <String index="825">
+    <ToTranslate>ganr0192</ToTranslate>
+  </String>
+  <String index="826">
+    <ToTranslate>Ганрю$"Зачем? Неужели вам не нравится...?"@</ToTranslate>
+  </String>
+  <String index="827">
+    <ToTranslate>ensy0223</ToTranslate>
+  </String>
+  <String index="828">
+    <ToTranslate>Эншо$"Хах! Ганрю-сан, хватит тыкать мою грудь...!"@</ToTranslate>
+  </String>
+  <String index="829">
+    <ToTranslate>ganr0193</ToTranslate>
+  </String>
+  <String index="830">
+    <ToTranslate>Ганрю$"Ухты, ваша грудь такая мягкая... наверное находиться внутри них одно удовольствие..." @</ToTranslate>
+  </String>
+  <String index="831">
+    <ToTranslate>ensy0224</ToTranslate>
+  </String>
+  <String index="832">
+    <ToTranslate>Эншо$"Г-Ганрю-сан... не прикасайся этим к соскам... а-а... какое же оно... слизское..."@</ToTranslate>
+  </String>
+  <String index="833">
+    <ToTranslate>ganr0194</ToTranslate>
+  </String>
+  <String index="834">
+    <ToTranslate>Ганрю$"Ваши соски твердеют. Разве вас это не заводит?" @</ToTranslate>
+  </String>
+  <String index="835">
+    <ToTranslate>ensy0225</ToTranslate>
+  </String>
+  <String index="836">
+    <ToTranslate>Эншо$"Н-нет..."@</ToTranslate>
+  </String>
+  <String index="837">
+    <ToTranslate>ganr0195</ToTranslate>
+  </String>
+  <String index="838">
+    <ToTranslate>Ганрю$"Ещё как заводит, я и сама частенько получаю удовольствие когда говорю нет."@</ToTranslate>
+  </String>
+  <String index="839">
+    <ToTranslate>buns0182</ToTranslate>
+  </String>
+  <String index="840">
+    <ToTranslate>Бушу$"Это правда, Тоши?"@</ToTranslate>
+  </String>
+  <String index="841">
+    <ToTranslate>ganr0196</ToTranslate>
+  </String>
+  <String index="842">
+    <ToTranslate>Ганрю$"Да... иногда, когда меня что-то смущает... равзе ты сама так не делаешь?" @</ToTranslate>
+  </String>
+  <String index="843">
+    <ToTranslate>buns0183</ToTranslate>
+  </String>
+  <String index="844">
+    <ToTranslate>Бушу$"Ну, иногда."@</ToTranslate>
+  </String>
+  <String index="845">
+    <ToTranslate>ganr0197</ToTranslate>
+  </String>
+  <String index="846">
+    <ToTranslate>Ганрю$"А теперь, вы ведь нам скажете, когда вам будет приятно, правда?"@</ToTranslate>
+  </String>
+  <String index="847">
+    <ToTranslate>ensy0226</ToTranslate>
+  </String>
+  <String index="848">
+    <ToTranslate>Эншо$"Нет... мне совсем это не... а-ах."@</ToTranslate>
+  </String>
+  <String index="849">
+    <ToTranslate>ganr0198</ToTranslate>
+  </String>
+  <String index="850">
+    <ToTranslate>Ганрю$"Ваши соски уже блестят от моих выделений... выглядят такими заманчивыми..."@</ToTranslate>
+  </String>
+  <String index="851">
+    <ToTranslate>ensy0227</ToTranslate>
+  </String>
+  <String index="852">
+    <ToTranslate>Эншо$"Ха-а...! Прошу только не... облизывай их..."@</ToTranslate>
+  </String>
+  <String index="853">
+    <ToTranslate>ganr0199</ToTranslate>
+  </String>
+  <String index="854">
+    <ToTranslate>Ганрю$"Бун-чан, а ты умеешь получать удовльствие. Я прямо между твоим членом и её сиськами..."@</ToTranslate>
+  </String>
+  <String index="855">
+    <ToTranslate>$Брызг, брызг, брызг... хлоп.@</ToTranslate>
+  </String>
+  <String index="856">
+    <ToTranslate>ensy0228</ToTranslate>
+  </String>
+  <String index="857">
+    <ToTranslate>Эншо$"Ум, м-м-м...а-а... а-а-а..."@</ToTranslate>
+  </String>
+  <String index="858">
+    <ToTranslate>buns0184</ToTranslate>
+  </String>
+  <String index="859">
+    <ToTranslate>Бушу$"Ах, это ни с чем не сравнить..."@</ToTranslate>
+  </String>
+  <String index="860">
+    <ToTranslate>ganr0200</ToTranslate>
+  </String>
+  <String index="861">
+    <ToTranslate>Ганрю$"О...... Бун-чан, можно и мне после тебя?"@</ToTranslate>
+  </String>
+  <String index="862">
+    <ToTranslate>buns0185</ToTranslate>
+  </String>
+  <String index="863">
+    <ToTranslate>Бушу$"Конечно. Возможно позже я и сама захочу чтобы ты повторила это со мной."@</ToTranslate>
+  </String>
+  <String index="864">
+    <ToTranslate>ganr0201</ToTranslate>
+  </String>
+  <String index="865">
+    <ToTranslate>Ганрю$"Хе-хе, только скажи."@</ToTranslate>
+  </String>
+  <String index="866">
+    <ToTranslate>buns0186</ToTranslate>
+  </String>
+  <String index="867">
+    <ToTranslate>Бушу$"Рейха-сама, прошу, помогите ей, не дайте ей почувствовать себя одинокой..."@</ToTranslate>
+  </String>
+  <String index="868">
+    <ToTranslate>ensy0229</ToTranslate>
+  </String>
+  <String index="869">
+    <ToTranslate>Эншо$"Ум-м... м-м-м... я... не могу..."@</ToTranslate>
+  </String>
+  <String index="870">
+    <ToTranslate>ganr0202</ToTranslate>
+  </String>
+  <String index="871">
+    <ToTranslate>Ганрю$"Не нужно, я уже счтастлива что могу видеть восторг на её лице."@</ToTranslate>
+  </String>
+  <String index="872">
+    <ToTranslate>buns0187</ToTranslate>
+  </String>
+  <String index="873">
+    <ToTranslate>Бушу$"Так нельзя, Рэйха-сама, прошу, прикоснитесь к ней свободной рукой..."@</ToTranslate>
+  </String>
+  <String index="874">
+    <ToTranslate>ensy0230</ToTranslate>
+  </String>
+  <String index="875">
+    <ToTranslate>Эншо$"М-м... ум, нет... м-м, я... не хочу..."@</ToTranslate>
+  </String>
+  <String index="876">
+    <ToTranslate>buns0188</ToTranslate>
+  </String>
+  <String index="877">
+    <ToTranslate>Бушу$"Ой, но позже вы ведь позволите сделать это и Тоши."@</ToTranslate>
+  </String>
+  <String index="878">
+    <ToTranslate>ensy0231</ToTranslate>
+  </String>
+  <String index="879">
+    <ToTranslate>Эншо$"М-м-м, м-м... ум-м..."@</ToTranslate>
+  </String>
+  <String index="880">
+    <ToTranslate>buns0189</ToTranslate>
+  </String>
+  <String index="881">
+    <ToTranslate>Бушу$"Рэйха-сама... это потрясающе..."@</ToTranslate>
+  </String>
+  <String index="882">
+    <ToTranslate>ganr0203</ToTranslate>
+  </String>
+  <String index="883">
+    <ToTranslate>Ганрю$"Бун-чан... ещё немного и я снова кончу..."@</ToTranslate>
+  </String>
+  <String index="884">
+    <ToTranslate>buns0190</ToTranslate>
+  </String>
+  <String index="885">
+    <ToTranslate>Бушу$"Что, снова? Сколько же раз ты уже это сделала...?"@</ToTranslate>
+  </String>
+  <String index="886">
+    <ToTranslate>ganr0204</ToTranslate>
+  </String>
+  <String index="887">
+    <ToTranslate>Ганрю$"Н-но это же настолько приятно... один только вид сисек Рэйхи-самы так возбуждает..."@</ToTranslate>
+  </String>
+  <String index="888">
+    <ToTranslate>buns0191</ToTranslate>
+  </String>
+  <String index="889">
+    <ToTranslate>Бушу$"О-ох, ты слишком чувствительна Тоши... что ж, тогда и я это сделаю..."@</ToTranslate>
+  </String>
+  <String index="890">
+    <ToTranslate>$Хлюп-хлюп.@</ToTranslate>
+  </String>
+  <String index="891">
+    <ToTranslate>ensy0232</ToTranslate>
+  </String>
+  <String index="892">
+    <ToTranslate>Эншо$"Уа-а-а! Б-Бушу сан... так слишком быстро... хах, хм-м-м!"@</ToTranslate>
+  </String>
+  <String index="893">
+    <ToTranslate>buns0192</ToTranslate>
+  </String>
+  <String index="894">
+    <ToTranslate>Бушу$"А-а-а! Рэйха-сама!"@</ToTranslate>
+  </String>
+  <String index="895">
+    <ToTranslate>ganr0205</ToTranslate>
+  </String>
+  <String index="896">
+    <ToTranslate>Ганрю$"Ум-м-м!"@</ToTranslate>
+  </String>
+  <String index="897">
+    <ToTranslate>$Брызг! Брызг! Брызг-брызг!@</ToTranslate>
+  </String>
+  <String index="898">
+    <ToTranslate>$Хлюп! Хлюп!"@</ToTranslate>
+  </String>
+  <String index="899">
+    <ToTranslate>flash</ToTranslate>
+  </String>
+  <String index="900">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="901">
+    <ToTranslate>ecg_ens13b</ToTranslate>
+  </String>
+  <String index="902">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="903">
+    <ToTranslate>buns0193</ToTranslate>
+  </String>
+  <String index="904">
+    <ToTranslate>Бушу$"У-у... Эншо-сама..."@</ToTranslate>
+  </String>
+  <String index="905">
+    <ToTranslate>ensy0233</ToTranslate>
+  </String>
+  <String index="906">
+    <ToTranslate>Эншо$"Ум... а-а... а-а-ах...... я... я..."@</ToTranslate>
+  </String>
+  <String index="907">
+    <ToTranslate>ganr0206</ToTranslate>
+  </String>
+  <String index="908">
+    <ToTranslate>Ганрю$"Ухты... Рэйха-сама уже вся покрыта нашим семенем..."@</ToTranslate>
+  </String>
+  <String index="909">
+    <ToTranslate>buns0194</ToTranslate>
+  </String>
+  <String index="910">
+    <ToTranslate>Бушу$"Хе-хе, как и грудь..."@</ToTranslate>
+  </String>
+  <String index="911">
+    <ToTranslate>$Хлюп... хлюп... хлюп.@</ToTranslate>
+  </String>
+  <String index="912">
+    <ToTranslate>buns0195</ToTranslate>
+  </String>
+  <String index="913">
+    <ToTranslate>Бушу$"Смотри... ложбинка в грудях полностью заполнена..."@</ToTranslate>
+  </String>
+  <String index="914">
+    <ToTranslate>ensy0234</ToTranslate>
+  </String>
+  <String index="915">
+    <ToTranslate>Эншо$"Ха-а... прекратите брызгать... на меня... а-а..."@</ToTranslate>
+  </String>
+  <String index="916">
+    <ToTranslate>buns0196</ToTranslate>
+  </String>
+  <String index="917">
+    <ToTranslate>Бушу$"Н-но Рэйха-сама, я чувствую себя... просто невероятно..."@</ToTranslate>
+  </String>
+  <String index="918">
+    <ToTranslate>ensy0235</ToTranslate>
+  </String>
+  <String index="919">
+    <ToTranslate>Эншо$"О нет... Бушу-сан, из него всё ещё капает... прошу, останови это осквернение моей груди... и... и всего остального."@</ToTranslate>
+  </String>
+  <String index="920">
+    <ToTranslate>ganr0207</ToTranslate>
+  </String>
+  <String index="921">
+    <ToTranslate>Ганрю$"Бун-тян, как же я завидую, ты можешь обтереть свой член о её сиськи..."@</ToTranslate>
+  </String>
+  <String index="922">
+    <ToTranslate>ensy0236</ToTranslate>
+  </String>
+  <String index="923">
+    <ToTranslate>Эншо$"Ум... Ганрю...сан...умг."@</ToTranslate>
+  </String>
+  <String index="924">
+    <ToTranslate>ganr0208</ToTranslate>
+  </String>
+  <String index="925">
+    <ToTranslate>Ганрю$"Рэйха-сама, пожалуйста, и мой тоже."@</ToTranslate>
+  </String>
+  <String index="926">
+    <ToTranslate>ensy0237</ToTranslate>
+  </String>
+  <String index="927">
+    <ToTranslate>Эншо$"Хум... ум, м-м-м...!"@</ToTranslate>
+  </String>
+  <String index="928">
+    <ToTranslate>ganr0209</ToTranslate>
+  </String>
+  <String index="929">
+    <ToTranslate>Ганрю$"А-а-а... ваш рот такой тёплый."@</ToTranslate>
+  </String>
+  <String index="930">
+    <ToTranslate>ensy0238</ToTranslate>
+  </String>
+  <String index="931">
+    <ToTranslate>Эншо$"Хм-м-м!"@</ToTranslate>
+  </String>
+  <String index="932">
+    <ToTranslate>ganr0210</ToTranslate>
+  </String>
+  <String index="933">
+    <ToTranslate>Ганрю$"Рэйха-сама, прошу, сосите вершину."@</ToTranslate>
+  </String>
+  <String index="934">
+    <ToTranslate>ensy0239</ToTranslate>
+  </String>
+  <String index="935">
+    <ToTranslate>Эншо$"Ум, м-м, м-м, м-м-м..."@</ToTranslate>
+  </String>
+  <String index="936">
+    <ToTranslate>ganr0211</ToTranslate>
+  </String>
+  <String index="937">
+    <ToTranslate>Ганрю$"А-а-ах! О да...! просто фантастика...!"@</ToTranslate>
+  </String>
+  <String index="938">
+    <ToTranslate>buns0197</ToTranslate>
+  </String>
+  <String index="939">
+    <ToTranslate>Бушу$"Тоши, я завидую... что ты чувствуешь?"@</ToTranslate>
+  </String>
+  <String index="940">
+    <ToTranslate>ganr0212</ToTranslate>
+  </String>
+  <String index="941">
+    <ToTranslate>Ганрю$"Это настолько... приятно... вы прекрасно сосёте, Рэйха-сама... я вот-вот снова кончу..."@</ToTranslate>
+  </String>
+  <String index="942">
+    <ToTranslate>ensy0240</ToTranslate>
+  </String>
+  <String index="943">
+    <ToTranslate>Эншо$"Ум... га... Ганрю... сан... прошу не... засовывай... хум-м-м-м."@</ToTranslate>
+  </String>
+  <String index="944">
+    <ToTranslate>buns0198</ToTranslate>
+  </String>
+  <String index="945">
+    <ToTranslate>Бушу$"Ох, твой член оттопырил ей щёку... это ведь он?"@</ToTranslate>
+  </String>
+  <String index="946">
+    <ToTranslate>ganr0213</ToTranslate>
+  </String>
+  <String index="947">
+    <ToTranslate>Ганрю$"Д-да... это мой пенис... как приятно им упираться во что-то...!"@</ToTranslate>
+  </String>
+  <String index="948">
+    <ToTranslate>buns0199</ToTranslate>
+  </String>
+  <String index="949">
+    <ToTranslate>Бушу$"Вот как, так ты можешь прочувствовать её щёку? Рэйха-сама, тоже чувствуете его?"@</ToTranslate>
+  </String>
+  <String index="950">
+    <ToTranslate>ensy0241</ToTranslate>
+  </String>
+  <String index="951">
+    <ToTranslate>Эншо$"Разумеется я... Ум... не... ум... м-м...!"@</ToTranslate>
+  </String>
+  <String index="952">
+    <ToTranslate>ganr0214</ToTranslate>
+  </String>
+  <String index="953">
+    <ToTranslate>Ганрю$"Кончаю... я снова кончаю!"@</ToTranslate>
+  </String>
+  <String index="954">
+    <ToTranslate>ensy0242</ToTranslate>
+  </String>
+  <String index="955">
+    <ToTranslate>Эншо$"Ум-м-м-м!"@</ToTranslate>
+  </String>
+  <String index="956">
+    <ToTranslate>flash</ToTranslate>
+  </String>
+  <String index="957">
+    <ToTranslate>$Брызг! Брызг-брызг-брызг...!@</ToTranslate>
+  </String>
+  <String index="958">
+    <ToTranslate>ensy0243</ToTranslate>
+  </String>
+  <String index="959">
+    <ToTranslate>Эншо$"Кх-кх-кх...!"@</ToTranslate>
+  </String>
+  <String index="960">
+    <ToTranslate>buns0200</ToTranslate>
+  </String>
+  <String index="961">
+    <ToTranslate>Бушу$"Рэйха-сама... не выплёвывайте её сперму..."@</ToTranslate>
+  </String>
+  <String index="962">
+    <ToTranslate>ensy0244</ToTranslate>
+  </String>
+  <String index="963">
+    <ToTranslate>Эншо$"Но... Ганрю-сан... её слишком много..."@</ToTranslate>
+  </String>
+  <String index="964">
+    <ToTranslate>ganr0215</ToTranslate>
+  </String>
+  <String index="965">
+    <ToTranslate>Ганрю$"О-ох... я не виновата, просто это было настолько приятно... скажи, Бун-чан?"@</ToTranslate>
+  </String>
+  <String index="966">
+    <ToTranslate>buns0201</ToTranslate>
+  </String>
+  <String index="967">
+    <ToTranslate>Бушу$"Ещё бы... ну, Рэйха-сама...?"@</ToTranslate>
+  </String>
+  <String index="968">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="969">
+    <ToTranslate>ecg_ens14a</ToTranslate>
+  </String>
+  <String index="970">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="971">
+    <ToTranslate>ensy0245</ToTranslate>
+  </String>
+  <String index="972">
+    <ToTranslate>Эншо$"Нет! Нет-нет! Что угодно...только...нет!"@</ToTranslate>
+  </String>
+  <String index="973">
+    <ToTranslate>ganr0216</ToTranslate>
+  </String>
+  <String index="974">
+    <ToTranslate>Ганрю$"Сейчас мы уже не можем остановиться... а сейчас, мы можем кончить в вас?" @</ToTranslate>
+  </String>
+  <String index="975">
+    <ToTranslate>ensy0246</ToTranslate>
+  </String>
+  <String index="976">
+    <ToTranslate>Эншо$"Нет не можете... единственный кому это позволено... это..."@</ToTranslate>
+  </String>
+  <String index="977">
+    <ToTranslate>buns0202</ToTranslate>
+  </String>
+  <String index="978">
+    <ToTranslate>Бушу$"Но мы уже не способны ......сдерживаться... и я вижу что вы уже...... вся влажная снизу. Вот..."@</ToTranslate>
+  </String>
+  <String index="979">
+    <ToTranslate>$Хлюп... хлюп...@</ToTranslate>
+  </String>
+  <String index="980">
+    <ToTranslate>ensy0247</ToTranslate>
+  </String>
+  <String index="981">
+    <ToTranslate>Эншо$"Ва-а-а... хватит уже...! П-почему вы себя так ведёте... что с вами сл... а! Ганрю-сан, это же моя попа..!"@</ToTranslate>
+  </String>
+  <String index="982">
+    <ToTranslate>ganr0217</ToTranslate>
+  </String>
+  <String index="983">
+    <ToTranslate>Ганрю$"Но когда я прикасаюсь к вашей дырочке она сжимается от счастья."@</ToTranslate>
+  </String>
+  <String index="984">
+    <ToTranslate>ensy0248</ToTranslate>
+  </String>
+  <String index="985">
+    <ToTranslate>Эншо$"Нет... прекрати меня там щупать..."@</ToTranslate>
+  </String>
+  <String index="986">
+    <ToTranslate>buns0203</ToTranslate>
+  </String>
+  <String index="987">
+    <ToTranslate>Бушу$"Можно... могу я уже в вас войти...? Вы ведь уже готовы к этому?"@</ToTranslate>
+  </String>
+  <String index="988">
+    <ToTranslate>ensy0249</ToTranslate>
+  </String>
+  <String index="989">
+    <ToTranslate>Эншо$"Нет, не надо! Я не готова, и не уверена что вообще буду готова когда-нибудь...!"@</ToTranslate>
+  </String>
+  <String index="990">
+    <ToTranslate>buns0204</ToTranslate>
+  </String>
+  <String index="991">
+    <ToTranslate>Бушу$"Аа? Рэйха-сама, вы что, не хотите продолжить?"@</ToTranslate>
+  </String>
+  <String index="992">
+    <ToTranslate>ensy0250</ToTranslate>
+  </String>
+  <String index="993">
+    <ToTranslate>Эншо$"Нет... никогда я... я, я никогда ещё......не делала такого, и не занималась сексом......"@</ToTranslate>
+  </String>
+  <String index="994">
+    <ToTranslate>ganr0218</ToTranslate>
+  </String>
+  <String index="995">
+    <ToTranslate>Ганрю$"Так это будет ваш первый анальный секс? Значит, вам будет больно?"@</ToTranslate>
+  </String>
+  <String index="996">
+    <ToTranslate>ensy0251</ToTranslate>
+  </String>
+  <String index="997">
+    <ToTranslate>Эншо$"Разумеется... очень больно..."@</ToTranslate>
+  </String>
+  <String index="998">
+    <ToTranslate>buns0205</ToTranslate>
+  </String>
+  <String index="999">
+    <ToTranslate>Ганрю$"Что ж, она весь сама Эншо-сама."@</ToTranslate>
+  </String>
+  <String index="1000">
+    <ToTranslate>ganr0219</ToTranslate>
+  </String>
+  <String index="1001">
+    <ToTranslate>Ганрю$"Да, она справится."@</ToTranslate>
+  </String>
+  <String index="1002">
+    <ToTranslate>ensy0252</ToTranslate>
+  </String>
+  <String index="1003">
+    <ToTranslate>Эншо$"Э-э-э... вы за кого меня принимаете...? Уа... что вы задумали...?"@</ToTranslate>
+  </String>
+  <String index="1004">
+    <ToTranslate>$Шлёп... хлюп... хлюп-хлюп.@</ToTranslate>
+  </String>
+  <String index="1005">
+    <ToTranslate>ensy0253</ToTranslate>
+  </String>
+  <String index="1006">
+    <ToTranslate>Эншо$"А-ай, а-а-а!"@</ToTranslate>
+  </String>
+  <String index="1007">
+    <ToTranslate>$Брызг... брызг.@</ToTranslate>
+  </String>
+  <String index="1008">
+    <ToTranslate>ensy0254</ToTranslate>
+  </String>
+  <String index="1009">
+    <ToTranslate>Эншо$"Ай... уа... а-а... а-ах......"@</ToTranslate>
+  </String>
+  <String index="1010">
+    <ToTranslate>buns0206</ToTranslate>
+  </String>
+  <String index="1011">
+    <ToTranslate>Бушу$"Ахах... Рэйха-сама, это и правда ваш первый раз... хе-хе, ваша девственность достанется нам..." @</ToTranslate>
+  </String>
+  <String index="1012">
+    <ToTranslate>ensy0255</ToTranslate>
+  </String>
+  <String index="1013">
+    <ToTranslate>Эншо$"Ур... эу-у... больно... как больно... и-и-и... ай..."@</ToTranslate>
+  </String>
+  <String index="1014">
+    <ToTranslate>ganr0220</ToTranslate>
+  </String>
+  <String index="1015">
+    <ToTranslate>Ганрю$"Бун-чан... чувствую... я чувствую твой член внутри госпожи Эншо..."@</ToTranslate>
+  </String>
+  <String index="1016">
+    <ToTranslate>ensy0256</ToTranslate>
+  </String>
+  <String index="1017">
+    <ToTranslate>Эншо$"Ик... ни слова больше..."@</ToTranslate>
+  </String>
+  <String index="1018">
+    <ToTranslate>buns0207</ToTranslate>
+  </String>
+  <String index="1019">
+    <ToTranslate>Бушу$"Да... я тоже чувствую твой... он так и дрожит внутри Рэйхи-самы..."@</ToTranslate>
+  </String>
+  <String index="1020">
+    <ToTranslate>ganr0221</ToTranslate>
+  </String>
+  <String index="1021">
+    <ToTranslate>Ганрю$"Рэйха-сама... я начну очень медленно... ладно?"@</ToTranslate>
+  </String>
+  <String index="1022">
+    <ToTranslate>ensy0257</ToTranslate>
+  </String>
+  <String index="1023">
+    <ToTranslate>Эншо$"Нет... стой... а-а...! Ай... у-у, ах.... а-а-а! Ур... о-о-ой..."@</ToTranslate>
+  </String>
+  <String index="1024">
+    <ToTranslate>buns0208</ToTranslate>
+  </String>
+  <String index="1025">
+    <ToTranslate>Бушу$"Невероятные ощущения, Рэйха-сама... я прямо чувствую как он сдавливается..."@</ToTranslate>
+  </String>
+  <String index="1026">
+    <ToTranslate>ganr0222</ToTranslate>
+  </String>
+  <String index="1027">
+    <ToTranslate>Ганрю$"Ваш анус тоже такой привлекательный... уверена, что на этот раз кончу крайне быстро... так приятно... что я не могу остановиться..."@</ToTranslate>
+  </String>
+  <String index="1028">
+    <ToTranslate>buns0209</ToTranslate>
+  </String>
+  <String index="1029">
+    <ToTranslate>Бушу$"Тоши, ты же только что кончила, продержись хоть немного, сможешь? До тех пока Рэйха-сама не почувствует наслаждение, ладно?"@</ToTranslate>
+  </String>
+  <String index="1030">
+    <ToTranslate>ganr0223</ToTranslate>
+  </String>
+  <String index="1031">
+    <ToTranslate>Ганрю$"Ладно... Рэйха-сама, получим удовольствие вместе."@</ToTranslate>
+  </String>
+  <String index="1032">
+    <ToTranslate>ensy0258</ToTranslate>
+  </String>
+  <String index="1033">
+    <ToTranslate>Эншо$"Хах... ум, ой... ик... ум, м-м-м..."@</ToTranslate>
+  </String>
+  <String index="1034">
+    <ToTranslate>buns0210</ToTranslate>
+  </String>
+  <String index="1035">
+    <ToTranslate>Бушу$"Так, Тоши, подстройся к моим движениям."@</ToTranslate>
+  </String>
+  <String index="1036">
+    <ToTranslate>ganr0224</ToTranslate>
+  </String>
+  <String index="1037">
+    <ToTranslate>Ганрю$"Хо... рошо. Ум, вот так..."@</ToTranslate>
+  </String>
+  <String index="1038">
+    <ToTranslate>ensy0259</ToTranslate>
+  </String>
+  <String index="1039">
+    <ToTranslate>Эншо$"А-ах... ваши штуки... уа-а-а...! Они двигаются во мне......!"@</ToTranslate>
+  </String>
+  <String index="1040">
+    <ToTranslate>buns0211</ToTranslate>
+  </String>
+  <String index="1041">
+    <ToTranslate>Бушу$"Уф... Рэйха-сама, Рэйха-сама, разве это вас не заводит...?"@</ToTranslate>
+  </String>
+  <String index="1042">
+    <ToTranslate>ensy0260</ToTranslate>
+  </String>
+  <String index="1043">
+    <ToTranslate>Эншо$"Н-нет... конечно же нет... уф, а-а-ах! Б-Бушу-сан... ты слишком настойчива...!"@</ToTranslate>
+  </String>
+  <String index="1044">
+    <ToTranslate>ganr0225</ToTranslate>
+  </String>
+  <String index="1045">
+    <ToTranslate>Ганрю$"Хах! Бун-чан! Твой член коснулся меня...!"@</ToTranslate>
+  </String>
+  <String index="1046">
+    <ToTranslate>buns0212</ToTranslate>
+  </String>
+  <String index="1047">
+    <ToTranslate>Бушу$"Смотри Тоши, тебе тоже стоит попробовать."@</ToTranslate>
+  </String>
+  <String index="1048">
+    <ToTranslate>ganr0226</ToTranslate>
+  </String>
+  <String index="1049">
+    <ToTranslate>Ганрю$"Х-орошо... хм-м..."@</ToTranslate>
+  </String>
+  <String index="1050">
+    <ToTranslate>$Хлоп-хлоп-хлоп!@</ToTranslate>
+  </String>
+  <String index="1051">
+    <ToTranslate>ensy0261</ToTranslate>
+  </String>
+  <String index="1052">
+    <ToTranslate>Эншо$"А-а-а-а-а! Ганрю...сан!"@</ToTranslate>
+  </String>
+  <String index="1053">
+    <ToTranslate>buns0213</ToTranslate>
+  </String>
+  <String index="1054">
+    <ToTranslate>Бушу$"Гаха...! Тоши... это... это что-то невообразимое..."@</ToTranslate>
+  </String>
+  <String index="1055">
+    <ToTranslate>ganr0227</ToTranslate>
+  </String>
+  <String index="1056">
+    <ToTranslate>Ганрю$"Теперь вместе..." @</ToTranslate>
+  </String>
+  <String index="1057">
+    <ToTranslate>buns0214</ToTranslate>
+  </String>
+  <String index="1058">
+    <ToTranslate>Бушу$"Да... Тоши, Рэйха-сама!"@</ToTranslate>
+  </String>
+  <String index="1059">
+    <ToTranslate>$Хлоп-хлоп, бырзг!@</ToTranslate>
+  </String>
+  <String index="1060">
+    <ToTranslate>ensy0262</ToTranslate>
+  </String>
+  <String index="1061">
+    <ToTranslate>Эншо$"Уа-а-а! Вы же порвёте меня!"@</ToTranslate>
+  </String>
+  <String index="1062">
+    <ToTranslate>ganr0228</ToTranslate>
+  </String>
+  <String index="1063">
+    <ToTranslate>Ганрю$"Ха-а-а! Бун-ча-ан!"@</ToTranslate>
+  </String>
+  <String index="1064">
+    <ToTranslate>buns0215</ToTranslate>
+  </String>
+  <String index="1065">
+    <ToTranslate>Бушу$"А-а-а! Это чертовски приятно...!"@</ToTranslate>
+  </String>
+  <String index="1066">
+    <ToTranslate>ganr0229</ToTranslate>
+  </String>
+  <String index="1067">
+    <ToTranslate>Ганрю$"Хе-хе... Рэйха-сама... я же знаю, что вам это начало нравиться..."@</ToTranslate>
+  </String>
+  <String index="1068">
+    <ToTranslate>ensy0263</ToTranslate>
+  </String>
+  <String index="1069">
+    <ToTranslate>Эншо$"Нет... такое... полностью невозможно..."@</ToTranslate>
+  </String>
+  <String index="1070">
+    <ToTranslate>buns0216</ToTranslate>
+  </String>
+  <String index="1071">
+    <ToTranslate>Бушу$"Ошибаетесь... ваша киска... такая влажная... а ваше лицо... переполнено радостью!"@</ToTranslate>
+  </String>
+  <String index="1072">
+    <ToTranslate>ganr0230</ToTranslate>
+  </String>
+  <String index="1073">
+    <ToTranslate>Ганрю$"Точно... ваш анус... и такой жёсткий...! Умгх...!"@</ToTranslate>
+  </String>
+  <String index="1074">
+    <ToTranslate>buns0217</ToTranslate>
+  </String>
+  <String index="1075">
+    <ToTranslate>Бушу$"В-вы ведь всегда мечтали... ум-м, чтоб вас поимели в оба отверстия... сразу... правда...? Хе-хе."@</ToTranslate>
+  </String>
+  <String index="1076">
+    <ToTranslate>ensy0264</ToTranslate>
+  </String>
+  <String index="1077">
+    <ToTranslate>Эншо$"Н-нет... я... я бы никогда...! Я из благородной семьи! Я...а-а-а-а-а! Я бы никогда... ах, не стала мечтать о чём-то столь отвратительном... и это... это возмутительно!"@</ToTranslate>
+  </String>
+  <String index="1078">
+    <ToTranslate>buns0218</ToTranslate>
+  </String>
+  <String index="1079">
+    <ToTranslate>Бушу$"Обманываете... вы всегда с завистью наблюдали... а-а... когда Тоши и я занимались любовью... ур..."@</ToTranslate>
+  </String>
+  <String index="1080">
+    <ToTranslate>ganr0231</ToTranslate>
+  </String>
+  <String index="1081">
+    <ToTranslate>Ганрю$"Хе-хе. Рэйха-сама... вам просто страшно потому... что это впервые... м-м...да?"@</ToTranslate>
+  </String>
+  <String index="1082">
+    <ToTranslate>buns0219</ToTranslate>
+  </String>
+  <String index="1083">
+    <ToTranslate>Бушу$"Вот, ещё немного."@</ToTranslate>
+  </String>
+  <String index="1084">
+    <ToTranslate>ensy0265</ToTranslate>
+  </String>
+  <String index="1085">
+    <ToTranslate>Эншо$"Уа-а-а...!"@</ToTranslate>
+  </String>
+  <String index="1086">
+    <ToTranslate>ganr0232</ToTranslate>
+  </String>
+  <String index="1087">
+    <ToTranslate>Ганрю$"Это зеркало демонстрирует всю вашу развращённость, Рэйха-сама."@</ToTranslate>
+  </String>
+  <String index="1088">
+    <ToTranslate>ensy0266</ToTranslate>
+  </String>
+  <String index="1089">
+    <ToTranslate>Эншо$"Хах... нет... нет...!"@</ToTranslate>
+  </String>
+  <String index="1090">
+    <ToTranslate>buns0220</ToTranslate>
+  </String>
+  <String index="1091">
+    <ToTranslate>Бушу$"Оба ваши овтерстия заняты... и из вас выходит невероятное количество сока..."@</ToTranslate>
+  </String>
+  <String index="1092">
+    <ToTranslate>$Хлюп... хлюп... хлюп...@</ToTranslate>
+  </String>
+  <String index="1093">
+    <ToTranslate>ganr0233</ToTranslate>
+  </String>
+  <String index="1094">
+    <ToTranslate>Ганрю$"Вы ведь всегда...ах... хотели быть... ах... оттраханой подобным образом...?"@</ToTranslate>
+  </String>
+  <String index="1095">
+    <ToTranslate>ensy0267</ToTranslate>
+  </String>
+  <String index="1096">
+    <ToTranslate>Эншо$"Нет... это не... правда..."@</ToTranslate>
+  </String>
+  <String index="1097">
+    <ToTranslate>ganr0234</ToTranslate>
+  </String>
+  <String index="1098">
+    <ToTranslate>Ганрю$"Не нужно этого скрывать, Рэйха-сама... ведь мы всегда были... ум, с вами... Бун-чан и я..."@</ToTranslate>
+  </String>
+  <String index="1099">
+    <ToTranslate>buns0221</ToTranslate>
+  </String>
+  <String index="1100">
+    <ToTranslate>Бушу$"Ну же... может хватит обманывать саму себя, Рэйха-сама...? А-а... Тоши, до чего это приятно...!"@</ToTranslate>
+  </String>
+  <String index="1101">
+    <ToTranslate>ganr0235</ToTranslate>
+  </String>
+  <String index="1102">
+    <ToTranslate>Ганрю$"Хах... что скажете, вам нравится?"@</ToTranslate>
+  </String>
+  <String index="1103">
+    <ToTranslate>buns0222</ToTranslate>
+  </String>
+  <String index="1104">
+    <ToTranslate>Бушу$"Рэйха-сама... должно быть вас переполняют ощущения... не каждый же день вас трахают в две дырки сразу...?"@</ToTranslate>
+  </String>
+  <String index="1105">
+    <ToTranslate>ensy0268</ToTranslate>
+  </String>
+  <String index="1106">
+    <ToTranslate>Эншо$"О-ох.. нет... я ни... сколечки не завожусь от этого."@</ToTranslate>
+  </String>
+  <String index="1107">
+    <ToTranslate>ganr0236</ToTranslate>
+  </String>
+  <String index="1108">
+    <ToTranslate>Ганрю$"Вы ведь притворяетесь, правда? На самом деле вы рады... что мы обе проникаем в вас одновременно... ну же, признайтесь?"@</ToTranslate>
+  </String>
+  <String index="1109">
+    <ToTranslate>ensy0269</ToTranslate>
+  </String>
+  <String index="1110">
+    <ToTranslate>Эншо$"Р-рада...? Н-нет..."@</ToTranslate>
+  </String>
+  <String index="1111">
+    <ToTranslate>buns0223</ToTranslate>
+  </String>
+  <String index="1112">
+    <ToTranslate>Бушу$"Ум-м, Тоши."@</ToTranslate>
+  </String>
+  <String index="1113">
+    <ToTranslate>ganr0237</ToTranslate>
+  </String>
+  <String index="1114">
+    <ToTranslate>Ганрю$"Да-а."@</ToTranslate>
+  </String>
+  <String index="1115">
+    <ToTranslate>$Хлюп-хлюп...@</ToTranslate>
+  </String>
+  <String index="1116">
+    <ToTranslate>ensy0270</ToTranslate>
+  </String>
+  <String index="1117">
+    <ToTranslate>Эншо$"А-а-а! Я не выдержу эт... ум!"@</ToTranslate>
+  </String>
+  <String index="1118">
+    <ToTranslate>ganr0238</ToTranslate>
+  </String>
+  <String index="1119">
+    <ToTranslate>Ганрю$"Видите? Вы сами хотите этого."@</ToTranslate>
+  </String>
+  <String index="1120">
+    <ToTranslate>ensy0271</ToTranslate>
+  </String>
+  <String index="1121">
+    <ToTranslate>Эншо$"Ум, ум..."@</ToTranslate>
+  </String>
+  <String index="1122">
+    <ToTranslate>buns0224</ToTranslate>
+  </String>
+  <String index="1123">
+    <ToTranslate>Бушу$"Вы жаждете наших членов, правда?"@</ToTranslate>
+  </String>
+  <String index="1124">
+    <ToTranslate>ensy0272</ToTranslate>
+  </String>
+  <String index="1125">
+    <ToTranslate>Эншо$"О-о... ум... м-м..."@</ToTranslate>
+  </String>
+  <String index="1126">
+    <ToTranslate>ganr0239</ToTranslate>
+  </String>
+  <String index="1127">
+    <ToTranslate>Ганрю$"В зеркале вы такая грустная, Рэйха-сама. Ваши отверстия ждут наших затычек."@</ToTranslate>
+  </String>
+  <String index="1128">
+    <ToTranslate>buns0225</ToTranslate>
+  </String>
+  <String index="1129">
+    <ToTranslate>Бушу$"Рэйха-сама, скажите честно, чего вы на самом деле хотите..."@</ToTranslate>
+  </String>
+  <String index="1130">
+    <ToTranslate>ganr0240</ToTranslate>
+  </String>
+  <String index="1131">
+    <ToTranslate>Ганрю$"Вы же мечтали чтобы вас жестоко оттрахали, верно?"@</ToTranslate>
+  </String>
+  <String index="1132">
+    <ToTranslate>ensy0273</ToTranslate>
+  </String>
+  <String index="1133">
+    <ToTranslate>Эншо$"Д-да... трахайте меня... сильнее..."@</ToTranslate>
+  </String>
+  <String index="1134">
+    <ToTranslate>buns0226</ToTranslate>
+  </String>
+  <String index="1135">
+    <ToTranslate>Бушу$"И? Чего вы хотите?"@</ToTranslate>
+  </String>
+  <String index="1136">
+    <ToTranslate>ensy0274</ToTranslate>
+  </String>
+  <String index="1137">
+    <ToTranslate>Эншо$"Ум, ум... и... дайте мне множество... спермы..."@</ToTranslate>
+  </String>
+  <String index="1138">
+    <ToTranslate>ganr0241</ToTranslate>
+  </String>
+  <String index="1139">
+    <ToTranslate>Ганрю$"Рэйха-сама, как называется штука, которую вы так хотите?"@</ToTranslate>
+  </String>
+  <String index="1140">
+    <ToTranslate>ensy0275</ToTranslate>
+  </String>
+  <String index="1141">
+    <ToTranslate>Эншо$"А-а... член, дайте мне оба своих члена..."@</ToTranslate>
+  </String>
+  <String index="1142">
+    <ToTranslate>buns0227</ToTranslate>
+  </String>
+  <String index="1143">
+    <ToTranslate>Бушу$"А что нужно сказать когда вы что-то просите?"@</ToTranslate>
+  </String>
+  <String index="1144">
+    <ToTranslate>ensy0276</ToTranslate>
+  </String>
+  <String index="1145">
+    <ToTranslate>Эншо$"Ум... у-у.. ах..."@</ToTranslate>
+  </String>
+  <String index="1146">
+    <ToTranslate>ganr0242</ToTranslate>
+  </String>
+  <String index="1147">
+    <ToTranslate>Ганрю$"Рэйха-сама, знаете, если вы плохо попросите мы можем и отказать вам?"@</ToTranslate>
+  </String>
+  <String index="1148">
+    <ToTranslate>$Хлюп... хлюп.@</ToTranslate>
+  </String>
+  <String index="1149">
+    <ToTranslate>ensy0277</ToTranslate>
+  </String>
+  <String index="1150">
+    <ToTranslate>Эншо$"А-а-а... ваши штуки... они касаются меня там...!"@</ToTranslate>
+  </String>
+  <String index="1151">
+    <ToTranslate>ganr0243</ToTranslate>
+  </String>
+  <String index="1152">
+    <ToTranslate>Ганрю$"Так чего вы в самом деле хотите? Или вам достаточно чтобы мы просто подвигались возле вашего входа?@</ToTranslate>
+  </String>
+  <String index="1153">
+    <ToTranslate>$Хлюп-хлюп-хлюп...@</ToTranslate>
+  </String>
+  <String index="1154">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="1155">
+    <ToTranslate>ecg_ens14b</ToTranslate>
+  </String>
+  <String index="1156">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="1157">
+    <ToTranslate>ensy0278</ToTranslate>
+  </String>
+  <String index="1158">
+    <ToTranslate>Эншо$"Войдите в меня... не дразните меня..."@</ToTranslate>
+  </String>
+  <String index="1159">
+    <ToTranslate>ganr0244</ToTranslate>
+  </String>
+  <String index="1160">
+    <ToTranslate>Ганрю$"И, что сейчас стоит сказать? Я не всуну его глубже пока вы не произнесёте волшебное слово."@</ToTranslate>
+  </String>
+  <String index="1161">
+    <ToTranslate>ensy0279</ToTranslate>
+  </String>
+  <String index="1162">
+    <ToTranslate>Эншо$"Нет......нет-нет-нет....по...жа, пожалуйста..."@</ToTranslate>
+  </String>
+  <String index="1163">
+    <ToTranslate>buns0228</ToTranslate>
+  </String>
+  <String index="1164">
+    <ToTranslate>Бушу$"Ну же, скажите громче."@</ToTranslate>
+  </String>
+  <String index="1165">
+    <ToTranslate>ensy0280</ToTranslate>
+  </String>
+  <String index="1166">
+    <ToTranslate>Эншо$"Прошу! Прошу! Прошу вас, жестоко оттрахайте меня и облейте меня спермой!"@</ToTranslate>
+  </String>
+  <String index="1167">
+    <ToTranslate>buns0229</ToTranslate>
+  </String>
+  <String index="1168">
+    <ToTranslate>Бушу$"Я хочу улсышать это снова."@</ToTranslate>
+  </String>
+  <String index="1169">
+    <ToTranslate>ensy0281</ToTranslate>
+  </String>
+  <String index="1170">
+    <ToTranslate>Эншо$"Прошу! Пожалуйтса, оскверниет меня своими членами! Прошу... прошу...!"@</ToTranslate>
+  </String>
+  <String index="1171">
+    <ToTranslate>ganr0245</ToTranslate>
+  </String>
+  <String index="1172">
+    <ToTranslate>Ганрю$"Хе-хе, хорошая девочка."@</ToTranslate>
+  </String>
+  <String index="1173">
+    <ToTranslate>$Шлёп! Шлёп! @</ToTranslate>
+  </String>
+  <String index="1174">
+    <ToTranslate>ensy0282</ToTranslate>
+  </String>
+  <String index="1175">
+    <ToTranslate>Эншо$"А-а-а! Я чувстую! Они внутри меня!"@</ToTranslate>
+  </String>
+  <String index="1176">
+    <ToTranslate>buns0230</ToTranslate>
+  </String>
+  <String index="1177">
+    <ToTranslate>Бушу$"Ах... Рэйха-сама... Рэйха-сама..."@</ToTranslate>
+  </String>
+  <String index="1178">
+    <ToTranslate>ensy0283</ToTranslate>
+  </String>
+  <String index="1179">
+    <ToTranslate>Эншо$"А-а! Бушу-сан, это удивительно... Тоши, я чувствую тебя в своей попе..."@</ToTranslate>
+  </String>
+  <String index="1180">
+    <ToTranslate>ganr0246</ToTranslate>
+  </String>
+  <String index="1181">
+    <ToTranslate>Ганрю$"О-о, Бун-чан, ты так быстро двигаешься!"@</ToTranslate>
+  </String>
+  <String index="1182">
+    <ToTranslate>$Хлюп! Хлюп-хлюп!@</ToTranslate>
+  </String>
+  <String index="1183">
+    <ToTranslate>ensy0284</ToTranslate>
+  </String>
+  <String index="1184">
+    <ToTranslate>Эншо$"Уа-а! Вы двигаетесь... почти слажено...! Здорово... как здорово...!"@</ToTranslate>
+  </String>
+  <String index="1185">
+    <ToTranslate>buns0231</ToTranslate>
+  </String>
+  <String index="1186">
+    <ToTranslate>Бушу$"Ну же, Тоши, давай быстрее."@</ToTranslate>
+  </String>
+  <String index="1187">
+    <ToTranslate>ganr0247</ToTranslate>
+  </String>
+  <String index="1188">
+    <ToTranslate>Ганрю$"Бун-чан, ты слишком быстрая."@</ToTranslate>
+  </String>
+  <String index="1189">
+    <ToTranslate>ensy0285</ToTranslate>
+  </String>
+  <String index="1190">
+    <ToTranslate>Эншо$"Эти чувства... они неописуемы..."@</ToTranslate>
+  </String>
+  <String index="1191">
+    <ToTranslate>buns0232</ToTranslate>
+  </String>
+  <String index="1192">
+    <ToTranslate>Бушу$"Уа, а-ах... Рэйха-сама..."@</ToTranslate>
+  </String>
+  <String index="1193">
+    <ToTranslate>ensy0286</ToTranslate>
+  </String>
+  <String index="1194">
+    <ToTranslate>Эншо$"А-а-а, вы обе, вы великолепны... г-гх, Ганрю-сан, только не ухо..."@</ToTranslate>
+  </String>
+  <String index="1195">
+    <ToTranslate>ganr0248</ToTranslate>
+  </String>
+  <String index="1196">
+    <ToTranslate>Ганрю$"Тогда может быть так?"@</ToTranslate>
+  </String>
+  <String index="1197">
+    <ToTranslate>ensy0287</ToTranslate>
+  </String>
+  <String index="1198">
+    <ToTranslate>Эншо$"А-ах... только не сиськи... а-а... они слишком чувствительны..."@</ToTranslate>
+  </String>
+  <String index="1199">
+    <ToTranslate>ganr0249</ToTranslate>
+  </String>
+  <String index="1200">
+    <ToTranslate>Ганрю$"Они настолько чувствительны после флюидов Бун-чан... вы слышите эти звуки?"@</ToTranslate>
+  </String>
+  <String index="1201">
+    <ToTranslate>$Хлюп-хлюп-хлюп...@</ToTranslate>
+  </String>
+  <String index="1202">
+    <ToTranslate>buns0233</ToTranslate>
+  </String>
+  <String index="1203">
+    <ToTranslate>Бушу$"У-у, Тоши, я тоже хочу..."@</ToTranslate>
+  </String>
+  <String index="1204">
+    <ToTranslate>$Хлюп... хлюп-хлюп...@</ToTranslate>
+  </String>
+  <String index="1205">
+    <ToTranslate>ensy0288</ToTranslate>
+  </String>
+  <String index="1206">
+    <ToTranslate>Эншо$"А-ах... вы разбрызгиваете столько липкости... а-а! Я вся уже липкая..."@</ToTranslate>
+  </String>
+  <String index="1207">
+    <ToTranslate>ganr0250</ToTranslate>
+  </String>
+  <String index="1208">
+    <ToTranslate>Ганрю$"Вы так вкусно пахнете, Рэйха-сама... и ваши сиськи так заманчиво светятся..."@</ToTranslate>
+  </String>
+  <String index="1209">
+    <ToTranslate>buns0234</ToTranslate>
+  </String>
+  <String index="1210">
+    <ToTranslate>Бушу$"Разве это не здорово? Чувствую себя потрясающе..."@</ToTranslate>
+  </String>
+  <String index="1211">
+    <ToTranslate>ensy0289</ToTranslate>
+  </String>
+  <String index="1212">
+    <ToTranslate>Эншо$"Мне так хорошо... очень хорошо... а-а-ах! С каждым разом ты всё глубже входишь в меня...!"@</ToTranslate>
+  </String>
+  <String index="1213">
+    <ToTranslate>buns0235</ToTranslate>
+  </String>
+  <String index="1214">
+    <ToTranslate>Бушу$"Гаха... там... тесно...!"@</ToTranslate>
+  </String>
+  <String index="1215">
+    <ToTranslate>ganr0251</ToTranslate>
+  </String>
+  <String index="1216">
+    <ToTranslate>Ганрю$"Б-Бун-чан... попробуем ещё раз..."@</ToTranslate>
+  </String>
+  <String index="1217">
+    <ToTranslate>buns0236</ToTranslate>
+  </String>
+  <String index="1218">
+    <ToTranslate>Бушу$"Да... Тоши, я буду первой..."@</ToTranslate>
+  </String>
+  <String index="1219">
+    <ToTranslate>ensy0290</ToTranslate>
+  </String>
+  <String index="1220">
+    <ToTranslate>Эншо$"Аха-а! Вы обе великолепны...!"@</ToTranslate>
+  </String>
+  <String index="1221">
+    <ToTranslate>ganr0252</ToTranslate>
+  </String>
+  <String index="1222">
+    <ToTranslate>Ганрю$"Бун-чан, а сейчас немного сильнее..."@</ToTranslate>
+  </String>
+  <String index="1223">
+    <ToTranslate>buns0237</ToTranslate>
+  </String>
+  <String index="1224">
+    <ToTranslate>Бушу$"Да, Тоши!"@</ToTranslate>
+  </String>
+  <String index="1225">
+    <ToTranslate>$Хлюп! Хлюп! Хлюп!@</ToTranslate>
+  </String>
+  <String index="1226">
+    <ToTranslate>ensy0291</ToTranslate>
+  </String>
+  <String index="1227">
+    <ToTranslate>Эншо$"Ха-а, хм-м... м-м-м... а-ах..."@</ToTranslate>
+  </String>
+  <String index="1228">
+    <ToTranslate>buns0238</ToTranslate>
+  </String>
+  <String index="1229">
+    <ToTranslate>Бушу$"Тоши, кажется Рэйха-сама впервые чему-то настолько рада."@</ToTranslate>
+  </String>
+  <String index="1230">
+    <ToTranslate>ganr0253</ToTranslate>
+  </String>
+  <String index="1231">
+    <ToTranslate>Ганрю$"Правда? Я... ах, я возбуждаюсь ещё сильнее... а ты, Бун-чан?"@</ToTranslate>
+  </String>
+  <String index="1232">
+    <ToTranslate>buns0239</ToTranslate>
+  </String>
+  <String index="1233">
+    <ToTranslate>Бушу$"Д-да... так же как и ты... настолько, что скоро кончу..."@</ToTranslate>
+  </String>
+  <String index="1234">
+    <ToTranslate>ensy0292</ToTranslate>
+  </String>
+  <String index="1235">
+    <ToTranslate>Эншо$"Быстрее, кончайте в меня...!"@</ToTranslate>
+  </String>
+  <String index="1236">
+    <ToTranslate>buns0240</ToTranslate>
+  </String>
+  <String index="1237">
+    <ToTranslate>Бушу$"А-а...? Рэйха-сама вы уверены?"@</ToTranslate>
+  </String>
+  <String index="1238">
+    <ToTranslate>ensy0293</ToTranslate>
+  </String>
+  <String index="1239">
+    <ToTranslate>Эншо$"Да... умоляю... доставьте мне ещё больше удовольствия..."@</ToTranslate>
+  </String>
+  <String index="1240">
+    <ToTranslate>ganr0254</ToTranslate>
+  </String>
+  <String index="1241">
+    <ToTranslate>Ганрю$"Бун-чан, Рэйха-сама... я... я кончаю...!"@</ToTranslate>
+  </String>
+  <String index="1242">
+    <ToTranslate>ensy0294</ToTranslate>
+  </String>
+  <String index="1243">
+    <ToTranslate>Эншо$"Т-тоши... так быстро...! Уа-а, ты снова схватила мои сиськи...! Ва-а-а!"@</ToTranslate>
+  </String>
+  <String index="1244">
+    <ToTranslate>flash</ToTranslate>
+  </String>
+  <String index="1245">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="1246">
+    <ToTranslate>ecg_ens14c</ToTranslate>
+  </String>
+  <String index="1247">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="1248">
+    <ToTranslate>$Брызг! Брызг! Брызг!@</ToTranslate>
+  </String>
+  <String index="1249">
+    <ToTranslate>ganr0255</ToTranslate>
+  </String>
+  <String index="1250">
+    <ToTranslate>Ганрю$"А-а-а-а-а! Бун-чан!"@</ToTranslate>
+  </String>
+  <String index="1251">
+    <ToTranslate>$Плюх! Плюх!@</ToTranslate>
+  </String>
+  <String index="1252">
+    <ToTranslate>ensy0295</ToTranslate>
+  </String>
+  <String index="1253">
+    <ToTranslate>Эншо$"Гаха-ха! Я горю!"@</ToTranslate>
+  </String>
+  <String index="1254">
+    <ToTranslate>$Брызг! Брызг! брызг-брызг...@</ToTranslate>
+  </String>
+  <String index="1255">
+    <ToTranslate>ganr0256</ToTranslate>
+  </String>
+  <String index="1256">
+    <ToTranslate>Ганрю$"О-ох... я могу чувствовать твой пенис... и как он дрожит возле меня..."@</ToTranslate>
+  </String>
+  <String index="1257">
+    <ToTranslate>buns0241</ToTranslate>
+  </String>
+  <String index="1258">
+    <ToTranslate>Бушу$"Как и я... хах... могу ощущать твой... а вы, Рэйха-сама...?" @</ToTranslate>
+  </String>
+  <String index="1259">
+    <ToTranslate>ensy0296</ToTranslate>
+  </String>
+  <String index="1260">
+    <ToTranslate>Эншо$"Ха-а-а... а-а... а-а...... было... это было... уди—у-у... ум... ах..."@</ToTranslate>
+  </String>
+  <String index="1261">
+    <ToTranslate>buns0242</ToTranslate>
+  </String>
+  <String index="1262">
+    <ToTranslate>Бушу$"Хи-хи. Неужели Эншо-саме настолько вставило, что она не может даже слова сказать..."@</ToTranslate>
+  </String>
+  <String index="1263">
+    <ToTranslate>ganr0257</ToTranslate>
+  </String>
+  <String index="1264">
+    <ToTranslate>Ганрю$"Бун-чан... а знаешь...?"@</ToTranslate>
+  </String>
+  <String index="1265">
+    <ToTranslate>buns0243</ToTranslate>
+  </String>
+  <String index="1266">
+    <ToTranslate>Бушу$"Тоши, может нам поменяться местами?"@</ToTranslate>
+  </String>
+  <String index="1267">
+    <ToTranslate>ganr0258</ToTranslate>
+  </String>
+  <String index="1268">
+    <ToTranslate>Ганрю$"Правда? Точно уверена?"@</ToTranslate>
+  </String>
+  <String index="1269">
+    <ToTranslate>buns0244</ToTranslate>
+  </String>
+  <String index="1270">
+    <ToTranslate>Бушу$"Я тоже хочу испытать анус Рэйхи-самы..."@</ToTranslate>
+  </String>
+  <String index="1271">
+    <ToTranslate>ganr0259</ToTranslate>
+  </String>
+  <String index="1272">
+    <ToTranslate>Ганрю$"Ох, какое счастье, я ведь хотела попросить тебя о том же."@</ToTranslate>
+  </String>
+  <String index="1273">
+    <ToTranslate>$Хлюп... шлёп-шлёп...@</ToTranslate>
+  </String>
+  <String index="1274">
+    <ToTranslate>buns0245</ToTranslate>
+  </String>
+  <String index="1275">
+    <ToTranslate>Бушу$"Так, а теперь пора меняться..."@</ToTranslate>
+  </String>
+  <String index="1276">
+    <ToTranslate>$Шлёп... хлюп... хлюп... брызг...@</ToTranslate>
+  </String>
+  <String index="1277">
+    <ToTranslate>ensy0297</ToTranslate>
+  </String>
+  <String index="1278">
+    <ToTranslate>Эншо$"А-а... ваша... сперма, вся вытекает..."@</ToTranslate>
+  </String>
+  <String index="1279">
+    <ToTranslate>ganr0260</ToTranslate>
+  </String>
+  <String index="1280">
+    <ToTranslate>Ганрю$"Что ж, Рэйха-сама. Пришло время и мне осчастливить вашу киску."@</ToTranslate>
+  </String>
+  <String index="1281">
+    <ToTranslate>ensy0298</ToTranslate>
+  </String>
+  <String index="1282">
+    <ToTranslate>Эншо$"А-а...?"@</ToTranslate>
+  </String>
+  <String index="1283">
+    <ToTranslate>buns0246</ToTranslate>
+  </String>
+  <String index="1284">
+    <ToTranslate>Бушу$"Ухты, Тоши, её анус весь заполнен твоей спермой."@</ToTranslate>
+  </String>
+  <String index="1285">
+    <ToTranslate>ganr0261</ToTranslate>
+  </String>
+  <String index="1286">
+    <ToTranslate>Ганрю$"Бун-чан, после тебя с её киской происходит тоже самое."@</ToTranslate>
+  </String>
+  <String index="1287">
+    <ToTranslate>buns0247</ToTranslate>
+  </String>
+  <String index="1288">
+    <ToTranslate>Бушу$"Но я не против ведь она принадлежит тебе."@</ToTranslate>
+  </String>
+  <String index="1289">
+    <ToTranslate>ganr0262</ToTranslate>
+  </String>
+  <String index="1290">
+    <ToTranslate>Ганрю$"Что ж, на счёт три. Раз, два..."@</ToTranslate>
+  </String>
+  <String index="1291">
+    <ToTranslate>buns0248</ToTranslate>
+  </String>
+  <String index="1292">
+    <ToTranslate>Бушу$"Три!"@</ToTranslate>
+  </String>
+  <String index="1293">
+    <ToTranslate>ensy0299</ToTranslate>
+  </String>
+  <String index="1294">
+    <ToTranslate>Эншо$"Га... а-а-а! Обе одновременно...!"@</ToTranslate>
+  </String>
+  <String index="1295">
+    <ToTranslate>buns0249</ToTranslate>
+  </String>
+  <String index="1296">
+    <ToTranslate>Бушу$"Ах... ваша вторая дырочка настолько тесна!"@</ToTranslate>
+  </String>
+  <String index="1297">
+    <ToTranslate>ganr0263</ToTranslate>
+  </String>
+  <String index="1298">
+    <ToTranslate>Ганрю$"А ваша киска... вся влажная и такая тёплая... мне в ней так приятно..."@</ToTranslate>
+  </String>
+  <String index="1299">
+    <ToTranslate>ensy0300</ToTranslate>
+  </String>
+  <String index="1300">
+    <ToTranslate>Эншо$"Аа-а-а... а-а-ах..."@</ToTranslate>
+  </String>
+  <String index="1301">
+    <ToTranslate>ganr0264</ToTranslate>
+  </String>
+  <String index="1302">
+    <ToTranslate>Ганрю$"А-а! Рэйха-сама, вы великолепны...!"@</ToTranslate>
+  </String>
+  <String index="1303">
+    <ToTranslate>flash</ToTranslate>
+  </String>
+  <String index="1304">
+    <ToTranslate>$Дёрг! Дёрг! Брызг!@</ToTranslate>
+  </String>
+  <String index="1305">
+    <ToTranslate>buns0250</ToTranslate>
+  </String>
+  <String index="1306">
+    <ToTranslate>Бушу$"Неужели, Тоши? Ты что, сразу кончила?"@</ToTranslate>
+  </String>
+  <String index="1307">
+    <ToTranslate>ganr0265</ToTranslate>
+  </String>
+  <String index="1308">
+    <ToTranslate>Ганрю$"Ну-у... всё потому что киска Рэйхи-самы такая влажная..."@</ToTranslate>
+  </String>
+  <String index="1309">
+    <ToTranslate>ensy0301</ToTranslate>
+  </String>
+  <String index="1310">
+    <ToTranslate>Эншо$"Ха-а... я снова... наполнена... хватит... мне уже хватит..."@</ToTranslate>
+  </String>
+  <String index="1311">
+    <ToTranslate>buns0251</ToTranslate>
+  </String>
+  <String index="1312">
+    <ToTranslate>Бушу$"Э-э? Но Рэйха-сама, это ещё не конец."@</ToTranslate>
+  </String>
+  <String index="1313">
+    <ToTranslate>ganr0266</ToTranslate>
+  </String>
+  <String index="1314">
+    <ToTranslate>Ганрю$"Именно, мы будем продолжат пока вас не переполнит наша любовь, ну или как вариант, пока вы не лишитесь рассудка."@</ToTranslate>
+  </String>
+  <String index="1315">
+    <ToTranslate>ensy0302</ToTranslate>
+  </String>
+  <String index="1316">
+    <ToTranslate>Эншо$"О-о-о... нет... нет..."@</ToTranslate>
+  </String>
+  <String index="1317">
+    <ToTranslate>ganr0267</ToTranslate>
+  </String>
+  <String index="1318">
+    <ToTranslate>Ганрю$"Хе-хе, даже если вы сойдёте с ума мы продолжим заботиться о вас."@</ToTranslate>
+  </String>
+  <String index="1319">
+    <ToTranslate>ensy0303</ToTranslate>
+  </String>
+  <String index="1320">
+    <ToTranslate>Эншо$"Не-е-ет... ва-ва-ва-а-а!"@</ToTranslate>
+  </String>
+  <String index="1321">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="1322">
+    <ToTranslate>bb</ToTranslate>
+  </String>
+  <String index="1323">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="1324">
+    <ToTranslate>bb</ToTranslate>
+  </String>
+  <String index="1325">
+    <ToTranslate>bcg_impseat_a</ToTranslate>
+  </String>
+  <String index="1326">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="1327">
+    <ToTranslate>bgm11</ToTranslate>
+  </String>
+  <String index="1328">
+    <ToTranslate>tcg_bun21fa</ToTranslate>
+  </String>
+  <String index="1329">
+    <ToTranslate>tcg_bun21m</ToTranslate>
+  </String>
+  <String index="1330">
+    <ToTranslate>buns0252</ToTranslate>
+  </String>
+  <String index="1331">
+    <ToTranslate>Бушу$"А-ах... а-а... а-а... Тоши... это было настолько прекрасно..."@</ToTranslate>
+  </String>
+  <String index="1332">
+    <ToTranslate>tcg_gan21ma</ToTranslate>
+  </String>
+  <String index="1333">
+    <ToTranslate>tcg_gan21m</ToTranslate>
+  </String>
+  <String index="1334">
+    <ToTranslate>ganr0268</ToTranslate>
+  </String>
+  <String index="1335">
+    <ToTranslate>Ганрю$"О-о-о, Бун-чан, но и ты тоже была неподражаема..."@</ToTranslate>
+  </String>
+  <String index="1336">
+    <ToTranslate>tcg_ens11ja</ToTranslate>
+  </String>
+  <String index="1337">
+    <ToTranslate>tcg_ens11m</ToTranslate>
+  </String>
+  <String index="1338">
+    <ToTranslate>ensy0304</ToTranslate>
+  </String>
+  <String index="1339">
+    <ToTranslate>Эншо$"А...? Вы что, уже закончили?"@</ToTranslate>
+  </String>
+  <String index="1340">
+    <ToTranslate>buns0253</ToTranslate>
+  </String>
+  <String index="1341">
+    <ToTranslate>Бушу$"А-а...? Р-Рэйха-сама? Вы всё ещё с нами?"@</ToTranslate>
+  </String>
+  <String index="1342">
+    <ToTranslate>ensy0305</ToTranslate>
+  </String>
+  <String index="1343">
+    <ToTranslate>Эншо$"Почему бы мне не быть? Вы ведь даже не заполнили меня полностью."@</ToTranslate>
+  </String>
+  <String index="1344">
+    <ToTranslate>tcg_gan21ea</ToTranslate>
+  </String>
+  <String index="1345">
+    <ToTranslate>tcg_gan21m</ToTranslate>
+  </String>
+  <String index="1346">
+    <ToTranslate>ganr0269</ToTranslate>
+  </String>
+  <String index="1347">
+    <ToTranslate>Ганрю$"Я... я больше не могу..."@</ToTranslate>
+  </String>
+  <String index="1348">
+    <ToTranslate>tcg_ens11aa</ToTranslate>
+  </String>
+  <String index="1349">
+    <ToTranslate>tcg_ens11m</ToTranslate>
+  </String>
+  <String index="1350">
+    <ToTranslate>ensy0306</ToTranslate>
+  </String>
+  <String index="1351">
+    <ToTranslate>Эншо$"Тогда Тоши, ты будешь следующей."@</ToTranslate>
+  </String>
+  <String index="1352">
+    <ToTranslate>buns0254</ToTranslate>
+  </String>
+  <String index="1353">
+    <ToTranslate>Бушу$"Простите, но я тоже не могу больше."@</ToTranslate>
+  </String>
+  <String index="1354">
+    <ToTranslate>tcg_ens21ia</ToTranslate>
+  </String>
+  <String index="1355">
+    <ToTranslate>tcg_ens21m</ToTranslate>
+  </String>
+  <String index="1356">
+    <ToTranslate>ensy0307</ToTranslate>
+  </String>
+  <String index="1357">
+    <ToTranslate>Эншо$"Фырк! Какие вы жалкие, я готова отсосать ваши члены, поэтому трахни меня, хоть спереди хоть сзади как Тоши!"@</ToTranslate>
+  </String>
+  <String index="1358">
+    <ToTranslate>ganr0270</ToTranslate>
+  </String>
+  <String index="1359">
+    <ToTranslate>Ганрю$"Не могу... я умру если продолжу..."@</ToTranslate>
+  </String>
+  <String index="1360">
+    <ToTranslate>ensy0308</ToTranslate>
+  </String>
+  <String index="1361">
+    <ToTranslate>Эншо$"Ты же сама говорила что будешь иметь меня до потери рассудка!? Тогда живо работайте пока я всё ещё в сознании!?"@</ToTranslate>
+  </String>
+  <String index="1362">
+    <ToTranslate>tcg_gan21fa</ToTranslate>
+  </String>
+  <String index="1363">
+    <ToTranslate>tcg_gan21m</ToTranslate>
+  </String>
+  <String index="1364">
+    <ToTranslate>ganr0271</ToTranslate>
+  </String>
+  <String index="1365">
+    <ToTranslate>Ганрю$"Я больше этого не хочу, Бун-ча-а-ан..."@</ToTranslate>
+  </String>
+  <String index="1366">
+    <ToTranslate>buns0255</ToTranslate>
+  </String>
+  <String index="1367">
+    <ToTranslate>Бушу$"И я... мы умрём прежде чем с Рэйхой-самой что-то случится..."@</ToTranslate>
+  </String>
+  <String index="1368">
+    <ToTranslate>ensy0309</ToTranslate>
+  </String>
+  <String index="1369">
+    <ToTranslate>Эншо$"В вас что, не осталось больше решительности? Ох, вот если бы у меня был пенис, всё было совсем по-другому..."@</ToTranslate>
+  </String>
+  <String index="1370">
+    <ToTranslate>tcg_bun21oa</ToTranslate>
+  </String>
+  <String index="1371">
+    <ToTranslate>tcg_bun21m</ToTranslate>
+  </String>
+  <String index="1372">
+    <ToTranslate>buns0256</ToTranslate>
+  </String>
+  <String index="1373">
+    <ToTranslate>Бушу$"Я бы померла если Рэйха-сама сейчас бы меня оттрахала..."@</ToTranslate>
+  </String>
+  <String index="1374">
+    <ToTranslate>tcg_gan21ea</ToTranslate>
+  </String>
+  <String index="1375">
+    <ToTranslate>tcg_gan21m</ToTranslate>
+  </String>
+  <String index="1376">
+    <ToTranslate>ganr0272</ToTranslate>
+  </String>
+  <String index="1377">
+    <ToTranslate>Ганрю$"Да... уверена, что и мне тоже не посчастливилось выжить..."@</ToTranslate>
+  </String>
+  <String index="1378">
+    <ToTranslate>ensy0310</ToTranslate>
+  </String>
+  <String index="1379">
+    <ToTranslate>Эншо$"Вы обе, а ну живо смотреть на себя в зеркало! Я требую, чтобы вы выдавили из себя как минимум в два раза больше..."@</ToTranslate>
+  </String>
+  <String index="1380">
+    <ToTranslate>SE040</ToTranslate>
+  </String>
+  <String index="1381">
+    <ToTranslate>$Треск...@</ToTranslate>
+  </String>
+  <String index="1382">
+    <ToTranslate>tcg_ens11ja</ToTranslate>
+  </String>
+  <String index="1383">
+    <ToTranslate>tcg_ens11m</ToTranslate>
+  </String>
+  <String index="1384">
+    <ToTranslate>bgm18</ToTranslate>
+  </String>
+  <String index="1385">
+    <ToTranslate>ensy0311</ToTranslate>
+  </String>
+  <String index="1386">
+    <ToTranslate>Эншо$"А? Зеркало треснуло...?"@</ToTranslate>
+  </String>
+  <String index="1387">
+    <ToTranslate>$Хрусь... хрусь... хрусь...!@</ToTranslate>
+  </String>
+  <String index="1388">
+    <ToTranslate>tcg_gan21ia</ToTranslate>
+  </String>
+  <String index="1389">
+    <ToTranslate>tcg_gan21m</ToTranslate>
+  </String>
+  <String index="1390">
+    <ToTranslate>ganr0273</ToTranslate>
+  </String>
+  <String index="1391">
+    <ToTranslate>Ганрю$"Э-э?"@</ToTranslate>
+  </String>
+  <String index="1392">
+    <ToTranslate>tcg_bun11ka</ToTranslate>
+  </String>
+  <String index="1393">
+    <ToTranslate>tcg_bun11m</ToTranslate>
+  </String>
+  <String index="1394">
+    <ToTranslate>buns0257</ToTranslate>
+  </String>
+  <String index="1395">
+    <ToTranslate>Бушу$"Ох?"@</ToTranslate>
+  </String>
+  <String index="1396">
+    <ToTranslate>SE041</ToTranslate>
+  </String>
+  <String index="1397">
+    <ToTranslate>$Дзынь!@</ToTranslate>
+  </String>
+  <String index="1398">
+    <ToTranslate>tcg_gan21ga</ToTranslate>
+  </String>
+  <String index="1399">
+    <ToTranslate>tcg_gan21m</ToTranslate>
+  </String>
+  <String index="1400">
+    <ToTranslate>tcg_bun21ga</ToTranslate>
+  </String>
+  <String index="1401">
+    <ToTranslate>tcg_bun21m</ToTranslate>
+  </String>
+  <String index="1402">
+    <ToTranslate>gousei0039</ToTranslate>
+  </String>
+  <String index="1403">
+    <ToTranslate>gousei0039</ToTranslate>
+  </String>
+  <String index="1404">
+    <ToTranslate>Обе$"А-а-а!"@</ToTranslate>
+  </String>
+  <String index="1405">
+    <ToTranslate>ensy0312</ToTranslate>
+  </String>
+  <String index="1406">
+    <ToTranslate>Эншо$"Аха."@</ToTranslate>
+  </String>
+  <String index="1407">
+    <ToTranslate>tcg_bun11ea</ToTranslate>
+  </String>
+  <String index="1408">
+    <ToTranslate>tcg_bun11m</ToTranslate>
+  </String>
+  <String index="1409">
+    <ToTranslate>buns0259</ToTranslate>
+  </String>
+  <String index="1410">
+    <ToTranslate>Бушу$"Ч-что вы с ним сделали, Эншо-сама!?"@</ToTranslate>
+  </String>
+  <String index="1411">
+    <ToTranslate>tcg_ens11fa</ToTranslate>
+  </String>
+  <String index="1412">
+    <ToTranslate>tcg_ens11m</ToTranslate>
+  </String>
+  <String index="1413">
+    <ToTranslate>ensy0313</ToTranslate>
+  </String>
+  <String index="1414">
+    <ToTranslate>Эншо$"Да я к нему даже не прикасалась!"@</ToTranslate>
+  </String>
+  <String index="1415">
+    <ToTranslate>tcg_gan11ha</ToTranslate>
+  </String>
+  <String index="1416">
+    <ToTranslate>tcg_gan11m</ToTranslate>
+  </String>
+  <String index="1417">
+    <ToTranslate>ganr0275</ToTranslate>
+  </String>
+  <String index="1418">
+    <ToTranslate>Ганрю$"А что если это было редкостное сокровище?!"@</ToTranslate>
+  </String>
+  <String index="1419">
+    <ToTranslate>ensy0314</ToTranslate>
+  </String>
+  <String index="1420">
+    <ToTranslate>Эншо$"Я не собираюсь себя винить за то что сломалось само по себе!"@</ToTranslate>
+  </String>
+  <String index="1421">
+    <ToTranslate>tcg_bun11da</ToTranslate>
+  </String>
+  <String index="1422">
+    <ToTranslate>tcg_bun11m</ToTranslate>
+  </String>
+  <String index="1423">
+    <ToTranslate>buns0260</ToTranslate>
+  </String>
+  <String index="1424">
+    <ToTranslate>Бушу$"Возможно вы правы... но..."@</ToTranslate>
+  </String>
+  <String index="1425">
+    <ToTranslate>tcg_gan21ia</ToTranslate>
+  </String>
+  <String index="1426">
+    <ToTranslate>tcg_gan21m</ToTranslate>
+  </String>
+  <String index="1427">
+    <ToTranslate>ganr0276</ToTranslate>
+  </String>
+  <String index="1428">
+    <ToTranslate>Ганрю$"Ой... что-то мне спасть захотелось..."@</ToTranslate>
+  </String>
+  <String index="1429">
+    <ToTranslate>tcg_ens11ja</ToTranslate>
+  </String>
+  <String index="1430">
+    <ToTranslate>tcg_ens11m</ToTranslate>
+  </String>
+  <String index="1431">
+    <ToTranslate>ensy0315</ToTranslate>
+  </String>
+  <String index="1432">
+    <ToTranslate>Эншо$"Ч-что это с...вами...?"@</ToTranslate>
+  </String>
+  <String index="1433">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="1434">
+    <ToTranslate>dd</ToTranslate>
+  </String>
+  <String index="1435">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="1436">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="1437">
+    <ToTranslate>bgm02</ToTranslate>
+  </String>
+  <String index="1438">
+    <ToTranslate>ganr0277</ToTranslate>
+  </String>
+  <String index="1439">
+    <ToTranslate>Ганрю$"Эншо-сама! Эншо-сама!"@</ToTranslate>
+  </String>
+  <String index="1440">
+    <ToTranslate>ensy0316</ToTranslate>
+  </String>
+  <String index="1441">
+    <ToTranslate>Эншо$"...ум-м... в меня больше не влезет..."@</ToTranslate>
+  </String>
+  <String index="1442">
+    <ToTranslate>ganr0278</ToTranslate>
+  </String>
+  <String index="1443">
+    <ToTranslate>Ганрю$"Прошу вас, проснитесь, Эншо-сама."@</ToTranslate>
+  </String>
+  <String index="1444">
+    <ToTranslate>ensy0317</ToTranslate>
+  </String>
+  <String index="1445">
+    <ToTranslate>Эншо$"В чём дело... Ганрю-сан?"@</ToTranslate>
+  </String>
+  <String index="1446">
+    <ToTranslate>ganr0279</ToTranslate>
+  </String>
+  <String index="1447">
+    <ToTranslate>Ганрю$"Ох, вы проснулись."@</ToTranslate>
+  </String>
+  <String index="1448">
+    <ToTranslate>ensy0318</ToTranslate>
+  </String>
+  <String index="1449">
+    <ToTranslate>Эншо$"О? Где мы? Была уверена что мы..."@</ToTranslate>
+  </String>
+  <String index="1450">
+    <ToTranslate>dd</ToTranslate>
+  </String>
+  <String index="1451">
+    <ToTranslate>bcg_river_a</ToTranslate>
+  </String>
+  <String index="1452">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="1453">
+    <ToTranslate>tcg_ens12ja</ToTranslate>
+  </String>
+  <String index="1454">
+    <ToTranslate>tcg_ens12m</ToTranslate>
+  </String>
+  <String index="1455">
+    <ToTranslate>tcg_gan12aa</ToTranslate>
+  </String>
+  <String index="1456">
+    <ToTranslate>tcg_gan12m</ToTranslate>
+  </String>
+  <String index="1457">
+    <ToTranslate>ganr0280</ToTranslate>
+  </String>
+  <String index="1458">
+    <ToTranslate>Ганрю$"Да. Мы свалились с плота и затем на нас напали акулы, но..."@</ToTranslate>
+  </String>
+  <String index="1459">
+    <ToTranslate>ensy0319</ToTranslate>
+  </String>
+  <String index="1460">
+    <ToTranslate>Эншо$"Чего...?"@</ToTranslate>
+  </String>
+  <String index="1461">
+    <ToTranslate>tcg_gan22ia</ToTranslate>
+  </String>
+  <String index="1462">
+    <ToTranslate>tcg_gan22m</ToTranslate>
+  </String>
+  <String index="1463">
+    <ToTranslate>ganr0281</ToTranslate>
+  </String>
+  <String index="1464">
+    <ToTranslate>Ганрю$"Что-то случилось, Эншо-сама?"@</ToTranslate>
+  </String>
+  <String index="1465">
+    <ToTranslate>tcg_ens12aa</ToTranslate>
+  </String>
+  <String index="1466">
+    <ToTranslate>tcg_ens12m</ToTranslate>
+  </String>
+  <String index="1467">
+    <ToTranslate>ensy0320</ToTranslate>
+  </String>
+  <String index="1468">
+    <ToTranslate>Эншо$"Разве меня не выбросило на безлюдный остров и мне не пришлось удовлетворять твою и Иши чрезмерную похоть?"@</ToTranslate>
+  </String>
+  <String index="1469">
+    <ToTranslate>ganr0282</ToTranslate>
+  </String>
+  <String index="1470">
+    <ToTranslate>Ганрю$"Эншо-сама...?"@</ToTranslate>
+  </String>
+  <String index="1471">
+    <ToTranslate>tcg_ens12fa</ToTranslate>
+  </String>
+  <String index="1472">
+    <ToTranslate>tcg_ens12m</ToTranslate>
+  </String>
+  <String index="1473">
+    <ToTranslate>ensy0321</ToTranslate>
+  </String>
+  <String index="1474">
+    <ToTranslate>Эншо$"Я-я не обезумела! Я уверена, наша жизнь на пустынном острове была обычным наваждением!"@</ToTranslate>
+  </String>
+  <String index="1475">
+    <ToTranslate>tcg_gan12ca</ToTranslate>
+  </String>
+  <String index="1476">
+    <ToTranslate>tcg_gan12m</ToTranslate>
+  </String>
+  <String index="1477">
+    <ToTranslate>ganr0283</ToTranslate>
+  </String>
+  <String index="1478">
+    <ToTranslate>Ганрю$"Значит, вы тоже видели этот сон...? Хотя, кажется, мой немного отличался от вашего..."@</ToTranslate>
+  </String>
+  <String index="1479">
+    <ToTranslate>ensy0322</ToTranslate>
+  </String>
+  <String index="1480">
+    <ToTranslate>Эншо$"Сон...?"@</ToTranslate>
+  </String>
+  <String index="1481">
+    <ToTranslate>tcg_gan12ja</ToTranslate>
+  </String>
+  <String index="1482">
+    <ToTranslate>tcg_gan12m</ToTranslate>
+  </String>
+  <String index="1483">
+    <ToTranslate>ganr0284</ToTranslate>
+  </String>
+  <String index="1484">
+    <ToTranslate>Ганрю$"Нам с Бун-чан приснился сон в котором мы попали на необитаемый остров, где мы жили долго и счастливо... а ещё вместе делали много чего непристойного..."@</ToTranslate>
+  </String>
+  <String index="1485">
+    <ToTranslate>tcg_ens12ja</ToTranslate>
+  </String>
+  <String index="1486">
+    <ToTranslate>tcg_ens12m</ToTranslate>
+  </String>
+  <String index="1487">
+    <ToTranslate>ensy0323</ToTranslate>
+  </String>
+  <String index="1488">
+    <ToTranslate>Эншо$"О, так ты тоже его видела. А это вправду был сон...? Ганрю-сан, у тебя по-прежнему есть пенис?"@</ToTranslate>
+  </String>
+  <String index="1489">
+    <ToTranslate>ganr0285</ToTranslate>
+  </String>
+  <String index="1490">
+    <ToTranslate>Ганрю$"Нет, Бун-тян я тоже проверила... мы потеряли их..."@</ToTranslate>
+  </String>
+  <String index="1491">
+    <ToTranslate>ensy0324</ToTranslate>
+  </String>
+  <String index="1492">
+    <ToTranslate>Эншо$"Жалость то какая, я только-только успела к ним привыкнуть."@</ToTranslate>
+  </String>
+  <String index="1493">
+    <ToTranslate>tcg_gan22ea</ToTranslate>
+  </String>
+  <String index="1494">
+    <ToTranslate>tcg_gan22m</ToTranslate>
+  </String>
+  <String index="1495">
+    <ToTranslate>ganr0286</ToTranslate>
+  </String>
+  <String index="1496">
+    <ToTranslate>Ганрю$"Да вы из-за них нас чуть не убили..." @</ToTranslate>
+  </String>
+  <String index="1497">
+    <ToTranslate>tcg_ens12aa</ToTranslate>
+  </String>
+  <String index="1498">
+    <ToTranslate>tcg_ens12m</ToTranslate>
+  </String>
+  <String index="1499">
+    <ToTranslate>ensy0325</ToTranslate>
+  </String>
+  <String index="1500">
+    <ToTranslate>Эншо$"Вот ещё скажете. Так это и есть Пэнлай?"@</ToTranslate>
+  </String>
+  <String index="1501">
+    <ToTranslate>tcg_gan12aa</ToTranslate>
+  </String>
+  <String index="1502">
+    <ToTranslate>tcg_gan12m</ToTranslate>
+  </String>
+  <String index="1503">
+    <ToTranslate>ganr0287</ToTranslate>
+  </String>
+  <String index="1504">
+    <ToTranslate>Ганрю$"Думаю да. Бун-чан осматривает окрестности, так что когда вернётся, мы всё точно узнаем."@</ToTranslate>
+  </String>
+  <String index="1505">
+    <ToTranslate>tcg_ens12ja</ToTranslate>
+  </String>
+  <String index="1506">
+    <ToTranslate>tcg_ens12m</ToTranslate>
+  </String>
+  <String index="1507">
+    <ToTranslate>ensy0326</ToTranslate>
+  </String>
+  <String index="1508">
+    <ToTranslate>Эншо$"Ганрю-сан... я тут подумала, раз сейчас всё по-настоящему, мы могли бы..."@</ToTranslate>
+  </String>
+  <String index="1509">
+    <ToTranslate>tcg_gan22ea</ToTranslate>
+  </String>
+  <String index="1510">
+    <ToTranslate>tcg_gan22m</ToTranslate>
+  </String>
+  <String index="1511">
+    <ToTranslate>ganr0288</ToTranslate>
+  </String>
+  <String index="1512">
+    <ToTranslate>Ганрю$"Ой нет, Эншо-сама, умоляю, не говорите дальше..."@</ToTranslate>
+  </String>
+  <String index="1513">
+    <ToTranslate>ensy0327</ToTranslate>
+  </String>
+  <String index="1514">
+    <ToTranslate>Эншо$"Се--"@</ToTranslate>
+  </String>
+  <String index="1515">
+    <ToTranslate>tcg_gan22fa</ToTranslate>
+  </String>
+  <String index="1516">
+    <ToTranslate>tcg_gan22m</ToTranslate>
+  </String>
+  <String index="1517">
+    <ToTranslate>ganr0289</ToTranslate>
+  </String>
+  <String index="1518">
+    <ToTranslate>Ганрю$"А-а-а, а-а-а! Не говорите большего! Бун-чан, возвращайся скорее!"@</ToTranslate>
+  </String>
+  <String index="1519">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="1520">
+    <ToTranslate>tcg_bun12aa</ToTranslate>
+  </String>
+  <String index="1521">
+    <ToTranslate>tcg_bun12m</ToTranslate>
+  </String>
+  <String index="1522">
+    <ToTranslate>bgm26</ToTranslate>
+  </String>
+  <String index="1523">
+    <ToTranslate>buns0261</ToTranslate>
+  </String>
+  <String index="1524">
+    <ToTranslate>Бушу$"Я здесь."@</ToTranslate>
+  </String>
+  <String index="1525">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="1526">
+    <ToTranslate>tcg_ens12ja</ToTranslate>
+  </String>
+  <String index="1527">
+    <ToTranslate>tcg_ens12m</ToTranslate>
+  </String>
+  <String index="1528">
+    <ToTranslate>tcg_gan22fa</ToTranslate>
+  </String>
+  <String index="1529">
+    <ToTranslate>tcg_gan22m</ToTranslate>
+  </String>
+  <String index="1530">
+    <ToTranslate>tcg_bun12aa</ToTranslate>
+  </String>
+  <String index="1531">
+    <ToTranslate>tcg_bun12m</ToTranslate>
+  </String>
+  <String index="1532">
+    <ToTranslate>ganr0290</ToTranslate>
+  </String>
+  <String index="1533">
+    <ToTranslate>Ганрю$"Ва-а-а, Бун-чан, я так тебе рада!"@</ToTranslate>
+  </String>
+  <String index="1534">
+    <ToTranslate>tcg_bun22ga</ToTranslate>
+  </String>
+  <String index="1535">
+    <ToTranslate>tcg_bun22m</ToTranslate>
+  </String>
+  <String index="1536">
+    <ToTranslate>buns0262</ToTranslate>
+  </String>
+  <String index="1537">
+    <ToTranslate>Бушу$"Тоши, что случилось? Ты прям вцепилась в меня. Так быстро соскучилась о жизни на острове?"@</ToTranslate>
+  </String>
+  <String index="1538">
+    <ToTranslate>ganr0291</ToTranslate>
+  </String>
+  <String index="1539">
+    <ToTranslate>Ганрю$"Э-Эншо-сама пугает меня... ты узнала где мы находимся?"@</ToTranslate>
+  </String>
+  <String index="1540">
+    <ToTranslate>tcg_bun12aa</ToTranslate>
+  </String>
+  <String index="1541">
+    <ToTranslate>tcg_bun12m</ToTranslate>
+  </String>
+  <String index="1542">
+    <ToTranslate>buns0263</ToTranslate>
+  </String>
+  <String index="1543">
+    <ToTranslate>Бушу$"Эм, я нашла небольшую деревню. Рядом гора Пэнлай, а это Янчжоу."@</ToTranslate>
+  </String>
+  <String index="1544">
+    <ToTranslate>tcg_ens12aa</ToTranslate>
+  </String>
+  <String index="1545">
+    <ToTranslate>tcg_ens12m</ToTranslate>
+  </String>
+  <String index="1546">
+    <ToTranslate>ensy0328</ToTranslate>
+  </String>
+  <String index="1547">
+    <ToTranslate>Эншо$"Янчжоу? Так это материк, не остров?"@</ToTranslate>
+  </String>
+  <String index="1548">
+    <ToTranslate>buns0264</ToTranslate>
+  </String>
+  <String index="1549">
+    <ToTranslate>Бушу$"Более чем в этом уве-ава-ва!"@</ToTranslate>
+  </String>
+  <String index="1550">
+    <ToTranslate>tcg_gan22da</ToTranslate>
+  </String>
+  <String index="1551">
+    <ToTranslate>tcg_gan22m</ToTranslate>
+  </String>
+  <String index="1552">
+    <ToTranslate>ganr0292</ToTranslate>
+  </String>
+  <String index="1553">
+    <ToTranslate>Ганрю$"Э-Эншо-сама!?"@</ToTranslate>
+  </String>
+  <String index="1554">
+    <ToTranslate>tcg_ens12fa</ToTranslate>
+  </String>
+  <String index="1555">
+    <ToTranslate>tcg_ens12m</ToTranslate>
+  </String>
+  <String index="1556">
+    <ToTranslate>ensy0329</ToTranslate>
+  </String>
+  <String index="1557">
+    <ToTranslate>Эншо$"Ум, возможно это ещё одно наваждение горы Пэнлай... Бушу-сан, если будет больно ты только скажи."@</ToTranslate>
+  </String>
+  <String index="1558">
+    <ToTranslate>tcg_bun12la</ToTranslate>
+  </String>
+  <String index="1559">
+    <ToTranslate>tcg_bun12m</ToTranslate>
+  </String>
+  <String index="1560">
+    <ToTranslate>buns0265</ToTranslate>
+  </String>
+  <String index="1561">
+    <ToTranslate>Бушу$"-ольно! Больно! Больно!"@</ToTranslate>
+  </String>
+  <String index="1562">
+    <ToTranslate>ensy0330</ToTranslate>
+  </String>
+  <String index="1563">
+    <ToTranslate>Эншо$"Я абсолютно не разберу чего ты там говоришь. Может быть, ты попробуешь, Ганрю-сан?"@</ToTranslate>
+  </String>
+  <String index="1564">
+    <ToTranslate>tcg_gan22ia</ToTranslate>
+  </String>
+  <String index="1565">
+    <ToTranslate>tcg_gan22m</ToTranslate>
+  </String>
+  <String index="1566">
+    <ToTranslate>ganr0293</ToTranslate>
+  </String>
+  <String index="1567">
+    <ToTranslate>Ганрю$"Хм, как говорят если чувствуешь боль значит всё по-настоящему... прости, Бун-чан."@</ToTranslate>
+  </String>
+  <String index="1568">
+    <ToTranslate>buns0266</ToTranslate>
+  </String>
+  <String index="1569">
+    <ToTranslate>Бушу$"Ува-ва! –ольно, а-а-а! Ну вы!"@</ToTranslate>
+  </String>
+  <String index="1570">
+    <ToTranslate>tcg_ens12ja</ToTranslate>
+  </String>
+  <String index="1571">
+    <ToTranslate>tcg_ens12m</ToTranslate>
+  </String>
+  <String index="1572">
+    <ToTranslate>ensy0331</ToTranslate>
+  </String>
+  <String index="1573">
+    <ToTranslate>Эншо$"Кажись ей правда больно."@</ToTranslate>
+  </String>
+  <String index="1574">
+    <ToTranslate>tcg_gan12aa</ToTranslate>
+  </String>
+  <String index="1575">
+    <ToTranslate>tcg_gan12m</ToTranslate>
+  </String>
+  <String index="1576">
+    <ToTranslate>ganr0294</ToTranslate>
+  </String>
+  <String index="1577">
+    <ToTranslate>Ганрю$"Так это уже не иллюзия?"@</ToTranslate>
+  </String>
+  <String index="1578">
+    <ToTranslate>tcg_bun22ha</ToTranslate>
+  </String>
+  <String index="1579">
+    <ToTranslate>tcg_bun22m</ToTranslate>
+  </String>
+  <String index="1580">
+    <ToTranslate>buns0267</ToTranslate>
+  </String>
+  <String index="1581">
+    <ToTranslate>Бушу$"Фух. Могли бы придумать другой способ чтобы проверить. Ай... ну вы, больно же."@</ToTranslate>
+  </String>
+  <String index="1582">
+    <ToTranslate>tcg_ens12aa</ToTranslate>
+  </String>
+  <String index="1583">
+    <ToTranslate>tcg_ens12m</ToTranslate>
+  </String>
+  <String index="1584">
+    <ToTranslate>ensy0332</ToTranslate>
+  </String>
+  <String index="1585">
+    <ToTranslate>Эншо$"Если ущипнуть, щека тоже болит."@</ToTranslate>
+  </String>
+  <String index="1586">
+    <ToTranslate>tcg_gan22ba</ToTranslate>
+  </String>
+  <String index="1587">
+    <ToTranslate>tcg_gan22m</ToTranslate>
+  </String>
+  <String index="1588">
+    <ToTranslate>ganr0295</ToTranslate>
+  </String>
+  <String index="1589">
+    <ToTranslate>Ганрю$"И правда."@</ToTranslate>
+  </String>
+  <String index="1590">
+    <ToTranslate>tcg_bun22ga</ToTranslate>
+  </String>
+  <String index="1591">
+    <ToTranslate>tcg_bun22m</ToTranslate>
+  </String>
+  <String index="1592">
+    <ToTranslate>buns0268</ToTranslate>
+  </String>
+  <String index="1593">
+    <ToTranslate>Бушу$"Вы что! И только поэтому вы обе вцепились в меня?"@</ToTranslate>
+  </String>
+  <String index="1594">
+    <ToTranslate>tcg_ens12fa</ToTranslate>
+  </String>
+  <String index="1595">
+    <ToTranslate>tcg_ens12m</ToTranslate>
+  </String>
+  <String index="1596">
+    <ToTranslate>ensy0333</ToTranslate>
+  </String>
+  <String index="1597">
+    <ToTranslate>Эншо$"Разве в Пэнлай ты не отобрала мою невинность, Бушу-сан? Ту боль ни с чем не сравнить."@</ToTranslate>
+  </String>
+  <String index="1598">
+    <ToTranslate>ensy0334</ToTranslate>
+  </String>
+  <String index="1599">
+    <ToTranslate>Эншо$"А Ганрю досталась моя анальная девственность...."@</ToTranslate>
+  </String>
+  <String index="1600">
+    <ToTranslate>tcg_gan22ia</ToTranslate>
+  </String>
+  <String index="1601">
+    <ToTranslate>tcg_gan22m</ToTranslate>
+  </String>
+  <String index="1602">
+    <ToTranslate>ganr0296</ToTranslate>
+  </String>
+  <String index="1603">
+    <ToTranslate>Ганрю$"Если вспомнить вы мою девственность тоже забрали..."@</ToTranslate>
+  </String>
+  <String index="1604">
+    <ToTranslate>tcg_bun22ba</ToTranslate>
+  </String>
+  <String index="1605">
+    <ToTranslate>tcg_bun22m</ToTranslate>
+  </String>
+  <String index="1606">
+    <ToTranslate>buns0269</ToTranslate>
+  </String>
+  <String index="1607">
+    <ToTranslate>Бушу$"Да, только хорошие воспоминания... так приятно было когда я и Эншо-сама... я буду помнить об этом всю свою жизнь."@</ToTranslate>
+  </String>
+  <String index="1608">
+    <ToTranslate>tcg_ens12aa</ToTranslate>
+  </String>
+  <String index="1609">
+    <ToTranslate>tcg_ens12m</ToTranslate>
+  </String>
+  <String index="1610">
+    <ToTranslate>ensy0335</ToTranslate>
+  </String>
+  <String index="1611">
+    <ToTranslate>Эншо$"Ганрю-сан."@</ToTranslate>
+  </String>
+  <String index="1612">
+    <ToTranslate>tcg_gan22ba</ToTranslate>
+  </String>
+  <String index="1613">
+    <ToTranslate>tcg_gan22m</ToTranslate>
+  </String>
+  <String index="1614">
+    <ToTranslate>ganr0297</ToTranslate>
+  </String>
+  <String index="1615">
+    <ToTranslate>Ганрю$"Да, думаю нам стоит снова её ущипнуть."@</ToTranslate>
+  </String>
+  <String index="1616">
+    <ToTranslate>tcg_bun12ea</ToTranslate>
+  </String>
+  <String index="1617">
+    <ToTranslate>tcg_bun12m</ToTranslate>
+  </String>
+  <String index="1618">
+    <ToTranslate>buns0270</ToTranslate>
+  </String>
+  <String index="1619">
+    <ToTranslate>Бушу$"П-постойте! Ведь это вы разбили зеркало в Пэнлай, Эншо-сама! Почему бы вас за это не ущипнуть?"@</ToTranslate>
+  </String>
+  <String index="1620">
+    <ToTranslate>tcg_ens32da</ToTranslate>
+  </String>
+  <String index="1621">
+    <ToTranslate>tcg_ens32m</ToTranslate>
+  </String>
+  <String index="1622">
+    <ToTranslate>ensy0336</ToTranslate>
+  </String>
+  <String index="1623">
+    <ToTranslate>Эншо$"П-почему это вдруг?"@</ToTranslate>
+  </String>
+  <String index="1624">
+    <ToTranslate>tcg_bun22ha</ToTranslate>
+  </String>
+  <String index="1625">
+    <ToTranslate>tcg_bun22m</ToTranslate>
+  </String>
+  <String index="1626">
+    <ToTranslate>buns0271</ToTranslate>
+  </String>
+  <String index="1627">
+    <ToTranslate>Бушу$"Если бы зеркало не разбилось, мы могли бы жить долго и счастливо там, возле Пэнлай..."@</ToTranslate>
+  </String>
+  <String index="1628">
+    <ToTranslate>tcg_ens22ia</ToTranslate>
+  </String>
+  <String index="1629">
+    <ToTranslate>tcg_ens22m</ToTranslate>
+  </String>
+  <String index="1630">
+    <ToTranslate>ensy0337</ToTranslate>
+  </String>
+  <String index="1631">
+    <ToTranslate>Эншо$"Фырк. Если иллюзия так быстро закончилась значит она была не достаточно хороша! Ты не согласна, Ганрю-сан?"@</ToTranslate>
+  </String>
+  <String index="1632">
+    <ToTranslate>tcg_gan22da</ToTranslate>
+  </String>
+  <String index="1633">
+    <ToTranslate>tcg_gan22m</ToTranslate>
+  </String>
+  <String index="1634">
+    <ToTranslate>ganr0298</ToTranslate>
+  </String>
+  <String index="1635">
+    <ToTranslate>Ганрю$"В-вы это спрашиваете у меня!?"@</ToTranslate>
+  </String>
+  <String index="1636">
+    <ToTranslate>tcg_bun12ea</ToTranslate>
+  </String>
+  <String index="1637">
+    <ToTranslate>tcg_bun12m</ToTranslate>
+  </String>
+  <String index="1638">
+    <ToTranslate>buns0272</ToTranslate>
+  </String>
+  <String index="1639">
+    <ToTranslate>Бушу$"И ещё, Тоши, ты что скажешь? Чью сторону примешь ты!?"@</ToTranslate>
+  </String>
+  <String index="1640">
+    <ToTranslate>ganr0299</ToTranslate>
+  </String>
+  <String index="1641">
+    <ToTranslate>Ганрю$"Н-ну... у-у..."@</ToTranslate>
+  </String>
+  <String index="1642">
+    <ToTranslate>tcg_ens12aa</ToTranslate>
+  </String>
+  <String index="1643">
+    <ToTranslate>tcg_ens12m</ToTranslate>
+  </String>
+  <String index="1644">
+    <ToTranslate>bgm11</ToTranslate>
+  </String>
+  <String index="1645">
+    <ToTranslate>ensy0338</ToTranslate>
+  </String>
+  <String index="1646">
+    <ToTranslate>Эншо$"Ну и ладно, без разницы. Здесь всё получше, чем на каком-нибудь мелком острове. Вы обе, за мной!"@</ToTranslate>
+  </String>
+  <String index="1647">
+    <ToTranslate>tcg_bun22fa</ToTranslate>
+  </String>
+  <String index="1648">
+    <ToTranslate>tcg_bun22m</ToTranslate>
+  </String>
+  <String index="1649">
+    <ToTranslate>buns0273</ToTranslate>
+  </String>
+  <String index="1650">
+    <ToTranslate>Бушу$"Э-э, пусть будет так. Идём, Ганрю."@</ToTranslate>
+  </String>
+  <String index="1651">
+    <ToTranslate>tcg_gan12aa</ToTranslate>
+  </String>
+  <String index="1652">
+    <ToTranslate>tcg_gan12m</ToTranslate>
+  </String>
+  <String index="1653">
+    <ToTranslate>ganr0300</ToTranslate>
+  </String>
+  <String index="1654">
+    <ToTranslate>Ганрю$"Да-а, Бун-чан."@</ToTranslate>
+  </String>
+  <String index="1655">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="1656">
+    <ToTranslate>aa</ToTranslate>
+  </String>
+  <String index="1657">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="1658">
+    <ToTranslate>aa</ToTranslate>
+  </String>
+  <String index="1659">
+    <ToTranslate>ecg_ens15a</ToTranslate>
+  </String>
+  <String index="1660">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="1661">
+    <ToTranslate>ensy0339</ToTranslate>
+  </String>
+  <String index="1662">
+    <ToTranslate>Эншо$"Я сказала за мной! Чего мешкаете? А иначе брошу вас здесь!"@</ToTranslate>
+  </String>
+  <String index="1663">
+    <ToTranslate>buns0274</ToTranslate>
+  </String>
+  <String index="1664">
+    <ToTranslate>Бушу$"Идём!"@</ToTranslate>
+  </String>
+  <String index="1665">
+    <ToTranslate>ganr0301</ToTranslate>
+  </String>
+  <String index="1666">
+    <ToTranslate>Ганрю$"Н-не бросайте меня, ну пожалуйста! Вы ведь уже знаете, куда мы пойдём!?" @</ToTranslate>
+  </String>
+  <String index="1667">
+    <ToTranslate>ensy0340</ToTranslate>
+  </String>
+  <String index="1668">
+    <ToTranslate>Эншо$"Разумеется я всё знаю!"@</ToTranslate>
+  </String>
+  <String index="1669">
+    <ToTranslate>buns0275</ToTranslate>
+  </String>
+  <String index="1670">
+    <ToTranslate>Бушу$"Мы идём в южный рай, да Эншо-сама!?"@</ToTranslate>
+  </String>
+  <String index="1671">
+    <ToTranslate>ensy0341</ToTranslate>
+  </String>
+  <String index="1672">
+    <ToTranslate>Эншо$"Именно! Ох-хо-хо! Охо-хо-хо-хо!"@</ToTranslate>
+  </String>
+  <String index="1673">
+    <ToTranslate>bcg_forest_a</ToTranslate>
+  </String>
+  <String index="1674">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="1675">
+    <ToTranslate>SE042</ToTranslate>
+  </String>
+  <String index="1676">
+    <ToTranslate>tcg_ens22la</ToTranslate>
+  </String>
+  <String index="1677">
+    <ToTranslate>tcg_ens22m</ToTranslate>
+  </String>
+  <String index="1678">
+    <ToTranslate>tcg_gan12aa</ToTranslate>
+  </String>
+  <String index="1679">
+    <ToTranslate>tcg_gan22m</ToTranslate>
+  </String>
+  <String index="1680">
+    <ToTranslate>tcg_bun12aa</ToTranslate>
+  </String>
+  <String index="1681">
+    <ToTranslate>tcg_bun12m</ToTranslate>
+  </String>
+  <String index="1682">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="1683">
+    <ToTranslate>dd</ToTranslate>
+  </String>
+  <String index="1684">
+    <ToTranslate>bg_white</ToTranslate>
+  </String>
+  <String index="1685">
+    <ToTranslate>dd</ToTranslate>
+  </String>
+  <String index="1686">
+    <ToTranslate>bcg_forest_a</ToTranslate>
+  </String>
+  <String index="1687">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="1688">
+    <ToTranslate>tcg_ens22la</ToTranslate>
+  </String>
+  <String index="1689">
+    <ToTranslate>tcg_ens22m</ToTranslate>
+  </String>
+  <String index="1690">
+    <ToTranslate>tcg_gan22da</ToTranslate>
+  </String>
+  <String index="1691">
+    <ToTranslate>tcg_gan22m</ToTranslate>
+  </String>
+  <String index="1692">
+    <ToTranslate>tcg_bun22ga</ToTranslate>
+  </String>
+  <String index="1693">
+    <ToTranslate>tcg_bun22m</ToTranslate>
+  </String>
+  <String index="1694">
+    <ToTranslate>ensy0342</ToTranslate>
+  </String>
+  <String index="1695">
+    <ToTranslate>Эншо$"Хо-хо-хо? Ох? Что это? Откуда этот белый туман..."@</ToTranslate>
+  </String>
+  <String index="1696">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="1697">
+    <ToTranslate>dd</ToTranslate>
+  </String>
+  <String index="1698">
+    <ToTranslate>bg_white</ToTranslate>
+  </String>
+  <String index="1699">
+    <ToTranslate>dd</ToTranslate>
+  </String>
+  <String index="1700">
+    <ToTranslate>bcg_forest_a</ToTranslate>
+  </String>
+  <String index="1701">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="1702">
+    <ToTranslate>tcg_ens32da</ToTranslate>
+  </String>
+  <String index="1703">
+    <ToTranslate>tcg_ens32m</ToTranslate>
+  </String>
+  <String index="1704">
+    <ToTranslate>tcg_gan22da</ToTranslate>
+  </String>
+  <String index="1705">
+    <ToTranslate>tcg_gan22m</ToTranslate>
+  </String>
+  <String index="1706">
+    <ToTranslate>tcg_bun22ga</ToTranslate>
+  </String>
+  <String index="1707">
+    <ToTranslate>tcg_bun22m</ToTranslate>
+  </String>
+  <String index="1708">
+    <ToTranslate>buns0276</ToTranslate>
+  </String>
+  <String index="1709">
+    <ToTranslate>Бушу$"П-принцесса! Тоши! Вы обе светитесь!"@</ToTranslate>
+  </String>
+  <String index="1710">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="1711">
+    <ToTranslate>dd</ToTranslate>
+  </String>
+  <String index="1712">
+    <ToTranslate>bg_white</ToTranslate>
+  </String>
+  <String index="1713">
+    <ToTranslate>dd</ToTranslate>
+  </String>
+  <String index="1714">
+    <ToTranslate>bcg_forest_a</ToTranslate>
+  </String>
+  <String index="1715">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="1716">
+    <ToTranslate>tcg_ens32da</ToTranslate>
+  </String>
+  <String index="1717">
+    <ToTranslate>tcg_ens32m</ToTranslate>
+  </String>
+  <String index="1718">
+    <ToTranslate>tcg_gan22da</ToTranslate>
+  </String>
+  <String index="1719">
+    <ToTranslate>tcg_gan22m</ToTranslate>
+  </String>
+  <String index="1720">
+    <ToTranslate>tcg_bun22ga</ToTranslate>
+  </String>
+  <String index="1721">
+    <ToTranslate>tcg_bun22m</ToTranslate>
+  </String>
+  <String index="1722">
+    <ToTranslate>ganr0302</ToTranslate>
+  </String>
+  <String index="1723">
+    <ToTranslate>Ганрю$"Что!? Ой, что это? У меня живот вдруг начал светиться!"@</ToTranslate>
+  </String>
+  <String index="1724">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="1725">
+    <ToTranslate>dd</ToTranslate>
+  </String>
+  <String index="1726">
+    <ToTranslate>bg_white</ToTranslate>
+  </String>
+  <String index="1727">
+    <ToTranslate>dd</ToTranslate>
+  </String>
+  <String index="1728">
+    <ToTranslate>bcg_forest_a</ToTranslate>
+  </String>
+  <String index="1729">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="1730">
+    <ToTranslate>tcg_ens32da</ToTranslate>
+  </String>
+  <String index="1731">
+    <ToTranslate>tcg_ens32m</ToTranslate>
+  </String>
+  <String index="1732">
+    <ToTranslate>tcg_gan22da</ToTranslate>
+  </String>
+  <String index="1733">
+    <ToTranslate>tcg_gan22m</ToTranslate>
+  </String>
+  <String index="1734">
+    <ToTranslate>tcg_bun22ga</ToTranslate>
+  </String>
+  <String index="1735">
+    <ToTranslate>tcg_bun22m</ToTranslate>
+  </String>
+  <String index="1736">
+    <ToTranslate>buns0277</ToTranslate>
+  </String>
+  <String index="1737">
+    <ToTranslate>Бушу$"Уа! И мой тоже!? Что происходит!?"@</ToTranslate>
+  </String>
+  <String index="1738">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="1739">
+    <ToTranslate>dd</ToTranslate>
+  </String>
+  <String index="1740">
+    <ToTranslate>bg_white</ToTranslate>
+  </String>
+  <String index="1741">
+    <ToTranslate>dd</ToTranslate>
+  </String>
+  <String index="1742">
+    <ToTranslate>bcg_forest_a</ToTranslate>
+  </String>
+  <String index="1743">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="1744">
+    <ToTranslate>tcg_ens32da</ToTranslate>
+  </String>
+  <String index="1745">
+    <ToTranslate>tcg_ens32m</ToTranslate>
+  </String>
+  <String index="1746">
+    <ToTranslate>tcg_gan22da</ToTranslate>
+  </String>
+  <String index="1747">
+    <ToTranslate>tcg_gan22m</ToTranslate>
+  </String>
+  <String index="1748">
+    <ToTranslate>tcg_bun22ga</ToTranslate>
+  </String>
+  <String index="1749">
+    <ToTranslate>tcg_bun22m</ToTranslate>
+  </String>
+  <String index="1750">
+    <ToTranslate>ensy0343</ToTranslate>
+  </String>
+  <String index="1751">
+    <ToTranslate>Эншо$"Что происходит!? Что это!? Бушу-сан, Ганрю-сан! Сделайте что-нибудь с этим светом!"@</ToTranslate>
+  </String>
+  <String index="1752">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="1753">
+    <ToTranslate>dd</ToTranslate>
+  </String>
+  <String index="1754">
+    <ToTranslate>bg_white</ToTranslate>
+  </String>
+  <String index="1755">
+    <ToTranslate>dd</ToTranslate>
+  </String>
+  <String index="1756">
+    <ToTranslate>bcg_forest_a</ToTranslate>
+  </String>
+  <String index="1757">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="1758">
+    <ToTranslate>tcg_ens32da</ToTranslate>
+  </String>
+  <String index="1759">
+    <ToTranslate>tcg_ens32m</ToTranslate>
+  </String>
+  <String index="1760">
+    <ToTranslate>tcg_gan22da</ToTranslate>
+  </String>
+  <String index="1761">
+    <ToTranslate>tcg_gan22m</ToTranslate>
+  </String>
+  <String index="1762">
+    <ToTranslate>tcg_bun22ga</ToTranslate>
+  </String>
+  <String index="1763">
+    <ToTranslate>tcg_bun22m</ToTranslate>
+  </String>
+  <String index="1764">
+    <ToTranslate>ganr0303</ToTranslate>
+  </String>
+  <String index="1765">
+    <ToTranslate>Ганрю$"Мы не можем...!"@</ToTranslate>
+  </String>
+  <String index="1766">
+    <ToTranslate>buns0278</ToTranslate>
+  </String>
+  <String index="1767">
+    <ToTranslate>Бушу$"Света становится всё больше... он окружает нас...!"@</ToTranslate>
+  </String>
+  <String index="1768">
+    <ToTranslate>ensy0344</ToTranslate>
+  </String>
+  <String index="1769">
+    <ToTranslate>Эншо$"Ч-ч-что же здесь происходит!?"@</ToTranslate>
+  </String>
+  <String index="1770">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="1771">
+    <ToTranslate>bg_white</ToTranslate>
+  </String>
+</DBS>
+
+
+</poem>
+[[Koihime Musou/Прогресс перевода/Сюжет|[Назад]]]

@@ -1,0 +1,47 @@
+<poem>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<DBS>
+  <String index="0">
+    <Origin>_btl_CreateStatusStrB</Origin>
+    <ToTranslate>_btl_CreateStatusStrB</ToTranslate>
+  </String>
+  <String index="1">
+    <Origin>��$</Origin>
+    <ToTranslate>��$</ToTranslate>
+  </String>
+  <String index="2">
+    <Origin>���</Origin>
+    <ToTranslate>���</ToTranslate>
+  </String>
+  <String index="3">
+    <Origin>�7000 enemy soldiers attack in an ambush!@</Origin>
+    <ToTranslate>�7000 enemy soldiers attack in an ambush!@</ToTranslate>
+  </String>
+  <String index="4">
+    <Origin>�4000 enemy soldiers attack in an ambush!@</Origin>
+    <ToTranslate>�4000 enemy soldiers attack in an ambush!@</ToTranslate>
+  </String>
+  <String index="5">
+    <Origin>You suffered �‡</Origin>
+    <ToTranslate>You suffered �‡</ToTranslate>
+  </String>
+  <String index="6">
+    <Origin>_btl_CreateStatusStrB</Origin>
+    <ToTranslate>_btl_CreateStatusStrB</ToTranslate>
+  </String>
+  <String index="7">
+    <Origin>��$</Origin>
+    <ToTranslate>��$</ToTranslate>
+  </String>
+  <String index="8">
+    <Origin>���</Origin>
+    <ToTranslate>���</ToTranslate>
+  </String>
+  <String index="9">
+    <Origin>_btl_Troops_GrpChange</Origin>
+    <ToTranslate>_btl_Troops_GrpChange</ToTranslate>
+  </String>
+</DBS>
+
+</poem>

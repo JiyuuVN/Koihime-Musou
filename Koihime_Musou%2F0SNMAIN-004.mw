@@ -1,0 +1,2070 @@
+[[Koihime Musou/Прогресс перевода/Сюжет|[Назад]]]
+<poem>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<DBS>
+  <String index="0">
+    <Origin>bcg_map_a</Origin>
+    <ToTranslate>bcg_map_a</ToTranslate>
+  </String>
+  <String index="1">
+    <Origin>_MsgBoxMain_On</Origin>
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="2">
+    <Origin>bgm23</Origin>
+    <ToTranslate>bgm23</ToTranslate>
+  </String>
+  <String index="3">
+    <Origin>$Zhuo District, Zhuo Commandery, Youzhou Province.@</Origin>
+    <ToTranslate>$Район Чжо, владения Чжо, провинция Ючжоу.@</ToTranslate>
+  </String>
+  <String index="4">
+    <Origin>$I was appointed as chief magistrate for this area in the northeast of the continent.@</Origin>
+    <ToTranslate>$Я был назначен верховным магистратом этой области на северо-востоке континента.@</ToTranslate>
+  </String>
+  <String index="5">
+    <Origin>$Ever since then, Aisha, Rinrin, and I have been working every day to rebuild the city destroyed by the Yellow Turbans.@</Origin>
+    <ToTranslate>$С тех пор Аиша, Ринрин и я упорно трудились чтобы восстановить город, разрушенный Жёлтыми Тюрбанами.@</ToTranslate>
+  </String>
+  <String index="6">
+    <Origin>$As we did that, we destroyed the Yellow Turban party forces in the area as well.@</Origin>
+    <ToTranslate>$И в то же время мы уничтожали силы Жёлтых Тюрбанов в области.@</ToTranslate>
+  </String>
+  <String index="7">
+    <Origin>$The more time I spend with the people of this city, the more I grow attached to them.@</Origin>
+    <ToTranslate>$Чем больше времени я проводил с людьми этого города, тем больше привязывался к ним.@</ToTranslate>
+  </String>
+  <String index="8">
+    <Origin>$I gradually came to learn about the people of this city, and eventually the people of this world as well.@</Origin>
+    <ToTranslate>$Постепенно я узнавал больше о людях этого города и людях этого мира в целом.@</ToTranslate>
+  </String>
+  <String index="9">
+    <Origin>$In the world I came from, light was available at the flip of a switch, and food was everywhere at the convenience stores.@</Origin>
+    <ToTranslate>$В мире, из которого я прибыл, свет появлялся после щелчка выключателя и пища продавалась в магазинах.@</ToTranslate>
+  </String>
+  <String index="10">
+    <Origin>$This world held none of those conveniences.@</Origin>
+    <ToTranslate>$В этом мире не было ни одного из этих удобств.@</ToTranslate>
+  </String>
+  <String index="11">
+    <Origin>$I never knew how much work it took to obtain our daily food.@</Origin>
+    <ToTranslate>$Никогда не представлял себе, сколько усилий нужно, чтобы обеспечить ежедневное питание.@</ToTranslate>
+  </String>
+  <String index="12">
+    <Origin>$For instance, to eat rice, one must prepare a field, fill it with water, protect the rice plants from insects and diseases, and finally harvest them.@</Origin>
+    <ToTranslate>$Например, чтобы есть рис, нужно подготовить поле, заполнить его водой, защитить растения от насекомых и болезней, и наконец собрать урожай.@</ToTranslate>
+  </String>
+  <String index="13">
+    <Origin>$It takes months of sweat and labor before one can finally harvest, then they have to offer it to the government to pay their taxes.@</Origin>
+    <ToTranslate>$Пройдут месяцы прежде чем можно будет собрать урожай, после они ещё должны будут уплатить налоги правительству.@</ToTranslate>
+  </String>
+  <String index="14">
+    <Origin>$What remains after taxes must be rationed out and consumed over the course of an entire year in order for one to survive.@</Origin>
+    <ToTranslate>$То что останется после уплаты налогов должно сберегаться и потребляться в течении всего года чтобы выжить.@</ToTranslate>
+  </String>
+  <String index="15">
+    <Origin>$However, they are always smiling. They laugh when they&apos;re happy and cry when they&apos;re sad.@</Origin>
+    <ToTranslate>$Тем не менее, они всегда улыбаются. Они смеются когда счастливы, и плачут когда в печали.@</ToTranslate>
+  </String>
+  <String index="16">
+    <Origin>$They enjoy this peaceful time.@</Origin>
+    <ToTranslate>$Они наслаждаются мирными днями.@</ToTranslate>
+  </String>
+  <String index="17">
+    <Origin>$Compared to the aimless life I was leading, their strength and earnestness was so bright that it nearly brought me to tears.@</Origin>
+    <ToTranslate>$Сравнивая с бесцельной жизнью которую вёл я, их сила и искренность настолько ярки, что почти довели меня до слёз.@</ToTranslate>
+  </String>
+  <String index="18">
+    <Origin>$I came to truly respect these people from the bottom of my heart.@</Origin>
+    <ToTranslate>$Я начал по-настоящему, всем сердцем уважать этих людей.@</ToTranslate>
+  </String>
+  <String index="19">
+    <Origin>$And that&apos;s why...@</Origin>
+    <ToTranslate>$Именно поэтому...@</ToTranslate>
+  </String>
+  <String index="20">
+    <Origin>$I must eradicate evil people, like the Yellow Turban party and bandits who try to destroy the peaceful lives of those innocent people.@</Origin>
+    <ToTranslate>$Я должен искоренить злых людей, таких как Жёлтые Тюрбаны и другие бандиты, которые пытаются разрушить мирную жизнь этих невинных людей.@</ToTranslate>
+  </String>
+  <String index="21">
+    <Origin>$Lately I&apos;ve grown to believe that is my job, my responsibility, and my mission here.@</Origin>
+    <ToTranslate>$В последнее время я начал верить, что это моя работа, моя ответственность и моя миссия здесь.@</ToTranslate>
+  </String>
+  <String index="22">
+    <Origin>bcg_outcast_a</Origin>
+    <ToTranslate>bcg_outcast_a</ToTranslate>
+  </String>
+  <String index="23">
+    <Origin>bgm13</Origin>
+    <ToTranslate>bgm13</ToTranslate>
+  </String>
+  <String index="24">
+    <Origin>$However... the ones being eradicated must be going through hell.@</Origin>
+    <ToTranslate>$Однако... как только мы решили, что этот ад уже закончился.@</ToTranslate>
+  </String>
+  <String index="25">
+    <Origin>$The Yellow Turbans who nested in the Zhuo District were suppressed, but they fled throughout Youzhou and later reogranised into a large army.@</Origin>
+    <ToTranslate>$Жёлтые Тюрбаны в районе Чжо были подавлены, но они сбежались со всей Ючжоу и собрались в большую армию.@</ToTranslate>
+  </String>
+  <String index="26">
+    <Origin>$That army began to invade the Zhuo District once again under the name of revenge. We have already received reports that some of our garrisons near the borders have been annihilated.@</Origin>
+    <ToTranslate>$Эта армия снова начала вторгаться в Чжо под предлогом мести. Мы уже получили сообщения, что некоторые наши гарнизоны вблизи границы были уничтожены.@</ToTranslate>
+  </String>
+  <String index="27">
+    <Origin>$Right now, a commander named Kousonsan, who was appointed by the Imperial Court to suppress the Yellow Turbans in a different prefecture, is fighting courageously on his way back to base.@</Origin>
+    <ToTranslate>$Прямо сейчас, командир Косонсан, назначенный Императорским Двором для подавления Жёлтых Тюрбанов в различных префектурах, храбро сражается с ними на обратном пути на базу.@</ToTranslate>
+  </String>
+  <String index="28">
+    <Origin>$However, his army is low on soldiers, and it&apos;s only a matter of time before they break through. He has requested the Imperial Army deploy their main forces to his aid.@</Origin>
+    <ToTranslate>$Однако, в его армии не хватает солдат и это только вопрос времени, когда они прорвутся. Он просил Имперскую Армию прислать основные силы на помощь.@</ToTranslate>
+  </String>
+  <String index="29">
+    <Origin>$The messenger lost consciousness right after he gave me the message.@</Origin>
+    <ToTranslate>$Посланник потерял сознание сразу же после того как дал мне это сообщение.@</ToTranslate>
+  </String>
+  <String index="30">
+    <Origin>$Our office was in an uproar. Aisha and Rinrin quickly gave orders to each department, and we deployed our forces to march onward and lend Kousonsan our support.@</Origin>
+    <ToTranslate>$Аиша и Ринрин немедленно отдали приказ о сборе, и мы, собрав наши силы, отправились на помощь Косонсан.@</ToTranslate>
+  </String>
+  <String index="31">
+    <Origin>_MsgBoxMain_Off</Origin>
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="32">
+    <Origin>bb</Origin>
+    <ToTranslate>bb</ToTranslate>
+  </String>
+  <String index="33">
+    <Origin>bg_black</Origin>
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="34">
+    <Origin>bb</Origin>
+    <ToTranslate>bb</ToTranslate>
+  </String>
+  <String index="35">
+    <Origin>bcg_wasteland_a</Origin>
+    <ToTranslate>bcg_wasteland_a</ToTranslate>
+  </String>
+  <String index="36">
+    <Origin>_MsgBoxMain_On</Origin>
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="37">
+    <Origin>bgm03</Origin>
+    <ToTranslate>bgm03</ToTranslate>
+  </String>
+  <String index="38">
+    <Origin>Kazuto$"I bet our soldiers are feeling fatigued from these ongoing deployments."@</Origin>
+    <ToTranslate>Казуто$"Уверен, солдаты устали от этого марша."@</ToTranslate>
+  </String>
+  <String index="39">
+    <Origin>tcg_kan21aa</Origin>
+    <ToTranslate>tcg_kan21aa</ToTranslate>
+  </String>
+  <String index="40">
+    <Origin>tcg_kan21m</Origin>
+    <ToTranslate>tcg_kan21m</ToTranslate>
+  </String>
+  <String index="41">
+    <Origin>aisy0069</Origin>
+    <ToTranslate>aisy0069</ToTranslate>
+  </String>
+  <String index="42">
+    <Origin>Aisha$"You&apos;re right. There may be nothing we can do about it, but as their fatigue builds, they&apos;ll be unable to fight at full strength..."@</Origin>
+    <ToTranslate>Аиша$"Вы правы. Но мы ничего не можем с этим поделать, но если их усталость накопится, они будут не в состоянии сражаться в полную силу..."@</ToTranslate>
+  </String>
+  <String index="43">
+    <Origin>tcg_cho31ja</Origin>
+    <ToTranslate>tcg_cho31ja</ToTranslate>
+  </String>
+  <String index="44">
+    <Origin>tcg_cho31m</Origin>
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="45">
+    <Origin>rinr0039</Origin>
+    <ToTranslate>rinr0039</ToTranslate>
+  </String>
+  <String index="46">
+    <Origin>Rinrin$"We have to think of something..."@</Origin>
+    <ToTranslate>Ринрин$"Мы должны что-то придумать..."@</ToTranslate>
+  </String>
+  <String index="47">
+    <Origin>Kazuto$"Yeah... Using a shift system would be best, I think."@</Origin>
+    <ToTranslate>Казуто$"Да... наверное использовать систему сдвига будет лучшим решением."@</ToTranslate>
+  </String>
+  <String index="48">
+    <Origin>tcg_kan21da</Origin>
+    <ToTranslate>tcg_kan21da</ToTranslate>
+  </String>
+  <String index="49">
+    <Origin>tcg_kan21m</Origin>
+    <ToTranslate>tcg_kan21m</ToTranslate>
+  </String>
+  <String index="50">
+    <Origin>aisy0070</Origin>
+    <ToTranslate>aisy0070</ToTranslate>
+  </String>
+  <String index="51">
+    <Origin>Aisha$"A shift system? But with our forces as limited as they already are, I doubt splitting them is a good idea."@</Origin>
+    <ToTranslate>Аиша$"Систему сдвига? Но наши силы итак ограничены, сомневаюсь, что деление будет хорошим решением."@</ToTranslate>
+  </String>
+  <String index="52">
+    <Origin>Kazuto$"Yeah, you&apos;re right. What should we do, Rinrin?"@</Origin>
+    <ToTranslate>Казуто$"Да, ты права. Ринрин, что нам делать?"@</ToTranslate>
+  </String>
+  <String index="53">
+    <Origin>tcg_cho31ba</Origin>
+    <ToTranslate>tcg_cho31ba</ToTranslate>
+  </String>
+  <String index="54">
+    <Origin>tcg_cho31m</Origin>
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="55">
+    <Origin>onpu</Origin>
+    <ToTranslate>onpu</ToTranslate>
+  </String>
+  <String index="56">
+    <Origin>rinr0040</Origin>
+    <ToTranslate>rinr0040</ToTranslate>
+  </String>
+  <String index="57">
+    <Origin>Rinrin$"Rinrin isn&apos;t thinking of anything! It&apos;s all up to you, Onii-chan!"@</Origin>
+    <ToTranslate>Ринрин$"Ринрин ни о чём не думает! Всё зависит от тебя, Братик!"@</ToTranslate>
+  </String>
+  <String index="58">
+    <Origin>Kazuto$"Pushing it on me with a smile, huh..."@</Origin>
+    <ToTranslate>Казуто$"Перекидываешь всё на меня и улыбаешься, да..."@</ToTranslate>
+  </String>
+  <String index="59">
+    <Origin>$As we continued to argue, a messenger arrived from the unit we sent ahead, who knelt before me.@</Origin>
+    <ToTranslate>$Пока мы спорили, прибыл посланник от войск спереди нас, и опустился передо мной на колено.@</ToTranslate>
+  </String>
+  <String index="60">
+    <Origin>Kazuto$"Good work, soldier. What&apos;s the situation?"@</Origin>
+    <ToTranslate>Казуто$"Хорошая работа, солдат. Какова ситуация?"@</ToTranslate>
+  </String>
+  <String index="61">
+    <Origin>Messenger$"Sir! We have discovered a detached force of Yellow Turbans two li ahead of our unit!"@</Origin>
+    <ToTranslate>Посланник$"Сэр! Мы обнаружили обособленный отряд Жёлтых Тюрбанов на два ли впереди нас!"@</ToTranslate>
+  </String>
+  <String index="62">
+    <Origin>Messenger$"The detached force is thought to be planning an attack on the farmers who immigrated from other prefectures!"@</Origin>
+    <ToTranslate>Посланник$"Этот индивидуальный отряд рассчитывал нападать на фермеров, которые иммигрируют с других префектур!"@</ToTranslate>
+  </String>
+  <String index="63">
+    <Origin>Kazuto$"Thank you. ......Aisha."@</Origin>
+    <ToTranslate>Казуто$"Спасибо. ......Аиша."@</ToTranslate>
+  </String>
+  <String index="64">
+    <Origin>bgm0000</Origin>
+    <ToTranslate>bgm0000</ToTranslate>
+  </String>
+  <String index="65">
+    <Origin>tcg_kan11ca</Origin>
+    <ToTranslate>tcg_kan11ca</ToTranslate>
+  </String>
+  <String index="66">
+    <Origin>tcg_kan11m</Origin>
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="67">
+    <Origin>aisy0071</Origin>
+    <ToTranslate>aisy0071</ToTranslate>
+  </String>
+  <String index="68">
+    <Origin>Aisha$"Yes, sir! All units, double time! We must catch up with the other squad and protect the farmers!"@</Origin>
+    <ToTranslate>Аиша$"Да, сэр! Всем войскам, удвоить скорость! Мы должны догнать другие войска и защитить фермеров!"@</ToTranslate>
+  </String>
+  <String index="69">
+    <Origin>tcg_cho11ea</Origin>
+    <ToTranslate>tcg_cho11ea</ToTranslate>
+  </String>
+  <String index="70">
+    <Origin>tcg_cho11m</Origin>
+    <ToTranslate>tcg_cho11m</ToTranslate>
+  </String>
+  <String index="71">
+    <Origin>rinr0041</Origin>
+    <ToTranslate>rinr0041</ToTranslate>
+  </String>
+  <String index="72">
+    <Origin>Rinrin$"All units, follow me!"@</Origin>
+    <ToTranslate>Ринрин$"Всем войскам, за мной!"@</ToTranslate>
+  </String>
+  <String index="73">
+    <Origin>Soldiers$"Yeah!"@</Origin>
+    <ToTranslate>Солдаты$"Есть!"@</ToTranslate>
+  </String>
+  <String index="74">
+    <Origin>_MsgBoxMain_Off</Origin>
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="75">
+    <Origin>aa</Origin>
+    <ToTranslate>aa</ToTranslate>
+  </String>
+  <String index="76">
+    <Origin>bg_black</Origin>
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="77">
+    <Origin>_MsgBoxMain_On</Origin>
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="78">
+    <Origin>$After Aisha&apos;s command, our unit quickened its march to catch up to our other squad. Shortly thereafter, we encountered farmers carrying their household belongings.@</Origin>
+    <ToTranslate>$После команды Аиши наше подразделение ускорило свой марш, чтобы догнать других. Вскоре мы столкнулись с фермерами, перевозившими свои вещи.@</ToTranslate>
+  </String>
+  <String index="79">
+    <Origin>_MsgBoxMain_Off</Origin>
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="80">
+    <Origin>aa</Origin>
+    <ToTranslate>aa</ToTranslate>
+  </String>
+  <String index="81">
+    <Origin>bcg_wasteland_a</Origin>
+    <ToTranslate>bcg_wasteland_a</ToTranslate>
+  </String>
+  <String index="82">
+    <Origin>_MsgBoxMain_On</Origin>
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="83">
+    <Origin>Kazuto$"Good! We made it in time!"@</Origin>
+    <ToTranslate>Казуто$"Прекрасно! Мы успели вовремя!"@</ToTranslate>
+  </String>
+  <String index="84">
+    <Origin>tcg_kan11ma</Origin>
+    <ToTranslate>tcg_kan11ma</ToTranslate>
+  </String>
+  <String index="85">
+    <Origin>tcg_kan11m</Origin>
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="86">
+    <Origin>aisy0072</Origin>
+    <ToTranslate>aisy0072</ToTranslate>
+  </String>
+  <String index="87">
+    <Origin>Aisha$"Chouhi squad, join the other unit and form a front. My squad and I will lead the farmers and retreat for the time being!"@</Origin>
+    <ToTranslate>Аиша$"Отряд Чоухи присоединится к другим отрядам и образует линию фронта. Я и мой отряд сопроводим фермеров и отступим на данный момент!"@</ToTranslate>
+  </String>
+  <String index="88">
+    <Origin>Kazuto$"I appreciate it if you can come back as soon as possible, since we don&apos;t know how many enemy soldiers there are."@</Origin>
+    <ToTranslate>Казуто$"Буду признателен, если вы вернётесь как можно скорее, потому как мы не знаем сколько солдат у противника."@</ToTranslate>
+  </String>
+  <String index="89">
+    <Origin>tcg_kan11aa</Origin>
+    <ToTranslate>tcg_kan11aa</ToTranslate>
+  </String>
+  <String index="90">
+    <Origin>tcg_kan11m</Origin>
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="91">
+    <Origin>aisy0073</Origin>
+    <ToTranslate>aisy0073</ToTranslate>
+  </String>
+  <String index="92">
+    <Origin>Aisha$"Of course. Please hang in there with Rinrin until I come back."@</Origin>
+    <ToTranslate>Аиша$"Конечно. Пожалуйста, оставайтесь с Ринрин здесь пока я не вернусь."@</ToTranslate>
+  </String>
+  <String index="93">
+    <Origin>Kazuto$"Got it. Rinrin, I&apos;m counting on you."@</Origin>
+    <ToTranslate>Казуто$"Принято. Ринрин, я рассчитываю на тебя."@</ToTranslate>
+  </String>
+  <String index="94">
+    <Origin>tcg_cho31ia</Origin>
+    <ToTranslate>tcg_cho31ia</ToTranslate>
+  </String>
+  <String index="95">
+    <Origin>tcg_cho31m</Origin>
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="96">
+    <Origin>rinr0042</Origin>
+    <ToTranslate>rinr0042</ToTranslate>
+  </String>
+  <String index="97">
+    <Origin>Rinrin$"Sure! I&apos;ll protect you, Onii-chan. Good luck to you, Aisha!"@</Origin>
+    <ToTranslate>Ринрин$"Конечно! Братик, я буду защищать тебя. Удачи, Аиша!"@</ToTranslate>
+  </String>
+  <String index="98">
+    <Origin>tcg_kan11ca</Origin>
+    <ToTranslate>tcg_kan11ca</ToTranslate>
+  </String>
+  <String index="99">
+    <Origin>tcg_kan11m</Origin>
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="100">
+    <Origin>aisy0074</Origin>
+    <ToTranslate>aisy0074</ToTranslate>
+  </String>
+  <String index="101">
+    <Origin>Aisha$"Leave it to me. ......Kan&apos;u squad, move out!"@</Origin>
+    <ToTranslate>Аиша$"Положитесь на меня. ......Отряд Кану, выдвигаемся!"@</ToTranslate>
+  </String>
+  <String index="102">
+    <Origin>_MsgBoxMain_Off</Origin>
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="103">
+    <Origin>bb</Origin>
+    <ToTranslate>bb</ToTranslate>
+  </String>
+  <String index="104">
+    <Origin>bg_black</Origin>
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="105">
+    <Origin>bb</Origin>
+    <ToTranslate>bb</ToTranslate>
+  </String>
+  <String index="106">
+    <Origin>bcg_wasteland_a</Origin>
+    <ToTranslate>bcg_wasteland_a</ToTranslate>
+  </String>
+  <String index="107">
+    <Origin>_MsgBoxMain_On</Origin>
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="108">
+    <Origin>$Kan&apos;u and her unit left to lead the farmers away to a safe place.@</Origin>
+    <ToTranslate>$Кану и её отряд ушли, чтобы отвести фермеров в безопасное место.@</ToTranslate>
+  </String>
+  <String index="109">
+    <Origin>tcg_cho31ja</Origin>
+    <ToTranslate>tcg_cho31ja</ToTranslate>
+  </String>
+  <String index="110">
+    <Origin>tcg_cho31m</Origin>
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="111">
+    <Origin>rinr0043</Origin>
+    <ToTranslate>rinr0043</ToTranslate>
+  </String>
+  <String index="112">
+    <Origin>Rinrin$"What should we do, Onii-chan?"@</Origin>
+    <ToTranslate>Ринрин$"Чем займёмся, братишка?"@</ToTranslate>
+  </String>
+  <String index="113">
+    <Origin>$I could see the Yellow Turbans bearing their arms and charging towards us in the distance.@</Origin>
+    <ToTranslate>$Вижу как издали Жёлтые Тюрбаны с оружием в руках приближаются к нам.@</ToTranslate>
+  </String>
+  <String index="114">
+    <Origin>Kazuto$"Let&apos;s see... They&apos;re charging us at full speed, so once they enter the range of our archers, why don&apos;t we give them a hail of arrows?"@</Origin>
+    <ToTranslate>Казуто$"Давай подумаем... Они бегут к нам на полной скорости, поэтому, почему бы нам не посыпать их градом стрел?"@</ToTranslate>
+  </String>
+  <String index="115">
+    <Origin>tcg_cho21ja</Origin>
+    <ToTranslate>tcg_cho21ja</ToTranslate>
+  </String>
+  <String index="116">
+    <Origin>tcg_cho21m</Origin>
+    <ToTranslate>tcg_cho21m</ToTranslate>
+  </String>
+  <String index="117">
+    <Origin>rinr0044</Origin>
+    <ToTranslate>rinr0044</ToTranslate>
+  </String>
+  <String index="118">
+    <Origin>Rinrin$"Good point. After that, maybe it&apos;s best if Rinrin charges in... Huh?"@</Origin>
+    <ToTranslate>Ринрин$"Хорошо подмечено. И после этого, Ринрин сможет напасть... а?"@</ToTranslate>
+  </String>
+  <String index="119">
+    <Origin>hatena</Origin>
+    <ToTranslate>hatena</ToTranslate>
+  </String>
+  <String index="120">
+    <Origin>$Rinrin tilted her head and squinted.@</Origin>
+    <ToTranslate>$Ринрин наклонила голову и прищурилась.@</ToTranslate>
+  </String>
+  <String index="121">
+    <Origin>$There was a sense of urgency behind her murmur.@</Origin>
+    <ToTranslate>$Какой то шум послышался прямо за ней.@</ToTranslate>
+  </String>
+  <String index="122">
+    <Origin>tcg_cho11ca</Origin>
+    <ToTranslate>tcg_cho11ca</ToTranslate>
+  </String>
+  <String index="123">
+    <Origin>tcg_cho11m</Origin>
+    <ToTranslate>tcg_cho11m</ToTranslate>
+  </String>
+  <String index="124">
+    <Origin>rinr0045</Origin>
+    <ToTranslate>rinr0045</ToTranslate>
+  </String>
+  <String index="125">
+    <Origin>Rinrin$"There are some people who got left behind."@</Origin>
+    <ToTranslate>Ринрин$"Похоже там люди которые отстали."@</ToTranslate>
+  </String>
+  <String index="126">
+    <Origin>Kazuto$"What? Are you serious?"@</Origin>
+    <ToTranslate>Казуто$"Что? Серьёзно?"@</ToTranslate>
+  </String>
+  <String index="127">
+    <Origin>rinr0046</Origin>
+    <ToTranslate>rinr0046</ToTranslate>
+  </String>
+  <String index="128">
+    <Origin>Rinrin$"Yeah. A girl and an old person. Nyah! This isn&apos;t good. Onii-chan, we have to move in! We must rescue them!"@</Origin>
+    <ToTranslate>Ринрин$"Да. Девочка и пожилой человек. Няах! Это не хорошо. Братик, мы должны идти! Мы должны спасти их!"@</ToTranslate>
+  </String>
+  <String index="129">
+    <Origin>Kazuto$"Yeah! Chouhi squad, prepare to attack! We&apos;re charging in too!"@</Origin>
+    <ToTranslate>Казуто$"Да! Отряд Чоухи, приготовиться к атаке! Мы наступаем!"@</ToTranslate>
+  </String>
+  <String index="130">
+    <Origin>Soldiers$"Yeah!"@</Origin>
+    <ToTranslate>Солдаты$"Да!"@</ToTranslate>
+  </String>
+  <String index="131">
+    <Origin>SE013</Origin>
+    <ToTranslate>SE013</ToTranslate>
+  </String>
+  <String index="132">
+    <Origin>$The soldiers all unsheathed their swords with brave shouts.@</Origin>
+    <ToTranslate>$С бравым криком солдаты обнажили мечи.@</ToTranslate>
+  </String>
+  <String index="133">
+    <Origin>tcg_cho11ea</Origin>
+    <ToTranslate>tcg_cho11ea</ToTranslate>
+  </String>
+  <String index="134">
+    <Origin>tcg_cho11m</Origin>
+    <ToTranslate>tcg_cho11m</ToTranslate>
+  </String>
+  <String index="135">
+    <Origin>rinr0047</Origin>
+    <ToTranslate>rinr0047</ToTranslate>
+  </String>
+  <String index="136">
+    <Origin>Rinrin$"Move out! Everyone follow Rinrin!"@</Origin>
+    <ToTranslate>Ринрин$"Выдвигаемся! Все следуйте за Ринрин!"@</ToTranslate>
+  </String>
+  <String index="137">
+    <Origin>SE048</Origin>
+    <ToTranslate>SE048</ToTranslate>
+  </String>
+  <String index="138">
+    <Origin>_MsgBoxMain_Off</Origin>
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="139">
+    <Origin>bb</Origin>
+    <ToTranslate>bb</ToTranslate>
+  </String>
+  <String index="140">
+    <Origin>bg_black</Origin>
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="141">
+    <Origin>bb</Origin>
+    <ToTranslate>bb</ToTranslate>
+  </String>
+  <String index="142">
+    <Origin>bcg_wasteland_a</Origin>
+    <ToTranslate>bcg_wasteland_a</ToTranslate>
+  </String>
+  <String index="143">
+    <Origin>tcg_syo22ja</Origin>
+    <ToTranslate>tcg_syo22ja</ToTranslate>
+  </String>
+  <String index="144">
+    <Origin>tcg_syo22m</Origin>
+    <ToTranslate>tcg_syo22m</ToTranslate>
+  </String>
+  <String index="145">
+    <Origin>_MsgBoxMain_On</Origin>
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="146">
+    <Origin>bgm13</Origin>
+    <ToTranslate>bgm13</ToTranslate>
+  </String>
+  <String index="147">
+    <Origin>syot0000</Origin>
+    <ToTranslate>syot0000</ToTranslate>
+  </String>
+  <String index="148">
+    <Origin>Girl $"Hawawa, hawawa, hawawa, hawawa...!"@</Origin>
+    <ToTranslate>Девочка$"Хавава, хавава, хавава, хавава...!"@</ToTranslate>
+  </String>
+  <String index="149">
+    <Origin>Old Woman$"Hah, hah, hah, hah..."@</Origin>
+    <ToTranslate>Пожилая женщина$"Фух,фух, фух, фух..."@</ToTranslate>
+  </String>
+  <String index="150">
+    <Origin>syot0001</Origin>
+    <ToTranslate>syot0001</ToTranslate>
+  </String>
+  <String index="151">
+    <Origin>Girl$"Come on, just a little more, ma&apos;am. Hang in there!!"@</Origin>
+    <ToTranslate>Девочка$"Давайте, ещё чуть-чуть, бабушка. Идёмте!!"@</ToTranslate>
+  </String>
+  <String index="152">
+    <Origin>Old Woman$"I&apos;m already done for......Please save yourself, dear."@</Origin>
+    <ToTranslate>Пожилая женщина$"Я слишком стара для этого......пожалуйста, уходи сама."@</ToTranslate>
+  </String>
+  <String index="153">
+    <Origin>tcg_syo22ta</Origin>
+    <ToTranslate>tcg_syo22ta</ToTranslate>
+  </String>
+  <String index="154">
+    <Origin>tcg_syo22m</Origin>
+    <ToTranslate>tcg_syo22m</ToTranslate>
+  </String>
+  <String index="155">
+    <Origin>syot0002</Origin>
+    <ToTranslate>syot0002</ToTranslate>
+  </String>
+  <String index="156">
+    <Origin>Girl$"Hawawa, no, I can&apos;t..."@</Origin>
+    <ToTranslate>Девочка$"Хавава, нет, я не могу..."@</ToTranslate>
+  </String>
+  <String index="157">
+    <Origin>Old Woman$"But if you stay with me, you&apos;ll be killed too..."@</Origin>
+    <ToTranslate>Пожилая женщина$"Но если ты останешься со мной, тебя тоже убьют..."@</ToTranslate>
+  </String>
+  <String index="158">
+    <Origin>tcg_syo22ja</Origin>
+    <ToTranslate>tcg_syo22ja</ToTranslate>
+  </String>
+  <String index="159">
+    <Origin>tcg_syo22m</Origin>
+    <ToTranslate>tcg_syo22m</ToTranslate>
+  </String>
+  <String index="160">
+    <Origin>syot0003</Origin>
+    <ToTranslate>syot0003</ToTranslate>
+  </String>
+  <String index="161">
+    <Origin>Girl$"I just can&apos;t! I went to school so I could protect weak people! So I can&apos;t just leave you here!"@</Origin>
+    <ToTranslate>Девочка$"Я просто не смогу! Я пошла в школу, чтобы я смогла защищать слабых! Поэтому я просто не могу бросить вас!"@</ToTranslate>
+  </String>
+  <String index="162">
+    <Origin>Old Woman$"Ah... thank you. Thank you very much..."@</Origin>
+    <ToTranslate>Пожилая женщина$"Ах... спасибо тебе. Спасибо большое..."@</ToTranslate>
+  </String>
+  <String index="163">
+    <Origin>tcg_syo12ka</Origin>
+    <ToTranslate>tcg_syo12ka</ToTranslate>
+  </String>
+  <String index="164">
+    <Origin>tcg_syo12m</Origin>
+    <ToTranslate>tcg_syo12m</ToTranslate>
+  </String>
+  <String index="165">
+    <Origin>syot0004</Origin>
+    <ToTranslate>syot0004</ToTranslate>
+  </String>
+  <String index="166">
+    <Origin>Girl$"Sure! So come on, you can do it!"@</Origin>
+    <ToTranslate>Девочка$"Конечно! Постарайтесь, вы сможете!"@</ToTranslate>
+  </String>
+  <String index="167">
+    <Origin>Old Woman$"Okay! I&apos;ll do my best!"@</Origin>
+    <ToTranslate>Пожилая женщина$"Хорошо! Я постараюсь!"@</ToTranslate>
+  </String>
+  <String index="168">
+    <Origin>tcg_syo12ba</Origin>
+    <ToTranslate>tcg_syo12ba</ToTranslate>
+  </String>
+  <String index="169">
+    <Origin>tcg_syo12m</Origin>
+    <ToTranslate>tcg_syo12m</ToTranslate>
+  </String>
+  <String index="170">
+    <Origin>syot0005</Origin>
+    <ToTranslate>syot0005</ToTranslate>
+  </String>
+  <String index="171">
+    <Origin>Girl$"There you go!"@</Origin>
+    <ToTranslate>Девочка$"Вот так!"@</ToTranslate>
+  </String>
+  <String index="172">
+    <Origin>Old Woman$"Hah, hah, hah...by the way, dear..."@</Origin>
+    <ToTranslate>Пожилая женщина$"Фух, фух, фух...дорогая, всё же..."@</ToTranslate>
+  </String>
+  <String index="173">
+    <Origin>tcg_syo12aa</Origin>
+    <ToTranslate>tcg_syo12aa</ToTranslate>
+  </String>
+  <String index="174">
+    <Origin>tcg_syo12m</Origin>
+    <ToTranslate>tcg_syo12m</ToTranslate>
+  </String>
+  <String index="175">
+    <Origin>syot0006</Origin>
+    <ToTranslate>syot0006</ToTranslate>
+  </String>
+  <String index="176">
+    <Origin>Girl$"Yes? What is it?"@</Origin>
+    <ToTranslate>Девочка$"Да? Что то случилось?"@</ToTranslate>
+  </String>
+  <String index="177">
+    <Origin>Old Woman$"I know the ones coming from behind us are the Yellow Turbans...but who&apos;s coming from our front?"@</Origin>
+    <ToTranslate>Пожилая женщина$"Я знаю что позади нас Жёлтые Тюрбаны...но кто приближается к нам спереди?"@</ToTranslate>
+  </String>
+  <String index="178">
+    <Origin>tcg_syo22ja</Origin>
+    <ToTranslate>tcg_syo22ja</ToTranslate>
+  </String>
+  <String index="179">
+    <Origin>tcg_syo22m</Origin>
+    <ToTranslate>tcg_syo22m</ToTranslate>
+  </String>
+  <String index="180">
+    <Origin>syot0007</Origin>
+    <ToTranslate>syot0007</ToTranslate>
+  </String>
+  <String index="181">
+    <Origin>Girl$"Hawa?! Oooo, you&apos;re right..."@</Origin>
+    <ToTranslate>Девочка$"Хава?! Ууу, вы правы..."@</ToTranslate>
+  </String>
+  <String index="182">
+    <Origin>Old Woman$"......I guess it&apos;s time to pay the piper."@</Origin>
+    <ToTranslate>Пожилая женщина$"......думаю, пришло моё время искупить грехи."@</ToTranslate>
+  </String>
+  <String index="183">
+    <Origin>tcg_syo22ca</Origin>
+    <ToTranslate>tcg_syo22ca</ToTranslate>
+  </String>
+  <String index="184">
+    <Origin>tcg_syo22m</Origin>
+    <ToTranslate>tcg_syo22m</ToTranslate>
+  </String>
+  <String index="185">
+    <Origin>syot0008</Origin>
+    <ToTranslate>syot0008</ToTranslate>
+  </String>
+  <String index="186">
+    <Origin>Girl$"Hawawa, not yet! Not yet! If you give up, then we really will be done for!"@</Origin>
+    <ToTranslate>Девочка$"Хавава, нет! Ещё нет! Если вы сдадитесь, тогда действительно всё будет кончено!"@</ToTranslate>
+  </String>
+  <String index="187">
+    <Origin>Old Woman$"I know... let&apos;s just hope the people we see ahead of us are friendly..."@</Origin>
+    <ToTranslate>Пожилая женщина$"Знаю... будем надеяться, что люди впереди нас дружелюбны..."@</ToTranslate>
+  </String>
+  <String index="188">
+    <Origin>tcg_syo22pa</Origin>
+    <ToTranslate>tcg_syo22pa</ToTranslate>
+  </String>
+  <String index="189">
+    <Origin>tcg_syo22m</Origin>
+    <ToTranslate>tcg_syo22m</ToTranslate>
+  </String>
+  <String index="190">
+    <Origin>syot0009</Origin>
+    <ToTranslate>syot0009</ToTranslate>
+  </String>
+  <String index="191">
+    <Origin>Girl$"Ahooo..."@</Origin>
+    <ToTranslate>Девочка$"Ахууу..."@</ToTranslate>
+  </String>
+  <String index="192">
+    <Origin>kyara_kesi</Origin>
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="193">
+    <Origin>SE024</Origin>
+    <ToTranslate>SE024</ToTranslate>
+  </String>
+  <String index="194">
+    <Origin>tcg_cho11ea</Origin>
+    <ToTranslate>tcg_cho11ea</ToTranslate>
+  </String>
+  <String index="195">
+    <Origin>tcg_cho11m</Origin>
+    <ToTranslate>tcg_cho11m</ToTranslate>
+  </String>
+  <String index="196">
+    <Origin>bgm04</Origin>
+    <ToTranslate>bgm04</ToTranslate>
+  </String>
+  <String index="197">
+    <Origin>rinr0048</Origin>
+    <ToTranslate>rinr0048</ToTranslate>
+  </String>
+  <String index="198">
+    <Origin>Rinrin$"Enhito Chouhi has now arrived!"@</Origin>
+    <ToTranslate>Ринрин$"Юкутоку Чоухи прибыла!"@</ToTranslate>
+  </String>
+  <String index="199">
+    <Origin>tcg_syo22ja</Origin>
+    <ToTranslate>tcg_syo22ja</ToTranslate>
+  </String>
+  <String index="200">
+    <Origin>tcg_syo22m</Origin>
+    <ToTranslate>tcg_syo22m</ToTranslate>
+  </String>
+  <String index="201">
+    <Origin>syot0010</Origin>
+    <ToTranslate>syot0010</ToTranslate>
+  </String>
+  <String index="202">
+    <Origin>Girl$"Hawa?"@</Origin>
+    <ToTranslate>Девочка$"Хава?"@</ToTranslate>
+  </String>
+  <String index="203">
+    <Origin>tcg_cho41ha</Origin>
+    <ToTranslate>tcg_cho41ha</ToTranslate>
+  </String>
+  <String index="204">
+    <Origin>tcg_cho41m</Origin>
+    <ToTranslate>tcg_cho41m</ToTranslate>
+  </String>
+  <String index="205">
+    <Origin>rinr0049</Origin>
+    <ToTranslate>rinr0049</ToTranslate>
+  </String>
+  <String index="206">
+    <Origin>Rinrin$"Hmm? You&apos;re a little girl. Are you hurt?"@</Origin>
+    <ToTranslate>Ринрин$"Хмм? Ты, маленькая девочка. Ты не ранена?"@</ToTranslate>
+  </String>
+  <String index="207">
+    <Origin>tcg_syo32ha</Origin>
+    <ToTranslate>tcg_syo32ha</ToTranslate>
+  </String>
+  <String index="208">
+    <Origin>tcg_syo32m</Origin>
+    <ToTranslate>tcg_syo32m</ToTranslate>
+  </String>
+  <String index="209">
+    <Origin>syot0011</Origin>
+    <ToTranslate>syot0011</ToTranslate>
+  </String>
+  <String index="210">
+    <Origin>Girl$"No, I&apos;m not... but... I&apos;m not a little girl! I&apos;m a grown girl!"@</Origin>
+    <ToTranslate>Девочка$"Нет, я не... но... я не маленькая девочка! Я взрослая девушка!"@</ToTranslate>
+  </String>
+  <String index="211">
+    <Origin>tcg_cho31da</Origin>
+    <ToTranslate>tcg_cho31da</ToTranslate>
+  </String>
+  <String index="212">
+    <Origin>tcg_cho31m</Origin>
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="213">
+    <Origin>rinr0050</Origin>
+    <ToTranslate>rinr0050</ToTranslate>
+  </String>
+  <String index="214">
+    <Origin>Rinrin$"Rinrin&apos;s a grown up too! ...Hey, this isn&apos;t the time to talk about that! Onii-chan!"@</Origin>
+    <ToTranslate>Ринрин$"Ринрин тоже взрослая! ...Эй, не время говорить об этом! Братик!"@</ToTranslate>
+  </String>
+  <String index="215">
+    <Origin>Kazuto$"Hah, hah, hah... you run too fast, Rinrin."@</Origin>
+    <ToTranslate>Казуто$"Фух, фух, фух... ты такая быстрая, Ринрин."@</ToTranslate>
+  </String>
+  <String index="216">
+    <Origin>tcg_cho11ca</Origin>
+    <ToTranslate>tcg_cho11ca</ToTranslate>
+  </String>
+  <String index="217">
+    <Origin>tcg_cho11m</Origin>
+    <ToTranslate>tcg_cho11m</ToTranslate>
+  </String>
+  <String index="218">
+    <Origin>rinr0051</Origin>
+    <ToTranslate>rinr0051</ToTranslate>
+  </String>
+  <String index="219">
+    <Origin>Rinrin$"You&apos;re too slow, Onii-chan! More importantly, please take them with you and fall back. Rinrin&apos;s going to go cream those bad Yellow Turbans!"@</Origin>
+    <ToTranslate>Ринрин$"Братик, это ты слишком медленный! Сейчас намного важнее, пожалуйста, забери их и возвращайся назад. Ринрин собирается пойти и размазать этих плохих Жёлтых Тюрбанов!"@</ToTranslate>
+  </String>
+  <String index="220">
+    <Origin>Kazuto$"Okay. Be careful..."@</Origin>
+    <ToTranslate>Казуто$"Хорошо. Будь осторожна..."@</ToTranslate>
+  </String>
+  <String index="221">
+    <Origin>tcg_cho31ba</Origin>
+    <ToTranslate>tcg_cho31ba</ToTranslate>
+  </String>
+  <String index="222">
+    <Origin>tcg_cho31m</Origin>
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="223">
+    <Origin>rinr0052</Origin>
+    <ToTranslate>rinr0052</ToTranslate>
+  </String>
+  <String index="224">
+    <Origin>Rinrin$"I&apos;ll be okay! They&apos;re in your hands!"@</Origin>
+    <ToTranslate>Ринрин$"Со мной всё будет хорошо! Они в твоих руках!"@</ToTranslate>
+  </String>
+  <String index="225">
+    <Origin>kyara_kesi</Origin>
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="226">
+    <Origin>bgm05</Origin>
+    <ToTranslate>bgm05</ToTranslate>
+  </String>
+  <String index="227">
+    <Origin>Kazuto$"Ah, hey! Gosh, she&apos;s gone already..."@</Origin>
+    <ToTranslate>Казуто$"Ай, эй! Чёрт возьми, она уже убежала..."@</ToTranslate>
+  </String>
+  <String index="228">
+    <Origin>$After watching Rinrin shoulder her spear and run off at full speed...@</Origin>
+    <ToTranslate>$Я смотрю как Ринрин положила копьё себе на плечо и побежала на полной скорости...@</ToTranslate>
+  </String>
+  <String index="229">
+    <Origin>Kazuto$"Are you two okay?"@</Origin>
+    <ToTranslate>Казуто$"Вы в порядке?"@</ToTranslate>
+  </String>
+  <String index="230">
+    <Origin>$I spoke to the old woman and the girl fleeing from the Yellow Turbans.@</Origin>
+    <ToTranslate>$Я заговорил с пожилой женщиной и девочкой которые убегали от Жёлтых Тюрбанов.@</ToTranslate>
+  </String>
+  <String index="231">
+    <Origin>Old Woman$"Yes, I&apos;m okay. Did you come to rescue us?"@</Origin>
+    <ToTranslate>Пожилая женщина$"Да, я в порядке. Вы пришли, чтобы спасти нас?"@</ToTranslate>
+  </String>
+  <String index="232">
+    <Origin>Kazuto$"Yes, we did. Do you know of the Zhuo District nearby? We came from there."@</Origin>
+    <ToTranslate>Казуто$"Да, так и есть. Вы знаете район Чжо неподалёку? Мы пришли оттуда."@</ToTranslate>
+  </String>
+  <String index="233">
+    <Origin>Old Woman$"I see. Thank you for coming."@</Origin>
+    <ToTranslate>Пожилая женщина$"Ясно. Спасибо за помощь."@</ToTranslate>
+  </String>
+  <String index="234">
+    <Origin>Kazuto$"Don&apos;t mention it. I&apos;m glad we got here in time. The people who were ahead of you are being taken to a safe place by my people. Why don&apos;t you go join them?"@</Origin>
+    <ToTranslate>Казуто$"Не стоит. Я рад, что мы пришли вовремя. Люди, которые шли впереди вас сейчас направляются в безопасное место вместе с моими людьми. Почему бы вам не присоединиться к ним?"@</ToTranslate>
+  </String>
+  <String index="235">
+    <Origin>Old Woman$"Alright. ...Come, dear, let&apos;s go."@</Origin>
+    <ToTranslate>Пожилая женщина$"Хорошо. ...Дорогая, пойдём."@</ToTranslate>
+  </String>
+  <String index="236">
+    <Origin>tcg_syo22ja</Origin>
+    <ToTranslate>tcg_syo22ja</ToTranslate>
+  </String>
+  <String index="237">
+    <Origin>tcg_syo22m</Origin>
+    <ToTranslate>tcg_syo22m</ToTranslate>
+  </String>
+  <String index="238">
+    <Origin>syot0012</Origin>
+    <ToTranslate>syot0012</ToTranslate>
+  </String>
+  <String index="239">
+    <Origin>Girl$"Hawa..."@</Origin>
+    <ToTranslate>Девочка$"Хава..."@</ToTranslate>
+  </String>
+  <String index="240">
+    <Origin>Old Woman$"Dear?"@</Origin>
+    <ToTranslate>Пожилая женщина$"Дорогая?"@</ToTranslate>
+  </String>
+  <String index="241">
+    <Origin>tcg_syo22pa</Origin>
+    <ToTranslate>tcg_syo22pa</ToTranslate>
+  </String>
+  <String index="242">
+    <Origin>tcg_syo22m</Origin>
+    <ToTranslate>tcg_syo22m</ToTranslate>
+  </String>
+  <String index="243">
+    <Origin>syot0013</Origin>
+    <ToTranslate>syot0013</ToTranslate>
+  </String>
+  <String index="244">
+    <Origin>Girl$"Hawa?! Oh, umm...Please go on ahead of me, ma&apos;am. I, umm..."@</Origin>
+    <ToTranslate>Девочка$"Хава?! Ах, умм...пожалуйста, идите без меня. Я, умм..."@</ToTranslate>
+  </String>
+  <String index="245">
+    <Origin>$Peek...@</Origin>
+    <ToTranslate>$Быстрый взгляд...@</ToTranslate>  *тупозырк?
+  </String>
+  <String index="246">
+    <Origin>Kazuto$"Hmm? Do you want something from me?"@</Origin>
+    <ToTranslate>Казуто$"Хмм? Тебе что-нибудь от меня нужно?"@</ToTranslate>
+  </String>
+  <String index="247">
+    <Origin>tcg_syo22ja</Origin>
+    <ToTranslate>tcg_syo22ja</ToTranslate>
+  </String>
+  <String index="248">
+    <Origin>tcg_syo22m</Origin>
+    <ToTranslate>tcg_syo22m</ToTranslate>
+  </String>
+  <String index="249">
+    <Origin>syot0014</Origin>
+    <ToTranslate>syot0014</ToTranslate>
+  </String>
+  <String index="250">
+    <Origin>Girl$"Ah! Y-yes! Umm...Are you the chief magistrate of Zhuo?!"@</Origin>
+    <ToTranslate>Девочка$"Ах! Д-да! Умм...вы главный магистрат Чжо?!"@</ToTranslate>
+  </String>
+  <String index="251">
+    <Origin>Kazuto$"Yeah, I guess I am..."@</Origin>
+    <ToTranslate>Казуто$"Да, полагаю это я..."@</ToTranslate>
+  </String>
+  <String index="252">
+    <Origin>tcg_syo22ca</Origin>
+    <ToTranslate>tcg_syo22ca</ToTranslate>
+  </String>
+  <String index="253">
+    <Origin>tcg_syo22m</Origin>
+    <ToTranslate>tcg_syo22m</ToTranslate>
+  </String>
+  <String index="254">
+    <Origin>syot0015</Origin>
+    <ToTranslate>syot0015</ToTranslate>
+  </String>
+  <String index="255">
+    <Origin>Girl$"I knew it! So you are the Messenger from Heaven, right?"@</Origin>
+    <ToTranslate>Девочка$"Я так и думала! Значит вы Посланник Небес, верно?"@</ToTranslate>
+  </String>
+  <String index="256">
+    <Origin>Kazuto$"Yes, they do call me that. ......But what about it?"@</Origin>
+    <ToTranslate>Казуто$"Да, иногда меня так называют. ......Но зачем тебе это?"@</ToTranslate>
+  </String>
+  <String index="257">
+    <Origin>tcg_syo22ma</Origin>
+    <ToTranslate>tcg_syo22ma</ToTranslate>
+  </String>
+  <String index="258">
+    <Origin>tcg_syo22m</Origin>
+    <ToTranslate>tcg_syo22m</ToTranslate>
+  </String>
+  <String index="259">
+    <Origin>syot0016</Origin>
+    <ToTranslate>syot0016</ToTranslate>
+  </String>
+  <String index="260">
+    <Origin>Girl$"Hawawa! Ah, umm! My family name is Shokatsu! My first name is Ryou! My common name is Koumei!"@</Origin>
+    <ToTranslate>Девочка$"Хавава! Ах, умм! Моё фамильное имя Шокатсу! Моё первое имя Рё! Моё общественное имя Комей!"@</ToTranslate>
+  </String>
+  <String index="261">
+    <Origin>Kazuto$"Huh? Shokatsu... Shokatsuryou?!"@</Origin>
+    <ToTranslate>Казуто$"Аа? Шокатсу... Шокатсурё?!"@</ToTranslate>
+  </String>
+  <String index="262">
+    <Origin>$Shokatsuryou was renouned as a stunningly excellent strategist in the Romance of Three Kingdoms.@</Origin>
+    <ToTranslate>$В Романе о Трёх Королевствах Шокатсурё был известен как отличный стратег.@</ToTranslate>
+  </String>
+  <String index="263">
+    <Origin>kyara_kesi</Origin>
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="264">
+    <Origin>$Shokatsuryou served Ryuubi--that&apos;s supposedly me in this world--as a strategist, and played a major role in many battles.@</Origin>
+    <ToTranslate>$Шокатсурё служил Рюби—это вроде как я в этом мире—стратегом, и играл важную роль во многих сражениях.@</ToTranslate>
+  </String>
+  <String index="265">
+    <Origin>Kazuto$"(The famous strategist is a little girl?)"@</Origin>
+    <ToTranslate>Казуто$"(Известнейший стратег - маленькая девочка?)"@</ToTranslate>
+  </String>
+  <String index="266">
+    <Origin>$Furthermore, Shokatsuryou lived in Jingzhou at the center of this continent...She wasn&apos;t supposed to join us until after Ryuubi&apos;s three personal visits.@</Origin>
+    <ToTranslate>$Кроме того, Шокатсурё жил в Цзин Чжоу в центре этого континента...и она должна присоединится к нам после трёх личных визитов Рюби .@</ToTranslate>
+  </String>
+  <String index="267">
+    <Origin>Kazuto$"(What&apos;s going on? This isn&apos;t how history recorded the events...)"@</Origin>
+    <ToTranslate>Казуто$"(Что происходит? Совсем не так, как указано в исторических событиях ...)"@</ToTranslate>
+  </String>
+  <String index="268">
+    <Origin>Kazuto$"(Maybe... I didn&apos;t simply travel through time...)"@</Origin>
+    <ToTranslate>Казуто$"(Возможно... я не просто переместился во времени...)"@</ToTranslate>
+  </String>
+  <String index="269">
+    <Origin>$But if it&apos;s not historically accurate...then am I in a parallel world?@</Origin>
+    <ToTranslate>$Но что если здесь другая история...значит я в параллельном мире?@</ToTranslate>
+  </String>
+  <String index="270">
+    <Origin>Kazuto$"(Ha, ha, ha... I thought nothing would surprise me anymore, but this is turning out to be like a comic book...)"@</Origin>
+    <ToTranslate>Казуто$"(Ха-ха-ха... я уже решил, меня ничем не удивить, но здесь всё перекручивается как в комиксе...)"@</ToTranslate>
+  </String>
+  <String index="271">
+    <Origin>$I was confused by the sudden appearance of an unexpected character.@</Origin>
+    <ToTranslate>$Я сбит с толку внезапным появлением нежданного персонажа.@</ToTranslate>
+  </String>
+  <String index="272">
+    <Origin>tcg_syo22fa</Origin>
+    <ToTranslate>tcg_syo22fa</ToTranslate>
+  </String>
+  <String index="273">
+    <Origin>tcg_syo22m</Origin>
+    <ToTranslate>tcg_syo22m</ToTranslate>
+  </String>
+  <String index="274">
+    <Origin>syot0017</Origin>
+    <ToTranslate>syot0017</ToTranslate>
+  </String>
+  <String index="275">
+    <Origin>Shokatsuryou$"Umm, uhh! I-I&apos;ll do my besht!"@</Origin>
+    <ToTranslate>Шокатсурё$"Умм, ууу! Я обязательно поштараюсь!"@</ToTranslate>
+  </String> *тутонашипилявит
+  <String index="276">
+    <Origin>$Shokatsuryou leaned forward. She seemed to have trouble articulating.@</Origin>
+    <ToTranslate>$Шокатсурё поклонилась. Похоже у неё проблемы с произношением.@</ToTranslate>
+  </String>
+  <String index="277">
+    <Origin>Kazuto$"Huh?"@</Origin>
+    <ToTranslate>Казуто$"Аа?"@</ToTranslate>
+  </String>
+  <String index="278">
+    <Origin>tcg_syo22pa</Origin>
+    <ToTranslate>tcg_syo22pa</ToTranslate>
+  </String>
+  <String index="279">
+    <Origin>tcg_syo22m</Origin>
+    <ToTranslate>tcg_syo22m</ToTranslate>
+  </String>
+  <String index="280">
+    <Origin>syot0018</Origin>
+    <ToTranslate>syot0018</ToTranslate>
+  </String>
+  <String index="281">
+    <Origin>Shokatsuryou$"Hauu, I messed up. I said, I-I&apos;ll do my besht, so, umm......P-pwease let me shoin your shide! Auu, I messed up again..."@</Origin>
+    <ToTranslate>Шокатсурё$"Хауу, я запуталась. Я сказала, я непременно поштараюсь, и, умм......п-пошалуйтса пошвольте мне пришоединиться к вам! Ауу, я снова всё перепутала..."@</ToTranslate>
+  </String>
+  <String index="282">
+    <Origin>Kazuto$"That you did. ......Why don&apos;t you calm down first? Take a few deep breaths!"@</Origin>
+    <ToTranslate>Казуто$"Так и есть. ......почему бы тебе не успокоиться для начала? Сделай несколько глубоких вдохов!"@</ToTranslate>
+  </String>
+  <String index="283">
+    <Origin>tcg_syo12ea</Origin>
+    <ToTranslate>tcg_syo12ea</ToTranslate>
+  </String>
+  <String index="284">
+    <Origin>tcg_syo12m</Origin>
+    <ToTranslate>tcg_syo12m</ToTranslate>
+  </String>
+  <String index="285">
+    <Origin>syot0019</Origin>
+    <ToTranslate>syot0019</ToTranslate>
+  </String>
+  <String index="286">
+    <Origin>Shokatsuryou$"Huh? Oh, yes. Ahh, huuh, ahh, huuh, ahh, huuh, ahh, huuh, ahh, huuh..."@</Origin>
+    <ToTranslate>Шокатсурё$"Аа? Ах, да. Уф, фуух, фух, фуух, фух, фуух, фух, фуух, фух, ууф..."@</ToTranslate>
+  </String>
+  <String index="287">
+    <Origin>Kazuto$"No, no...those aren&apos;t deep breaths."@</Origin>
+    <ToTranslate>Казуто$"Нет-нет...это не похоже на глубокие вдохи."@</ToTranslate>
+  </String>
+  <String index="288">
+    <Origin>tcg_syo22ma</Origin>
+    <ToTranslate>tcg_syo22ma</ToTranslate>
+  </String>
+  <String index="289">
+    <Origin>tcg_syo22m</Origin>
+    <ToTranslate>tcg_syo22m</ToTranslate>
+  </String>
+  <String index="290">
+    <Origin>syot0020</Origin>
+    <ToTranslate>syot0020</ToTranslate>
+  </String>
+  <String index="291">
+    <Origin>Shokatsuryou$"Hauuah!?"@</Origin>
+    <ToTranslate>Шокатсурё$"Хауаа!?"@</ToTranslate>
+  </String>
+  <String index="292">
+    <Origin>$Hauuah? What kind of surprise is that?@</Origin>
+    <ToTranslate>$Хауаа? Это она так удивляется?@</ToTranslate>
+  </String>
+  <String index="293">
+    <Origin>Kazuto$"Breathe in... and out... in... and out... Okay, do it with me."@</Origin>
+    <ToTranslate>Казуто$"Вдох... и выдох... вдох... и выдох... вот так, вместе со мной."@</ToTranslate>
+  </String>
+  <String index="294">
+    <Origin>tcg_syo22da</Origin>
+    <ToTranslate>tcg_syo22da</ToTranslate>
+  </String>
+  <String index="295">
+    <Origin>tcg_syo22m</Origin>
+    <ToTranslate>tcg_syo22m</ToTranslate>
+  </String>
+  <String index="296">
+    <Origin>syot0021</Origin>
+    <ToTranslate>syot0021</ToTranslate>
+  </String>
+  <String index="297">
+    <Origin>Shokatsuryou$"Ahh...huuh...ahh...huuh..."@</Origin>
+    <ToTranslate>Шокатсурё$"Фух...фуух...фух...фуух..."@</ToTranslate>
+  </String>
+  <String index="298">
+    <Origin>Kazuto$"Good, good. Do you feel calmer now?"@</Origin>
+    <ToTranslate>Казуто$"Вот так. Успокоилась?"@</ToTranslate>
+  </String>
+  <String index="299">
+    <Origin>tcg_syo22fa</Origin>
+    <ToTranslate>tcg_syo22fa</ToTranslate>
+  </String>
+  <String index="300">
+    <Origin>tcg_syo22m</Origin>
+    <ToTranslate>tcg_syo22m</ToTranslate>
+  </String>
+  <String index="301">
+    <Origin>syot0022</Origin>
+    <ToTranslate>syot0022</ToTranslate>
+  </String>
+  <String index="302">
+    <Origin>Shokatsuryou$"Ah, yes..."@</Origin>
+    <ToTranslate>Шокатсурё$"Ах, да..."@</ToTranslate>
+  </String>
+  <String index="303">
+    <Origin>Kazuto$"Okay, then can I ask you a few questions?"@</Origin>
+    <ToTranslate>Казуто$"Хорошо, могу я у тебя спросить кое-что?"@</ToTranslate>
+  </String>
+  <String index="304">
+    <Origin>tcg_syo12ka</Origin>
+    <ToTranslate>tcg_syo12ka</ToTranslate>
+  </String>
+  <String index="305">
+    <Origin>tcg_syo12m</Origin>
+    <ToTranslate>tcg_syo12m</ToTranslate>
+  </String>
+  <String index="306">
+    <Origin>hatena</Origin>
+    <ToTranslate>hatena</ToTranslate>
+  </String>
+  <String index="307">
+    <Origin>syot0023</Origin>
+    <ToTranslate>syot0023</ToTranslate>
+  </String>
+  <String index="308">
+    <Origin>Shokatsuryou$"Yes?"@</Origin>
+    <ToTranslate>Шокатсурё$"Да?"@</ToTranslate>
+  </String>
+  <String index="309">
+    <Origin>Kazuto$"Could you tell me your name again?"@</Origin>
+    <ToTranslate>Казуто$"Можешь повторить своё имя?"@</ToTranslate>
+  </String>
+  <String index="310">
+    <Origin>tcg_syo22da</Origin>
+    <ToTranslate>tcg_syo22da</ToTranslate>
+  </String>
+  <String index="311">
+    <Origin>tcg_syo22m</Origin>
+    <ToTranslate>tcg_syo22m</ToTranslate>
+  </String>
+  <String index="312">
+    <Origin>syot0024</Origin>
+    <ToTranslate>syot0024</ToTranslate>
+  </String>
+  <String index="313">
+    <Origin>Shokatsuryou$"Yes! Umm, my name is Shokatsuryou. My common name is Koumei. Also, umm, my true name is Shuri."@</Origin>
+    <ToTranslate>Шокатсурё$"Да! Умм, моё имя Шокатсурё. Моё общественное имя Комей. И, умм, моё истинное имя Шури."@</ToTranslate>
+  </String>
+  <String index="314">
+    <Origin>Kazuto$"Hmm, thank you. So...why do you want to be on our side?"@</Origin>
+    <ToTranslate>Казуто$"Хмм, спасибо. И...почему ты хочешь присоединиться к нам?"@</ToTranslate>
+  </String>
+  <String index="315">
+    <Origin>tcg_syo12ga</Origin>
+    <ToTranslate>tcg_syo12ga</ToTranslate>
+  </String>
+  <String index="316">
+    <Origin>tcg_syo12m</Origin>
+    <ToTranslate>tcg_syo12m</ToTranslate>
+  </String>
+  <String index="317">
+    <Origin>syot0025</Origin>
+    <ToTranslate>syot0025</ToTranslate>
+  </String>
+  <String index="318">
+    <Origin>Shokatsuryou$"I... I was studying at a private school under a famous teacher, Suikyou-sensei. But I couldn&apos;t stand seeing weak people suffer..."@</Origin>
+    <ToTranslate>Шокатсурё$"Я... я училась в частной школе у известного учителя, Суико-сенсея. Но я больше не могу смотреть, как страдают слабые..."@</ToTranslate>
+  </String>
+  <String index="319">
+    <Origin>tcg_syo12ea</Origin>
+    <ToTranslate>tcg_syo12ea</ToTranslate>
+  </String>
+  <String index="320">
+    <Origin>tcg_syo12m</Origin>
+    <ToTranslate>tcg_syo12m</ToTranslate>
+  </String>
+  <String index="321">
+    <Origin>syot0026</Origin>
+    <ToTranslate>syot0026</ToTranslate>
+  </String>
+  <String index="322">
+    <Origin>Shokatsuryou$"I always wanted to use my knowledge to help people. That&apos;s when I heard a messenger descended from Heaven in Youzhou..."@</Origin>
+    <ToTranslate>Шокатсурё$"Я всегда хотела использовать свои знания чтобы помогать людям. И тогда я услышала, что Посланник спустился с Небес в Ючжоу..."@</ToTranslate>
+  </String>
+  <String index="323">
+    <Origin>Kazuto$"And that&apos;s why you came all this way?"@</Origin>
+    <ToTranslate>Казуто$"И поэтому ты прошла весь этот путь?"@</ToTranslate>
+  </String>
+  <String index="324">
+    <Origin>tcg_syo32ia</Origin>
+    <ToTranslate>tcg_syo32ia</ToTranslate>
+  </String>
+  <String index="325">
+    <Origin>tcg_syo32m</Origin>
+    <ToTranslate>tcg_syo32m</ToTranslate>
+  </String>
+  <String index="326">
+    <Origin>syot0027</Origin>
+    <ToTranslate>syot0027</ToTranslate>
+  </String>
+  <String index="327">
+    <Origin>Shokatsuryou$"Yes!"@</Origin>
+    <ToTranslate>Шокатсурё$"Да!"@</ToTranslate>
+  </String>
+  <String index="328">
+    <Origin>$The girl nodded with such vigor I thought her head might come off.@</Origin>
+    <ToTranslate>$Девочка кивнула с такой силой, что я уж решил что её голова может оторваться.@</ToTranslate>
+  </String>
+  <String index="329">
+    <Origin>Kazuto$"Okay. I don&apos;t have time right now, but when this battle is over, let me hear your story. How about that?"@</Origin>
+    <ToTranslate>Казуто$"Хорошо. Сейчас у меня нет времени, но когда этот бой закончиться я бы хотел выслушать твою историю. Это приемлемо?"@</ToTranslate>
+  </String>
+  <String index="330">
+    <Origin>tcg_syo22ca</Origin>
+    <ToTranslate>tcg_syo22ca</ToTranslate>
+  </String>
+  <String index="331">
+    <Origin>tcg_syo22m</Origin>
+    <ToTranslate>tcg_syo22m</ToTranslate>
+  </String>
+  <String index="332">
+    <Origin>syot0028</Origin>
+    <ToTranslate>syot0028</ToTranslate>
+  </String>
+  <String index="333">
+    <Origin>Shokatsuryou$"Ah...will that be alright with you?!"@</Origin>
+    <ToTranslate>Шокатсурё$"Ах...вы совсем не против?!"@</ToTranslate>
+  </String>
+  <String index="334">
+    <Origin>Kazuto$"Of course. So why don&apos;t you retreat with the old woman for now. We&apos;ll go after the girl and fight off the Yellow Turbans."@</Origin>
+    <ToTranslate>Казуто$"Конечно нет. Почему бы тебе тоже не отступить сейчас. А мы пойдём дальше и сразимся с Жёлтыми Тюрбанами."@</ToTranslate>
+  </String>
+  <String index="335">
+    <Origin>tcg_syo22fa</Origin>
+    <ToTranslate>tcg_syo22fa</ToTranslate>
+  </String>
+  <String index="336">
+    <Origin>tcg_syo22m</Origin>
+    <ToTranslate>tcg_syo22m</ToTranslate>
+  </String>
+  <String index="337">
+    <Origin>syot0029</Origin>
+    <ToTranslate>syot0029</ToTranslate>
+  </String>
+  <String index="338">
+    <Origin>Shokatsuryou$"Uh...umm!"@</Origin>
+    <ToTranslate>Шокатсурё$"Ух...умм!"@</ToTranslate>
+  </String>
+  <String index="339">
+    <Origin>Kazuto$"Hmm?"@</Origin>
+    <ToTranslate>Казуто$"Хмм?"@</ToTranslate>
+  </String>
+  <String index="340">
+    <Origin>tcg_syo12ea</Origin>
+    <ToTranslate>tcg_syo12ea</ToTranslate>
+  </String>
+  <String index="341">
+    <Origin>tcg_syo12m</Origin>
+    <ToTranslate>tcg_syo12m</ToTranslate>
+  </String>
+  <String index="342">
+    <Origin>syot0030</Origin>
+    <ToTranslate>syot0030</ToTranslate>
+  </String>
+  <String index="343">
+    <Origin>Shokatsuryou$"I&apos;ll go with you. Please let me go with you! I can be of use to you!"@</Origin>
+    <ToTranslate>Шокатсурё$"Я пойду с вами. Пожалуйста, позвольте мне пойти с вами! Я могу вам помочь!"@</ToTranslate>
+  </String>
+  <String index="344">
+    <Origin>Kazuto$"But... this is a battle... Aren&apos;t you scared?"@</Origin>
+    <ToTranslate>Казуто$"Но... это сражение... разве тебе не страшно?"@</ToTranslate>
+  </String>
+  <String index="345">
+    <Origin>tcg_syo22ja</Origin>
+    <ToTranslate>tcg_syo22ja</ToTranslate>
+  </String>
+  <String index="346">
+    <Origin>tcg_syo22m</Origin>
+    <ToTranslate>tcg_syo22m</ToTranslate>
+  </String>
+  <String index="347">
+    <Origin>syot0031</Origin>
+    <ToTranslate>syot0031</ToTranslate>
+  </String>
+  <String index="348">
+    <Origin>Shokatsuryou$"I&apos;m not shcared! Ahoo..."@</Origin>
+    <ToTranslate>Шокатсурё$"Я не боюшь! Ахуу..."@</ToTranslate>
+  </String>
+  <String index="349">
+    <Origin>Kazuto$"You&apos;re so nervous you can&apos;t even talk smoothly, right? Don&apos;t worry, I&apos;m scared too."@</Origin>
+    <ToTranslate>Казуто$"Когда ты нервничаешь ты неспособна чётко разговаривать, верно? Не волнуйся, я тоже боюсь."@</ToTranslate>
+  </String>
+  <String index="350">
+    <Origin>tcg_syo22ta</Origin>
+    <ToTranslate>tcg_syo22ta</ToTranslate>
+  </String>
+  <String index="351">
+    <Origin>tcg_syo22m</Origin>
+    <ToTranslate>tcg_syo22m</ToTranslate>
+  </String>
+  <String index="352">
+    <Origin>syot0032</Origin>
+    <ToTranslate>syot0032</ToTranslate>
+  </String>
+  <String index="353">
+    <Origin>Shokatsuryou$"But if I run because I&apos;m scared, I won&apos;t be able to do anything..."@</Origin>
+    <ToTranslate>Шокатсурё$"Но если я убегу потому что мне страшно, я не смогу что-то изменить..."@</ToTranslate>
+  </String>
+  <String index="354">
+    <Origin>Kazuto$"Okay... Do you want to go with me?"@</Origin>
+    <ToTranslate>Казуто$"Хорошо... хочешь пойти со мной?"@</ToTranslate>
+  </String>
+  <String index="355">
+    <Origin>tcg_syo22ca</Origin>
+    <ToTranslate>tcg_syo22ca</ToTranslate>
+  </String>
+  <String index="356">
+    <Origin>tcg_syo22m</Origin>
+    <ToTranslate>tcg_syo22m</ToTranslate>
+  </String>
+  <String index="357">
+    <Origin>syot0033</Origin>
+    <ToTranslate>syot0033</ToTranslate>
+  </String>
+  <String index="358">
+    <Origin>Shokatsuryou$"Are you sure?"@</Origin>
+    <ToTranslate>Шокатсурё$"Вы уверены?"@</ToTranslate>
+  </String>
+  <String index="359">
+    <Origin>Kazuto$"Yeah. If something happens, I&apos;ll protect you. Besides... I&apos;d appreciate it if you could give me suggestions. I could really use them."@</Origin>
+    <ToTranslate>Казуто$"Да. Если что-то случится, я защищу тебя. К тому же... буду благодарен, если ты поможешь мне своими знаниями. Они бы мне очень помогли."@</ToTranslate>
+  </String>
+  <String index="360">
+    <Origin>tcg_syo12ba</Origin>
+    <ToTranslate>tcg_syo12ba</ToTranslate>
+  </String>
+  <String index="361">
+    <Origin>tcg_syo12m</Origin>
+    <ToTranslate>tcg_syo12m</ToTranslate>
+  </String>
+  <String index="362">
+    <Origin>syot0034</Origin>
+    <ToTranslate>syot0034</ToTranslate>
+  </String>
+  <String index="363">
+    <Origin>Shokatsuryou$"Sure!"@</Origin>
+    <ToTranslate>Шокатсурё$"Конечно!"@</ToTranslate>
+  </String>
+  <String index="364">
+    <Origin>Kazuto$"I&apos;m counting on you, Koumei-chan. Let&apos;s go. Come on, everyone, we&apos;ll catch up with Rinrin!"@</Origin>
+    <ToTranslate>Казуто$"Рассчитываю на тебя, Комей-тян. Идём. Отряд, мы должны догнать Ринрин!"@</ToTranslate>
+  </String>
+  <String index="365">
+    <Origin>$I signaled the soldiers around me and left with Shokatsuryou.@</Origin>
+    <ToTranslate>$Я дал указ солдатам возле меня и мы отправились все вместе с Шокатсурё.@</ToTranslate>
+  </String>
+  <String index="366">
+    <Origin>_MsgBoxMain_Off</Origin>
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="367">
+    <Origin>aa</Origin>
+    <ToTranslate>aa</ToTranslate>
+  </String>
+  <String index="368">
+    <Origin>bg_black</Origin>
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="369">
+    <Origin>aa</Origin>
+    <ToTranslate>aa</ToTranslate>
+  </String>
+  <String index="370">
+    <Origin>bcg_wasteland_a</Origin>
+    <ToTranslate>bcg_wasteland_a</ToTranslate>
+  </String>
+  <String index="371">
+    <Origin>_MsgBoxMain_On</Origin>
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="372">
+    <Origin>bgm13</Origin>
+    <ToTranslate>bgm13</ToTranslate>
+  </String>
+  <String index="373">
+    <Origin>$By the time we caught up with Rinrin, Aisha and her unit had escorted the farmers and rejoined us.@</Origin>
+    <ToTranslate>$К тому времени, как мы догнали Ринрин, Аиша и её отряд сопроводили фермеров и присоединились к нам.@</ToTranslate>
+  </String>
+  <String index="374">
+    <Origin>$The detached force of Yellow Turbans sped up their march and bore down upon us.@</Origin>
+    <ToTranslate>$Обособленный отряд Жёлтых Тюрбанов ускорил движение и стал приближаться к нам.@</ToTranslate>
+  </String>
+  <String index="375">
+    <Origin>tcg_kan11ca</Origin>
+    <ToTranslate>tcg_kan11ca</ToTranslate>
+  </String>
+  <String index="376">
+    <Origin>tcg_kan11m</Origin>
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="377">
+    <Origin>aisy0075</Origin>
+    <ToTranslate>aisy0075</ToTranslate>
+  </String>
+  <String index="378">
+    <Origin>Aisha$"They really are but a mob. Charging forward is all they can do."@</Origin>
+    <ToTranslate>Аиша$"Самая обычная толпа. Бежать вперёд - всё что они умеют."@</ToTranslate>
+  </String>
+  <String index="379">
+    <Origin>tcg_cho31da</Origin>
+    <ToTranslate>tcg_cho31da</ToTranslate>
+  </String>
+  <String index="380">
+    <Origin>tcg_cho31m</Origin>
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="381">
+    <Origin>rinr0053</Origin>
+    <ToTranslate>rinr0053</ToTranslate>
+  </String>
+  <String index="382">
+    <Origin>Rinrin$"But when they are this many, it&apos;s not easy..."@</Origin>
+    <ToTranslate>Ринрин$"Но их много, будет не легко..."@</ToTranslate>
+  </String>
+  <String index="383">
+    <Origin>Kazuto$"That&apos;s true. It would be best to surround them and exterminate them...but it&apos;s impossible considering our size."@</Origin>
+    <ToTranslate>Казуто$"Тоже верно. Лучше всего было бы окружить и уничтожить их...но это невозможно, учитывая количество наших войск."@</ToTranslate>
+  </String>
+  <String index="384">
+    <Origin>tcg_kan11aa</Origin>
+    <ToTranslate>tcg_kan11aa</ToTranslate>
+  </String>
+  <String index="385">
+    <Origin>tcg_kan11m</Origin>
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="386">
+    <Origin>aisy0076</Origin>
+    <ToTranslate>aisy0076</ToTranslate>
+  </String>
+  <String index="387">
+    <Origin>Aisha$"According to the scouts, there are about ten thousand of them. Our army numbers only five thousand."@</Origin>
+    <ToTranslate>Аиша$"По данным разведчиком их около десяти тысяч. В нашей армии всего пять тысяч."@</ToTranslate>
+  </String>
+  <String index="388">
+    <Origin>Kazuto$"If there are ten thousand in the detached force, there must be more than that in the main force. We have to join Kousonsan&apos;s unit quickly, otherwise we&apos;ll be in trouble."@</Origin>
+    <ToTranslate>Казуто$"Если в обособленных войсках десять тысяч, значит в основных ещё больше. Нам следует быстрее присоединиться к силам Косонсан, иначе мы окажемся в беде."@</ToTranslate>
+  </String>
+  <String index="389">
+    <Origin>tcg_kan11ca</Origin>
+    <ToTranslate>tcg_kan11ca</ToTranslate>
+  </String>
+  <String index="390">
+    <Origin>tcg_kan11m</Origin>
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="391">
+    <Origin>aisy0077</Origin>
+    <ToTranslate>aisy0077</ToTranslate>
+  </String>
+  <String index="392">
+    <Origin>Aisha$"Yes. We cannot afford to waste much time on this battle."@</Origin>
+    <ToTranslate>Аиша$"Да. Мы не можем позволить себе терять время в этой битве."@</ToTranslate>
+  </String>
+  <String index="393">
+    <Origin>tcg_cho11ea</Origin>
+    <ToTranslate>tcg_cho11ea</ToTranslate>
+  </String>
+  <String index="394">
+    <Origin>tcg_cho11m</Origin>
+    <ToTranslate>tcg_cho11m</ToTranslate>
+  </String>
+  <String index="395">
+    <Origin>rinr0054</Origin>
+    <ToTranslate>rinr0054</ToTranslate>
+  </String>
+  <String index="396">
+    <Origin>Rinrin$"Then Charge! Smash! Victory!"@</Origin>
+    <ToTranslate>Ринрин$"Тогда Напасть! Размазать! Победить!"@</ToTranslate>
+  </String>
+  <String index="397">
+    <Origin>Kazuto$"It won&apos;t be that easy..."@</Origin>
+    <ToTranslate>Казуто$"Это будет не так просто..."@</ToTranslate>
+  </String>
+  <String index="398">
+    <Origin>tcg_cho31da</Origin>
+    <ToTranslate>tcg_cho31da</ToTranslate>
+  </String>
+  <String index="399">
+    <Origin>tcg_cho31m</Origin>
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="400">
+    <Origin>rinr0055</Origin>
+    <ToTranslate>rinr0055</ToTranslate>
+  </String>
+  <String index="401">
+    <Origin>Rinrin$"Boo, I guess that won&apos;t work."@</Origin>
+    <ToTranslate>Ринрин$"Буу, наверное так всё же не получится."@</ToTranslate>
+  </String>
+  <String index="402">
+    <Origin>Kazuto$"Unfortunately... Let&apos;s see what can we do?"@</Origin>
+    <ToTranslate>Казуто$"К сожалению... давайте подумаем, что ещё мы можем сделать?"@</ToTranslate>
+  </String>
+  <String index="403">
+    <Origin>$As we wracked our brains to devise a strategy without much time to spare...@</Origin>
+    <ToTranslate>$Пока мы думали, пытаясь разработать стратегию, оставалось не так много свободного времени...@</ToTranslate>
+  </String>
+  <String index="404">
+    <Origin>kyara_kesi</Origin>
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="405">
+    <Origin>tcg_syo22ja</Origin>
+    <ToTranslate>tcg_syo22ja</ToTranslate>
+  </String>
+  <String index="406">
+    <Origin>tcg_syo22m</Origin>
+    <ToTranslate>tcg_syo22m</ToTranslate>
+  </String>
+  <String index="407">
+    <Origin>syot0035</Origin>
+    <ToTranslate>syot0035</ToTranslate>
+  </String>
+  <String index="408">
+    <Origin>Shokatsuryou$"Umm, excuse me..."@</Origin>
+    <ToTranslate>Шокатсурё$"Умм, позвольте мне..."@</ToTranslate>
+  </String>
+  <String index="409">
+    <Origin>$Shokatsuryou came out from hiding behind my back and timidly spoke up.@</Origin>
+    <ToTranslate>$Шокатсурё, прятавшаяся за моей спиной, вышла из укрытия и робко заговорила.@</ToTranslate>
+  </String>
+  <String index="410">
+    <Origin>tcg_kan31ha</Origin>
+    <ToTranslate>tcg_kan31ha</ToTranslate>
+  </String>
+  <String index="411">
+    <Origin>tcg_kan31m</Origin>
+    <ToTranslate>tcg_kan31m</ToTranslate>
+  </String>
+  <String index="412">
+    <Origin>aisy0078</Origin>
+    <ToTranslate>aisy0078</ToTranslate>
+  </String>
+  <String index="413">
+    <Origin>Aisha$"Hmm? Who art thou?"@</Origin>
+    <ToTranslate>Аиша$"Хмм? Кто же это?"@</ToTranslate> *арх
+  </String>
+  <String index="414">
+    <Origin>Kazuto$"Ah, sorry, I haven&apos;t introduced her yet. This is Shokatsuryou. She became one of us just a little while ago."@</Origin>
+    <ToTranslate>Казуто$"Ай, простите, я её ещё не представил. Это Шокатсурё. С недавних пор она стала одной из нас."@</ToTranslate>
+  </String>
+  <String index="415">
+    <Origin>tcg_kan31la</Origin>
+    <ToTranslate>tcg_kan31la</ToTranslate>
+  </String>
+  <String index="416">
+    <Origin>tcg_kan31m</Origin>
+    <ToTranslate>tcg_kan31m</ToTranslate>
+  </String>
+  <String index="417">
+    <Origin>aisy0079</Origin>
+    <ToTranslate>aisy0079</ToTranslate>
+  </String>
+  <String index="418">
+    <Origin>Aisha$"One of us? I was not consulted about this? Furthermore, is she not just a little girl? How can she be of help in a battle?"@</Origin>
+    <ToTranslate>Аиша$"Одной из нас? И мне ничего не говорили об этом? Кроме того, она же просто маленькая девочка? Как она сможет помочь нам в сражении?"@</ToTranslate>
+  </String>
+  <String index="419">
+    <Origin>tcg_cho31ia</Origin>
+    <ToTranslate>tcg_cho31ia</ToTranslate>
+  </String>
+  <String index="420">
+    <Origin>tcg_cho31m</Origin>
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="421">
+    <Origin>onpu</Origin>
+    <ToTranslate>onpu</ToTranslate>
+  </String>
+  <String index="422">
+    <Origin>rinr0056</Origin>
+    <ToTranslate>rinr0056</ToTranslate>
+  </String>
+  <String index="423">
+    <Origin>Rinrin$"Nyahaha! Aisha&apos;s being jealous!"@</Origin>
+    <ToTranslate>Ринрин$"Няхаха! Аиша ревнует!"@</ToTranslate>
+  </String>
+  <String index="424">
+    <Origin>tcg_kan31ga</Origin>
+    <ToTranslate>tcg_kan31ga</ToTranslate>
+  </String>
+  <String index="425">
+    <Origin>tcg_kan31m</Origin>
+    <ToTranslate>tcg_kan31m</ToTranslate>
+  </String>
+  <String index="426">
+    <Origin>aisy0080</Origin>
+    <ToTranslate>aisy0080</ToTranslate>
+  </String>
+  <String index="427">
+    <Origin>Aisha$"W-why would I ever be jealous?! If My Lord places another woman at his side, then the issue of defending them..."@</Origin>
+    <ToTranslate>Аиша$"П-почему это я должна ревновать?! Если Господин приближает к себе ещё одну девушку это не должно меня беспокоить..."@</ToTranslate>
+  </String>
+  <String index="428">
+    <Origin>tcg_cho31ga</Origin>
+    <ToTranslate>tcg_cho31ga</ToTranslate>
+  </String>
+  <String index="429">
+    <Origin>tcg_cho31m</Origin>
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="430">
+    <Origin>rinr0057</Origin>
+    <ToTranslate>rinr0057</ToTranslate>
+  </String>
+  <String index="431">
+    <Origin>Rinrin$"That&apos;s jealousy right there!"@</Origin>
+    <ToTranslate>Ринрин$"Вот это и есть ревность!"@</ToTranslate>
+  </String>
+  <String index="432">
+    <Origin>tcg_kan11qa</Origin>
+    <ToTranslate>tcg_kan11qa</ToTranslate>
+  </String>
+  <String index="433">
+    <Origin>tcg_kan11m</Origin>
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="434">
+    <Origin>aisy0081</Origin>
+    <ToTranslate>aisy0081</ToTranslate>
+  </String>
+  <String index="435">
+    <Origin>Aisha$"I said it&apos;s not!"@</Origin>
+    <ToTranslate>Аиша$"Я же сказала что нет!"@</ToTranslate>
+  </String>
+  <String index="436">
+    <Origin>$Aisha turned beet red as Rinrin laughed.@</Origin>
+    <ToTranslate>$От  смеха Ринрин Аиша становится свекольно-красного цвета.@</ToTranslate>
+  </String>
+  <String index="437">
+    <Origin>Kazuto$"Okay, okay, continue that argument later. Anyway, let&apos;s listen to Shokatsuryou. Why don&apos;t you continue?"@</Origin>
+    <ToTranslate>Казуто$"Ладно-ладно, продолжите этот спор позже. Всё таки, давайте выслушаем Шокатсурё. Почему бы тебе не продолжить?"@</ToTranslate>
+  </String>
+  <String index="438">
+    <Origin>$Since the argument between Aisha and Rinrin intimidated Shokatsuryou, I encouraged her to continue on.@</Origin>
+    <ToTranslate>$Поскольку спор Аиши и Ринрин запугал Шокатсурё, я попросил её продолжить.@</ToTranslate>
+  </String>
+  <String index="439">
+    <Origin>tcg_syo22ma</Origin>
+    <ToTranslate>tcg_syo22ma</ToTranslate>
+  </String>
+  <String index="440">
+    <Origin>tcg_syo22m</Origin>
+    <ToTranslate>tcg_syo22m</ToTranslate>
+  </String>
+  <String index="441">
+    <Origin>syot0036</Origin>
+    <ToTranslate>syot0036</ToTranslate>
+  </String>
+  <String index="442">
+    <Origin>Shokatsuryou$"Huh? O-oh, Y-yes!"@</Origin>
+    <ToTranslate>Шокатсурё$"Аа? О-ой, Д-да!"@</ToTranslate>
+  </String>
+  <String index="443">
+    <Origin>tcg_syo12ea</Origin>
+    <ToTranslate>tcg_syo12ea</ToTranslate>
+  </String>
+  <String index="444">
+    <Origin>tcg_syo12m</Origin>
+    <ToTranslate>tcg_syo12m</ToTranslate>
+  </String>
+  <String index="445">
+    <Origin>syot0037</Origin>
+    <ToTranslate>syot0037</ToTranslate>
+  </String>
+  <String index="446">
+    <Origin>Shokatsuryou$"Umm...judging from the current situation, the Yellow Turbans will continue to charge without organizing a formation."@</Origin>
+    <ToTranslate>Шокатсурё$"Умм...исходя из сложившейся ситуации, Жёлтые Тюрбаны продолжат наступать без реорганизации формирования."@</ToTranslate>
+  </String>
+  <String index="447">
+    <Origin>syot0038</Origin>
+    <ToTranslate>syot0038</ToTranslate>
+  </String>
+  <String index="448">
+    <Origin>Shokatsuryou$"Therefore, I believe it would be best for our army to spread out in a square formation and wait for their attack."@</Origin>
+    <ToTranslate>Шокатсурё$"Поэтому я считаю, что для армии будет лучше принять построение каре и ждать их атаки."@</ToTranslate>
+  </String>
+  <String index="449">
+    <Origin>Shokatsuryou$"Then, after the initial charge, we have our center forces fall back and lure them in between our columns of men."@</Origin>
+    <ToTranslate>Шокатсурё$"Потом, после первой атаки силы в центре отступят и заманят их между двумя колоннами наших солдат."@</ToTranslate>
+  </String>
+  <String index="450">
+    <Origin>tcg_kan11aa</Origin>
+    <ToTranslate>tcg_kan11aa</ToTranslate>
+  </String>
+  <String index="451">
+    <Origin>tcg_kan11m</Origin>
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="452">
+    <Origin>aisy0082</Origin>
+    <ToTranslate>aisy0082</ToTranslate>
+  </String>
+  <String index="453">
+    <Origin>Aisha$"Ah-hah."@</Origin>
+    <ToTranslate>Аиша$"Ах-хах."@</ToTranslate>
+  </String>
+  <String index="454">
+    <Origin>$Aisha&apos;s eyes began to sparkle as she listened to Shokatsuryou.@</Origin>
+    <ToTranslate>$После слов Шокатсурё глаза Аиши начали сверкать.@</ToTranslate>
+  </String>
+  <String index="455">
+    <Origin>aisy0083</Origin>
+    <ToTranslate>aisy0083</ToTranslate>
+  </String>
+  <String index="456">
+    <Origin>Aisha$"If that works, we can round them up in one go. ......I see, what a wonderful plan."@</Origin>
+    <ToTranslate>Аиша$"Если это сработает, мы сможем окружить их одним движением. ......Действительно, прекрасный план."@</ToTranslate>
+  </String>
+  <String index="457">
+    <Origin>Kazuto$"See? Aren&apos;t you glad she&apos;s on our side?"@</Origin>
+    <ToTranslate>Казуто$"Видишь? Разве ты не рада, что она на нашей стороне?"@</ToTranslate>
+  </String>
+  <String index="458">
+    <Origin>tcg_kan21oa</Origin>
+    <ToTranslate>tcg_kan21oa</ToTranslate>
+  </String>
+  <String index="459">
+    <Origin>tcg_kan21m</Origin>
+    <ToTranslate>tcg_kan21m</ToTranslate>
+  </String>
+  <String index="460">
+    <Origin>aisy0084</Origin>
+    <ToTranslate>aisy0084</ToTranslate>
+  </String>
+  <String index="461">
+    <Origin>Aisha$"Yes. I am in awe of your discerning eye."@</Origin>
+    <ToTranslate>Аиша$"Да. Я в восторге от проницательности ваших глаз."@</ToTranslate> *отвашеговыбора?
+  </String>
+  <String index="462">
+    <Origin>tcg_cho31ia</Origin>
+    <ToTranslate>tcg_cho31ia</ToTranslate>
+  </String>
+  <String index="463">
+    <Origin>tcg_cho31m</Origin>
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="464">
+    <Origin>rinr0058</Origin>
+    <ToTranslate>rinr0058</ToTranslate>
+  </String>
+  <String index="465">
+    <Origin>Rinrin$"Nyaha! You already let us see your jealousy, so acting good now won&apos;t help you."@</Origin>
+    <ToTranslate>Ринрин$"Няха! Ты уже показала нам свою ревность, хорошие манеры тебе уже не помогут."@</ToTranslate>
+  </String>
+  <String index="466">
+    <Origin>tcg_kan31la</Origin>
+    <ToTranslate>tcg_kan31la</ToTranslate>
+  </String>
+  <String index="467">
+    <Origin>tcg_kan31m</Origin>
+    <ToTranslate>tcg_kan31m</ToTranslate>
+  </String>
+  <String index="468">
+    <Origin>aisy0085</Origin>
+    <ToTranslate>aisy0085</ToTranslate>
+  </String>
+  <String index="469">
+    <Origin>Aisha$"Nngh..."@</Origin>
+    <ToTranslate>Аиша$"Нгх..."@</ToTranslate>
+  </String>
+  <String index="470">
+    <Origin>tcg_syo12ba</Origin>
+    <ToTranslate>tcg_syo12ba</ToTranslate>
+  </String>
+  <String index="471">
+    <Origin>tcg_syo12m</Origin>
+    <ToTranslate>tcg_syo12m</ToTranslate>
+  </String>
+  <String index="472">
+    <Origin>syot0039</Origin>
+    <ToTranslate>syot0039</ToTranslate>
+  </String>
+  <String index="473">
+    <Origin>Shokatsuryou$"Hee-hee......Umm, how does that sound?"@</Origin>
+    <ToTranslate>Шокатсурё$"Хе-хе......умм, ну и как?"@</ToTranslate>
+  </String>
+  <String index="474">
+    <Origin>$After watching Aisha and Rinrin&apos;s exchange, Shokatsuryou smiled in relief and peered at me.@</Origin>
+    <ToTranslate>$Посмотрев на Ринрин и Аишу, Шокатсурё улыбнулась и посмотрела на меня.@</ToTranslate>
+  </String>
+  <String index="475">
+    <Origin>Kazuto$"Mmm..."@</Origin>
+    <ToTranslate>Казуто$"Ммм..."@</ToTranslate>
+  </String>
+  <String index="476">
+    <Origin>tcg_syo22ja</Origin>
+    <ToTranslate>tcg_syo22ja</ToTranslate>
+  </String>
+  <String index="477">
+    <Origin>tcg_syo22m</Origin>
+    <ToTranslate>tcg_syo22m</ToTranslate>
+  </String>
+  <String index="478">
+    <Origin>syot0040</Origin>
+    <ToTranslate>syot0040</ToTranslate>
+  </String>
+  <String index="479">
+    <Origin>Shokatsuryou$"Ah......Do you have any complaints with it?"@</Origin>
+    <ToTranslate>Шокатсурё$"Ах......вам наверно сложно с ними?"@</ToTranslate>
+  </String>
+  <String index="480">
+    <Origin>Kazuto$"No, not really a complaint. However, Koumei, isn&apos;t your plan rather difficult?"@</Origin>
+    <ToTranslate>Казуто$"Нет, совсем нет. Однако, Комей, разве твой план не достаточно сложный?"@</ToTranslate>
+  </String>
+  <String index="481">
+    <Origin>tcg_kan11aa</Origin>
+    <ToTranslate>tcg_kan11aa</ToTranslate>
+  </String>
+  <String index="482">
+    <Origin>tcg_kan11m</Origin>
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="483">
+    <Origin>aisy0086</Origin>
+    <ToTranslate>aisy0086</ToTranslate>
+  </String>
+  <String index="484">
+    <Origin>Aisha$"That is true. In order to execute the plan she presented, we would need our soldiers to move in tight order."@</Origin>
+    <ToTranslate>Аиша$"Это правда. Чтобы её план осуществился, наши солдаты должны двигаться строго по указаниям."@</ToTranslate>
+  </String>
+  <String index="485">
+    <Origin>Kazuto$"Right? That&apos;s why I think it won&apos;t work for us yet."@</Origin>
+    <ToTranslate>Казуто$"Правда? Вот почему я думаю для нас это ещё рано."@</ToTranslate>
+  </String>
+  <String index="486">
+    <Origin>tcg_syo12ea</Origin>
+    <ToTranslate>tcg_syo12ea</ToTranslate>
+  </String>
+  <String index="487">
+    <Origin>tcg_syo12m</Origin>
+    <ToTranslate>tcg_syo12m</ToTranslate>
+  </String>
+  <String index="488">
+    <Origin>syot0041</Origin>
+    <ToTranslate>syot0041</ToTranslate>
+  </String>
+  <String index="489">
+    <Origin>Shokatsuryou$"I see... Then perhaps it would be more suitable to select an elite squad of men and have them attack from the flank at the right moment?"@</Origin>
+    <ToTranslate>Шокатсурё$"Ясно... тогда возможно будет лучше, чтобы элитный отряд солдат атаковал их с фланга в нужный момент?"@</ToTranslate>
+  </String>
+  <String index="490">
+    <Origin>Kazuto$"That sounds like more realistic. Right now, we&apos;re up against the Yellow Turbans. As long as Aisha and Rinrin are with us, we shouldn&apos;t lose. It&apos;s just a matter of minimizing our own losses."@</Origin>
+    <ToTranslate>Казуто$"Это кажется более реалистичным. Сейчас мы сражаемся против Жёлтых Тюрбанов. И пока Аиша и Ринрин с нами мы не можем проиграть. Задача только в том, чтобы сократить наши потери."@</ToTranslate>
+  </String>
+  <String index="491">
+    <Origin>tcg_cho31ba</Origin>
+    <ToTranslate>tcg_cho31ba</ToTranslate>
+  </String>
+  <String index="492">
+    <Origin>tcg_cho31m</Origin>
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="493">
+    <Origin>rinr0059</Origin>
+    <ToTranslate>rinr0059</ToTranslate>
+  </String>
+  <String index="494">
+    <Origin>Rinrin$"Rinrin will do her best, so don&apos;t worry!"@</Origin>
+    <ToTranslate>Ринрин$"Ринрин сделает всё возможное, поэтому не волнуйтесь!"@</ToTranslate>
+  </String>
+  <String index="495">
+    <Origin>Kazuto$"We&apos;ll probably be okay, but we still have to be cautious, right? If this is a detached force, then we must conserve our energy to fight the main force."@</Origin>
+    <ToTranslate>Казуто$"Если мы будем осторожны, то вероятно, всё будет в порядке, так? Если это малая часть, то нам нужно сохранить силы для битвы с главными войсками."@</ToTranslate>
+  </String>
+  <String index="496">
+    <Origin>tcg_cho31da</Origin>
+    <ToTranslate>tcg_cho31da</ToTranslate>
+  </String>
+  <String index="497">
+    <Origin>tcg_cho31m</Origin>
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="498">
+    <Origin>rinr0060</Origin>
+    <ToTranslate>rinr0060</ToTranslate>
+  </String>
+  <String index="499">
+    <Origin>Rinrin$"Hmmm, you worry too much, Onii-chan!"@</Origin>
+    <ToTranslate>Ринрин$"Хммм, ты слишком волнуешься, Братик!"@</ToTranslate>
+  </String>
+  <String index="500">
+    <Origin>$Rinrin puffed her cheeks in protest when suddenly...@</Origin>
+    <ToTranslate>$Ринрин надула щёки в знак протеста когда вдруг...@</ToTranslate>
+  </String>
+  <String index="501">
+    <Origin>$The tense report from the front lines came back to us.@</Origin>
+    <ToTranslate>$Посланник с первых рядов вернулся к нам.@</ToTranslate>
+  </String>
+  <String index="502">
+    <Origin>Messenger$"The enemy is here!"@</Origin>
+    <ToTranslate>Посланник$"Враги уже здесь!"@</ToTranslate>
+  </String>
+  <String index="503">
+    <Origin>Kazuto$"Okay. Let&apos;s move as we planned."@</Origin>
+    <ToTranslate>Казуто$"Хорошо. Действуем как и планировали."@</ToTranslate>
+  </String>
+  <String index="504">
+    <Origin>tcg_kan11ca</Origin>
+    <ToTranslate>tcg_kan11ca</ToTranslate>
+  </String>
+  <String index="505">
+    <Origin>tcg_kan11m</Origin>
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="506">
+    <Origin>aisy0087</Origin>
+    <ToTranslate>aisy0087</ToTranslate>
+  </String>
+  <String index="507">
+    <Origin>Aisha$"As you will! All units, take your positions! Kan&apos;u and Chouhi&apos;s personal guard, standby in rear flank and await our orders! Rinrin!"@</Origin>
+    <ToTranslate>Аиша$"Как пожелаете! Всем отрядам, занять позиции! Личным гвардия Кану и Чоухи оставаться в задних рядах и ждать приказаний! Ринрин!"@</ToTranslate>
+  </String>
+  <String index="508">
+    <Origin>tcg_cho11ea</Origin>
+    <ToTranslate>tcg_cho11ea</ToTranslate>
+  </String>
+  <String index="509">
+    <Origin>tcg_cho11m</Origin>
+    <ToTranslate>tcg_cho11m</ToTranslate>
+  </String>
+  <String index="510">
+    <Origin>rinr0061</Origin>
+    <ToTranslate>rinr0061</ToTranslate>
+  </String>
+  <String index="511">
+    <Origin>Rinrin$"Yeah! Everyone, let&apos;s move out! Charge! Smash! Victory!"@</Origin>
+    <ToTranslate>Ринрин$"Да! Всем остальным выдвигаться! Напасть! Размазать! Победить!"@</ToTranslate>
+  </String>
+  <String index="512">
+    <Origin>SE048</Origin>
+    <ToTranslate>SE048</ToTranslate>
+  </String>
+  <String index="513">
+    <Origin>_MsgBoxMain_Off</Origin>
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="514">
+    <Origin>bg_black</Origin>
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+</DBS>
+
+
+</poem>
+[[Koihime Musou/Прогресс перевода/Сюжет|[Назад]]]

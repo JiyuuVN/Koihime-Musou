@@ -1,0 +1,295 @@
+[[Koihime Musou/Прогресс перевода/Системные|[Назад]]]
+<poem>
+<?xml version="1.0" encoding="UTF-8"?>
+<DBS>
+  <String index="0">
+    <ToTranslate>_btl_CleanupNVL_BGM_BG</ToTranslate>
+  </String>
+  <String index="1">
+    <ToTranslate>_btl_mainmsg</ToTranslate>
+  </String>
+  <String index="2">
+    <ToTranslate>_btl_mainmsg_m</ToTranslate>
+  </String>
+  <String index="3">
+    <ToTranslate>_btl_turnmsg</ToTranslate>
+  </String>
+  <String index="4">
+    <ToTranslate>_btl_turnmsg_m</ToTranslate>
+  </String>
+  <String index="5">
+    <ToTranslate>_btl_SetPlayerStatusGrp</ToTranslate>
+  </String>
+  <String index="6">
+    <ToTranslate>_btl_SetEnemyStatusGrp</ToTranslate>
+  </String>
+  <String index="7">
+    <ToTranslate>_btl_cmdbase</ToTranslate>
+  </String>
+  <String index="8">
+    <ToTranslate>_btl_cmdbase_m</ToTranslate>
+  </String>
+  <String index="9">
+    <ToTranslate>_btl_JinCMbase</ToTranslate>
+  </String>
+  <String index="10">
+    <ToTranslate>_btl_JinCMbase_m</ToTranslate>
+  </String>
+  <String index="11">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="12">
+    <ToTranslate>bgefc_rgb120</ToTranslate>
+  </String>
+  <String index="13">
+    <ToTranslate>_btl_InitParam</ToTranslate>
+  </String>
+  <String index="14">
+    <ToTranslate>_btl_WazaGrpLoad</ToTranslate>
+  </String>
+  <String index="15">
+    <ToTranslate>_btl_Troops_CMGrpChange</ToTranslate>
+  </String>
+  <String index="16">
+    <ToTranslate>_btl_CreateStatusStrB</ToTranslate>
+  </String>
+  <String index="17">
+    <ToTranslate>%�$</ToTranslate>
+  </String>
+  <String index="18">
+    <ToTranslate>%�^</ToTranslate>
+  </String>
+  <String index="19">
+    <ToTranslate>_btl_CreateStatusStrA</ToTranslate>
+  </String>
+  <String index="20">
+    <ToTranslate>%�$</ToTranslate>
+  </String>
+  <String index="21">
+    <ToTranslate>%�^</ToTranslate>
+  </String>
+  <String index="22">
+    <ToTranslate> </ToTranslate>
+  </String>
+  <String index="23">
+    <ToTranslate>%�</ToTranslate>
+  </String>
+  <String index="24">
+    <ToTranslate>_btl_IsExitBattle</ToTranslate>
+  </String>
+  <String index="25">
+    <ToTranslate>_btl_CoveringFire</ToTranslate>
+  </String>
+  <String index="26">
+    <ToTranslate>% The enemy has been destroyed!@</ToTranslate>
+  </String>
+  <String index="27">
+    <ToTranslate>_btl_CoveringFireEnemy</ToTranslate>
+  </String>
+  <String index="28">
+    <ToTranslate>% You have been annihilated...@</ToTranslate>
+  </String>
+  <String index="29">
+    <ToTranslate>_btl_jinselchip</ToTranslate>
+  </String>
+  <String index="30">
+    <ToTranslate>_btl_onmouse</ToTranslate>
+  </String>
+  <String index="31">
+    <ToTranslate>_btl_selected</ToTranslate>
+  </String>
+  <String index="32">
+    <ToTranslate>_btl_Troops_CMGrpChange</ToTranslate>
+  </String>
+  <String index="33">
+    <ToTranslate>_btl_CreateStatusStrB</ToTranslate>
+  </String>
+  <String index="34">
+    <ToTranslate>%�$</ToTranslate>
+  </String>
+  <String index="35">
+    <ToTranslate>%�^</ToTranslate>
+  </String>
+  <String index="36">
+    <ToTranslate>You: $��</ToTranslate>
+  </String>
+  <String index="37">
+    <ToTranslate>_btl_SetWazaBtnSrcY</ToTranslate>
+  </String>
+  <String index="38">
+    <ToTranslate>_btl_cmdchip</ToTranslate>
+  </String>
+  <String index="39">
+    <ToTranslate>_btl_cmdchip_m</ToTranslate>
+  </String>
+  <String index="40">
+    <ToTranslate>_btl_onmouse</ToTranslate>
+  </String>
+  <String index="41">
+    <ToTranslate>_btl_selected</ToTranslate>
+  </String>
+  <String index="42">
+    <ToTranslate>_btl_Retry</ToTranslate>
+  </String>
+  <String index="43">
+    <ToTranslate>_btl_CleanupBtlGrp</ToTranslate>
+  </String>
+  <String index="44">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="45">
+    <ToTranslate>_btl_Waza</ToTranslate>
+  </String>
+  <String index="46">
+    <ToTranslate>% The enemy has been destroyed!@</ToTranslate>
+  </String>
+  <String index="47">
+    <ToTranslate>_btl_WazaEnemy_Cont</ToTranslate>
+  </String>
+  <String index="48">
+    <ToTranslate>% You have been annihilated...@</ToTranslate>
+  </String>
+  <String index="49">
+    <ToTranslate>_btl_WazaEnemy</ToTranslate>
+  </String>
+  <String index="50">
+    <ToTranslate>% You have been annihilated...@</ToTranslate>
+  </String>
+  <String index="51">
+    <ToTranslate>_btl_WazaEnemy_BuffDEF</ToTranslate>
+  </String>
+  <String index="52">
+    <ToTranslate>_btl_WazaEnemy_Ref</ToTranslate>
+  </String>
+  <String index="53">
+    <ToTranslate>% Your light infantry is charging.@</ToTranslate>
+  </String>
+  <String index="54">
+    <ToTranslate>%Your heavy infantry is intercepting.@</ToTranslate>
+  </String>
+  <String index="55">
+    <ToTranslate>%Your archers are firing@</ToTranslate>
+  </String>
+  <String index="56">
+    <ToTranslate>_btl_SC_Player</ToTranslate>
+  </String>
+  <String index="57">
+    <ToTranslate>You killed �k</ToTranslate>
+  </String>
+  <String index="58">
+    <ToTranslate>_btl_Waza_Choun</ToTranslate>
+  </String>
+  <String index="59">
+    <ToTranslate>_btl_WazaEnemy_BuffATK</ToTranslate>
+  </String>
+  <String index="60">
+    <ToTranslate>_btl_Waza_Kochu</ToTranslate>
+  </String>
+  <String index="61">
+    <ToTranslate>%The enemy&apos;s light infantry is charging.@</ToTranslate>
+  </String>
+  <String index="62">
+    <ToTranslate>%The enemy&apos;s heavy infantry is intercepting.@</ToTranslate>
+  </String>
+  <String index="63">
+    <ToTranslate>%The enemy&apos;s archers are firing@</ToTranslate>
+  </String>
+  <String index="64">
+    <ToTranslate>_btl_SC_Enemy</ToTranslate>
+  </String>
+  <String index="65">
+    <ToTranslate>You suffered �n</ToTranslate>
+  </String>
+  <String index="66">
+    <ToTranslate>_btl_HukuheiEnemy</ToTranslate>
+  </String>
+  <String index="67">
+    <ToTranslate>%You have been annihilated...@</ToTranslate>
+  </String>
+  <String index="68">
+    <ToTranslate>_btl_CreateStatusStrB</ToTranslate>
+  </String>
+  <String index="69">
+    <ToTranslate>%�$</ToTranslate>
+  </String>
+  <String index="70">
+    <ToTranslate>%�^</ToTranslate>
+  </String>
+  <String index="71">
+    <ToTranslate>_btl_Troops_GrpChange</ToTranslate>
+  </String>
+  <String index="72">
+    <ToTranslate>_btl_WazaEnemy_RenATK</ToTranslate>
+  </String>
+  <String index="73">
+    <ToTranslate>%You have been annihilated...@</ToTranslate>
+  </String>
+  <String index="74">
+    <ToTranslate>%The enemy has been destroyed!@</ToTranslate>
+  </String>
+  <String index="75">
+    <ToTranslate>%</ToTranslate>
+  </String>
+  <String index="76">
+    <ToTranslate>%</ToTranslate>
+  </String>
+  <String index="77">
+    <ToTranslate>%</ToTranslate>
+  </String>
+  <String index="78">
+    <ToTranslate>%</ToTranslate>
+  </String>
+  <String index="79">
+    <ToTranslate>%</ToTranslate>
+  </String>
+  <String index="80">
+    <ToTranslate>_btl_Lose</ToTranslate>
+  </String>
+  <String index="81">
+    <ToTranslate>_btl_Lose_m</ToTranslate>
+  </String>
+  <String index="82">
+    <ToTranslate>BGM38</ToTranslate>
+  </String>
+  <String index="83">
+    <ToTranslate>_btl_Continue</ToTranslate>
+  </String>
+  <String index="84">
+    <ToTranslate>_btl_CleanupBtlGrp</ToTranslate>
+  </String>
+  <String index="85">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="86">
+    <ToTranslate>%</ToTranslate>
+  </String>
+  <String index="87">
+    <ToTranslate>%</ToTranslate>
+  </String>
+  <String index="88">
+    <ToTranslate>%</ToTranslate>
+  </String>
+  <String index="89">
+    <ToTranslate>%</ToTranslate>
+  </String>
+  <String index="90">
+    <ToTranslate>_btl_Win</ToTranslate>
+  </String>
+  <String index="91">
+    <ToTranslate>_btl_Win_m</ToTranslate>
+  </String>
+  <String index="92">
+    <ToTranslate>BGM37</ToTranslate>
+  </String>
+  <String index="93">
+    <ToTranslate>%Retreat!@</ToTranslate>
+  </String>
+  <String index="94">
+    <ToTranslate>_btl_CleanupBtlGrp</ToTranslate>
+  </String>
+  <String index="95">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+</DBS>
+</poem>
+[[Koihime Musou/Прогресс перевода/Системные|[Назад]]]

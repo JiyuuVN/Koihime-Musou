@@ -1,0 +1,2988 @@
+[[Koihime Musou/Прогресс перевода/Сюжет|[Назад]]]
+<poem>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<DBS>
+  <String index="0">
+    <ToTranslate>bcg_wasteland_a</ToTranslate>
+  </String>
+  <String index="1">
+    <ToTranslate>tcg_zgi11aa</ToTranslate>
+  </String>
+  <String index="2">
+    <ToTranslate>tcg_zgi11m</ToTranslate>
+  </String>
+  <String index="3">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="4">
+    <ToTranslate>bgm13</ToTranslate>
+  </String>
+  <String index="5">
+    <ToTranslate>Солдат$"Генерал Чёрьё! Мы обнаружили караван поставок противника!"@</ToTranslate>
+  </String>
+  <String index="6">
+    <ToTranslate>tcg_cry11aa</ToTranslate>
+  </String>
+  <String index="7">
+    <ToTranslate>tcg_cry11m</ToTranslate>
+  </String>
+  <String index="8">
+    <ToTranslate>chor0135</ToTranslate>
+  </String>
+  <String index="9">
+    <ToTranslate>Чёрьё$"Молодцы, вы хорошо постарались."@</ToTranslate>
+  </String>
+  <String index="10">
+    <ToTranslate>Солдат$"Что нам делать?"@</ToTranslate>
+  </String>
+  <String index="11">
+    <ToTranslate>tcg_cry21ea</ToTranslate>
+  </String>
+  <String index="12">
+    <ToTranslate>tcg_cry21m</ToTranslate>
+  </String>
+  <String index="13">
+    <ToTranslate>chor0136</ToTranslate>
+  </String>
+  <String index="14">
+    <ToTranslate>Чёрьё$"Разве не ясно? Мы сделаем то что должны...... хотя, я правда очень этого не хочу."@</ToTranslate>
+  </String>
+  <String index="15">
+    <ToTranslate>tcg_cry21ha</ToTranslate>
+  </String>
+  <String index="16">
+    <ToTranslate>tcg_cry21m</ToTranslate>
+  </String>
+  <String index="17">
+    <ToTranslate>chor0137</ToTranslate>
+  </String>
+  <String index="18">
+    <ToTranslate>Чёрьё$"Всем, занять позиции! Начнём сражение!"@</ToTranslate>
+  </String>
+  <String index="19">
+    <ToTranslate>Солдат$"Есть!"@</ToTranslate>
+  </String>
+  <String index="20">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="21">
+    <ToTranslate>aa</ToTranslate>
+  </String>
+  <String index="22">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="23">
+    <ToTranslate>aa</ToTranslate>
+  </String>
+  <String index="24">
+    <ToTranslate>bcg_gi_outcast_a</ToTranslate>
+  </String>
+  <String index="25">
+    <ToTranslate>tcg_kan11ca</ToTranslate>
+  </String>
+  <String index="26">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="27">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="28">
+    <ToTranslate>aisy0776</ToTranslate>
+  </String>
+  <String index="29">
+    <ToTranslate>Аиша$"Ккх...... они крепче, чем я представляла."@</ToTranslate>
+  </String>
+  <String index="30">
+    <ToTranslate>tcg_syo11ea</ToTranslate>
+  </String>
+  <String index="31">
+    <ToTranslate>tcg_syo11m</ToTranslate>
+  </String>
+  <String index="32">
+    <ToTranslate>syur0382</ToTranslate>
+  </String>
+  <String index="33">
+<ToTranslate>Шури$"Какоэн-сан возглавляет силы противника. Обороняется она ещё лучше, чем мы предполагали."@</ToTranslate>
+  </String>
+  <String index="34">
+    <ToTranslate>tcg_cun31fa</ToTranslate>
+  </String>
+  <String index="35">
+    <ToTranslate>tcg_cun31m</ToTranslate>
+  </String>
+  <String index="36">
+    <ToTranslate>sei_0166</ToTranslate>
+  </String>
+  <String index="37">
+    <ToTranslate>Сэй$"Так ты говоришь...... как нам быть дальше?"@</ToTranslate>
+  </String>
+  <String index="38">
+    <ToTranslate>tcg_syo21ja</ToTranslate>
+  </String>
+  <String index="39">
+    <ToTranslate>tcg_syo21m</ToTranslate>
+  </String>
+  <String index="40">
+    <ToTranslate>syur0383</ToTranslate>
+  </String>
+  <String index="41">
+<ToTranslate>Шури$"Пока они отсиживаются в крепости мы не можем полагаться на стратегию... простите, я совершенно бесполезна......"@</ToTranslate>
+  </String>
+  <String index="42">
+    <ToTranslate>tcg_bac12ca</ToTranslate>
+  </String>
+  <String index="43">
+    <ToTranslate>tcg_bac12m</ToTranslate>
+  </String>
+  <String index="44">
+    <ToTranslate>sui_0127</ToTranslate>
+  </String>
+  <String index="45">
+    <ToTranslate>Суи$"Шури, тебе не за что извиняться."@</ToTranslate>
+  </String>
+  <String index="46">
+    <ToTranslate>Казуто$"Суи права."@</ToTranslate>
+  </String>
+  <String index="47">
+    <ToTranslate>tcg_koc12aa</ToTranslate>
+  </String>
+  <String index="48">
+    <ToTranslate>tcg_koc12m</ToTranslate>
+  </String>
+  <String index="49">
+    <ToTranslate>shio0053</ToTranslate>
+  </String>
+  <String index="50">
+     <ToTranslate>Сион$"Это верно. Но......если мы и дальше будем продолжать атаковать крепость, то только увеличим свои потери."@</ToTranslate>
+  </String>
+  <String index="51">
+    <ToTranslate>tcg_cho11ca</ToTranslate>
+  </String>
+  <String index="52">
+    <ToTranslate>tcg_cho11m</ToTranslate>
+  </String>
+  <String index="53">
+    <ToTranslate>rinr0409</ToTranslate>
+  </String>
+  <String index="54">
+     <ToTranslate>Ринрин$"Мы должны отступить?"@</ToTranslate>
+  </String>
+  <String index="55">
+    <ToTranslate>tcg_cun31fa</ToTranslate>
+  </String>
+  <String index="56">
+    <ToTranslate>tcg_cun31m</ToTranslate>
+  </String>
+  <String index="57">
+    <ToTranslate>sei_0167</ToTranslate>
+  </String>
+  <String index="58">
+    <ToTranslate>Сэй$"Возможно сейчас это правильный выбор, но......"@</ToTranslate>
+  </String>
+  <String index="59">
+    <ToTranslate>tcg_zsh11aa</ToTranslate>
+  </String>
+  <String index="60">
+    <ToTranslate>tcg_zsh11m</ToTranslate>
+  </String>
+  <String index="61">
+    <ToTranslate>bgm0000</ToTranslate>
+  </String>
+  <String index="62">
+    <ToTranslate>Солдат$"Срочные новости!"@</ToTranslate>
+  </String>
+  <String index="63">
+    <ToTranslate>tcg_kan11ca</ToTranslate>
+  </String>
+  <String index="64">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="65">
+    <ToTranslate>aisy0777</ToTranslate>
+  </String>
+  <String index="66">
+    <ToTranslate>Аиша$"Что случилось?"@</ToTranslate>
+  </String>
+  <String index="67">
+    <ToTranslate>Солдат$"Вражеский подвижный отряд отрезал наш арьергард! Наши караваны поставок уничтожаются один за другим!"@</ToTranslate>
+  </String>
+  <String index="68">
+    <ToTranslate>tcg_bac12ea</ToTranslate>
+  </String>
+  <String index="69">
+    <ToTranslate>tcg_bac12m</ToTranslate>
+  </String>
+  <String index="70">
+    <ToTranslate>sui_0128</ToTranslate>
+  </String>
+  <String index="71">
+    <ToTranslate>Суи$"Что!?"@</ToTranslate>
+  </String>
+  <String index="72">
+    <ToTranslate>tcg_cun21ha</ToTranslate>
+  </String>
+  <String index="73">
+    <ToTranslate>tcg_cun21m</ToTranslate>
+  </String>
+  <String index="74">
+    <ToTranslate>sei_0168</ToTranslate>
+  </String>
+  <String index="75">
+    <ToTranslate>Сэй$"Хмм......они умело атаковали наши слабые места пока вся армия здесь"@</ToTranslate>
+  </String>
+  <String index="76">
+    <ToTranslate>tcg_koc32ca</ToTranslate>
+  </String>
+  <String index="77">
+    <ToTranslate>tcg_koc32m</ToTranslate>
+  </String>
+  <String index="78">
+    <ToTranslate>shio0054</ToTranslate>
+  </String>
+  <String index="79">
+     <ToTranslate>Сион$"Это не хорошо......"@</ToTranslate>
+  </String>
+  <String index="80">
+    <ToTranslate>tcg_kan11ca</ToTranslate>
+  </String>
+  <String index="81">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="82">
+    <ToTranslate>aisy0778</ToTranslate>
+  </String>
+  <String index="83">
+    <ToTranslate>Аиша$"Если ситуация стала плохой, то мы должны изменить её в лучшую сторону. Нужно разделить наши силы надвое."@</ToTranslate>
+  </String>
+  <String index="84">
+    <ToTranslate>tcg_cun21ca</ToTranslate>
+  </String>
+  <String index="85">
+    <ToTranslate>tcg_cun21m</ToTranslate>
+  </String>
+  <String index="86">
+    <ToTranslate>sei_0169</ToTranslate>
+  </String>
+  <String index="87">
+    <ToTranslate>Сэй$"Постой, Аиша. Это слишком опасно. Как результат, мы можем просто не справиться с ними."@</ToTranslate>
+  </String>
+  <String index="88">
+    <ToTranslate>tcg_kan11ma</ToTranslate>
+  </String>
+  <String index="89">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="90">
+    <ToTranslate>aisy0779</ToTranslate>
+  </String>
+  <String index="91">
+    <ToTranslate>Аиша$"Но сидя сложа руки мы никак не выкарабкаемся из этой ситуации! Мой Господин! Разрешите разделить наши силы!"@</ToTranslate>
+  </String>
+  <String index="92">
+    <ToTranslate>Казуто$"......хотел бы я это сделать, но прежде я должен услышать мнение Шури. ......что скажешь?"@</ToTranslate>
+  </String>
+  <String index="93">
+    <ToTranslate>tcg_syo41ea</ToTranslate>
+  </String>
+  <String index="94">
+    <ToTranslate>tcg_syo41m</ToTranslate>
+  </String>
+  <String index="95">
+    <ToTranslate>syur0384</ToTranslate>
+  </String>
+  <String index="96">
+<ToTranslate>Шури$"Да...... сказанное Аишей-сан является одним из возможных выходов, но я считаю, что деление сил в таких условиях будет рискованно для обоих отрядов."@</ToTranslate>
+  </String>
+  <String index="97">
+    <ToTranslate>tcg_syo41ga</ToTranslate>
+  </String>
+  <String index="98">
+    <ToTranslate>tcg_syo41m</ToTranslate>
+  </String>
+  <String index="99">
+    <ToTranslate>syur0385</ToTranslate>
+  </String>
+  <String index="100">
+<ToTranslate>Шури$"Поэтому, давайте отступим всеми силами. Без наших поставок мы больше не сможем продолжать осаду."@</ToTranslate>
+  </String>
+  <String index="101">
+    <ToTranslate>tcg_cun31ea</ToTranslate>
+  </String>
+  <String index="102">
+    <ToTranslate>tcg_cun31m</ToTranslate>
+  </String>
+  <String index="103">
+    <ToTranslate>sei_0170</ToTranslate>
+  </String>
+  <String index="104">
+    <ToTranslate>Сэй$"Ясно. Так, хотя бы мы сможем сохранить свои силы."@</ToTranslate>
+  </String>
+  <String index="105">
+    <ToTranslate>Казуто$"Согласен. Аиша, что думаешь?"@</ToTranslate>
+  </String>
+  <String index="106">
+    <ToTranslate>tcg_kan11ca</ToTranslate>
+  </String>
+  <String index="107">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="108">
+    <ToTranslate>aisy0780</ToTranslate>
+  </String>
+  <String index="109">
+    <ToTranslate>Аиша$"......факт, что мы в шаге от взятия крепости, вызывает противоречия, но учитывая обстоятельства, идея Шури является лучшим выходом."@</ToTranslate>
+  </String>
+  <String index="110">
+    <ToTranslate>Казуто$"Так. Прекрасно. Немедленно начнём отступление."@</ToTranslate>
+  </String>
+  <String index="111">
+    <ToTranslate>tcg_cun21ca</ToTranslate>
+  </String>
+  <String index="112">
+    <ToTranslate>tcg_cun21m</ToTranslate>
+  </String>
+  <String index="113">
+    <ToTranslate>sei_0171</ToTranslate>
+  </String>
+  <String index="114">
+    <ToTranslate>Сэй$"Как вам будет угодно!"@</ToTranslate>
+  </String>
+  <String index="115">
+    <ToTranslate>tcg_bac12ga</ToTranslate>
+  </String>
+  <String index="116">
+    <ToTranslate>tcg_bac12m</ToTranslate>
+  </String>
+  <String index="117">
+    <ToTranslate>sui_0129</ToTranslate>
+  </String>
+  <String index="118">
+    <ToTranslate>Суи$"Значит, мы отступаем? Ну, похоже, при таких обстоятельствах, нам не остаётся ничего другого."@</ToTranslate>
+  </String>
+  <String index="119">
+    <ToTranslate>tcg_cho21da</ToTranslate>
+  </String>
+  <String index="120">
+    <ToTranslate>tcg_cho21m</ToTranslate>
+  </String>
+  <String index="121">
+    <ToTranslate>rinr0410</ToTranslate>
+  </String>
+  <String index="122">
+     <ToTranslate>Ринрин$"Но это, так расстраивает..."@</ToTranslate>
+  </String>
+  <String index="123">
+    <ToTranslate>Казуто$"Ничего не поделаешь. Оставаться здесь теперь слишком опасно."@</ToTranslate>
+  </String>
+  <String index="124">
+    <ToTranslate>tcg_cho31da</ToTranslate>
+  </String>
+  <String index="125">
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="126">
+    <ToTranslate>rinr0411</ToTranslate>
+  </String>
+  <String index="127">
+     <ToTranslate>Ринрин$"Знаю, но......"@</ToTranslate>
+  </String>
+  <String index="128">
+    <ToTranslate>tcg_kan11ca</ToTranslate>
+  </String>
+  <String index="129">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="130">
+    <ToTranslate>aisy0781</ToTranslate>
+  </String>
+  <String index="131">
+    <ToTranslate>Аиша$"Ринрин, прекращай ныть. Мы решили отступать, слушайся приказа."@</ToTranslate>
+  </String>
+  <String index="132">
+    <ToTranslate>rinr0412</ToTranslate>
+  </String>
+  <String index="133">
+     <ToTranslate>Ринрин$"Да. Но...... это, Братик."@</ToTranslate>
+  </String>
+  <String index="134">
+    <ToTranslate>Казуто$"Хмм?"@</ToTranslate>
+  </String>
+  <String index="135">
+    <ToTranslate>tcg_cho11aa</ToTranslate>
+  </String>
+  <String index="136">
+    <ToTranslate>tcg_cho11m</ToTranslate>
+  </String>
+  <String index="137">
+    <ToTranslate>rinr0413</ToTranslate>
+  </String>
+  <String index="138">
+     <ToTranslate>Ринрин$"Можно Ринрин взять себе наш арьергард? Мне кажется, что они будут преследовать нас."@</ToTranslate>
+  </String>
+  <String index="139">
+    <ToTranslate>Казуто$"Для них это будет прекрасной возможностью......хорошо, Ринрин, оставляю его тебе, но запомни, ты обязана вернутся назад, тебе понятно?"@</ToTranslate>
+  </String>
+  <String index="140">
+    <ToTranslate>tcg_cho21ia</ToTranslate>
+  </String>
+  <String index="141">
+    <ToTranslate>tcg_cho21m</ToTranslate>
+  </String>
+  <String index="142">
+    <ToTranslate>rinr0414</ToTranslate>
+  </String>
+  <String index="143">
+     <ToTranslate>Ринрин$"Конечно! Хех-хех, если мне дадут арьергард то я согласна на отступление!"@</ToTranslate>
+  </String>
+  <String index="144">
+    <ToTranslate>tcg_bac12ea</ToTranslate>
+  </String>
+  <String index="145">
+    <ToTranslate>tcg_bac12m</ToTranslate>
+  </String>
+  <String index="146">
+    <ToTranslate>sui_0130</ToTranslate>
+  </String>
+  <String index="147">
+    <ToTranslate>Суи$"Эй, ты жаловалась только потому что хотела выделиться!"@</ToTranslate>
+  </String>
+  <String index="148">
+    <ToTranslate>tcg_cho31ba</ToTranslate>
+  </String>
+  <String index="149">
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="150">
+    <ToTranslate>rinr0415</ToTranslate>
+  </String>
+  <String index="151">
+     <ToTranslate>Ринрин$"Няхаха! Совершенно верно!"@</ToTranslate>
+  </String>
+  <String index="152">
+    <ToTranslate>tcg_kan11ea</ToTranslate>
+  </String>
+  <String index="153">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="154">
+    <ToTranslate>aisy0782</ToTranslate>
+  </String>
+  <String index="155">
+    <ToTranslate>Аиша$"Хаах. Это же не игра, ты это понимаешь?"@</ToTranslate>
+  </String>
+  <String index="156">
+    <ToTranslate>tcg_cho11aa</ToTranslate>
+  </String>
+  <String index="157">
+    <ToTranslate>tcg_cho11m</ToTranslate>
+  </String>
+  <String index="158">
+    <ToTranslate>rinr0416</ToTranslate>
+  </String>
+  <String index="159">
+     <ToTranslate>Ринрин$"Я знаю!"@</ToTranslate>
+  </String>
+  <String index="160">
+    <ToTranslate>tcg_kan11ca</ToTranslate>
+  </String>
+  <String index="161">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="162">
+    <ToTranslate>aisy0783</ToTranslate>
+  </String>
+  <String index="163">
+    <ToTranslate>Аиша$"......хорошо, тогда...... обязательно возвращайся, ладно? И ещё, не делай ничего слишком опасного."@</ToTranslate>
+  </String>
+  <String index="164">
+    <ToTranslate>tcg_cun31ea</ToTranslate>
+  </String>
+  <String index="165">
+    <ToTranslate>tcg_cun31m</ToTranslate>
+  </String>
+  <String index="166">
+    <ToTranslate>sei_0172</ToTranslate>
+  </String>
+  <String index="167">
+    <ToTranslate>Сэй$"Ху-ху...... какая заботливая сестричка."@</ToTranslate>
+  </String>
+  <String index="168">
+    <ToTranslate>tcg_kan11ma</ToTranslate>
+  </String>
+  <String index="169">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="170">
+    <ToTranslate>aisy0784</ToTranslate>
+  </String>
+  <String index="171">
+    <ToTranslate>Аиша$"Конечно. После нашего отступления, сразу же возвращайся назад, хорошо? Запомнила? Пообещай мне."@</ToTranslate>
+  </String>
+  <String index="172">
+    <ToTranslate>tcg_cho11aa</ToTranslate>
+  </String>
+  <String index="173">
+    <ToTranslate>tcg_cho11m</ToTranslate>
+  </String>
+  <String index="174">
+    <ToTranslate>rinr0417</ToTranslate>
+  </String>
+  <String index="175">
+     <ToTranslate>Ринрин$"Конечно! Обещаю!"@</ToTranslate>
+  </String>
+  <String index="176">
+    <ToTranslate>tcg_kan11ca</ToTranslate>
+  </String>
+  <String index="177">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="178">
+    <ToTranslate>aisy0785</ToTranslate>
+  </String>
+  <String index="179">
+    <ToTranslate>Аиша$"Хорошо. Тогда, Ринрин, я вверяю тебе наш арьергард."@</ToTranslate>
+  </String>
+  <String index="180">
+    <ToTranslate>tcg_cho31ba</ToTranslate>
+  </String>
+  <String index="181">
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="182">
+    <ToTranslate>rinr0418</ToTranslate>
+  </String>
+  <String index="183">
+     <ToTranslate>Ринрин$"Хорошо, я поняла!"@</ToTranslate>
+  </String>
+  <String index="184">
+    <ToTranslate>tcg_cun21ca</ToTranslate>
+  </String>
+  <String index="185">
+    <ToTranslate>tcg_cun21m</ToTranslate>
+  </String>
+  <String index="186">
+    <ToTranslate>sei_0173</ToTranslate>
+  </String>
+  <String index="187">
+    <ToTranslate>Сэй$"Решено, больше нам здесь делать нечего. Мы должны отступать немедленно."@</ToTranslate>
+  </String>
+  <String index="188">
+    <ToTranslate>tcg_koc22aa</ToTranslate>
+  </String>
+  <String index="189">
+    <ToTranslate>tcg_koc22m</ToTranslate>
+  </String>
+  <String index="190">
+    <ToTranslate>shio0055</ToTranslate>
+  </String>
+  <String index="191">
+     <ToTranslate>Сион$"Да, давайте выдвигаться."@</ToTranslate>
+  </String>
+  <String index="192">
+    <ToTranslate>tcg_kan11ma</ToTranslate>
+  </String>
+  <String index="193">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="194">
+    <ToTranslate>aisy0786</ToTranslate>
+  </String>
+  <String index="195">
+    <ToTranslate>Аиша$"Всем отрядам, собраться! Отступление всей армии! Всем успокоится и принять походное построение!"@</ToTranslate>
+  </String>
+  <String index="196">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="197">
+    <ToTranslate>aa</ToTranslate>
+  </String>
+  <String index="198">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="199">
+    <ToTranslate>aa</ToTranslate>
+  </String>
+  <String index="200">
+    <ToTranslate>bcg_wasteland_a</ToTranslate>
+  </String>
+  <String index="201">
+    <ToTranslate>tcg_zgi11aa</ToTranslate>
+  </String>
+  <String index="202">
+    <ToTranslate>tcg_zgi11m</ToTranslate>
+  </String>
+  <String index="203">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="204">
+    <ToTranslate>bgm13</ToTranslate>
+  </String>
+  <String index="205">
+    <ToTranslate>Солдат$"Генерал! Я вижу облако пыли позади нас!"@</ToTranslate>
+  </String>
+  <String index="206">
+    <ToTranslate>tcg_cry11ia</ToTranslate>
+  </String>
+  <String index="207">
+    <ToTranslate>tcg_cry11m</ToTranslate>
+  </String>
+  <String index="208">
+    <ToTranslate>chor0138</ToTranslate>
+  </String>
+  <String index="209">
+    <ToTranslate>Чёрьё$"Пылевое облако? Это значит, что армия Хонго отступает? Эй, насколько же быстрая у них реакция."@</ToTranslate>
+  </String>
+  <String index="210">
+    <ToTranslate>Солдат$"Мы перехватим их?"@</ToTranslate>
+  </String>
+  <String index="211">
+    <ToTranslate>tcg_cry21ea</ToTranslate>
+  </String>
+  <String index="212">
+    <ToTranslate>tcg_cry21m</ToTranslate>
+  </String>
+  <String index="213">
+    <ToTranslate>chor0139</ToTranslate>
+  </String>
+  <String index="214">
+    <ToTranslate>Чёрьё$"Дурак. Подумай о разнице в наших силах. Мы спрячемся с обратной стороны дороги и будем следить за их отступлением."@</ToTranslate>
+  </String>
+  <String index="215">
+    <ToTranslate>tcg_cry21ga</ToTranslate>
+  </String>
+  <String index="216">
+    <ToTranslate>tcg_cry21m</ToTranslate>
+  </String>
+  <String index="217">
+    <ToTranslate>chor0140</ToTranslate>
+  </String>
+  <String index="218">
+    <ToTranslate>Чёрьё$"Мы контратакуем после того как объединим силы с отрядом преследования Мии-чан."@</ToTranslate>
+  </String>
+  <String index="219">
+    <ToTranslate>Солдат$"Есть!"@</ToTranslate>
+  </String>
+  <String index="220">
+    <ToTranslate>tcg_cry11ba</ToTranslate>
+  </String>
+  <String index="221">
+    <ToTranslate>tcg_cry11m</ToTranslate>
+  </String>
+  <String index="222">
+    <ToTranslate>chor0141</ToTranslate>
+  </String>
+  <String index="223">
+    <ToTranslate>Чёрьё$"Мы должны уходить как можно быстрее. Передаю командование Косей. Я нападу на них своим собственным отрядом, позаботьтесь об остальном, ладно?"@</ToTranslate>
+  </String>
+  <String index="224">
+    <ToTranslate>Солдат$"Есть генерал!"@</ToTranslate>
+  </String>
+  <String index="225">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="226">
+    <ToTranslate>aa</ToTranslate>
+  </String>
+  <String index="227">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="228">
+    <ToTranslate>aa</ToTranslate>
+  </String>
+  <String index="229">
+    <ToTranslate>bcg_wasteland_a</ToTranslate>
+  </String>
+  <String index="230">
+    <ToTranslate>tcg_cry21da</ToTranslate>
+  </String>
+  <String index="231">
+    <ToTranslate>tcg_cry21m</ToTranslate>
+  </String>
+  <String index="232">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="233">
+    <ToTranslate>chor0142</ToTranslate>
+  </String>
+  <String index="234">
+    <ToTranslate>Чёрьё$"Эй, Мия-чан, ты молодчина."@</ToTranslate>
+  </String>
+  <String index="235">
+    <ToTranslate>tcg_en12ba</ToTranslate>
+  </String>
+  <String index="236">
+    <ToTranslate>tcg_en12m</ToTranslate>
+  </String>
+  <String index="237">
+    <ToTranslate>kaen0104</ToTranslate>
+  </String>
+  <String index="238">
+    <ToTranslate>Какоэн$"Хм. Ты тоже неплохо справилась."@</ToTranslate>
+  </String>
+  <String index="239">
+    <ToTranslate>tcg_cry21ea</ToTranslate>
+  </String>
+  <String index="240">
+    <ToTranslate>tcg_cry21m</ToTranslate>
+  </String>
+  <String index="241">
+    <ToTranslate>chor0143</ToTranslate>
+  </String>
+  <String index="242">
+    <ToTranslate>Чёрьё$"Занятие, которые вы меня заставили делать очень утомительно......"@</ToTranslate>
+  </String>
+  <String index="243">
+    <ToTranslate>tcg_en12aa</ToTranslate>
+  </String>
+  <String index="244">
+    <ToTranslate>tcg_en12m</ToTranslate>
+  </String>
+  <String index="245">
+    <ToTranslate>kaen0105</ToTranslate>
+  </String>
+  <String index="246">
+    <ToTranslate>Какоэн$"Начинаем преследование. Можешь больше не сдерживать свою обиду."@</ToTranslate>
+  </String>
+  <String index="247">
+    <ToTranslate>chor0144</ToTranslate>
+  </String>
+  <String index="248">
+    <ToTranslate>Чёрьё$"Я бы хотела, но преследовать это совсем не весело."@</ToTranslate>
+  </String>
+  <String index="249">
+    <ToTranslate>tcg_en22ia</ToTranslate>
+  </String>
+  <String index="250">
+    <ToTranslate>tcg_en22m</ToTranslate>
+  </String>
+  <String index="251">
+    <ToTranslate>kaen0106</ToTranslate>
+  </String>
+  <String index="252">
+    <ToTranslate>Какоэн$"Не весело? Тогда что может сделать тебя счастливой?"@</ToTranslate>
+  </String>
+  <String index="253">
+    <ToTranslate>tcg_cry21da</ToTranslate>
+  </String>
+  <String index="254">
+    <ToTranslate>tcg_cry21m</ToTranslate>
+  </String>
+  <String index="255">
+    <ToTranslate>chor0145</ToTranslate>
+  </String>
+  <String index="256">
+    <ToTranslate>Чёрьё$"Честная и справедливая дуэль! Вот что делает поле боя весёлым местом!"@</ToTranslate>
+  </String>
+  <String index="257">
+    <ToTranslate>tcg_en22ca</ToTranslate>
+  </String>
+  <String index="258">
+    <ToTranslate>tcg_en22m</ToTranslate>
+  </String>
+  <String index="259">
+    <ToTranslate>kaen0107</ToTranslate>
+  </String>
+  <String index="260">
+    <ToTranslate>Какоэн$"Хм, ты в точности как моя сестра."@</ToTranslate>
+  </String>
+  <String index="261">
+    <ToTranslate>tcg_cry11ba</ToTranslate>
+  </String>
+  <String index="262">
+    <ToTranslate>tcg_cry11m</ToTranslate>
+  </String>
+  <String index="263">
+    <ToTranslate>chor0146</ToTranslate>
+  </String>
+  <String index="264">
+    <ToTranslate>Чёрьё$"Правда? Для меня честь быть похожей на Ген-чан."@</ToTranslate>
+  </String>
+  <String index="265">
+    <ToTranslate>tcg_en12aa</ToTranslate>
+  </String>
+  <String index="266">
+    <ToTranslate>tcg_en12m</ToTranslate>
+  </String>
+  <String index="267">
+    <ToTranslate>kaen0108</ToTranslate>
+  </String>
+  <String index="268">
+    <ToTranslate>Какоэн$"Что, ты всё-таки изменила своё мнение?"@</ToTranslate>
+  </String>
+  <String index="269">
+    <ToTranslate>tcg_cry21da</ToTranslate>
+  </String>
+  <String index="270">
+    <ToTranslate>tcg_cry21m</ToTranslate>
+  </String>
+  <String index="271">
+    <ToTranslate>chor0147</ToTranslate>
+  </String>
+  <String index="272">
+    <ToTranslate>Чёрьё$"Нет, нет. Посмотрев на способ сражения Кану я начала это понимать. ......аах, Кану такая милая!"@</ToTranslate>
+  </String>
+  <String index="273">
+    <ToTranslate>tcg_en12fa</ToTranslate>
+  </String>
+  <String index="274">
+    <ToTranslate>tcg_en12m</ToTranslate>
+  </String>
+  <String index="275">
+    <ToTranslate>kaen0109</ToTranslate>
+  </String>
+  <String index="276">
+    <ToTranslate>Какоэн$"......я не против твоих восторганий, но мы почти достигли тыловых отрядов противника."@</ToTranslate>
+  </String>
+  <String index="277">
+    <ToTranslate>tcg_cry11ia</ToTranslate>
+  </String>
+  <String index="278">
+    <ToTranslate>tcg_cry11m</ToTranslate>
+  </String>
+  <String index="279">
+    <ToTranslate>chor0148</ToTranslate>
+  </String>
+  <String index="280">
+    <ToTranslate>Чёрьё$"Принято. Пришло время готовиться к бою......эм, ваааа?! ......почему так......"@</ToTranslate>
+  </String>
+  <String index="281">
+    <ToTranslate>tcg_kyo12aa</ToTranslate>
+  </String>
+  <String index="282">
+    <ToTranslate>tcg_kyo12m</ToTranslate>
+  </String>
+  <String index="283">
+    <ToTranslate>kii_0037</ToTranslate>
+  </String>
+  <String index="284">
+    <ToTranslate>Кёчё$"Аааа!"@</ToTranslate>
+  </String>
+  <String index="285">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="286">
+    <ToTranslate>ecg_cho11a</ToTranslate>
+  </String>
+  <String index="287">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="288">
+    <ToTranslate>bgm29</ToTranslate>
+  </String>
+  <String index="289">
+    <ToTranslate>rinr0419</ToTranslate>
+  </String>
+  <String index="290">
+     <ToTranslate>Ринрин$"Ну наконец-то! Я уже заждалась!"@</ToTranslate>
+  </String>
+  <String index="291">
+    <ToTranslate>kaen0110</ToTranslate>
+  </String>
+  <String index="292">
+    <ToTranslate>Какоэн$"Ясно......Чоухи командует их арьергардом."@</ToTranslate>
+  </String>
+  <String index="293">
+    <ToTranslate>chor0149</ToTranslate>
+  </String>
+  <String index="294">
+    <ToTranslate>Чёрьё$"......гадство."@</ToTranslate>
+  </String>
+  <String index="295">
+    <ToTranslate>choh0015</ToTranslate>
+  </String>
+  <String index="296">
+     <ToTranslate>Ринрин$"Аа?"@</ToTranslate>
+  </String>
+  <String index="297">
+    <ToTranslate>chor0150</ToTranslate>
+  </String>
+  <String index="298">
+    <ToTranslate>Чёрьё$"Почему не Кану......? Я была уверена, что здесь я встречу Кану......"@</ToTranslate>
+  </String>
+  <String index="299">
+    <ToTranslate>choh0016</ToTranslate>
+  </String>
+  <String index="300">
+     <ToTranslate>Ринрин$"Грубиянка. Ринрин тоже сильная!"@</ToTranslate>
+  </String>
+  <String index="301">
+    <ToTranslate>chor0151</ToTranslate>
+  </String>
+  <String index="302">
+    <ToTranslate>Чёрьё$"Верю, Чоухи. Но, как бы это сказать...... я хотела встретить Кану...... эээх......"@</ToTranslate>
+  </String>
+  <String index="303">
+    <ToTranslate>choh0017</ToTranslate>
+  </String>
+  <String index="304">
+     <ToTranslate>Ринрин$"Ммм...... прости."@</ToTranslate>
+  </String>
+  <String index="305">
+    <ToTranslate>chor0152</ToTranslate>
+  </String>
+  <String index="306">
+    <ToTranslate>Чёрьё$"Нет, можешь не извиняться......"@</ToTranslate>
+  </String>
+  <String index="307">
+    <ToTranslate>kii_0038</ToTranslate>
+  </String>
+  <String index="308">
+    <ToTranslate>Кёчё$"Сия-чан, если ты не собираешься сражаться с ней то это сделаю я! Мне можно, Шууран-сама?"@</ToTranslate>
+  </String>
+  <String index="309">
+    <ToTranslate>kaen0111</ToTranslate>
+  </String>
+  <String index="310">
+    <ToTranslate>Какоэн$"Хм......Кии, разберись с ней."@</ToTranslate>
+  </String>
+  <String index="311">
+    <ToTranslate>kii_0039</ToTranslate>
+  </String>
+  <String index="312">
+    <ToTranslate>Кёчё$"Большой спасибо!"@</ToTranslate>
+  </String>
+  <String index="313">
+    <ToTranslate>rinr0420</ToTranslate>
+  </String>
+  <String index="314">
+     <ToTranslate>Ринрин$"Хмм. Значит первой будет фанера?"@</ToTranslate>
+  </String>
+  <String index="315">
+    <ToTranslate>kii_0040</ToTranslate>
+  </String>
+  <String index="316">
+    <ToTranslate>Кёчё$"Малявка, не называй меня так!"@</ToTranslate>
+  </String>
+  <String index="317">
+    <ToTranslate>rinr0421</ToTranslate>
+  </String>
+  <String index="318">
+     <ToTranslate>Ринрин$"Я может и малявка но не проиграю такой плоскости. Давай, попробуй поймать меня."@</ToTranslate>
+  </String>
+  <String index="319">
+    <ToTranslate>kii_0041</ToTranslate>
+  </String>
+  <String index="320">
+    <ToTranslate>Кёчё$"Что...... что это за отношение! Ты пожалеешь об этом!"@</ToTranslate>
+  </String>
+  <String index="321">
+    <ToTranslate>bcg_wasteland_a</ToTranslate>
+  </String>
+  <String index="322">
+    <ToTranslate>tcg_kyo91aa</ToTranslate>
+  </String>
+  <String index="323">
+    <ToTranslate>tcg_kyo91m</ToTranslate>
+  </String>
+  <String index="324">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="325">
+    <ToTranslate>kii_0042</ToTranslate>
+  </String>
+  <String index="326">
+    <ToTranslate>Кёчё$"Ияаааааа!"@</ToTranslate>
+  </String>
+  <String index="327">
+    <ToTranslate>battle_naguri</ToTranslate>
+  </String>
+  <String index="328">
+    <ToTranslate>SE031</ToTranslate>
+  </String>
+  <String index="329">
+    <ToTranslate>tcg_cho51aa</ToTranslate>
+  </String>
+  <String index="330">
+    <ToTranslate>tcg_cho51m</ToTranslate>
+  </String>
+  <String index="331">
+    <ToTranslate>rinr0422</ToTranslate>
+  </String>
+  <String index="332">
+     <ToTranslate>Ринрин$"Почти."@</ToTranslate>
+  </String>
+  <String index="333">
+    <ToTranslate>SE081</ToTranslate>
+  </String>
+  <String index="334">
+    <ToTranslate>s_yure_t</ToTranslate>
+  </String>
+  <String index="335">
+    <ToTranslate>tcg_kyo22da</ToTranslate>
+  </String>
+  <String index="336">
+    <ToTranslate>tcg_kyo22m</ToTranslate>
+  </String>
+  <String index="337">
+    <ToTranslate>kii_0043</ToTranslate>
+  </String>
+  <String index="338">
+    <ToTranslate>Кёчё$"Я-я промахнулась!"@</ToTranslate>
+  </String>
+  <String index="339">
+    <ToTranslate>tcg_cho31ia</ToTranslate>
+  </String>
+  <String index="340">
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="341">
+    <ToTranslate>rinr0423</ToTranslate>
+  </String>
+  <String index="342">
+     <ToTranslate>Ринрин$"Хехе, хех, так слабо!"@</ToTranslate>
+  </String>
+  <String index="343">
+    <ToTranslate>rinr0424</ToTranslate>
+  </String>
+  <String index="344">
+     <ToTranslate>Ринрин$"Теперь моя очередь!"@</ToTranslate>
+  </String>
+  <String index="345">
+    <ToTranslate>tcg_cho51aa</ToTranslate>
+  </String>
+  <String index="346">
+    <ToTranslate>tcg_cho51m</ToTranslate>
+  </String>
+  <String index="347">
+    <ToTranslate>rinr0425</ToTranslate>
+  </String>
+  <String index="348">
+     <ToTranslate>Ринрин$"Получи!"@</ToTranslate>
+  </String>
+  <String index="349">
+    <ToTranslate>battle_cho</ToTranslate>
+  </String>
+  <String index="350">
+    <ToTranslate>tcg_kyo51aa</ToTranslate>
+  </String>
+  <String index="351">
+    <ToTranslate>tcg_kyo51m</ToTranslate>
+  </String>
+  <String index="352">
+    <ToTranslate>kii_0044</ToTranslate>
+  </String>
+  <String index="353">
+    <ToTranslate>Кёчё$"Хия!"@</ToTranslate>
+  </String>
+  <String index="354">
+    <ToTranslate>SE004</ToTranslate>
+  </String>
+  <String index="355">
+    <ToTranslate>s_yure_r</ToTranslate>
+  </String>
+  <String index="356">
+    <ToTranslate>tcg_kyo22ga</ToTranslate>
+  </String>
+  <String index="357">
+    <ToTranslate>tcg_kyo22m</ToTranslate>
+  </String>
+  <String index="358">
+    <ToTranslate>kii_0045</ToTranslate>
+  </String>
+  <String index="359">
+    <ToTranslate>Кёчё$"Ух......"@</ToTranslate>
+  </String>
+  <String index="360">
+    <ToTranslate>SE038</ToTranslate>
+  </String>
+  <String index="361">
+    <ToTranslate>m_yure_t</ToTranslate>
+  </String>
+  <String index="362">
+    <ToTranslate>tcg_cho21ia</ToTranslate>
+  </String>
+  <String index="363">
+    <ToTranslate>tcg_cho21m</ToTranslate>
+  </String>
+  <String index="364">
+    <ToTranslate>rinr0426</ToTranslate>
+  </String>
+  <String index="365">
+     <ToTranslate>Ринрин$"Хех-хех! Победа Ринрин!"@</ToTranslate>
+  </String>
+  <String index="366">
+    <ToTranslate>tcg_cry11ia</ToTranslate>
+  </String>
+  <String index="367">
+    <ToTranslate>tcg_cry11m</ToTranslate>
+  </String>
+  <String index="368">
+    <ToTranslate>chor0153</ToTranslate>
+  </String>
+  <String index="369">
+    <ToTranslate>Чёрьё$"Эй...... Кии-чан, ты в порядке?"@</ToTranslate>
+  </String>
+  <String index="370">
+    <ToTranslate>tcg_kyo22ga</ToTranslate>
+  </String>
+  <String index="371">
+    <ToTranslate>tcg_kyo22m</ToTranslate>
+  </String>
+  <String index="372">
+    <ToTranslate>kii_0046</ToTranslate>
+  </String>
+  <String index="373">
+    <ToTranslate>Кёчё$"Уух, уууух...... я проиграла, снова......"@</ToTranslate>
+  </String>
+  <String index="374">
+    <ToTranslate>tcg_cho31ba</ToTranslate>
+  </String>
+  <String index="375">
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="376">
+    <ToTranslate>rinr0427</ToTranslate>
+  </String>
+  <String index="377">
+     <ToTranslate>Ринрин$"А я снова выиграла. Боже, фанера настолько слаба."@</ToTranslate>
+  </String>
+  <String index="378">
+    <ToTranslate>tcg_kyo12ea</ToTranslate>
+  </String>
+  <String index="379">
+    <ToTranslate>tcg_kyo12m</ToTranslate>
+  </String>
+  <String index="380">
+    <ToTranslate>muka</ToTranslate>
+  </String>
+  <String index="381">
+    <ToTranslate>kii_0047</ToTranslate>
+  </String>
+  <String index="382">
+    <ToTranslate>Кёчё$"Аррр! Нет, это ещё не всё!"@</ToTranslate>
+  </String>
+  <String index="383">
+    <ToTranslate>tcg_cho11aa</ToTranslate>
+  </String>
+  <String index="384">
+    <ToTranslate>tcg_cho11m</ToTranslate>
+  </String>
+  <String index="385">
+    <ToTranslate>rinr0428</ToTranslate>
+  </String>
+  <String index="386">
+     <ToTranslate>Ринрин$"Но ты не сможешь сражаться с таким ранением. Лучше отступи и подумай о лечении."@</ToTranslate>
+  </String>
+  <String index="387">
+    <ToTranslate>tcg_en12fa</ToTranslate>
+  </String>
+  <String index="388">
+    <ToTranslate>tcg_en12m</ToTranslate>
+  </String>
+  <String index="389">
+    <ToTranslate>kaen0112</ToTranslate>
+  </String>
+  <String index="390">
+    <ToTranslate>Какоэн$"Чоухи права. Кии, отойди."@</ToTranslate>
+  </String>
+  <String index="391">
+    <ToTranslate>tcg_kyo12ea</ToTranslate>
+  </String>
+  <String index="392">
+    <ToTranslate>tcg_kyo12m</ToTranslate>
+  </String>
+  <String index="393">
+    <ToTranslate>kii_0048</ToTranslate>
+  </String>
+  <String index="394">
+    <ToTranslate>Кёчё$"Но...!"@</ToTranslate>
+  </String>
+  <String index="395">
+    <ToTranslate>tcg_en12ja</ToTranslate>
+  </String>
+  <String index="396">
+    <ToTranslate>tcg_en12m</ToTranslate>
+  </String>
+  <String index="397">
+    <ToTranslate>kaen0113</ToTranslate>
+  </String>
+  <String index="398">
+    <ToTranslate>Какоэн$"Если с тобой что-то случиться то моя сестрёнка расстроиться. Как и я. Поэтому возвращайся."@</ToTranslate>
+  </String>
+  <String index="399">
+    <ToTranslate>tcg_kyo12ca</ToTranslate>
+  </String>
+  <String index="400">
+    <ToTranslate>tcg_kyo12m</ToTranslate>
+  </String>
+  <String index="401">
+    <ToTranslate>kii_0049</ToTranslate>
+  </String>
+  <String index="402">
+    <ToTranslate>Кёчё$"Ууу...... хорошо......"@</ToTranslate>
+  </String>
+  <String index="403">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="404">
+    <ToTranslate>ecg_cho11a</ToTranslate>
+  </String>
+  <String index="405">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="406">
+    <ToTranslate>kaen0114</ToTranslate>
+  </String>
+  <String index="407">
+    <ToTranslate>Какоэн$"......однако. Хлопотный же нам достался Арьергард ."@</ToTranslate>
+  </String>
+  <String index="408">
+    <ToTranslate>rinr0429</ToTranslate>
+  </String>
+  <String index="409">
+     <ToTranslate>Ринрин$"Ты будешь моим следующим противником, сестричка-Какоэн-чан?"@</ToTranslate>
+  </String>
+  <String index="410">
+    <ToTranslate>kaen0115</ToTranslate>
+  </String>
+  <String index="411">
+    <ToTranslate>Какоэн$"Не думаю что смогу сравниться с Enhito Чоухи. Но ради Карин-сан, я не могу проиграть."@</ToTranslate>
+  </String>
+  <String index="412">
+    <ToTranslate>rinr0430</ToTranslate>
+  </String>
+  <String index="413">
+     <ToTranslate>Ринрин$"Ты не сможешь нас просто отпустить?"@</ToTranslate>
+  </String>
+  <String index="414">
+    <ToTranslate>kaen0116</ToTranslate>
+  </String>
+  <String index="415">
+    <ToTranslate>Какоэн$"Ну...... учитывая обстоятельства, всё-таки нет."@</ToTranslate>
+  </String>
+  <String index="416">
+    <ToTranslate>rinr0431</ToTranslate>
+  </String>
+  <String index="417">
+     <ToTranslate>Ринрин$"Хмм......Ринрин не хочет ненужных сражений."@</ToTranslate>
+  </String>
+  <String index="418">
+    <ToTranslate>chor0154</ToTranslate>
+  </String>
+  <String index="419">
+    <ToTranslate>Чёрьё$"Это твои проблемы. А у нас есть собственные обязанности."@</ToTranslate>
+  </String>
+  <String index="420">
+    <ToTranslate>rinr0432</ToTranslate>
+  </String>
+  <String index="421">
+     <ToTranslate>Ринрин$"Хмм...... значит."@</ToTranslate>
+  </String>
+  <String index="422">
+    <ToTranslate>SE072</ToTranslate>
+  </String>
+  <String index="423">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="424">
+    <ToTranslate>ecg_cho11b</ToTranslate>
+  </String>
+  <String index="425">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="426">
+    <ToTranslate>rinr0433</ToTranslate>
+  </String>
+  <String index="427">
+     <ToTranslate>Ринрин$"Вы не против...если Ринрин возьмётся за вас всерьёз?"@</ToTranslate>
+  </String>
+  <String index="428">
+    <ToTranslate>kaen0117</ToTranslate>
+  </String>
+  <String index="429">
+    <ToTranslate>Какоэн$"Ккх......"@</ToTranslate>
+  </String>
+  <String index="430">
+    <ToTranslate>chor0155</ToTranslate>
+  </String>
+  <String index="431">
+    <ToTranslate>Чёрьё$"Громкие слова!"@</ToTranslate>
+  </String>
+  <String index="432">
+    <ToTranslate>rinr0434</ToTranslate>
+  </String>
+  <String index="433">
+     <ToTranslate>Ринрин$"У Ринрин никогда раньше не было возможности сразиться по-настоящему. Но думаю, что мне можно стать серьёзной если я сражаюсь против тебя, сестричка Чёрьё-чан или тебя, сестричка Какоэн-чан."@</ToTranslate>
+  </String>
+  <String index="434">
+    <ToTranslate>rinr0435</ToTranslate>
+  </String>
+  <String index="435">
+     <ToTranslate>Ринрин$"После того как я разобью вас, моя команда разберётся с оставшейся мелкой сошкой, угодившей в наши сети."@</ToTranslate>
+  </String>
+  <String index="436">
+    <ToTranslate>SE044</ToTranslate>
+  </String>
+  <String index="437">
+    <ToTranslate>kaen0118</ToTranslate>
+  </String>
+  <String index="438">
+    <ToTranslate>Какоэн$"......! Ты устроила нам засаду!?"@</ToTranslate>
+  </String>
+  <String index="439">
+    <ToTranslate>rinr0436</ToTranslate>
+  </String>
+  <String index="440">
+     <ToTranslate>Ринрин$"Хех-хех, я совершенно не понимаю о чём это ты!"@</ToTranslate>
+  </String>
+  <String index="441">
+    <ToTranslate>chor0156</ToTranslate>
+  </String>
+  <String index="442">
+    <ToTranslate>Чёрьё$"......Чоухи, а ты умна как для карапуза."@</ToTranslate>
+  </String>
+  <String index="443">
+    <ToTranslate>rinr0437</ToTranslate>
+  </String>
+  <String index="444">
+     <ToTranslate>Ринрин$"Я покраснею если ты продолжишь меня хвалить......"@</ToTranslate>
+  </String>
+  <String index="445">
+    <ToTranslate>chor0157</ToTranslate>
+  </String>
+  <String index="446">
+    <ToTranslate>Чёрьё$"......Мия-чан, мы в затруднении. Если учесть несравненного воина перед мостом, добавить к этому его отряд в засаде, то только мы с тобой способны противостоять ей."@</ToTranslate>
+  </String>
+  <String index="447">
+    <ToTranslate>chor0158</ToTranslate>
+  </String>
+  <String index="448">
+    <ToTranslate>Чёрьё$"И если мы проиграем, то наши солдаты попросту разбегутся."@</ToTranslate>
+  </String>
+  <String index="449">
+    <ToTranslate>kaen0119</ToTranslate>
+  </String>
+  <String index="450">
+    <ToTranslate>Какоэн$"......и нам нельзя рисковать, да?"@</ToTranslate>
+  </String>
+  <String index="451">
+    <ToTranslate>chor0159</ToTranslate>
+  </String>
+  <String index="452">
+    <ToTranslate>Чёрьё$"Мы могли бы, но вполне вероятно что мы проиграем. Я бы не порекомендовала этого."@</ToTranslate>
+  </String>
+  <String index="453">
+    <ToTranslate>kaen0120</ToTranslate>
+  </String>
+  <String index="454">
+    <ToTranslate>Какоэн$"Ты права. Похоже, нам придётся довольствоваться тем, что армия Хонго отступила."@</ToTranslate>
+  </String>
+  <String index="455">
+    <ToTranslate>rinr0438</ToTranslate>
+  </String>
+  <String index="456">
+     <ToTranslate>Ринрин$"Вы уверены в этом? Мы ведь вернёмся снова после того как перегруппируемся."@</ToTranslate>
+  </String>
+  <String index="457">
+    <ToTranslate>kaen0121</ToTranslate>
+  </String>
+  <String index="458">
+    <ToTranslate>Какоэн$"Нас это устроит. Если так и случиться то мы будем готовы встретить вас ещё большей армией."@</ToTranslate>
+  </String>
+  <String index="459">
+    <ToTranslate>chor0160</ToTranslate>
+  </String>
+  <String index="460">
+    <ToTranslate>Чёрьё$"......ну, из уважения к твоей храбрости, мы отступим. ......но при нашей следующей встрече на поле боя я уже не буду такой вежливой."@</ToTranslate>
+  </String>
+  <String index="461">
+    <ToTranslate>rinr0439</ToTranslate>
+  </String>
+  <String index="462">
+     <ToTranslate>Ринрин$"Прекрасно. Буду ждать с нетерпением."@</ToTranslate>
+  </String>
+  <String index="463">
+    <ToTranslate>kaen0122</ToTranslate>
+  </String>
+  <String index="464">
+    <ToTranslate>Какоэн$"......Сия. Мы отводим войска."@</ToTranslate>
+  </String>
+  <String index="465">
+    <ToTranslate>chor0161</ToTranslate>
+  </String>
+  <String index="466">
+    <ToTranslate>Чёрьё$"Есть. Чоухи, передашь Кану от меня привет, хорошо?"@</ToTranslate>
+  </String>
+  <String index="467">
+    <ToTranslate>rinr0440</ToTranslate>
+  </String>
+  <String index="468">
+     <ToTranslate>Ринрин$"Обязательно. Но Аиша очень сильна, тебе будет лучше подумать лишний раз."@</ToTranslate>
+  </String>
+  <String index="469">
+    <ToTranslate>chor0162</ToTranslate>
+  </String>
+  <String index="470">
+    <ToTranslate>Чёрьё$"Я приняла решение уже очень давно. ......ну, Чоухи, ещё встретимся."@</ToTranslate>
+  </String>
+  <String index="471">
+    <ToTranslate>kaen0123</ToTranslate>
+  </String>
+  <String index="472">
+    <ToTranslate>Какоэн$"И в следующий раз мы покажем насколько сильны воины Вей."@</ToTranslate>
+  </String>
+  <String index="473">
+    <ToTranslate>rinr0441</ToTranslate>
+  </String>
+  <String index="474">
+     <ToTranslate>Ринрин$"Конечно. Я буду ждать!"@</ToTranslate>
+  </String>
+  <String index="475">
+    <ToTranslate>kaen0124</ToTranslate>
+  </String>
+  <String index="476">
+    <ToTranslate>Какоэн$"Фырк. ......всем войскам приказ к отступлению. Чёрьё, прикрываешь тыл в случае контратаки."@</ToTranslate>
+  </String>
+  <String index="477">
+    <ToTranslate>chor0163</ToTranslate>
+  </String>
+  <String index="478">
+    <ToTranslate>Чёрьё$"Есть...... пока, Чоухи."@</ToTranslate>
+  </String>
+  <String index="479">
+    <ToTranslate>rinr0442</ToTranslate>
+  </String>
+  <String index="480">
+     <ToTranslate>Ринрин$"Бай-бай!"@</ToTranslate>
+  </String>
+  <String index="481">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="482">
+    <ToTranslate>bb</ToTranslate>
+  </String>
+  <String index="483">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="484">
+    <ToTranslate>bb</ToTranslate>
+  </String>
+  <String index="485">
+    <ToTranslate>bcg_outcast_a</ToTranslate>
+  </String>
+  <String index="486">
+    <ToTranslate>tcg_zsh11aa</ToTranslate>
+  </String>
+  <String index="487">
+    <ToTranslate>tcg_zsh11m</ToTranslate>
+  </String>
+  <String index="488">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="489">
+    <ToTranslate>bgm05</ToTranslate>
+  </String>
+  <String index="490">
+    <ToTranslate>Солдат$"За нами облако пыли! Замечены флаги отряда Чоу! Возвращается генерал Чоухи!"@</ToTranslate>
+  </String>
+  <String index="491">
+    <ToTranslate>Казуто$"Принято. Фух. Я рад что она цела......"@</ToTranslate>
+  </String>
+  <String index="492">
+    <ToTranslate>tcg_kan21aa</ToTranslate>
+  </String>
+  <String index="493">
+    <ToTranslate>tcg_kan21m</ToTranslate>
+  </String>
+  <String index="494">
+    <ToTranslate>aisy0787</ToTranslate>
+  </String>
+  <String index="495">
+    <ToTranslate>Аиша$"Я тоже...... я рада......"@</ToTranslate>
+  </String>
+  <String index="496">
+    <ToTranslate>$Умиротворённым взглядом Аиша следит за приближением флага Ринрин.@</ToTranslate>
+  </String>
+  <String index="497">
+    <ToTranslate>Казуто$"Хе-хе...... Аиша, это взгляд хорошей сестры."@</ToTranslate>
+  </String>
+  <String index="498">
+    <ToTranslate>tcg_kan31ga</ToTranslate>
+  </String>
+  <String index="499">
+    <ToTranslate>tcg_kan31m</ToTranslate>
+  </String>
+  <String index="500">
+    <ToTranslate>aisy0788</ToTranslate>
+  </String>
+  <String index="501">
+    <ToTranslate>Аиша$"Ух...... в-вы так думаете......?"@</ToTranslate>
+  </String>
+  <String index="502">
+    <ToTranslate>Казуто$"Да. Он наполнен добротой и заботой."@</ToTranslate>
+  </String>
+  <String index="503">
+    <ToTranslate>tcg_kan31ja</ToTranslate>
+  </String>
+  <String index="504">
+    <ToTranslate>tcg_kan31m</ToTranslate>
+  </String>
+  <String index="505">
+    <ToTranslate>aisy0789</ToTranslate>
+  </String>
+  <String index="506">
+    <ToTranslate>Аиша$"......пожалуйста, не смотрите на меня так, я смущаюсь."@</ToTranslate>
+  </String>
+  <String index="507">
+    <ToTranslate>Казуто$"Не нужно стесняться. Такой я тоже тебя люблю."@</ToTranslate>
+  </String>
+  <String index="508">
+    <ToTranslate>tcg_kan31va</ToTranslate>
+  </String>
+  <String index="509">
+    <ToTranslate>tcg_kan31m</ToTranslate>
+  </String>
+  <String index="510">
+    <ToTranslate>aisy0790</ToTranslate>
+  </String>
+  <String index="511">
+    <ToTranslate>Аиша$"......оох, пожалуйста, не дразните меня."@</ToTranslate>
+  </String>
+  <String index="512">
+    <ToTranslate>$Избегая моего взгляда, Аиша выходит вперёд.@</ToTranslate>
+  </String>
+  <String index="513">
+    <ToTranslate>tcg_kan21ba</ToTranslate>
+  </String>
+  <String index="514">
+    <ToTranslate>tcg_kan21m</ToTranslate>
+  </String>
+  <String index="515">
+    <ToTranslate>aisy0791</ToTranslate>
+  </String>
+  <String index="516">
+    <ToTranslate>Аиша$"Ринрин!"@</ToTranslate>
+  </String>
+  <String index="517">
+    <ToTranslate>$Она окликнула идущую к нам Ринрин.@</ToTranslate>
+  </String>
+  <String index="518">
+    <ToTranslate>tcg_cho11aa</ToTranslate>
+  </String>
+  <String index="519">
+    <ToTranslate>tcg_cho11m</ToTranslate>
+  </String>
+  <String index="520">
+    <ToTranslate>bgm04</ToTranslate>
+  </String>
+  <String index="521">
+    <ToTranslate>rinr0443</ToTranslate>
+  </String>
+  <String index="522">
+     <ToTranslate>Ринрин$"Аиша! Братик! Я вернулась!"@</ToTranslate>
+  </String>
+  <String index="523">
+    <ToTranslate>Казуто$"Рад видеть тебя. Ты молодчина. Я рад что ты цела......"@</ToTranslate>
+  </String>
+  <String index="524">
+    <ToTranslate>tcg_cho31ba</ToTranslate>
+  </String>
+  <String index="525">
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="526">
+    <ToTranslate>rinr0444</ToTranslate>
+  </String>
+  <String index="527">
+     <ToTranslate>Ринрин$"Хех-хех, Ринрин непобедима!"@</ToTranslate>
+  </String>
+  <String index="528">
+    <ToTranslate>tcg_cho31ba</ToTranslate>
+  </String>
+  <String index="529">
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="530">
+    <ToTranslate>tcg_kan11ca</ToTranslate>
+  </String>
+  <String index="531">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="532">
+    <ToTranslate>aisy0792</ToTranslate>
+  </String>
+  <String index="533">
+    <ToTranslate>Аиша$"Да, конечно. Но не позволяй этой мысли застрять в своей голове, Ринрин."@</ToTranslate>
+  </String>
+  <String index="534">
+    <ToTranslate>tcg_cho31da</ToTranslate>
+  </String>
+  <String index="535">
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="536">
+    <ToTranslate>rinr0445</ToTranslate>
+  </String>
+  <String index="537">
+     <ToTranslate>Ринрин$"Аай. Не злись так."@</ToTranslate>
+  </String>
+  <String index="538">
+    <ToTranslate>Казуто$"Хаха. Конечно, ей не стоит так увлекаться, но всё же благодаря Ринрин нам удалось благополучно отступить. Мы очень признательны."@</ToTranslate>
+  </String>
+  <String index="539">
+    <ToTranslate>tcg_cho31ga</ToTranslate>
+  </String>
+  <String index="540">
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="541">
+    <ToTranslate>rinr0446</ToTranslate>
+  </String>
+  <String index="542">
+     <ToTranslate>Ринрин$"Все в порядке? Хех-хех, я рада!"@</ToTranslate>
+  </String>
+  <String index="543">
+    <ToTranslate>tcg_cun11aa</ToTranslate>
+  </String>
+  <String index="544">
+    <ToTranslate>tcg_cun11m</ToTranslate>
+  </String>
+  <String index="545">
+    <ToTranslate>sei_0174</ToTranslate>
+  </String>
+  <String index="546">
+    <ToTranslate>Сэй$"И всё благодаря тебе. Но......отступление обратно к границе само по себе очень печальное событие."@</ToTranslate>
+  </String>
+  <String index="547">
+    <ToTranslate>tcg_koc32ia</ToTranslate>
+  </String>
+  <String index="548">
+    <ToTranslate>tcg_koc32m</ToTranslate>
+  </String>
+  <String index="549">
+    <ToTranslate>shio0056</ToTranslate>
+  </String>
+  <String index="550">
+     <ToTranslate>Сион$"Все наши выигранные сражения были сведены на нет."@</ToTranslate>
+  </String>
+  <String index="551">
+    <ToTranslate>tcg_bac12ga</ToTranslate>
+  </String>
+  <String index="552">
+    <ToTranslate>tcg_bac12m</ToTranslate>
+  </String>
+  <String index="553">
+    <ToTranslate>sui_0131</ToTranslate>
+  </String>
+  <String index="554">
+    <ToTranslate>Суи$"В следующий раз мы должны следить нашими транспортными караванами и транспортами снабжения."@</ToTranslate>
+  </String>
+  <String index="555">
+    <ToTranslate>tcg_cun31fa</ToTranslate>
+  </String>
+  <String index="556">
+    <ToTranslate>tcg_cun31m</ToTranslate>
+  </String>
+  <String index="557">
+    <ToTranslate>sei_0175</ToTranslate>
+  </String>
+  <String index="558">
+    <ToTranslate>Сэй$"Ты права, но очередное вторжение окажется очень сложным."@</ToTranslate>
+  </String>
+  <String index="559">
+    <ToTranslate>tcg_kan11ca</ToTranslate>
+  </String>
+  <String index="560">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="561">
+    <ToTranslate>aisy0793</ToTranslate>
+  </String>
+  <String index="562">
+    <ToTranslate>Аиша$"Верно. После нашего отступления у врага появится время на укрепление своей обороны."@</ToTranslate>
+  </String>
+  <String index="563">
+    <ToTranslate>tcg_syo21ja</ToTranslate>
+  </String>
+  <String index="564">
+    <ToTranslate>tcg_syo21m</ToTranslate>
+  </String>
+  <String index="565">
+    <ToTranslate>syur0386</ToTranslate>
+  </String>
+  <String index="566">
+<ToTranslate>Шури$"Согласна. Не уверена, что наши нынешние силы смогут пробить их оборону......"@</ToTranslate>
+  </String>
+  <String index="567">
+    <ToTranslate>Казуто$"Сейчас не время думать об этом. В первую очередь мы должны залечить собственные раны."@</ToTranslate>
+  </String>
+  <String index="568">
+    <ToTranslate>tcg_koc12aa</ToTranslate>
+  </String>
+  <String index="569">
+    <ToTranslate>tcg_koc12m</ToTranslate>
+  </String>
+  <String index="570">
+    <ToTranslate>shio0057</ToTranslate>
+  </String>
+  <String index="571">
+     <ToTranslate>Сион$"Да. Потеря боевого духа ни к чему нас не приведёт. Давайте готовиться к следующему разу."@</ToTranslate>
+  </String>
+  <String index="572">
+    <ToTranslate>tcg_kan11aa</ToTranslate>
+  </String>
+  <String index="573">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="574">
+    <ToTranslate>aisy0794</ToTranslate>
+  </String>
+  <String index="575">
+    <ToTranslate>Аиша$"Верно."@</ToTranslate>
+  </String>
+  <String index="576">
+    <ToTranslate>tcg_syo41aa</ToTranslate>
+  </String>
+  <String index="577">
+    <ToTranslate>tcg_syo41m</ToTranslate>
+  </String>
+  <String index="578">
+    <ToTranslate>syur0387</ToTranslate>
+  </String>
+  <String index="579">
+<ToTranslate>Шури$"Стоит ли нам сейчас прекратить боевые действия?"@</ToTranslate>
+  </String>
+  <String index="580">
+    <ToTranslate>tcg_cun11aa</ToTranslate>
+  </String>
+  <String index="581">
+    <ToTranslate>tcg_cun11m</ToTranslate>
+  </String>
+  <String index="582">
+    <ToTranslate>sei_0176</ToTranslate>
+  </String>
+  <String index="583">
+    <ToTranslate>Сэй$"Да."@</ToTranslate>
+  </String>
+  <String index="584">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="585">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="586">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="587">
+    <ToTranslate>$Поэтому......@</ToTranslate>
+  </String>
+  <String index="588">
+    <ToTranslate>$Пережив неудачу, мы начали готовиться к повторному вторжению.@</ToTranslate>
+  </String>
+  <String index="589">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="590">
+    <ToTranslate>dd</ToTranslate>
+  </String>
+  <String index="591">
+    <ToTranslate>bcg_go_outcast_a</ToTranslate>
+  </String>
+  <String index="592">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="593">
+    <ToTranslate>$Между тем, водной из комнат Ву......@</ToTranslate>
+  </String>
+  <String index="594">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="595">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="596">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="597">
+    <ToTranslate>ecg_syu02a</ToTranslate>
+  </String>
+  <String index="598">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="599">
+    <ToTranslate>bgm27</ToTranslate>
+  </String>
+  <String index="600">
+    <ToTranslate>daik0000</ToTranslate>
+  </String>
+  <String index="601">
+    <ToTranslate>Дайкё$"Аах, аах, аах...... аа, Мейрин-сама."@</ToTranslate>
+  </String>
+  <String index="602">
+    <ToTranslate>$Слабо освещённую комнату заливал чувственный голос молодой девушки.@</ToTranslate>
+  </String>
+  <String index="603">
+    <ToTranslate>$Переполненный мольбой, её нежный голос содрогался, когда она произносила имя своей хозяйки.@</ToTranslate>
+  </String>
+  <String index="604">
+    <ToTranslate>syuy0052</ToTranslate>
+  </String>
+  <String index="605">
+    <ToTranslate>Шую$"Ху-ху......я легонько коснулась тебя ногой, и он уже стал настолько большим......какой стыд для такой девушки как ты..."@</ToTranslate>
+  </String>
+  <String index="606">
+    <ToTranslate>$Девушка приподняла края своей юбки, и совершенно не соответствующий её внешности окрепший член продолжал подёргиваться в ответ на дразнящие движения Шую.@</ToTranslate>
+  </String>
+  <String index="607">
+    <ToTranslate>daik0001</ToTranslate>
+  </String>
+  <String index="608">
+    <ToTranslate>Дайкё$"Это потому, ммм...... Мейрин-сама, ваша нога такая мягкая...... и аааах, это так приятно......"@</ToTranslate>
+  </String>
+  <String index="609">
+    <ToTranslate>syok0000</ToTranslate>
+  </String>
+  <String index="610">
+    <ToTranslate>Шокё$"Ху-ху...... братик, ты извращенец."@</ToTranslate>
+  </String>
+  <String index="611">
+    <ToTranslate>daik0002</ToTranslate>
+  </String>
+  <String index="612">
+    <ToTranslate>Дайкё$"Не, ммм, правда......"@</ToTranslate>
+  </String>
+  <String index="613">
+    <ToTranslate>syok0001</ToTranslate>
+  </String>
+  <String index="614">
+    <ToTranslate>Шокё$"Но у тебя ноги дрожат, лгущая извращённая сестричка......ху-ху."@</ToTranslate>
+  </String>
+  <String index="615">
+    <ToTranslate>syuy0053</ToTranslate>
+  </String>
+  <String index="616">
+    <ToTranslate>Шую$"Шокё, ты много говоришь. Разве ты не знаешь что ртом можно делать не только это?"@</ToTranslate>
+  </String>
+  <String index="617">
+    <ToTranslate>syok0002</ToTranslate>
+  </String>
+  <String index="618">
+    <ToTranslate>Шокё$"Аах...... п-простите...... позвольте мне показать насколько я предана вам......"@</ToTranslate>
+  </String>
+  <String index="619">
+    <ToTranslate>syuy0054</ToTranslate>
+  </String>
+  <String index="620">
+    <ToTranslate>Шую$"Тогда пользуйся своим языком."@</ToTranslate>
+  </String>
+  <String index="621">
+    <ToTranslate>syok0003</ToTranslate>
+  </String>
+  <String index="622">
+    <ToTranslate>Шокё$"Есть! Ммм...... *schlp, schlp......* мм, *shlrp......* ааах......"@</ToTranslate>
+  </String>
+  <String index="623">
+    <ToTranslate>$Шокё уткнулась лицом меж ног Шую и начала ласкать киску Шую своим языком как котёнок, просящий молока.@</ToTranslate>
+  </String>
+  <String index="624">
+    <ToTranslate>syuy0055</ToTranslate>
+  </String>
+  <String index="625">
+    <ToTranslate>Шую$"Ммм...... прекрасно, Шокё. Ты умеешь работать языком......"@</ToTranslate>
+  </String>
+  <String index="626">
+    <ToTranslate>syok0004</ToTranslate>
+  </String>
+  <String index="627">
+    <ToTranslate>Шокё$"Ах......Мейрин-сама, я так рада......я буду делать ещё лучше, пожалуйста, смотрит на меня больше чем на брата."@</ToTranslate>
+  </String>
+  <String index="628">
+    <ToTranslate>$Торжественно ответив своей обожаемой хозяйке, она вложила ещё больше усилий в движения своего языка.@</ToTranslate>
+  </String>
+  <String index="629">
+    <ToTranslate>syok0005</ToTranslate>
+  </String>
+  <String index="630">
+    <ToTranslate>Шокё$"Ммм...... *shlrp, shlrp, shlrp......* ааах......* schlp, schlp*, ммм...... *shlrp......*"@</ToTranslate>
+  </String>
+  <String index="631">
+    <ToTranslate>syuy0056</ToTranslate>
+  </String>
+  <String index="632">
+    <ToTranslate>Шую$"Ммм......"@</ToTranslate>
+  </String>
+  <String index="633">
+    <ToTranslate>syok0006</ToTranslate>
+  </String>
+  <String index="634">
+    <ToTranslate>Шокё$"Аах, голос Мейрин-сама...... Мейрин-сама, могу я сделать для вас ещё что-нибудь?"@</ToTranslate>
+  </String>
+  <String index="635">
+    <ToTranslate>syuy0057</ToTranslate>
+  </String>
+  <String index="636">
+    <ToTranslate>Шую$"Да......ты прекрасно владеешь собственным языком. Я хочу ещё больше......"@</ToTranslate>
+  </String>
+  <String index="637">
+    <ToTranslate>syok0007</ToTranslate>
+  </String>
+  <String index="638">
+    <ToTranslate>Шокё$"Да! Ммм...... *shlrp, shlrp, shlrp, shlrp......* ммм, *shlrp...... schlp, schlp*, ммм, ммм...... *shlrp......*"@</ToTranslate>
+  </String>
+  <String index="639">
+    <ToTranslate>$Похвала хозяйки её очень обрадовала.@</ToTranslate>
+  </String>
+  <String index="640">
+    <ToTranslate>$Девушка поднесла губы ближе к щели своей хозяйки и нежно сжала складки вместе.@</ToTranslate>
+  </String>
+  <String index="641">
+    <ToTranslate>syuy0058</ToTranslate>
+  </String>
+  <String index="642">
+    <ToTranslate>Шую$"Ммм...... ах......"@</ToTranslate>
+  </String>
+  <String index="643">
+    <ToTranslate>$Бёдра Шую задрожали, и сладострастный вздох покинул её губы.@</ToTranslate>
+  </String>
+  <String index="644">
+    <ToTranslate>$Капли жидкости потекли из расщелины.@</ToTranslate>
+  </String>
+  <String index="645">
+    <ToTranslate>$Шокё расправила язык и усердно начала их собирать.@</ToTranslate>
+  </String>
+  <String index="646">
+    <ToTranslate>syok0008</ToTranslate>
+  </String>
+  <String index="647">
+    <ToTranslate>Шокё$"Ммм...... *shlrp*, ммм...... *shlrp*, ммм...... ааах...... Мейрин-сама, вы так приятны на вкус......"@</ToTranslate>
+  </String>
+  <String index="648">
+    <ToTranslate>$Постепенно, зачарованно вздыхая, Шокё взбалтывает во рту и проглатывает жидкость.@</ToTranslate>
+  </String>
+  <String index="649">
+    <ToTranslate>daik0003</ToTranslate>
+  </String>
+  <String index="650">
+    <ToTranslate>Дайкё$"Аах....... Мейрин-сама......"@</ToTranslate>
+  </String>
+  <String index="651">
+    <ToTranslate>$Дайкё следит за их грязными играми и тоскливо произносит имя своей хозяйки.@</ToTranslate>
+  </String>
+  <String index="652">
+    <ToTranslate>syuy0059</ToTranslate>
+  </String>
+  <String index="653">
+    <ToTranslate>Шую$"Что-то случилось......?"@</ToTranslate>
+  </String>
+  <String index="654">
+    <ToTranslate>daik0004</ToTranslate>
+  </String>
+  <String index="655">
+    <ToTranslate>Дайкё$"Аах...... спрашивать, заранее зная ответ, это так жестоко......"@</ToTranslate>
+  </String>
+  <String index="656">
+    <ToTranslate>syuy0060</ToTranslate>
+  </String>
+  <String index="657">
+    <ToTranslate>Шую$"Скажи это лично."@</ToTranslate>
+  </String>
+  <String index="658">
+    <ToTranslate>daik0005</ToTranslate>
+  </String>
+  <String index="659">
+    <ToTranslate>Дайкё$"Но...... я не знаю, как мне сказать......"@</ToTranslate>
+  </String>
+  <String index="660">
+    <ToTranslate>syuy0061</ToTranslate>
+  </String>
+  <String index="661">
+    <ToTranslate>Шую$"Тебе нужно подумать об этом самостоятельно...... и сказать мне."@</ToTranslate>
+  </String>
+  <String index="662">
+    <ToTranslate>daik0006</ToTranslate>
+  </String>
+  <String index="663">
+    <ToTranslate>Дайкё$"Ууу......"@</ToTranslate>
+  </String>
+  <String index="664">
+    <ToTranslate>syuy0062</ToTranslate>
+  </String>
+  <String index="665">
+    <ToTranslate>Шую$"В чём дело? Поторопись же......"@</ToTranslate>
+  </String>
+  <String index="666">
+    <ToTranslate>$Улыбаясь, Шую наслаждается зрелищем того как Дайкё разрывается между жаждой удовольствия и чувством стыда.@</ToTranslate>
+  </String>
+  <String index="667">
+    <ToTranslate>$Медленно продолжая двигать ногой, стимулируя её пенис.@</ToTranslate>
+  </String>
+  <String index="668">
+    <ToTranslate>daik0007</ToTranslate>
+  </String>
+  <String index="669">
+    <ToTranslate>Дайкё$"Ммхах! Ещё, с-сильнее......"@</ToTranslate>
+  </String>
+  <String index="670">
+    <ToTranslate>syuy0063</ToTranslate>
+  </String>
+  <String index="671">
+    <ToTranslate>Шую$"Нет. Пока ты не скажешь чего хочешь всё так и останется...... я продолжу тебя мучать."@</ToTranslate>
+  </String>
+  <String index="672">
+    <ToTranslate>daik0008</ToTranslate>
+  </String>
+  <String index="673">
+    <ToTranslate>Дайкё$"Ууу...... злюка......"@</ToTranslate>
+  </String>
+  <String index="674">
+    <ToTranslate>syuy0064</ToTranslate>
+  </String>
+  <String index="675">
+    <ToTranslate>Шую$"Ну...... что будешь делать......?"@</ToTranslate>
+  </String>
+  <String index="676">
+    <ToTranslate>$Шую злонамеренно спросила, слегка двигая лодыжкой чтобы двигать ногой в разные стороны.@</ToTranslate>
+  </String>
+  <String index="677">
+    <ToTranslate>$Тогда......@</ToTranslate>
+  </String>
+  <String index="678">
+    <ToTranslate>daik0009</ToTranslate>
+  </String>
+  <String index="679">
+    <ToTranslate>Дайкё$"......м-мой......"@</ToTranslate>
+  </String>
+  <String index="680">
+    <ToTranslate>daik0010</ToTranslate>
+  </String>
+  <String index="681">
+    <ToTranslate>Дайкё$"М-мой......грязный член......пожалуйста, наступите сильнее......"@</ToTranslate>
+  </String>
+  <String index="682">
+    <ToTranslate>$Конфликт в её сердце иссяк и девушка сдалась силе искушения.@</ToTranslate>
+  </String>
+  <String index="683">
+    <ToTranslate>syuy0065</ToTranslate>
+  </String>
+  <String index="684">
+    <ToTranslate>Шую$"Тебе нравится когда я наступая на него?"@</ToTranslate>
+  </String>
+  <String index="685">
+    <ToTranslate>daik0011</ToTranslate>
+  </String>
+  <String index="686">
+    <ToTranslate>Дайкё$"Да......Мейрин-сама, когда вы касаетесь меня и моё тело становиться таким горячим......мой член становится таким большим......и я больше не могу контролировать себя......"@</ToTranslate>
+  </String>
+  <String index="687">
+    <ToTranslate>daik0012</ToTranslate>
+  </String>
+  <String index="688">
+    <ToTranslate>Дайкё$"Поэтому......поэтому Мейрин-сама......касайтесь сильнее......"@</ToTranslate>
+  </String>
+  <String index="689">
+    <ToTranslate>syuy0066</ToTranslate>
+  </String>
+  <String index="690">
+    <ToTranslate>Шую$"Где?"@</ToTranslate>
+  </String>
+  <String index="691">
+    <ToTranslate>daik0013</ToTranslate>
+  </String>
+  <String index="692">
+    <ToTranslate>Дайкё$"Мейрин-сама, пожалуйста, касайтесь моего грязного члена своей ногой......"@</ToTranslate>
+  </String>
+  <String index="693">
+    <ToTranslate>$От удовольствия или стыда......@</ToTranslate>
+  </String>
+  <String index="694">
+    <ToTranslate>$Дрожащими губами девушка вымаливала своё непристойное наказание.@</ToTranslate>
+  </String>
+  <String index="695">
+    <ToTranslate>syuy0067</ToTranslate>
+  </String>
+  <String index="696">
+    <ToTranslate>Шую$"......хорошо. Я коснусь твоей грязной штуки ради тебя. Это прикосновение мой ноги......убедись, что чувствуешь его."@</ToTranslate>
+  </String>
+  <String index="697">
+    <ToTranslate>$Соблазняюще улыбаясь, Шую упёрлась ногой в пенис Дайкё.@</ToTranslate>
+  </String>
+  <String index="698">
+    <ToTranslate>syuy0068</ToTranslate>
+  </String>
+  <String index="699">
+    <ToTranslate>Шую$"Но......я не накажу тебя прямо сейчас. Корчись в ожидании удовольствия..."@</ToTranslate>
+  </String>
+  <String index="700">
+    <ToTranslate>$Сказав это, она перевела ногу вверх к верхушке пениса, едва касаясь его кончиками пальцев.@</ToTranslate>
+  </String>
+  <String index="701">
+    <ToTranslate>daik0014</ToTranslate>
+  </String>
+  <String index="702">
+    <ToTranslate>Дайкё$"Ммм, ммм...... аах, аах...... Мейрин-сама, я, я не могу......"@</ToTranslate>
+  </String>
+  <String index="703">
+    <ToTranslate>$Слова Дайкё переполнены нетерпением, она начала двигать бёдрами взад и вперёд.@</ToTranslate>
+  </String>
+  <String index="704">
+    <ToTranslate>daik0015</ToTranslate>
+  </String>
+  <String index="705">
+    <ToTranslate>Дайкё$"Ммм, ммм...... аах, аах, ммм......"@</ToTranslate>
+  </String>
+  <String index="706">
+    <ToTranslate>$Дайкё изогнула своё маленькое тело, пытаясь последовать движению пальцев Шую, чтобы не пропустить даже капли удовольствия.@</ToTranslate>
+  </String>
+  <String index="707">
+    <ToTranslate>syuy0069</ToTranslate>
+  </String>
+  <String index="708">
+    <ToTranslate>Шую$"Хее, хее, хее...... ты прелесть......"@</ToTranslate>
+  </String>
+  <String index="709">
+    <ToTranslate>$Смотря на тонущую в сексуальном удовольствии девочку, Шую улыбнулась.@</ToTranslate>
+  </String>
+  <String index="710">
+    <ToTranslate>syok0009</ToTranslate>
+  </String>
+  <String index="711">
+    <ToTranslate>Шокё$"Аах, оох, Мейрин-сама, это не честно! Вы обращаете внимание только на брата!"@</ToTranslate>
+  </String>
+  <String index="712">
+    <ToTranslate>syuy0070</ToTranslate>
+  </String>
+  <String index="713">
+    <ToTranslate>Шую$"Неужели, я просто забыла про тебя."@</ToTranslate>
+  </String>
+  <String index="714">
+    <ToTranslate>syok0010</ToTranslate>
+  </String>
+  <String index="715">
+    <ToTranslate>Шокё$"Неужели я недостаточно хороша?"@</ToTranslate>
+  </String>
+  <String index="716">
+    <ToTranslate>syuy0071</ToTranslate>
+  </String>
+  <String index="717">
+    <ToTranslate>Шую$"Ну...... я не знаю."@</ToTranslate>
+  </String>
+  <String index="718">
+    <ToTranslate>syok0011</ToTranslate>
+  </String>
+  <String index="719">
+    <ToTranslate>Шокё$"Ууу...... тогда я буду стараться ещё сильнее......"@</ToTranslate>
+  </String>
+  <String index="720">
+    <ToTranslate>syok0012</ToTranslate>
+  </String>
+  <String index="721">
+    <ToTranslate>Шокё$"Ммм......* shlrp, shlrp, shlrp......* ммм...... аах, ах, ах, ммм......"@</ToTranslate>
+  </String>
+  <String index="722">
+    <ToTranslate>$Преданно лаская складки своей хозяйки, Шокё одарила её поцелуями.@</ToTranslate>
+  </String>
+  <String index="723">
+    <ToTranslate>syok0013</ToTranslate>
+  </String>
+  <String index="724">
+    <ToTranslate>Шокё$"Ммм, ммм, *shlrp...... shlrp......* аах...... *shlrp*, ммм...... аааах...... *shlrp*."@</ToTranslate>
+  </String>
+  <String index="725">
+    <ToTranslate>$Нежно покусывая складки и поглаживая языком, она походила на облизывающегося котёнка.@</ToTranslate>
+  </String>
+  <String index="726">
+    <ToTranslate>syuy0072</ToTranslate>
+  </String>
+  <String index="727">
+    <ToTranslate>Шую$"Ммм...... аах, ах......"@</ToTranslate>
+  </String>
+  <String index="728">
+    <ToTranslate>$Шую испустила сладострастный вздох когда крохотный язычок коснулся её живота.@</ToTranslate>
+  </String>
+  <String index="729">
+    <ToTranslate>$Услышав вздох хозяйки, Шокё приложила ещё больше усилий.@</ToTranslate>
+  </String>
+  <String index="730">
+    <ToTranslate>syok0014</ToTranslate>
+  </String>
+  <String index="731">
+    <ToTranslate>Шокё$"Ммм, ммм, *shlrp......* ах, Мейрин-сама...... ммм...... аах, ммм, *shlrp......*"@</ToTranslate>
+  </String>
+  <String index="732">
+    <ToTranslate>$Смазав слюной свою хозяйку она начала развозить её своим языком.@</ToTranslate>
+  </String>
+  <String index="733">
+    <ToTranslate>syok0015</ToTranslate>
+  </String>
+  <String index="734">
+    <ToTranslate>Шокё$"Ммм, ааах......ху-ху, Мейрин-сама, теперь вы пахнете мной..."@</ToTranslate>
+  </String>
+  <String index="735">
+    <ToTranslate>syuy0073</ToTranslate>
+  </String>
+  <String index="736">
+    <ToTranslate>Шую$"Хорошо...... наполни меня своим запахом. И тогда......я покрою тебя своим ароматом."@</ToTranslate>
+  </String>
+  <String index="737">
+    <ToTranslate>syok0016</ToTranslate>
+  </String>
+  <String index="738">
+    <ToTranslate>Шокё$"Аах...... вы дадите мне своих капель......?"@</ToTranslate>
+  </String>
+  <String index="739">
+    <ToTranslate>syuy0074</ToTranslate>
+  </String>
+  <String index="740">
+    <ToTranslate>Шую$"Да, совсем немного. Поторопись...... продолжить, Шокё."@</ToTranslate>
+  </String>
+  <String index="741">
+    <ToTranslate>syok0017</ToTranslate>
+  </String>
+  <String index="742">
+    <ToTranslate>Шокё$"Да! Хммм*shlrp...... shlrp*, ааах...... *schlp, schlp, schlp*, ммм...... *schlp......*"@</ToTranslate>
+  </String>
+  <String index="743">
+    <ToTranslate>syuy0075</ToTranslate>
+  </String>
+  <String index="744">
+    <ToTranslate>Шую$"Ммм......итак, настала очередь Дайкё......я наконец-то сильнее накажу тебя. Ху-ху, ты счастлива?"@</ToTranslate>
+  </String>
+  <String index="745">
+    <ToTranslate>daik0016</ToTranslate>
+  </String>
+  <String index="746">
+    <ToTranslate>Дайкё$"Аах...... да, очень, Мейрин-сама......"@</ToTranslate>
+  </String>
+  <String index="747">
+    <ToTranslate>$Колеблющимся голосом Дайкё просит её об удовольствии, её глаза наполнены сладким очарованием от слабых непрерывных действий Шую.@</ToTranslate>
+  </String>
+  <String index="748">
+    <ToTranslate>$Удовлетворённая её просьбой, Шую кивнула.@</ToTranslate>
+  </String>
+  <String index="749">
+    <ToTranslate>syuy0076</ToTranslate>
+  </String>
+  <String index="750">
+    <ToTranslate>Шую$"Тогда приготовься......"@</ToTranslate>
+  </String>
+  <String index="751">
+    <ToTranslate>$Облизав губы, она вонзила ногти в пенис Дайкё с силой, достаточной взрослому мужчине.@</ToTranslate>
+  </String>
+  <String index="752">
+    <ToTranslate>daik0017</ToTranslate>
+  </String>
+  <String index="753">
+    <ToTranslate>Дайкё$"Хнннг!"@</ToTranslate>
+  </String>
+  <String index="754">
+    <ToTranslate>$Этой силы хватиться чтобы войти в плоть но не пробить до крови, Шую начала тереть обратную сторону члена Дайкё.@</ToTranslate>
+  </String>
+  <String index="755">
+    <ToTranslate>daik0018</ToTranslate>
+  </String>
+  <String index="756">
+    <ToTranslate>Дайкё$"Ххнг...... ммм!"@</ToTranslate>
+  </String>
+  <String index="757">
+    <ToTranslate>$Её голос переполнен болью.@</ToTranslate>
+  </String>
+  <String index="758">
+    <ToTranslate>$Но в отличает от голоса, её член только окреп.@</ToTranslate>
+  </String>
+  <String index="759">
+    <ToTranslate>syuy0077</ToTranslate>
+  </String>
+  <String index="760">
+    <ToTranslate>Шую$"Неужто, я вонзила ногти, но похоже твоя штука только радуется?"@</ToTranslate>
+  </String>
+  <String index="761">
+    <ToTranslate>daik0019</ToTranslate>
+  </String>
+  <String index="762">
+    <ToTranslate>Дайкё$"Хнг, потому что, аах......ваша нога, ммм, коснулась моего грязного члена, ааах, и это слишком......ннн!"@</ToTranslate>
+  </String>
+  <String index="763">
+    <ToTranslate>syuy0078</ToTranslate>
+  </String>
+  <String index="764">
+    <ToTranslate>Шую$"Ху-ху......посмотри на судороги своей горячей штуки. Неужели ты уже на пределе?"@</ToTranslate>
+  </String>
+  <String index="765">
+    <ToTranslate>daik0020</ToTranslate>
+  </String>
+  <String index="766">
+    <ToTranslate>Дайкё$"Аах, ах, ах...... да......"@</ToTranslate>
+  </String>
+  <String index="767">
+    <ToTranslate>syuy0079</ToTranslate>
+  </String>
+  <String index="768">
+    <ToTranslate>Шую$"Хочешь кончить?"@</ToTranslate>
+  </String>
+  <String index="769">
+    <ToTranslate>daik0021</ToTranslate>
+  </String>
+  <String index="770">
+    <ToTranslate>Дайкё$"Д-да...... я хочу кончить......"@</ToTranslate>
+  </String>
+  <String index="771">
+    <ToTranslate>syuy0080</ToTranslate>
+  </String>
+  <String index="772">
+    <ToTranslate>Шую$"Разве так нужно просить?"@</ToTranslate>
+  </String>
+  <String index="773">
+    <ToTranslate>$Брызг!@</ToTranslate>
+  </String>
+  <String index="774">
+    <ToTranslate>daik0022</ToTranslate>
+  </String>
+  <String index="775">
+    <ToTranslate>Дайкё$"Хия!"@</ToTranslate>
+  </String>
+  <String index="776">
+    <ToTranslate>syuy0081</ToTranslate>
+  </String>
+  <String index="777">
+    <ToTranslate>Шую$"Ты забыла......как нужно просить разрешение своей хозяйки?"@</ToTranslate>
+  </String>
+  <String index="778">
+    <ToTranslate>daik0023</ToTranslate>
+  </String>
+  <String index="779">
+    <ToTranslate>Дайкё$"Аах...... мне жаль...... ммм."@</ToTranslate>
+  </String>
+  <String index="780">
+    <ToTranslate>syuy0082</ToTranslate>
+  </String>
+  <String index="781">
+    <ToTranslate>Шую$"Тогда попробуем ещё раз. Ты хочешь кончить?"@</ToTranslate>
+  </String>
+  <String index="782">
+    <ToTranslate>daik0024</ToTranslate>
+  </String>
+  <String index="783">
+    <ToTranslate>Дайкё$"Да......мммхах, пожалуйста, позвольте моему, ммм......грязному члену кончить......"@</ToTranslate>
+  </String>
+  <String index="784">
+    <ToTranslate>daik0025</ToTranslate>
+  </String>
+  <String index="785">
+    <ToTranslate>Дайкё$"Я не смогу больше сдерживаться...... аах...... я кончу, ммм...... я сейчас кончу......!"@</ToTranslate>
+  </String>
+  <String index="786">
+    <ToTranslate>syuy0083</ToTranslate>
+  </String>
+  <String index="787">
+    <ToTranslate>Шую$"Ху-ху, ты кажешься опечаленной......это заставляет меня дрожать от волнения."@</ToTranslate>
+  </String>
+  <String index="788">
+    <ToTranslate>$Просьбы Дайкё вызывают у Шокё опьянённую улыбку.@</ToTranslate>
+  </String>
+  <String index="789">
+    <ToTranslate>syuy0084</ToTranslate>
+  </String>
+  <String index="790">
+    <ToTranslate>Шую$"Хорошо, я разрешаю тебе кончить...... выплески много своего грязного сока."@</ToTranslate>
+  </String>
+  <String index="791">
+    <ToTranslate>$Презрения и странной любви......@</ToTranslate>
+  </String>
+  <String index="792">
+    <ToTranslate>$Пока Дайкё выплёскивала смешанные эмоции, Шую умело повела пальцам заставим Дайкё.@</ToTranslate>
+  </String>
+  <String index="793">
+    <ToTranslate>$Трение, трение, трение......@</ToTranslate>
+  </String>
+  <String index="794">
+    <ToTranslate>$Капли спермы потекли из члена Дайкё, образуя белую пену под движениями ноги Шую.@</ToTranslate>
+  </String>
+  <String index="795">
+    <ToTranslate>syok0018</ToTranslate>
+  </String>
+  <String index="796">
+    <ToTranslate>Шокё$"Ммм, *shlrp*......братик, кажется это тебе доставляет огромное удовольствие......"@</ToTranslate>
+  </String>
+  <String index="797">
+    <ToTranslate>daik0026</ToTranslate>
+  </String>
+  <String index="798">
+    <ToTranslate>Дайкё$"Аах, ммм...... ах, ах, аах, ммм...... да, это очень приятно...... ааах......"@</ToTranslate>
+  </String>
+  <String index="799">
+    <ToTranslate>syok0019</ToTranslate>
+  </String>
+  <String index="800">
+    <ToTranslate>Шокё$"Что, уже собираешься кончить......? Собираешься выплеснуть ту белую материю со своего члена?"@</ToTranslate>
+  </String>
+  <String index="801">
+    <ToTranslate>daik0027</ToTranslate>
+  </String>
+  <String index="802">
+    <ToTranslate>Дайкё$"Аааах, ах, я сейчас кончу......"@</ToTranslate>
+  </String>
+  <String index="803">
+    <ToTranslate>syok0020</ToTranslate>
+  </String>
+  <String index="804">
+    <ToTranslate>Шокё$"Ммммм, как же я этого жду...... ммм, *shlrp...... schlp, schlp......*"@</ToTranslate>
+  </String>
+  <String index="805">
+    <ToTranslate>syuy0085</ToTranslate>
+  </String>
+  <String index="806">
+    <ToTranslate>Шую$"Ммм...... Шокё, я тоже почти на пределе......"@</ToTranslate>
+  </String>
+  <String index="807">
+    <ToTranslate>syok0021</ToTranslate>
+  </String>
+  <String index="808">
+    <ToTranslate>Шокё$"Да......умоляю вас, Мейрин-сама,пролейте свои капли в мой рот......*shlrp, shlrp, shllrp......*"@</ToTranslate>
+  </String>
+  <String index="809">
+    <ToTranslate>daik0028</ToTranslate>
+  </String>
+  <String index="810">
+    <ToTranslate>Дайкё$"Вааа, ммм...... аах, аах, верхушка, она, аах, такая горячая, ммм...... и становится ещё жарче."@</ToTranslate>
+  </String>
+  <String index="811">
+    <ToTranslate>syuy0086</ToTranslate>
+  </String>
+  <String index="812">
+    <ToTranslate>Шую$"Ммм...... он стал ещё больше. Ты правда больше не сдержишь......?"@</ToTranslate>
+  </String>
+  <String index="813">
+    <ToTranslate>daik0029</ToTranslate>
+  </String>
+  <String index="814">
+    <ToTranslate>Дайкё$"Да...... ммм, сейчас кончу......"@</ToTranslate>
+  </String>
+  <String index="815">
+    <ToTranslate>syuy0087</ToTranslate>
+  </String>
+  <String index="816">
+    <ToTranslate>Шую$"Хорошо, моя нога начинает уставать. Поторопись и выплесни эту грязную материю."@</ToTranslate>
+  </String>
+  <String index="817">
+    <ToTranslate>$Шую ещё быстрее задвигала ногой вдоль окрепшего пениса. Этого хватило для ещё нескольких всплесков.@</ToTranslate>
+  </String>
+  <String index="818">
+    <ToTranslate>$Брызг, брызг, брызг......@</ToTranslate>
+  </String>
+  <String index="819">
+    <ToTranslate>$Белые потоки пенистой спермы побежали вниз, создавая шипящие звуки.@</ToTranslate>
+  </String>
+  <String index="820">
+    <ToTranslate>$Странный запах заполонил комнату.@</ToTranslate>
+  </String>
+  <String index="821">
+    <ToTranslate>$Странный запах помог трём испытывающим вожделение женщинам постичь ещё большее удовольствие.@</ToTranslate>
+  </String>
+  <String index="822">
+    <ToTranslate>daik0030</ToTranslate>
+  </String>
+  <String index="823">
+    <ToTranslate>Дайкё$"Ах, ах, ах, ах, ах, аах, аах, аах!"@</ToTranslate>
+  </String>
+  <String index="824">
+    <ToTranslate>$Дайкё, потеряв чувство ориентации способна только издавать чувственные стоны.@</ToTranslate>
+  </String>
+  <String index="825">
+    <ToTranslate>syok0022</ToTranslate>
+  </String>
+  <String index="826">
+    <ToTranslate>Шокё$"*Slurp...... shlrp*, ммм...... ммм, ммм...... *shlrp, shlrp......* ах......"@</ToTranslate>
+  </String>
+  <String index="827">
+    <ToTranslate>$Подобно грудному ребёнку, Шокё страстно продолжала пить жидкость из щели Шую.@</ToTranslate>
+  </String>
+  <String index="828">
+    <ToTranslate>syuy0088</ToTranslate>
+  </String>
+  <String index="829">
+    <ToTranslate>Шую$"Ху-ху...... вы обе такие хорошенькие......"@</ToTranslate>
+  </String>
+  <String index="830">
+    <ToTranslate>$Шую рассматривает развратных близнецов, в то время как её взгляд начал выказывать удовлетворение.@</ToTranslate>
+  </String>
+  <String index="831">
+    <ToTranslate>$Утопая в удовольствии секса, они инстинктивно ласкают друг друга, помогая друг другу достичь наивысшего удовольствия.@</ToTranslate>
+  </String>
+  <String index="832">
+    <ToTranslate>syuy0089</ToTranslate>
+  </String>
+  <String index="833">
+    <ToTranslate>Шую$"Ну же, Дайкё. Позвольте мне насладить видом ваших прелестно дрожащих тел!"@</ToTranslate>
+  </String>
+  <String index="834">
+    <ToTranslate>daik0031</ToTranslate>
+  </String>
+  <String index="835">
+    <ToTranslate>Дайкё$"Ах, ах, ха, ах, ммм...... я кончу......! Я, я больше не выдержу......!"@</ToTranslate>
+  </String>
+  <String index="836">
+    <ToTranslate>$Дайкё задрожала, и всё её тело задрожало.@</ToTranslate>
+  </String>
+  <String index="837">
+    <ToTranslate>syuy0090</ToTranslate>
+  </String>
+  <String index="838">
+    <ToTranslate>Шую$"Вот так. А теперь вот так!"@</ToTranslate>
+  </String>
+  <String index="839">
+    <ToTranslate>$Почти издеваясь, Шую сдавила вершину между большим и указательным пальцами, и быстро задвигала вверх и вниз.@</ToTranslate>
+  </String>
+  <String index="840">
+    <ToTranslate>$И затем......@</ToTranslate>
+  </String>
+  <String index="841">
+    <ToTranslate>daik0032</ToTranslate>
+  </String>
+  <String index="842">
+    <ToTranslate>Дайкё$"Хия, ууу, я кончаю!"@</ToTranslate>
+  </String>
+  <String index="843">
+    <ToTranslate>flash</ToTranslate>
+  </String>
+  <String index="844">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="845">
+    <ToTranslate>ecg_syu02b</ToTranslate>
+  </String>
+  <String index="846">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="847">
+    <ToTranslate>$Её твёрдый, готовый взорваться пенис дёргается и выпускает струю молочно-белой жидкости.@</ToTranslate>
+  </String>
+  <String index="848">
+    <ToTranslate>syuy0091</ToTranslate>
+  </String>
+  <String index="849">
+    <ToTranslate>Шую$"Ху-ху-ху, ммм......Дайкё, наконец-то ты справилась......ммм, ах......Шокё, я тоже кончаю......"@</ToTranslate>
+  </String>
+  <String index="850">
+    <ToTranslate>syok0023</ToTranslate>
+  </String>
+  <String index="851">
+    <ToTranslate>Шокё$"Есть...... ммм...... *shlrp*!"@</ToTranslate>
+  </String>
+  <String index="852">
+    <ToTranslate>syuy0092</ToTranslate>
+  </String>
+  <String index="853">
+    <ToTranslate>Шую$"Ах, хаах...... ммм...... ммм!"@</ToTranslate>
+  </String>
+  <String index="854">
+    <ToTranslate>syok0024</ToTranslate>
+  </String>
+  <String index="855">
+    <ToTranslate>Шокё$"Ооох! Ммм...... ммм...... ммм...... ммм...... ммм....."@</ToTranslate>
+  </String>
+  <String index="856">
+    <ToTranslate>$Золотистые капли забрызгали из её щели.@</ToTranslate>
+  </String>
+  <String index="857">
+    <ToTranslate>$Шокё не позволила пролиться ни одной из них, хватая и проглатывая каждую до последней.@</ToTranslate>
+  </String>
+  <String index="858">
+    <ToTranslate>syok0025</ToTranslate>
+  </String>
+  <String index="859">
+    <ToTranslate>Шокё$"*Глоток, глоток, глоток*, ммм...... аах...... ах...... ваши капли...... такие вкусные, Мейрин-сама......"@</ToTranslate>
+  </String>
+  <String index="860">
+    <ToTranslate>syuy0093</ToTranslate>
+  </String>
+  <String index="861">
+    <ToTranslate>Шую$"Ммм...... правда? Тогда ты должна почистить меня......"@</ToTranslate>
+  </String>
+  <String index="862">
+    <ToTranslate>syok0026</ToTranslate>
+  </String>
+  <String index="863">
+    <ToTranslate>Шокё$"Конечно...... *shlrp...... schlp, schlp...... schlp......*"@</ToTranslate>
+  </String>
+  <String index="864">
+    <ToTranslate>syuy0094</ToTranslate>
+  </String>
+  <String index="865">
+    <ToTranslate>Шую$"Хее, хее...... слизывай дочиста. Тебе ещё многое нужно сделать."@</ToTranslate>
+  </String>
+  <String index="866">
+    <ToTranslate>$Кивнув, Шокё начала водить языком по щели.@</ToTranslate>
+  </String>
+  <String index="867">
+    <ToTranslate>daik0033</ToTranslate>
+  </String>
+  <String index="868">
+    <ToTranslate>Дайкё$"Хаах...... ах...... ах...... ммм...... Мейрин-сама, я запачкала...... вашу ногу......"@</ToTranslate>
+  </String>
+  <String index="869">
+    <ToTranslate>syuy0095</ToTranslate>
+  </String>
+  <String index="870">
+    <ToTranslate>Шую$"Дайкё, я не гневаюсь. Я прощаю тебя. Ты должна вместе с  Шокё вылизать всё дочиста."@</ToTranslate>
+  </String>
+  <String index="871">
+    <ToTranslate>daik0034</ToTranslate>
+  </String>
+  <String index="872">
+    <ToTranslate>Дайкё$"Да, госпожа......"@</ToTranslate>
+  </String>
+  <String index="873">
+    <ToTranslate>syuy0096</ToTranslate>
+  </String>
+  <String index="874">
+    <ToTranslate>Шую$"Шокё. Ты тоже иди сюда."@</ToTranslate>
+  </String>
+  <String index="875">
+    <ToTranslate>syok0027</ToTranslate>
+  </String>
+  <String index="876">
+    <ToTranslate>Шокё$"Да......"@</ToTranslate>
+  </String>
+  <String index="877">
+    <ToTranslate>syuy0097</ToTranslate>
+  </String>
+  <String index="878">
+    <ToTranslate>Шую$"Воспользуйся своим языком......и очисти это семя на моей ноге."@</ToTranslate>
+  </String>
+  <String index="879">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="880">
+    <ToTranslate>ecg_syu02c</ToTranslate>
+  </String>
+  <String index="881">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="882">
+    <ToTranslate>syok0028</ToTranslate>
+  </String>
+  <String index="883">
+    <ToTranslate>Шокё$"Да......спасибо за......"@</ToTranslate>
+  </String>
+  <String index="884">
+    <ToTranslate>daik0035</ToTranslate>
+  </String>
+  <String index="885">
+    <ToTranslate>Дайкё$"Ммм...... *shlrp*, ммм...... *shlrp, shlrp, shlrp...... shlrp.....*"@</ToTranslate>
+  </String>
+  <String index="886">
+    <ToTranslate>syuy0098</ToTranslate>
+  </String>
+  <String index="887">
+    <ToTranslate>Шую$"Ху-ху...... с таким шумом слизывать собственные выделения...... ты настоящая извращенка......"@</ToTranslate>
+  </String>
+  <String index="888">
+    <ToTranslate>syok0029</ToTranslate>
+  </String>
+  <String index="889">
+    <ToTranslate>Шокё$"Аах...... я могу лучше её......"@</ToTranslate>
+  </String>
+  <String index="890">
+    <ToTranslate>syok0030</ToTranslate>
+  </String>
+  <String index="891">
+    <ToTranslate>Шокё$"*Slurp*, ммм...... *schlp, schlp, schlp, schlp...... shlrp, shlrp...... shlrp*!"@</ToTranslate>
+  </String>
+  <String index="892">
+    <ToTranslate>syuy0099</ToTranslate>
+  </String>
+  <String index="893">
+    <ToTranslate>Шую$"Неужели, ты пьёшь сперму собственной сестры? Какая же ты извращённая сестричка."@</ToTranslate>
+  </String>
+  <String index="894">
+    <ToTranslate>daik0036</ToTranslate>
+  </String>
+  <String index="895">
+    <ToTranslate>Дайкё$"Ммм, *shlrp, shlrp*, ммм...... аах, вы правы...... ммм, *shlrp......*"@</ToTranslate>
+  </String>
+  <String index="896">
+    <ToTranslate>syok0031</ToTranslate>
+  </String>
+  <String index="897">
+    <ToTranslate>Шокё$"Мы, ммм, *shlrp...... shlrp, shlrp, shlrp......* извращенки......"@</ToTranslate>
+  </String>
+  <String index="898">
+    <ToTranslate>syuy0100</ToTranslate>
+  </String>
+  <String index="899">
+    <ToTranslate>Шую$"Верно...... но я всё-равно люблю вас обоих."@</ToTranslate>
+  </String>
+  <String index="900">
+    <ToTranslate>daik0037</ToTranslate>
+  </String>
+  <String index="901">
+    <ToTranslate>Дайкё$"Аах...... Мейрин-сама......"@</ToTranslate>
+  </String>
+  <String index="902">
+    <ToTranslate>syok0032</ToTranslate>
+  </String>
+  <String index="903">
+    <ToTranslate>Шокё$"Мы...... всегда будем с вами, Мейрин-сама......"@</ToTranslate>
+  </String>
+  <String index="904">
+    <ToTranslate>daik0038</ToTranslate>
+  </String>
+  <String index="905">
+    <ToTranslate>Дайкё$"Поэтому пожалуйста......ммм, *shlrp......* продолжайте любить нас......"@</ToTranslate>
+  </String>
+  <String index="906">
+    <ToTranslate>syuy0101</ToTranslate>
+  </String>
+  <String index="907">
+    <ToTranslate>Шую$"Конечно......вы обе принадлежите мне..."@</ToTranslate>
+  </String>
+  <String index="908">
+    <ToTranslate>$Улыбаясь, обе дали положительный ответ словам Шую и с восторгом продолжили слизывать с неё сперму.@</ToTranslate>
+  </String>
+  <String index="909">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="910">
+    <ToTranslate>dd</ToTranslate>
+  </String>
+  <String index="911">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="912">
+    <ToTranslate>dd</ToTranslate>
+  </String>
+  <String index="913">
+    <ToTranslate>bcg_castgurden_c</ToTranslate>
+  </String>
+  <String index="914">
+    <ToTranslate>tcg_syu11ac</ToTranslate>
+  </String>
+  <String index="915">
+    <ToTranslate>tcg_syu11m</ToTranslate>
+  </String>
+  <String index="916">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="917">
+    <ToTranslate>bgm07</ToTranslate>
+  </String>
+  <String index="918">
+    <ToTranslate>syuy0102</ToTranslate>
+  </String>
+  <String index="919">
+    <ToTranslate>Шую$"Фуух...... какой освежающий бриз......"@</ToTranslate>
+  </String>
+  <String index="920">
+    <ToTranslate>tcg_big11ic</ToTranslate>
+  </String>
+  <String index="921">
+    <ToTranslate>tcg_big11m</ToTranslate>
+  </String>
+  <String index="922">
+    <ToTranslate>daik0039</ToTranslate>
+  </String>
+  <String index="923">
+    <ToTranslate>Дайкё$"Да, очень...... аах......"@</ToTranslate>
+  </String>
+  <String index="924">
+    <ToTranslate>tcg_sml11jc</ToTranslate>
+  </String>
+  <String index="925">
+    <ToTranslate>tcg_sml11m</ToTranslate>
+  </String>
+  <String index="926">
+    <ToTranslate>syok0033</ToTranslate>
+  </String>
+  <String index="927">
+    <ToTranslate>Шокё$"Хее, хее, хее, он охлаждает наши нагретые тела и это очень приятно."@</ToTranslate>
+  </String>
+  <String index="928">
+    <ToTranslate>syuy0103</ToTranslate>
+  </String>
+  <String index="929">
+    <ToTranslate>Шую$"Ху-ху...... ты права."@</ToTranslate>
+  </String>
+  <String index="930">
+    <ToTranslate>tcg_big11ac</ToTranslate>
+  </String>
+  <String index="931">
+    <ToTranslate>tcg_big11m</ToTranslate>
+  </String>
+  <String index="932">
+    <ToTranslate>daik0040</ToTranslate>
+  </String>
+  <String index="933">
+    <ToTranslate>Дайкё$"Мейрин-сама, о чём вы хотели с нами поговорить?"@</ToTranslate>
+  </String>
+  <String index="934">
+    <ToTranslate>tcg_syu21fc</ToTranslate>
+  </String>
+  <String index="935">
+    <ToTranslate>tcg_syu21m</ToTranslate>
+  </String>
+  <String index="936">
+    <ToTranslate>syuy0104</ToTranslate>
+  </String>
+  <String index="937">
+    <ToTranslate>Шую$"......есть кое-что, о чём я хотела вас попросить."@</ToTranslate>
+  </String>
+  <String index="938">
+    <ToTranslate>tcg_sml11fc</ToTranslate>
+  </String>
+  <String index="939">
+    <ToTranslate>tcg_sml11m</ToTranslate>
+  </String>
+  <String index="940">
+    <ToTranslate>syok0034</ToTranslate>
+  </String>
+  <String index="941">
+    <ToTranslate>Шокё$"Попросить нас?"@</ToTranslate>
+  </String>
+  <String index="942">
+    <ToTranslate>syuy0105</ToTranslate>
+  </String>
+  <String index="943">
+    <ToTranslate>Шую$"Да. Я хочу чтобы вы стали посланниками. Я собираюсь продлить анти-Таётоми альянс......"@</ToTranslate>
+  </String>
+  <String index="944">
+    <ToTranslate>tcg_big11fc</ToTranslate>
+  </String>
+  <String index="945">
+    <ToTranslate>tcg_big11m</ToTranslate>
+  </String>
+  <String index="946">
+    <ToTranslate>daik0041</ToTranslate>
+  </String>
+  <String index="947">
+    <ToTranslate>Дайкё$"Анти-Таётоми альянс? С кем же Ву хочет объединиться?"@</ToTranslate>
+  </String>
+  <String index="948">
+    <ToTranslate>tcg_syu11cc</ToTranslate>
+  </String>
+  <String index="949">
+    <ToTranslate>tcg_syu11m</ToTranslate>
+  </String>
+  <String index="950">
+    <ToTranslate>syuy0106</ToTranslate>
+  </String>
+  <String index="951">
+    <ToTranslate>Шую$"......Рэнфа-сама подумывает о союзе с Хонго. При данных обстоятельствах, это лучшее решение."@</ToTranslate>
+  </String>
+  <String index="952">
+    <ToTranslate>tcg_sml11ac</ToTranslate>
+  </String>
+  <String index="953">
+    <ToTranslate>tcg_sml11m</ToTranslate>
+  </String>
+  <String index="954">
+    <ToTranslate>syok0035</ToTranslate>
+  </String>
+  <String index="955">
+    <ToTranslate>Шокё$"Что вы хотите чтобы мы сделали?"@</ToTranslate>
+  </String>
+  <String index="956">
+    <ToTranslate>tcg_syu11ac</ToTranslate>
+  </String>
+  <String index="957">
+    <ToTranslate>tcg_syu11m</ToTranslate>
+  </String>
+  <String index="958">
+    <ToTranslate>syuy0107</ToTranslate>
+  </String>
+  <String index="959">
+    <ToTranslate>Шую$"У меня к вам две просьбы. Одна – это встретиться с Хонго как представители Ву и заключить союз анти-Таётоми."@</ToTranslate>
+  </String
+  <String index="960">
+    <ToTranslate>syok0036</ToTranslate>
+  </String>
+  <String index="961">
+    <ToTranslate>Шокё$"И вторая?"@</ToTranslate>
+  </String>
+  <String index="962">
+    <ToTranslate>tcg_syu11bc</ToTranslate>
+  </String>
+  <String index="963">
+    <ToTranslate>tcg_syu11m</ToTranslate>
+  </String>
+  <String index="964">
+    <ToTranslate>syuy0108</ToTranslate>
+  </String>
+  <String index="965">
+    <ToTranslate>Шую$"Я хочу чтобы вы соблазнили Хонго Казуто. Развейте у него зависимость от ваших тел."@</ToTranslate>
+  </String>
+  <String index="966">
+    <ToTranslate>tcg_big21ec</ToTranslate>
+  </String>
+  <String index="967">
+    <ToTranslate>tcg_big21m</ToTranslate>
+  </String>
+  <String index="968">
+    <ToTranslate>daik0042</ToTranslate>
+  </String>
+  <String index="969">
+    <ToTranslate>Дайкё$"Аах......"@</ToTranslate>
+  </String>
+  <String index="970">
+    <ToTranslate>tcg_sml21dc</ToTranslate>
+  </String>
+  <String index="971">
+    <ToTranslate>tcg_sml21m</ToTranslate>
+  </String>
+  <String index="972">
+    <ToTranslate>syok0037</ToTranslate>
+  </String>
+  <String index="973">
+    <ToTranslate>Шокё$"Мейрин-сама, вы нас похвалите если мы это сделаем?"@</ToTranslate>
+  </String>
+  <String index="974">
+    <ToTranslate>tcg_syu11ac</ToTranslate>
+  </String>
+  <String index="975">
+    <ToTranslate>tcg_syu11m</ToTranslate>
+  </String>
+  <String index="976">
+    <ToTranslate>syuy0109</ToTranslate>
+  </String>
+  <String index="977">
+    <ToTranslate>Шую$"Конечно. Я буду очень рада если больше пешек окажется под моим контролем."@</ToTranslate>
+  </String>
+  <String index="978">
+    <ToTranslate>tcg_sml21gc</ToTranslate>
+  </String>
+  <String index="979">
+    <ToTranslate>tcg_sml21m</ToTranslate>
+  </String>
+  <String index="980">
+    <ToTranslate>syok0038</ToTranslate>
+  </String>
+  <String index="981">
+    <ToTranslate>Шокё$"......я понимаю. Я всё сделаю, как вы скажете."@</ToTranslate>
+  </String>
+  <String index="982">
+    <ToTranslate>tcg_big11lc</ToTranslate>
+  </String>
+  <String index="983">
+    <ToTranslate>tcg_big11m</ToTranslate>
+  </String>
+  <String index="984">
+    <ToTranslate>daik0043</ToTranslate>
+  </String>
+  <String index="985">
+    <ToTranslate>Дайкё$"Аах, аах, Я-я тоже буду стараться......"@</ToTranslate>
+  </String>
+  <String index="986">
+    <ToTranslate>tcg_syu11bc</ToTranslate>
+  </String>
+  <String index="987">
+    <ToTranslate>tcg_syu11m</ToTranslate>
+  </String>
+  <String index="988">
+    <ToTranslate>syuy0110</ToTranslate>
+  </String>
+  <String index="989">
+    <ToTranslate>Шую$"......хорошо. Я рассчитываю на вас."@</ToTranslate>
+  </String>
+  <String index="990">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="991">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="992">
+    <ToTranslate>_kyotenphase</ToTranslate>
+  </String>
+</DBS>
+
+</poem>
+[[Koihime Musou/Прогресс перевода/Сюжет|[Назад]]]

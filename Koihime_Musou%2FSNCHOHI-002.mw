@@ -1,0 +1,743 @@
+<poem>
+<?xml version="1.0" encoding="UTF-8"?>
+<DBS>
+  <String index="0">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="1">
+    <ToTranslate>bcg_town_a</ToTranslate>
+  </String>
+  <String index="2">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="3">
+    <ToTranslate>bgm26</ToTranslate>
+  </String>
+  <String index="4">
+    <ToTranslate>$Какой прекрасный день... небо выглядит таким огромным. Слышу, как повсюду беззаботно играют дети.@</ToTranslate>
+  </String>
+  <String index="5">
+    <ToTranslate>$Я рад, что люди радуются миру, наступившему благодаря нашим победам, но...@</ToTranslate>
+  </String>
+  <String index="6">
+    <ToTranslate>tcg_zsh11aa</ToTranslate>
+  </String>
+  <String index="7">
+    <ToTranslate>tcg_zsh11m</ToTranslate>
+  </String>
+  <String index="8">
+    <ToTranslate>Охранник 1$&quot;...&quot;@</ToTranslate>
+  </String>
+  <String index="9">
+    <ToTranslate>$Сам я не могу сполна насладиться этим миром. Потому что пятеро устрашающе вида охранников с копьями повсюду меня сопровождают.@</ToTranslate>
+  </String>
+  <String index="10">
+    <ToTranslate>Горожанин 1$&quot;Это новый господин? Хм, он моложе, чем я думал...&quot;@</ToTranslate>
+  </String>
+  <String index="11">
+    <ToTranslate>$Я мог слушать детский смех только издалека. Горожане тоже держались на расстоянии.@</ToTranslate>
+  </String>
+  <String index="12">
+    <ToTranslate>Охранник 3$&quot;Вам что-нибудь нужно?&quot;@</ToTranslate>
+  </String>
+  <String index="13">
+    <ToTranslate>Горожанин 1$&quot;Хи-и-и, п-простите!&quot;@</ToTranslate>
+  </String>
+  <String index="14">
+    <ToTranslate>$Ха, охранники отогнали его. ...От такой чрезмерной опеки я немного задыхаюсь.@</ToTranslate>
+  </String>
+  <String index="15">
+    <ToTranslate>$Окружая меня этими охранниками, Аиша думала только о моей безопасности, так что я не мог просто сказать им уйти.@</ToTranslate>
+  </String>
+  <String index="16">
+    <ToTranslate>Казуто$&quot;Вам не нужно быть такими недружелюбными. Они не сделали ничего...&quot;@</ToTranslate>
+  </String>
+  <String index="17">
+    <ToTranslate>Охранник 1$&quot;Я понимаю их желание созерцать вас, но... если мы позволим это хоть одному, то процесс станет неуправляемым. Пожалуйста, простите нас.&quot;@</ToTranslate>
+  </String>
+  <String index="18">
+    <ToTranslate>Казуто$&quot;Я что, идол какой-то...&quot;@</ToTranslate>
+  </String>
+  <String index="19">
+    <ToTranslate>Охранник 2$&quot;Э-э?&quot;@</ToTranslate>
+  </String>
+  <String index="20">
+    <ToTranslate>Казуто$&quot;...Нет, ничего.&quot;@</ToTranslate>
+  </String>
+  <String index="21">
+    <ToTranslate>$Охранники преданы порученной им работе и думают только о моей защите. Я уже понял, что они не будут со мной просто болтать.@</ToTranslate>
+  </String>
+  <String index="22">
+    <ToTranslate>$Я тайком вздохнул... возможно, нам удастся быстро завершить обход и вернуться в замок.@</ToTranslate>
+  </String>
+  <String index="23">
+    <ToTranslate>$Уверен, остальные патрульные скоро вернутся...@</ToTranslate>
+  </String>
+  <String index="24">
+    <ToTranslate>SE073</ToTranslate>
+  </String>
+  <String index="25">
+    <ToTranslate>Охранник 3$&quot;М-м?! Mой Господин, пожалуйста, отойдите назад.&quot;@</ToTranslate>
+  </String>
+  <String index="26">
+    <ToTranslate>Казуто$&quot;Э-э?&quot;@</ToTranslate>
+  </String>
+  <String index="27">
+    <ToTranslate>SE014</ToTranslate>
+  </String>
+  <String index="28">
+    <ToTranslate>$Его голос был напряжён. Я услышал звук копий, выставляемых наготове, и посмотрел в направлении, куда они направили их наконечники.@</ToTranslate>
+  </String>
+  <String index="29">
+    <ToTranslate>rinr0683</ToTranslate>
+  </String>
+  <String index="30">
+    <ToTranslate>Ринрин$&quot;...Нииииии... хааааан!&quot;@</ToTranslate>
+  </String>
+  <String index="31">
+    <ToTranslate>$Знакомый голос послышался из облака пыли, и я выдавил улыбку.@</ToTranslate>
+  </String>
+  <String index="32">
+    <ToTranslate>$Я сказал чересчур предусмотрительным охранникам, что это Ринрин.@</ToTranslate>
+  </String>
+  <String index="33">
+    <ToTranslate>Охранник 1$&quot;...Разве Чёхи-доно не должна охранять южные ворота?&quot;@</ToTranslate>
+  </String>
+  <String index="34">
+    <ToTranslate>rinr0684</ToTranslate>
+  </String>
+  <String index="35">
+    <ToTranslate>Ринрин$&quot;Нашла тебя!&quot;@</ToTranslate>
+  </String>
+  <String index="36">
+    <ToTranslate>$Опасливый вопрос охранника был заглушён её громким криком.@</ToTranslate>
+  </String>
+  <String index="37">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="38">
+    <ToTranslate>tcg_cho31ba</ToTranslate>
+  </String>
+  <String index="39">
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="40">
+    <ToTranslate>bgm28</ToTranslate>
+  </String>
+  <String index="41">
+    <ToTranslate>rinr0685</ToTranslate>
+  </String>
+  <String index="42">
+    <ToTranslate>Ринрин$&quot;Йо!&quot;@</ToTranslate>
+  </String>
+  <String index="43">
+    <ToTranslate>Казуто$&quot;Йо.&quot;@</ToTranslate>
+  </String>
+  <String index="44">
+    <ToTranslate>$Она приветствовала меня в моём стиле, только не подняла руку, как я обычно делаю.@</ToTranslate>
+  </String>
+  <String index="45">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="46">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="47">
+    <ToTranslate>ecg_cho01a</ToTranslate>
+  </String>
+  <String index="48">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="49">
+    <ToTranslate>rinr0686</ToTranslate>
+  </String>
+  <String index="50">
+    <ToTranslate>Ринрин$&quot;Глянь, глянь, Онии-тян! Я нашла собачку!!!&quot;@</ToTranslate>
+  </String>
+  <String index="51">
+    <ToTranslate>Ребёнок 1$&quot;Нет, это я нашёл!&quot;@</ToTranslate>
+  </String>
+  <String index="52">
+    <ToTranslate>Ребёнок 2$&quot;Я сказал ей, чтобы она пришла, и она пришла.&quot;@</ToTranslate>
+  </String>
+  <String index="53">
+    <ToTranslate>$Несколько детишек бежали вместе с ней, чуть позади.@</ToTranslate>
+  </String>
+  <String index="54">
+    <ToTranslate>rinr0687</ToTranslate>
+  </String>
+  <String index="55">
+    <ToTranslate>Ринрин$&quot;Я её поймала! Смотри, разве она не милая?&quot;@</ToTranslate>
+  </String>
+  <String index="56">
+    <ToTranslate>Собака$&quot;Гав, гав.&quot;@</ToTranslate>
+  </String>
+  <String index="57">
+    <ToTranslate>Казуто$&quot;А, ага... она милая.&quot;@</ToTranslate>
+  </String>
+  <String index="58">
+    <ToTranslate>rinr0688</ToTranslate>
+  </String>
+  <String index="59">
+    <ToTranslate>Ринрин$&quot;Хи-хи, она почти такая же милая, как я.&quot;@</ToTranslate>
+  </String>
+  <String index="60">
+    <ToTranslate>$Она с гордостью показала мне чау-чау (?) у неё на руках. Симпатичная собака была похожа на шар шерсти с торчащим из него языком.@</ToTranslate>
+  </String>
+  <String index="61">
+    <ToTranslate>Охранник 1$&quot;Чёхи-доно, а что насчёт южных ворот?&quot;@</ToTranslate>
+  </String>
+  <String index="62">
+    <ToTranslate>rinr0689</ToTranslate>
+  </String>
+  <String index="63">
+    <ToTranslate>Ринрин$&quot;Я уже так давно не видела собак! Должно быть, это чудесный город для бродячих собак, где они могут выжить и не голодать!!!&quot;@</ToTranslate>
+  </String>
+  <String index="64">
+    <ToTranslate>Казуто$&quot;А, ах... верно. Наверняка она ела что-то хорошее. Она пухленькая.&quot;@</ToTranslate>
+  </String>
+  <String index="65">
+    <ToTranslate>rinr0690</ToTranslate>
+  </String>
+  <String index="66">
+    <ToTranslate>Ринрин$&quot;Должно быть, её любят все люди в городе. У неё есть обаяние.&quot;@</ToTranslate>
+  </String>
+  <String index="67">
+    <ToTranslate>Ребёнок 2$&quot;Ринрин, давай поменяемся. Я тоже хочу её подержать.&quot;@</ToTranslate>
+  </String>
+  <String index="68">
+    <ToTranslate>Ребёнок 1$&quot;Я её нашёл!&quot;@</ToTranslate>
+  </String>
+  <String index="69">
+    <ToTranslate>rinr0691</ToTranslate>
+  </String>
+  <String index="70">
+    <ToTranslate>Ринрин$&quot;Замолчите. Я сейчас же покажу собачку Онии-тян... Ба!&quot;@</ToTranslate>
+  </String>
+  <String index="71">
+    <ToTranslate>Собака$&quot;Ха, ха, ха.&quot;@</ToTranslate>
+  </String>
+  <String index="72">
+    <ToTranslate>rinr0692</ToTranslate>
+  </String>
+  <String index="73">
+    <ToTranslate>Ринрин$&quot;Ух ты, ну же! Она такая капризная, и от неё столько неприятностейW.&quot;@</ToTranslate>
+  </String>
+  <String index="74">
+    <ToTranslate>Казуто$&quot;Может, она хочет, чтобы ты её отпустила.&quot;@</ToTranslate>
+  </String>
+  <String index="75">
+    <ToTranslate>$На самом деле, не было на то похоже. Я погладил пушистую собаку, пока она лизала щёку Ринрин.@</ToTranslate>
+  </String>
+  <String index="76">
+    <ToTranslate>rinr0693</ToTranslate>
+  </String>
+  <String index="77">
+    <ToTranslate>Ринрин$&quot;Она бы так не сказала! Она сдалась. Онии-тян, тебе нужно было это видеть! Погоня была такой яростной!&quot;@</ToTranslate>
+  </String>
+  <String index="78">
+    <ToTranslate>Казуто$&quot;Видишь, ты ей не нравишься.&quot;@</ToTranslate>
+  </String>
+  <String index="79">
+    <ToTranslate>rinr0694</ToTranslate>
+  </String>
+  <String index="80">
+    <ToTranslate>Ринрин$&quot;Нет! Мы просто играли в погоню.&quot;@</ToTranslate>
+  </String>
+  <String index="81">
+    <ToTranslate>Ребёнок 1$&quot;Верно. Она всё время махала хвостом.&quot;@</ToTranslate>
+  </String>
+  <String index="82">
+    <ToTranslate>Охранник 1$&quot;Как ты смеешь разговаривать с правителем в таком тоне...&quot;@</ToTranslate>
+  </String>
+  <String index="83">
+    <ToTranslate>Казуто$&quot;Хм-м, тогда, возможно, она была рада, что ты с ней играла. Это хорошо.&quot;@</ToTranslate>
+  </String>
+  <String index="84">
+    <ToTranslate>Собака$&quot;Гав.&quot;@</ToTranslate>
+  </String>
+  <String index="85">
+    <ToTranslate>$Она была такой дружелюбной собакой. Наверное, она похожа на Ринрин. То, какой счастливой она выглядит, когда я чешу её голову, напоминает мне Ринрин.@</ToTranslate>
+  </String>
+  <String index="86">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="87">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="88">
+    <ToTranslate>ecg_cho01b</ToTranslate>
+  </String>
+  <String index="89">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="90">
+    <ToTranslate>rinr0695</ToTranslate>
+  </String>
+  <String index="91">
+    <ToTranslate>Ринрин$&quot;Хи, хи, хи, просто прекрасно!&quot;@</ToTranslate>
+  </String>
+  <String index="92">
+    <ToTranslate>$Они были так похожи. Ринрин и собака тёрлись щеками, словно мать и дочь.@</ToTranslate>
+  </String>
+  <String index="93">
+    <ToTranslate>rinr0696</ToTranslate>
+  </String>
+  <String index="94">
+    <ToTranslate>Ринрин$&quot;Она умеет так быстро бегать. Но, когда я её поймала, она сказала, что сдаётся.&quot;@</ToTranslate>
+  </String>
+  <String index="95">
+    <ToTranslate>Собака$&quot;Гав, гав.&quot;@</ToTranslate>
+  </String>
+  <String index="96">
+    <ToTranslate>rinr0697</ToTranslate>
+  </String>
+  <String index="97">
+    <ToTranslate>Ринрин$&quot;Не лижи и не перебивай, когда я разговариваю!&quot;@</ToTranslate>
+  </String>
+  <String index="98">
+    <ToTranslate>Казуто$&quot;Ха, ха, держу пари, она хочет играть.&quot;@</ToTranslate>
+  </String>
+  <String index="99">
+    <ToTranslate>$Как только я засмеялся, охранники позади меня тут же ко мне присоединились.@</ToTranslate>
+  </String>
+  <String index="100">
+    <ToTranslate>Казуто$&quot;Наверное, это не преувеличение — говорить, что она сдалась. Я ощущаю её уважение к тебе по тому, как она к тебе прижимается.&quot;@</ToTranslate>
+  </String>
+  <String index="101">
+    <ToTranslate>rinr0698</ToTranslate>
+  </String>
+  <String index="102">
+    <ToTranslate>Ринрин$&quot;Возможно, это потому, что я выиграла погоню.&quot;@</ToTranslate>
+  </String>
+  <String index="103">
+    <ToTranslate>Казуто$&quot;Может быть. Мир велик, но думаю, что ты единственная, кто мог бы выиграть в серьёзной игре погони за собакой.&quot;@</ToTranslate>
+  </String>
+  <String index="104">
+    <ToTranslate>rinr0699</ToTranslate>
+  </String>
+  <String index="105">
+    <ToTranslate>Ринрин$&quot;Именно так! Ринрин хороша в погонях!!!&quot;@</ToTranslate>
+  </String>
+  <String index="106">
+    <ToTranslate>Собака$&quot;Гав, гав.&quot;@</ToTranslate>
+  </String>
+  <String index="107">
+    <ToTranslate>Казуто$&quot;О, глянь, собака тоже тебя хвалит, Ринрин.&quot;@</ToTranslate>
+  </String>
+  <String index="108">
+    <ToTranslate>rinr0700</ToTranslate>
+  </String>
+  <String index="109">
+    <ToTranslate>Ринрин$&quot;Поскольку она сдалась, то это вполне естественно, что она теперь — мой подчинённый! Хм, Корин. Она подчинённая Ринрин, так что звать её будут Корин.&quot;@</ToTranslate>
+  </String>
+  <String index="110">
+    <ToTranslate>Ребёнок 2$&quot;Хе, хе, отличное имя.&quot;@</ToTranslate>
+  </String>
+  <String index="111">
+    <ToTranslate>$Это верно. ...Ринрин снова и снова выкрикивала имя Корин, кружась. Я смотрел на неё с улыбкой.@</ToTranslate>
+  </String>
+  <String index="112">
+    <ToTranslate>rinr0701</ToTranslate>
+  </String>
+  <String index="113">
+    <ToTranslate>Ринрин$&quot;Кстати, Ринрин голодна.&quot;@</ToTranslate>
+  </String>
+  <String index="114">
+    <ToTranslate>$Ах, она остановилась. Она внезапно поджала губы, но затем снова заулыбалась. Её лицевым мышцам нужна разминка.@</ToTranslate>
+  </String>
+  <String index="115">
+    <ToTranslate>rinr0702</ToTranslate>
+  </String>
+  <String index="116">
+    <ToTranslate>Ринрин$&quot;Ринрин намерена пойти поесть что-нибудь вместе с Корин! Давай пойдём вместе, Онии-тян. Булочки со свининой. Булочки со свининой, булочки со свининой, булочки со свининой!!!&quot;@</ToTranslate>
+  </String>
+  <String index="117">
+    <ToTranslate>Собака$&quot;Гав, гав, гав!&quot;@</ToTranslate>
+  </String>
+  <String index="118">
+    <ToTranslate>Казуто$&quot;У-у... Я бы хотел, но...&quot;@</ToTranslate>
+  </String>
+  <String index="119">
+    <ToTranslate>$Я глянул на охранников позади меня. Мне нужно помнить о своей должности... Я слишком стар, чтобы мне сошло с рук то, что делает Ринрин.@</ToTranslate>
+  </String>
+  <String index="120">
+    <ToTranslate>Казуто$&quot;Я не могу, мне нужно завершить обход.&quot;@</ToTranslate>
+  </String>
+  <String index="121">
+    <ToTranslate>rinr0703</ToTranslate>
+  </String>
+  <String index="122">
+    <ToTranslate>Ринрин$&quot;Делать обход скучно! Ринрин бы предпочла поиграть с Корин, это куда веселей!!!&quot;@</ToTranslate>
+  </String>
+  <String index="123">
+    <ToTranslate>$...Я чуть было не поддался соблазну, но в моей голове возник образ прекрасной женщины с чёрными волосами, которая всегда хмурилась.@</ToTranslate>
+  </String>
+  <String index="124">
+    <ToTranslate>Казуто$&quot;*Покачивая головой* Нет! Это важная работа. Ты уверена, что тебе не нужно её делать? Тебе лучше обойти свой район, иначе Аиша рассердится.&quot;@</ToTranslate>
+  </String>
+  <String index="125">
+    <ToTranslate>rinr0704</ToTranslate>
+  </String>
+  <String index="126">
+    <ToTranslate>Ринрин$&quot;Неа-ха-ха! Не волнуйся, Аиша любит собачонок.&quot;@</ToTranslate>
+  </String>
+  <String index="127">
+    <ToTranslate>$Это не проблема!@</ToTranslate>
+  </String>
+  <String index="128">
+    <ToTranslate>rinr0705</ToTranslate>
+  </String>
+  <String index="129">
+    <ToTranslate>Ринрин$&quot;Я знаю, а почему бы нам не пойти показать собачку Аише, после того как поедим?&quot;@</ToTranslate>
+  </String>
+  <String index="130">
+    <ToTranslate>Казуто$&quot;Говорю же тебе, я не...&quot;@</ToTranslate>
+  </String>
+  <String index="131">
+    <ToTranslate>rinr0706</ToTranslate>
+  </String>
+  <String index="132">
+    <ToTranslate>Ринрин$&quot;Найдём Аишу, идём!!!&quot;@</ToTranslate>
+  </String>
+  <String index="133">
+    <ToTranslate>Дети$&quot;Да-а!&quot;@</ToTranslate>
+  </String>
+  <String index="134">
+    <ToTranslate>Собака$&quot;Гав, гав.&quot;@</ToTranslate>
+  </String>
+  <String index="135">
+    <ToTranslate>$Ринрин и дети развернулись, держа собачку как флаг, и я... застыл. Меня застали в трудном положении.@</ToTranslate>
+  </String>
+  <String index="136">
+    <ToTranslate>aisy1324</ToTranslate>
+  </String>
+  <String index="137">
+    <ToTranslate>Аиша$&quot;Найдёте меня? В этом нет нужды.&quot;@</ToTranslate>
+  </String>
+  <String index="138">
+    <ToTranslate>$Ах, я рад, что не сделал шаг!@</ToTranslate>
+  </String>
+  <String index="139">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="140">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="141">
+    <ToTranslate>bcg_town_a</ToTranslate>
+  </String>
+  <String index="142">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="143">
+    <ToTranslate>bgm03</ToTranslate>
+  </String>
+  <String index="144">
+    <ToTranslate>tcg_kan11ca</ToTranslate>
+  </String>
+  <String index="145">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="146">
+    <ToTranslate>hatena</ToTranslate>
+  </String>
+  <String index="147">
+    <ToTranslate>aisy1325</ToTranslate>
+  </String>
+  <String index="148">
+    <ToTranslate>Аиша$&quot;Я получила доклад, что ты исчезла, и бегала вокруг в поисках тебя. И вот ты где... Что ты делаешь, отлыниваешь от своих обязанностей?&quot;@</ToTranslate>
+  </String>
+  <String index="149">
+    <ToTranslate>tcg_cho31ba</ToTranslate>
+  </String>
+  <String index="150">
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="151">
+    <ToTranslate>rinr0707</ToTranslate>
+  </String>
+  <String index="152">
+    <ToTranslate>Ринрин$&quot;Ах, Аиша! Смотри, собачка...&quot;@</ToTranslate>
+  </String>
+  <String index="153">
+    <ToTranslate>tcg_kan11ma</ToTranslate>
+  </String>
+  <String index="154">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="155">
+    <ToTranslate>aisy1326</ToTranslate>
+  </String>
+  <String index="156">
+    <ToTranslate>Аиша$&quot;Твоя работа — охранять южные ворота, а не играть с собакой!&quot;@</ToTranslate>
+  </String>
+  <String index="157">
+    <ToTranslate>tcg_cho41ha</ToTranslate>
+  </String>
+  <String index="158">
+    <ToTranslate>tcg_cho41m</ToTranslate>
+  </String>
+  <String index="159">
+    <ToTranslate>rinr0708</ToTranslate>
+  </String>
+  <String index="160">
+    <ToTranslate>Ринрин$&quot;Э-э?!..&quot;@</ToTranslate>
+  </String>
+  <String index="161">
+    <ToTranslate>$Ринрин спрятала лицо за собакой, которую пыталась показать Аише, и быстро скользнула назад. Аиша безжалостно последовала за ней.@</ToTranslate>
+  </String>
+  <String index="162">
+    <ToTranslate>tcg_kan11fa</ToTranslate>
+  </String>
+  <String index="163">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="164">
+    <ToTranslate>aisy1327</ToTranslate>
+  </String>
+  <String index="165">
+    <ToTranslate>Аиша$&quot;Ты понимаешь нынешнее положение? Наша битва её не окончена... она лишь начинается.&quot;@</ToTranslate>
+  </String>
+  <String index="166">
+    <ToTranslate>tcg_cho31ga</ToTranslate>
+  </String>
+  <String index="167">
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="168">
+    <ToTranslate>rinr0709</ToTranslate>
+  </String>
+  <String index="169">
+    <ToTranslate>Ринрин$&quot;Я... я знаю... не сердись.&quot;@</ToTranslate>
+  </String>
+  <String index="170">
+    <ToTranslate>tcg_kan11ca</ToTranslate>
+  </String>
+  <String index="171">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="172">
+    <ToTranslate>aisy1328</ToTranslate>
+  </String>
+  <String index="173">
+    <ToTranslate>Аиша$&quot;Ты генерал, обязанный вести за собой армию. Как ты можешь позволять себе такое поведение на глазах своих солдат?..&quot;@</ToTranslate>
+  </String>
+  <String index="174">
+    <ToTranslate>Корин$&quot;*Завывание*.&quot;@</ToTranslate>
+  </String>
+  <String index="175">
+    <ToTranslate>tcg_kan11ea</ToTranslate>
+  </String>
+  <String index="176">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="177">
+    <ToTranslate>aisy1329</ToTranslate>
+  </String>
+  <String index="178">
+    <ToTranslate>Аиша$&quot;Не нужно пытаться вызвать жалость! Ты должна понимать своё положение.&quot;@</ToTranslate>
+  </String>
+  <String index="179">
+    <ToTranslate>tcg_cho41ha</ToTranslate>
+  </String>
+  <String index="180">
+    <ToTranslate>tcg_cho41m</ToTranslate>
+  </String>
+  <String index="181">
+    <ToTranslate>rinr0710</ToTranslate>
+  </String>
+  <String index="182">
+    <ToTranslate>Ринрин$&quot;Ринрин ничего не сказала?!&quot;@</ToTranslate>
+  </String>
+  <String index="183">
+    <ToTranslate>tcg_kan11ma</ToTranslate>
+  </String>
+  <String index="184">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="185">
+    <ToTranslate>aisy1330</ToTranslate>
+  </String>
+  <String index="186">
+    <ToTranslate>Аиша$&quot;Ты разве не помнишь свои клятвы? Мирное время ещё далеко, и мы ещё не можем себе позволить ослабить охрану!&quot;@</ToTranslate>
+  </String>
+  <String index="187">
+    <ToTranslate>$Аиша довольно сильно рассердилась. Ринрин продолжала сжиматься перед ней... Надеюсь, она не исчезнет вовсе.@</ToTranslate>
+  </String>
+  <String index="188">
+    <ToTranslate>Казуто$&quot;Ладно, ладно, Аиша. Почему бы тебе сейчас её уже не отпустить?&quot;@</ToTranslate>
+  </String>
+  <String index="189">
+    <ToTranslate>tcg_kan31ga</ToTranslate>
+  </String>
+  <String index="190">
+    <ToTranslate>tcg_kan31m</ToTranslate>
+  </String>
+  <String index="191">
+    <ToTranslate>aisy1331</ToTranslate>
+  </String>
+  <String index="192">
+    <ToTranslate>Аиша$&quot;Мой Господин! Если вы её так разбалуете, Ринрин продолжит...&quot;@</ToTranslate>
+  </String>
+  <String index="193">
+    <ToTranslate>Казуто$&quot;Ринрин тоже ужасно себя чувствует, верно?&quot;@</ToTranslate>
+  </String>
+  <String index="194">
+    <ToTranslate>tcg_cho11fa</ToTranslate>
+  </String>
+  <String index="195">
+    <ToTranslate>tcg_cho11m</ToTranslate>
+  </String>
+  <String index="196">
+    <ToTranslate>rinr0711</ToTranslate>
+  </String>
+  <String index="197">
+    <ToTranslate>Ринрин$&quot;Я ужасно себя чувствую...&quot;@</ToTranslate>
+  </String>
+  <String index="198">
+    <ToTranslate>$Она склонила голову в извинении, и я положил руку ей на затылок. А теперь... если я тоже склонюсь...@</ToTranslate>
+  </String>
+  <String index="199">
+    <ToTranslate>tcg_kan31ka</ToTranslate>
+  </String>
+  <String index="200">
+    <ToTranslate>tcg_kan31m</ToTranslate>
+  </String>
+  <String index="201">
+    <ToTranslate>aisy1332</ToTranslate>
+  </String>
+  <String index="202">
+    <ToTranslate>Аиша$&quot;Ха... ладно. Пожалуйста, не допускайте повторения чего-либо подобного.&quot;@</ToTranslate>
+  </String>
+  <String index="203">
+    <ToTranslate>$Аиша не откажет моей просьбе. Я воспользовался этим, чтобы смягчить ситуацию.@</ToTranslate>
+  </String>
+  <String index="204">
+    <ToTranslate>tcg_cho11pa</ToTranslate>
+  </String>
+  <String index="205">
+    <ToTranslate>tcg_cho11m</ToTranslate>
+  </String>
+  <String index="206">
+    <ToTranslate>bgm04</ToTranslate>
+  </String>
+  <String index="207">
+    <ToTranslate>rinr0712</ToTranslate>
+  </String>
+  <String index="208">
+    <ToTranslate>Ринрин$&quot;Хорошо... Кхм, королевская стража Ринрин, соберитесь!&quot;@</ToTranslate>
+  </String>
+  <String index="209">
+    <ToTranslate>Дети$&quot;Да-а!&quot;@</ToTranslate>
+  </String>
+  <String index="210">
+    <ToTranslate>$Когда это они стали королевской стражей?! Со всех сторон выскакивали ещё дети, в дополнение к тем, что стояли позади Ринрин.@</ToTranslate>
+  </String>
+  <String index="211">
+    <ToTranslate>tcg_cho11ca</ToTranslate>
+  </String>
+  <String index="212">
+    <ToTranslate>tcg_cho11m</ToTranslate>
+  </String>
+  <String index="213">
+    <ToTranslate>rinr0713</ToTranslate>
+  </String>
+  <String index="214">
+    <ToTranslate>Ринрин$&quot;Ринрин сейчас вернётся к работе, так что все заботьтесь о Корин в моё отсутствие!&quot;@</ToTranslate>
+  </String>
+  <String index="215">
+    <ToTranslate>Ребёнок 3$&quot;В чём твоя работа, генерал?&quot;@</ToTranslate>
+  </String>
+  <String index="216">
+    <ToTranslate>tcg_cho11la</ToTranslate>
+  </String>
+  <String index="217">
+    <ToTranslate>tcg_cho11m</ToTranslate>
+  </String>
+  <String index="218">
+    <ToTranslate>rinr0714</ToTranslate>
+  </String>
+  <String index="219">
+    <ToTranslate>Ринрин$&quot;Моя работа — защищать этот город!&quot;@</ToTranslate>
+  </String>
+  <String index="220">
+    <ToTranslate>$Ринрин хорошо знает своё место... Но из-за юности, её невинность иногда проявляет себя.@</ToTranslate>
+  </String>
+  <String index="221">
+    <ToTranslate>Казуто$&quot;Запиши меня тоже, когда закончишь, ладно?&quot;@</ToTranslate>
+  </String>
+  <String index="222">
+    <ToTranslate>tcg_cho21ja</ToTranslate>
+  </String>
+  <String index="223">
+    <ToTranslate>tcg_cho21m</ToTranslate>
+  </String>
+  <String index="224">
+    <ToTranslate>hatena</ToTranslate>
+  </String>
+  <String index="225">
+    <ToTranslate>rinr0715</ToTranslate>
+  </String>
+  <String index="226">
+    <ToTranslate>Ринрин$&quot;Э-э?&quot;@</ToTranslate>
+  </String>
+  <String index="227">
+    <ToTranslate>$Я подошёл к ней и погладил по голове.@</ToTranslate>
+  </String>
+  <String index="228">
+    <ToTranslate>Казуто$&quot;Когда мы закончим свою работу. Давай завершим её, ладно? Вечером встретимся здесь.&quot;@</ToTranslate>
+  </String>
+  <String index="229">
+    <ToTranslate>tcg_cho31ma</ToTranslate>
+  </String>
+  <String index="230">
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="231">
+    <ToTranslate>rinr0716</ToTranslate>
+  </String>
+  <String index="232">
+    <ToTranslate>Ринрин$&quot;...Ладно!&quot;@</ToTranslate>
+  </String>
+  <String index="233">
+    <ToTranslate>$Ринрин уже разворачивалась... и это хорошо. Ринрин должна улыбаться.@</ToTranslate>
+  </String>
+  <String index="234">
+    <ToTranslate>tcg_kan11aa</ToTranslate>
+  </String>
+  <String index="235">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="236">
+    <ToTranslate>aisy1333</ToTranslate>
+  </String>
+  <String index="237">
+    <ToTranslate>Аиша$&quot;Хорошо. Я пойду. ...Помни об этом, Ринрин.&quot;@</ToTranslate>
+  </String>
+  <String index="238">
+    <ToTranslate>tcg_cho11aa</ToTranslate>
+  </String>
+  <String index="239">
+    <ToTranslate>tcg_cho11m</ToTranslate>
+  </String>
+  <String index="240">
+    <ToTranslate>rinr0717</ToTranslate>
+  </String>
+  <String index="241">
+    <ToTranslate>Ринрин$&quot;Конечно!&quot;@</ToTranslate>
+  </String>
+  <String index="242">
+    <ToTranslate>$Аиша тоже улыбалась. Я это знал; у Ринрин была способность заставлять всех чувствовать тепло внутри себя.@</ToTranslate>
+  </String>
+  <String index="243">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="244">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="245">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+</DBS>
+</poem>

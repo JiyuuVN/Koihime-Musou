@@ -1,0 +1,2874 @@
+[[Koihime Musou/Прогресс перевода/Сюжет|[Назад]]]
+<poem>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<DBS>
+  <String index="0">
+    <ToTranslate>bcg_wasteland_a</ToTranslate>
+  </String>
+  <String index="1">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="2">
+    <ToTranslate>bgm02</ToTranslate>
+  </String>
+  <String index="3">
+    <ToTranslate>Казуто$"*Вздох...* даже при наличии гор документов, ждущих моего возвращения, я обязан ходить в патрули? Знаю, что все так делают, но меня такое крайне изнуряет."@</ToTranslate>
+  </String>
+  <String index="4">
+    <ToTranslate>$Я продолжаю тихонько скулить, дабы мои же солдаты меня не услышали.@</ToTranslate>
+  </String>
+  <String index="5">
+    <ToTranslate>$Я полностью выжат - выходной день, даже не помню когда это было в последний раз.@</ToTranslate>
+  </String>
+  <String index="6">
+    <ToTranslate>$Знаю, что все остальные так же работают до последнего, но вся система может рухнуть если кто-то свалится от усталости.@</ToTranslate>
+  </String>
+  <String index="7">
+    <ToTranslate>Казуто$"Думаю, мне нужно поведать Шури о моих умозаключениях..."@</ToTranslate>
+  </String>
+  <String index="8">
+    <ToTranslate>tcg_cry11ba</ToTranslate>
+  </String>
+  <String index="9">
+    <ToTranslate>tcg_cry11m</ToTranslate>
+  </String>
+  <String index="10">
+    <ToTranslate>bgm26</ToTranslate>
+  </String>
+  <String index="11">
+    <ToTranslate>chor0265</ToTranslate>
+  </String>
+  <String index="12">
+    <ToTranslate>Чёрьё$"Поведать ей о чём?"@</ToTranslate>
+  </String>
+  <String index="13">
+    <ToTranslate>Казуто$"Хм? А, Сия... утро доброе."@</ToTranslate>
+  </String>
+  <String index="14">
+    <ToTranslate>tcg_cry31ka</ToTranslate>
+  </String>
+  <String index="15">
+    <ToTranslate>tcg_cry31m</ToTranslate>
+  </String>
+  <String index="16">
+    <ToTranslate>chor0266</ToTranslate>
+  </String>
+  <String index="17">
+    <ToTranslate>Чёрьё$"Ой... что-то у меня плохие предчувствия..."@</ToTranslate>
+  </String>
+  <String index="18">
+    <ToTranslate>Казуто$"Ещё бы. Знаешь, я тут должен обойти пригород в одиночестве, но если честно, что-то мне одному не по себе. Не пойдёшь со мной?"@</ToTranslate>
+  </String>
+  <String index="19">
+    <ToTranslate>tcg_cry21ea</ToTranslate>
+  </String>
+  <String index="20">
+    <ToTranslate>tcg_cry21m</ToTranslate>
+  </String>
+  <String index="21">
+    <ToTranslate>chor0267</ToTranslate>
+  </String>
+  <String index="22">
+    <ToTranslate>Чёрьё$"А-а-а... ну вот ещё..."@</ToTranslate>
+  </String>
+  <String index="23">
+    <ToTranslate>Казуто$"Ну же, не говори так, ну пожалуйста?"@</ToTranslate>
+  </String>
+  <String index="24">
+    <ToTranslate>chor0268</ToTranslate>
+  </String>
+  <String index="25">
+    <ToTranslate>Чёрьё$"*Вздох...* ладно. Кажется, в прошлом я обещалась помогать, а значит - придётся."@</ToTranslate>
+  </String>
+  <String index="26">
+    <ToTranslate>Казуто$"Спасибо, просто неоценимая помощь."@</ToTranslate>
+  </String>
+  <String index="27">
+    <ToTranslate>tcg_cry11ba</ToTranslate>
+  </String>
+  <String index="28">
+    <ToTranslate>tcg_cry11m</ToTranslate>
+  </String>
+  <String index="29">
+    <ToTranslate>chor0269</ToTranslate>
+  </String>
+  <String index="30">
+    <ToTranslate>Чёрьё$"Ты на удивление легко можешь выражать благодарность, особенно учитывая что ты правитель целой страны."@</ToTranslate>
+  </String>
+  <String index="31">
+    <ToTranslate>Казуто$"Разве не естественно благодарить кого-то, если он что-то для тебя делает?"@</ToTranslate>
+  </String>
+  <String index="32">
+    <ToTranslate>chor0270</ToTranslate>
+  </String>
+  <String index="33">
+    <ToTranslate>Чёрьё$"Ты прав, но думаю, что это всё же твоё личное умение."@</ToTranslate>
+  </String>
+  <String index="34">
+    <ToTranslate>$В знак подтверждения собственных выводов Сия твёрдо кивнула.@</ToTranslate>
+  </String>
+  <String index="35">
+    <ToTranslate>chor0271</ToTranslate>
+  </String>
+  <String index="36">
+    <ToTranslate>Чёрьё$"Подожди здесь минутку, я возьму оружие."@</ToTranslate>
+  </String>
+  <String index="37">
+    <ToTranslate>$Сказав это, она резко побежала ко дворцу.@</ToTranslate>
+  </String>
+  <String index="38">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="39">
+    <ToTranslate>aa</ToTranslate>
+  </String>
+  <String index="40">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="41">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="42">
+    <ToTranslate>$И спустя какое-то время вернулась уже с оружием.@</ToTranslate>
+  </String>
+  <String index="43">
+    <ToTranslate>aa</ToTranslate>
+  </String>
+  <String index="44">
+    <ToTranslate>bcg_wasteland_a</ToTranslate>
+  </String>
+  <String index="45">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="46">
+    <ToTranslate>bgm03</ToTranslate>
+  </String>
+  <String index="47">
+    <ToTranslate>tcg_cry11ba</ToTranslate>
+  </String>
+  <String index="48">
+    <ToTranslate>tcg_cry11m</ToTranslate>
+  </String>
+  <String index="49">
+    <ToTranslate>chor0272</ToTranslate>
+  </String>
+  <String index="50">
+    <ToTranslate>Чёрьё$"Но всё же, почему правитель должен совершать обходы?"@</ToTranslate>
+  </String>
+  <String index="51">
+    <ToTranslate>Казуто$"У нас мало людей. Даже более того, кроме Айши и Шури больше никто не способен к администрированию."@</ToTranslate>
+  </String>
+  <String index="52">
+    <ToTranslate>tcg_cry21ea</ToTranslate>
+  </String>
+  <String index="53">
+    <ToTranslate>tcg_cry21m</ToTranslate>
+  </String>
+  <String index="54">
+    <ToTranslate>chor0273</ToTranslate>
+  </String>
+  <String index="55">
+    <ToTranslate>Чёрьё$"*Вздох...* и из-за этого приходится патрулировать лично? Мне тебя даже жалко стало."@</ToTranslate>
+  </String>
+  <String index="56">
+    <ToTranslate>Казуто$"Как и мне себя, но я верю - всё изменится в лучшую сторону."@</ToTranslate>
+  </String>
+  <String index="57">
+    <ToTranslate>Казуто$"Мы уже начали обучение заместителей генералов, плюс к этому ты помогаешь мне."@</ToTranslate>
+  </String>
+  <String index="58">
+    <ToTranslate>chor0274</ToTranslate>
+  </String>
+  <String index="59">
+    <ToTranslate>Чёрьё$"Хм-м... я рада, что ты доверяешь военнопленным, и со слов Айши твоё великодушие твоя сильная сторона, но..." @</ToTranslate>
+  </String>
+  <String index="60">
+    <ToTranslate>tcg_cry11ba</ToTranslate>
+  </String>
+  <String index="61">
+    <ToTranslate>tcg_cry11m</ToTranslate>
+  </String>
+  <String index="62">
+    <ToTranslate>chor0275</ToTranslate>
+  </String>
+  <String index="63">
+    <ToTranslate>Чёрьё$"Количество одарённых людей определяет силу страны. Большие или маленькие, но проблемы всё равно появятся. Ты должен серьёзнее думать об этом."@</ToTranslate>
+  </String>
+  <String index="64">
+    <ToTranslate>Казуто$"Спасибо и тебе за твой вклад, я обязательно что-нибудь придумаю."@</ToTranslate>
+  </String>
+  <String index="65">
+    <ToTranslate>chor0276</ToTranslate>
+  </String>
+  <String index="66">
+    <ToTranslate>Чёрьё$"Ты просто обязан, а я помогу, если понадобиться моя помощь."@</ToTranslate>
+  </String>
+  <String index="67">
+    <ToTranslate>Казуто$"Буду надеяться, ещё раз спасибо, Сия." @</ToTranslate>
+  </String>
+  <String index="68">
+    <ToTranslate>tcg_cry31ja</ToTranslate>
+  </String>
+  <String index="69">
+    <ToTranslate>tcg_cry31m</ToTranslate>
+  </String>
+  <String index="70">
+    <ToTranslate>chor0277</ToTranslate>
+  </String>
+  <String index="71">
+    <ToTranslate>Чёрьё$"О нет... я прямо смущаюсь от стольких слов благодарности."@</ToTranslate>
+  </String>
+  <String index="72">
+    <ToTranslate>$Потирая волосы Сия отвела глаза в сторону.@</ToTranslate>
+  </String>
+  <String index="73">
+    <ToTranslate>tcg_cry11ba</ToTranslate>
+  </String>
+  <String index="74">
+    <ToTranslate>tcg_cry11m</ToTranslate>
+  </String>
+  <String index="75">
+    <ToTranslate>chor0278</ToTranslate>
+  </String>
+  <String index="76">
+    <ToTranslate>Чёрьё$"Не важно, но позже я хочу поговорить кое о чём."@</ToTranslate>
+  </String>
+  <String index="77">
+    <ToTranslate>Казуто$"О? Идёт... а о чём же?"@</ToTranslate>
+  </String>
+  <String index="78">
+    <ToTranslate>tcg_cry31ja</ToTranslate>
+  </String>
+  <String index="79">
+    <ToTranslate>tcg_cry31m</ToTranslate>
+  </String>
+  <String index="80">
+    <ToTranslate>chor0279</ToTranslate>
+  </String>
+  <String index="81">
+    <ToTranslate>Чёрьё$"У-у-у, не сейчас, я сильно стесняюсь."@</ToTranslate>
+  </String>
+  <String index="82">
+    <ToTranslate>Казуто$"...?? А-а, ну ладно."@</ToTranslate>
+  </String>
+  <String index="83">
+    <ToTranslate>$Думаю, она просто не хочет чтобы солдаты слышали нас.@</ToTranslate>
+  </String>
+  <String index="84">
+    <ToTranslate>Казуто$"Что ж, тогда может после обхода, где-нибудь возле реки?"@</ToTranslate>
+  </String>
+  <String index="85">
+    <ToTranslate>chor0280</ToTranslate>
+  </String>
+  <String index="86">
+    <ToTranslate>Чёрьё$"Идёт..."@</ToTranslate>
+  </String>
+  <String index="87">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="88">
+    <ToTranslate>aa</ToTranslate>
+  </String>
+  <String index="89">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="90">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="91">
+    <ToTranslate>$Мы решили обойти луг и рощу у сельской святыни.@</ToTranslate>
+  </String>
+  <String index="92">
+    <ToTranslate>$На лугах мы согнали пару воров, сделавших местные развалины своим домом. Едва завидев Чёрьё, воры скрылись в неизвестном направлении, крича от ужаса что-то вроде@</ToTranslate>
+  </String>
+  <String index="93">
+    <ToTranslate>$"Рио-рио-ла!"@</ToTranslate>
+  </String>
+  <String index="94">
+    <ToTranslate>$Что сильно меня впечатлило.@</ToTranslate>
+  </String>
+  <String index="95">
+    <ToTranslate>$Что ж, в конце-концов она вполне известна как воин.@</ToTranslate>
+  </String>
+  <String index="96">
+    <ToTranslate>$Обычно безрассудная, но всегда грозная, стоит ей стать серьёзней.@</ToTranslate>
+  </String>
+  <String index="97">
+    <ToTranslate>$После этого мы закончили патрулирование. После я сказал солдатам отдыхать на берегу реки, ну а мы с Сией направились дальше.@</ToTranslate>
+  </String>
+  <String index="98">
+    <ToTranslate>aa</ToTranslate>
+  </String>
+  <String index="99">
+    <ToTranslate>bcg_river_a</ToTranslate>
+  </String>
+  <String index="100">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="101">
+    <ToTranslate>bgm23</ToTranslate>
+  </String>
+  <String index="102">
+    <ToTranslate>Казуто$"Итак, о чём же таком ты хотела поговорить со мной?"@</ToTranslate>
+  </String>
+  <String index="103">
+    <ToTranslate>tcg_cry31ja</ToTranslate>
+  </String>
+  <String index="104">
+    <ToTranslate>tcg_cry31m</ToTranslate>
+  </String>
+  <String index="105">
+    <ToTranslate>chor0281</ToTranslate>
+  </String>
+  <String index="106">
+    <ToTranslate>Чёрьё$"Ну..."@</ToTranslate>
+  </String>
+  <String index="107">
+    <ToTranslate>chor0282</ToTranslate>
+  </String>
+  <String index="108">
+    <ToTranslate>Чёрьё$"Спросить, я хотела кое-что у тебя..."@</ToTranslate>
+  </String>
+  <String index="109">
+    <ToTranslate>Казуто$"Что ж, давай."@</ToTranslate>
+  </String>
+  <String index="110">
+    <ToTranslate>chor0283</ToTranslate>
+  </String>
+  <String index="111">
+    <ToTranslate>Чёрьё$"Скажи я... красивая?"@</ToTranslate>
+  </String>
+  <String index="112">
+    <ToTranslate>Казуто$"Га...?"@</ToTranslate>
+  </String>
+  <String index="113">
+    <ToTranslate>chor0284</ToTranslate>
+  </String>
+  <String index="114">
+    <ToTranslate>Чёрьё$"Как думаешь, как девушку, меня можно назвать красивой?"@</ToTranslate>
+  </String>
+  <String index="115">
+    <ToTranslate>Казуто$"Можно, более того, тебя можно назвать необычайно красивой."@</ToTranslate>
+  </String>
+  <String index="116">
+    <ToTranslate>tcg_cry11pa</ToTranslate>
+  </String>
+  <String index="117">
+    <ToTranslate>tcg_cry11m</ToTranslate>
+  </String>
+  <String index="118">
+    <ToTranslate>chor0285</ToTranslate>
+  </String>
+  <String index="119">
+    <ToTranslate>Чёрьё$"В самом деле...? В самом деле так думаешь?"@</ToTranslate>
+  </String>
+  <String index="120">
+    <ToTranslate>Казуто$"В самом деле... никак тебе кто-то сказал что ты не красивая?"@</ToTranslate>
+  </String>
+  <String index="121">
+    <ToTranslate>Казуто$"Если да то покажи его мне, и я ясно растолкую ему в чём заключается твоя привлекательность."@</ToTranslate>
+  </String>
+  <String index="122">
+    <ToTranslate>tcg_cry11oa</ToTranslate>
+  </String>
+  <String index="123">
+    <ToTranslate>tcg_cry11m</ToTranslate>
+  </String>
+  <String index="124">
+    <ToTranslate>chor0286</ToTranslate>
+  </String>
+  <String index="125">
+    <ToTranslate>Чёрьё$"Эхе-хе, никто... никто не говорил мне такого."@</ToTranslate>
+  </String>
+  <String index="126">
+    <ToTranslate>Казуто$"Ум? Тогда к чему столько переживаний, если никто не говорил тебе ничего подобного?"@</ToTranslate>
+  </String>
+  <String index="127">
+    <ToTranslate>chor0287</ToTranslate>
+  </String>
+  <String index="128">
+    <ToTranslate>Чёрьё$"Ум... знаешь что, Господин..."@</ToTranslate>
+  </String>
+  <String index="129">
+    <ToTranslate>chor0288</ToTranslate>
+  </String>
+  <String index="130">
+    <ToTranslate>Чёрьё$"Если я поступлю вот так..."@</ToTranslate>
+  </String>
+  <String index="131">
+    <ToTranslate>$Говоря это, Сия взяла мою руду и поднесла к своей груди.@</ToTranslate>
+  </String>
+  <String index="132">
+    <ToTranslate>Казуто$"О-о... так вот что происходит?"@</ToTranslate>
+  </String>
+  <String index="133">
+    <ToTranslate>chor0289</ToTranslate>
+  </String>
+  <String index="134">
+    <ToTranslate>Чёрьё$"Будь я правда красивой девушкой, что бы ты сделал?"@</ToTranslate>
+  </String>
+  <String index="135">
+    <ToTranslate>Казуто$"Всё ещё сомневаешься в моих словах?"@</ToTranslate>
+  </String>
+  <String index="136">
+    <ToTranslate>chor0290</ToTranslate>
+  </String>
+  <String index="137">
+    <ToTranslate>Чёрьё$"Разумеется нет, однако, я хочу убедиться..."@</ToTranslate>
+  </String>
+  <String index="138">
+    <ToTranslate>$Сия снова вдавилась грудью мне в руку.@</ToTranslate>
+  </String>
+  <String index="139">
+    <ToTranslate>Казуто$"......"@</ToTranslate>
+  </String>
+  <String index="140">
+    <ToTranslate>$Казуто младший сразу же отреагировал, едва почувствовав их мягкие прикосновения.@</ToTranslate>
+  </String>
+  <String index="141">
+    <ToTranslate>$...а что ещё мне оставалось. Я же мужчина.@</ToTranslate>
+  </String>
+  <String index="142">
+    <ToTranslate>tcg_cry31la</ToTranslate>
+  </String>
+  <String index="143">
+    <ToTranslate>tcg_cry31ml</ToTranslate>
+  </String>
+  <String index="144">
+    <ToTranslate>chor0291</ToTranslate>
+  </String>
+  <String index="145">
+    <ToTranslate>Чёрьё$"Скажи... он встал?"@</ToTranslate>
+  </String>
+  <String index="146">
+    <ToTranslate>Казуто$"Что!?"@</ToTranslate>
+  </String>
+  <String index="147">
+    <ToTranslate>chor0292</ToTranslate>
+  </String>
+  <String index="148">
+    <ToTranslate>Чёрьё$"Ведь в подобной ситуации любой мужчина должен был возбудиться, да...? Как насчёт тебя...?" @</ToTranslate>
+  </String>
+  <String index="149">
+    <ToTranslate>Казуто$"Да, и я тоже... прикоснись к нему."@</ToTranslate>
+  </String>
+  <String index="150">
+    <ToTranslate>chor0293</ToTranslate>
+  </String>
+  <String index="151">
+    <ToTranslate>Чёрьё$"А-а... и правда... действительно твёрдый."@</ToTranslate>
+  </String>
+  <String index="152">
+    <ToTranslate>Казуто$"Видишь? Всё доказано... теперь можешь и отойти." @</ToTranslate>
+  </String>
+  <String index="153">
+    <ToTranslate>tcg_cry11oa</ToTranslate>
+  </String>
+  <String index="154">
+    <ToTranslate>tcg_cry11m</ToTranslate>
+  </String>
+  <String index="155">
+    <ToTranslate>chor0294</ToTranslate>
+  </String>
+  <String index="156">
+    <ToTranslate>Чёрьё$"Неа..."@</ToTranslate>
+  </String>
+  <String index="157">
+    <ToTranslate>Казуто$"Я не смогу себя долго сдерживать если ты не..."@</ToTranslate>
+  </String>
+  <String index="158">
+    <ToTranslate>chor0295</ToTranslate>
+  </String>
+  <String index="159">
+    <ToTranslate>Чёрьё$"Это приемлимо."@</ToTranslate>
+  </String>
+  <String index="160">
+    <ToTranslate>Казуто$"Э-эй..."@</ToTranslate>
+  </String>
+  <String index="161">
+    <ToTranslate>chor0296</ToTranslate>
+  </String>
+  <String index="162">
+    <ToTranslate>Чёрьё$"Нет нужны себя сдерживать. Ведь я... я люблю тебя больше чем всех остальных мужчин." @</ToTranslate>
+  </String>
+  <String index="163">
+    <ToTranslate>chor0297</ToTranslate>
+  </String>
+  <String index="164">
+    <ToTranslate>Чёрьё$"Поэтому Сия... хочет отдать тебе свою девственность..."@</ToTranslate>
+  </String>
+  <String index="165">
+    <ToTranslate>Казуто$"Эй... не говори так!"@</ToTranslate>
+  </String>
+  <String index="166">
+    <ToTranslate>tcg_cry31ka</ToTranslate>
+  </String>
+  <String index="167">
+    <ToTranslate>tcg_cry31m</ToTranslate>
+  </String>
+  <String index="168">
+    <ToTranslate>chor0298</ToTranslate>
+  </String>
+  <String index="169">
+    <ToTranslate>Чёрьё$"Почему нет? Значит, ты всё-таки не считаешь меня привлекательной?"@</ToTranslate>
+  </String>
+  <String index="170">
+    <ToTranslate>Казуто$"Вопрос не в том считаю или нет. Разве девушкам не важно беречь свою девственность? Уверен я не стою этого только потому, что чуть лучше всех остальных."@</ToTranslate>
+  </String>
+  <String index="171">
+    <ToTranslate>tcg_cry31ja</ToTranslate>
+  </String>
+  <String index="172">
+    <ToTranslate>tcg_cry31m</ToTranslate>
+  </String>
+  <String index="173">
+    <ToTranslate>chor0299</ToTranslate>
+  </String>
+  <String index="174">
+    <ToTranslate>Чёрьё$"Но, Господин, я люблю тебя... разве этого не достаточно...?"@</ToTranslate>
+  </String>
+  <String index="175">
+    <ToTranslate>Казуто$"Но на самом деле ты ведь любишь Айшу?"@</ToTranslate>
+  </String>
+  <String index="176">
+    <ToTranslate>chor0300</ToTranslate>
+  </String>
+  <String index="177">
+    <ToTranslate>Чёрьё$"Да, люблю. Но тебя я тоже люблю... и хочу, чтобы ты полюбил меня как женщину."@</ToTranslate>
+  </String>
+  <String index="178">
+    <ToTranslate>tcg_cry11oa</ToTranslate>
+  </String>
+  <String index="179">
+    <ToTranslate>tcg_cry11m</ToTranslate>
+  </String>
+  <String index="180">
+    <ToTranslate>chor0301</ToTranslate>
+  </String>
+  <String index="181">
+    <ToTranslate>Чёрьё$"Потому, что нет никого сильнее, добрее, красивее и энергичнее тебя во всём мире."@</ToTranslate>
+  </String>
+  <String index="182">
+    <ToTranslate>Казуто$"Ты крайне меня переоцениваешь."@</ToTranslate>
+  </String>
+  <String index="183">
+    <ToTranslate>chor0302</ToTranslate>
+  </String>
+  <String index="184">
+    <ToTranslate>Чёрьё$"Совсем нет, в тебе уйма мужской силы и обаяния... вполне естественно, что женщин влечёт к тебе в стойло." @</ToTranslate>
+  </String>
+  <String index="185">
+    <ToTranslate>Казуто$"Стойло? Я похож на коня?"@</ToTranslate>
+  </String>
+  <String index="186">
+    <ToTranslate>chor0303</ToTranslate>
+  </String>
+  <String index="187">
+    <ToTranslate>Чёрьё$"Когда заходит речь о подобном не существует различий меж людьми и животными. Нам просто следует поддаться собсвтенным инстинктам."@</ToTranslate>
+  </String>
+  <String index="188">
+    <ToTranslate>Казуто$"Возможно так..."@</ToTranslate>
+  </String>
+  <String index="189">
+    <ToTranslate>tcg_cry31ka</ToTranslate>
+  </String>
+  <String index="190">
+    <ToTranslate>tcg_cry31m</ToTranslate>
+  </String>
+  <String index="191">
+    <ToTranslate>chor0304</ToTranslate>
+  </String>
+  <String index="192">
+    <ToTranslate>Чёрьё$"А мой инстинкт кричит мне сделать это... поэтому не сбивай меня. Я итак сильно расстроена, что ты уже столько раз отвергнул меня." @</ToTranslate>
+  </String>
+  <String index="193">
+    <ToTranslate>Казуто$"А-а-а... прости."@</ToTranslate>
+  </String>
+  <String index="194">
+    <ToTranslate>Казуто$"Я приму твои чувства... и буду любить тебя."@</ToTranslate>
+  </String>
+  <String index="195">
+    <ToTranslate>tcg_cry11oa</ToTranslate>
+  </String>
+  <String index="196">
+    <ToTranslate>tcg_cry11m</ToTranslate>
+  </String>
+  <String index="197">
+    <ToTranslate>chor0305</ToTranslate>
+  </String>
+  <String index="198">
+    <ToTranslate>Чёрьё$"Ум... тогда... я хочу первой сделать что-нибудь для тебя."@</ToTranslate>
+  </String>
+  <String index="199">
+    <ToTranslate>Казуто$"Га!?"@</ToTranslate>
+  </String>
+  <String index="200">
+    <ToTranslate>chor0306</ToTranslate>
+  </String>
+  <String index="201">
+    <ToTranslate>Чёрьё$"Кочу и Сэй так говорили... женская грудь нужна для роста детей, и доставления удовольствия мужчинам..."@</ToTranslate>
+  </String>
+  <String index="202">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="203">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="204">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="205">
+    <ToTranslate>$Встав на колени, Сия зажала мой член меж своей здоровенной парой сисек. Они оказалась на удивление большими, не под стать её телосложению.@</ToTranslate>
+  </String>
+  <String index="206">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="207">
+    <ToTranslate>ecg_cry03a</ToTranslate>
+  </String>
+  <String index="208">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="209">
+    <ToTranslate>bgm20</ToTranslate>
+  </String>
+  <String index="210">
+    <ToTranslate>chor0307</ToTranslate>
+  </String>
+  <String index="211">
+    <ToTranslate>Чёрьё$"Ха... а-а... удивительно... до чего он горячий..."@</ToTranslate>
+  </String>
+  <String index="212">
+    <ToTranslate>$Её груди обдувались холодным речным ветром, и веющие прохладой, полностью окутали мой член.@</ToTranslate>
+  </String>
+  <String index="213">
+    <ToTranslate>Казуто$"Твоя грудь веет прохладой... скажи, тебе не холодно?"@</ToTranslate>
+  </String>
+  <String index="214">
+    <ToTranslate>chor0308</ToTranslate>
+  </String>
+  <String index="215">
+    <ToTranslate>Чёрьё$"Неа, я в норме... мне уже жарко только от того что я вижу твой пенис..."@</ToTranslate>
+  </String>
+  <String index="216">
+    <ToTranslate>Казуто$"Не нужно смущаться... от этого и я начинаю чувтствовать себя не ловко..."@</ToTranslate>
+  </String>
+  <String index="217">
+    <ToTranslate>chor0309</ToTranslate>
+  </String>
+  <String index="218">
+    <ToTranslate>Чёрьё$"Разве может быть иначе...? Ранее я никогда не показывала своё тело мужчине..."@</ToTranslate>
+  </String>
+  <String index="219">
+    <ToTranslate>Казуто$"....."@</ToTranslate>
+  </String>
+  <String index="220">
+    <ToTranslate>chor0310</ToTranslate>
+  </String>
+  <String index="221">
+    <ToTranslate>Чёрьё$"О? Господин, твой член снова стал больше... а я знаю почему. Тебе нравиться всегда самому срывать первый цветок?"@</ToTranslate>
+  </String>
+  <String index="222">
+    <ToTranslate>Казуто$"Н-нет...! Я просто... всё равно, я рад быть твоим первым..."@</ToTranslate>
+  </String>
+  <String index="223">
+    <ToTranslate>chor0311</ToTranslate>
+  </String>
+  <String index="224">
+    <ToTranslate>Чёрьё$"Хе-хе... как и я. Я искренне рада что ты станешь у меня первым."@</ToTranslate>
+  </String>
+  <String index="225">
+    <ToTranslate>Казуто$"Непривычно слышать, но я рад этому..."@</ToTranslate>
+  </String>
+  <String index="226">
+    <ToTranslate>chor0312</ToTranslate>
+  </String>
+  <String index="227">
+    <ToTranslate>Чёрьё$"Не волнуйся... тогда, можно ли мне начать, что скажешь?"@</ToTranslate>
+  </String>
+  <String index="228">
+    <ToTranslate>Казуто$"Разумеется..."@</ToTranslate>
+  </String>
+  <String index="229">
+    <ToTranslate>chor0313</ToTranslate>
+  </String>
+  <String index="230">
+    <ToTranslate>Чёрьё$"Это первый раз, неуверена что всё правильно сделаю... ты ведь скажешь мне, если тебе не понравится?"@</ToTranslate>
+  </String>
+  <String index="231">
+    <ToTranslate>Казуто$"Хорошо... можешь начинать, Сия."@</ToTranslate>
+  </String>
+  <String index="232">
+    <ToTranslate>chor0314</ToTranslate>
+  </String>
+  <String index="233">
+    <ToTranslate>Чёрьё$"Да..."@</ToTranslate>
+  </String>
+  <String index="234">
+    <ToTranslate>$Сия кивнула и медленно начала потирать член меж её сисек.@</ToTranslate>
+  </String>
+  <String index="235">
+    <ToTranslate>chor0315</ToTranslate>
+  </String>
+  <String index="236">
+    <ToTranslate>Чёрьё$"М-м... а-а... м-м-м... твой член... на удивление... хм... горячий..."@</ToTranslate>
+  </String>
+  <String index="237">
+    <ToTranslate>chor0316</ToTranslate>
+  </String>
+  <String index="238">
+    <ToTranslate>Чёрьё$"И так дрожит меж грудей... хотя я считаю это достаточно милым."@</ToTranslate>
+  </String>
+  <String index="239">
+    <ToTranslate>Казуто$"Милым? Достаточно необычные слова в такой момент..."@</ToTranslate>
+  </String>
+  <String index="240">
+    <ToTranslate>chor0317</ToTranslate>
+  </String>
+  <String index="241">
+    <ToTranslate>Чёрьё$"Необычно? Но ведь это правда. Он вздрагивает каждый раз, когда я прикасаюсь к нему."@</ToTranslate>
+  </String>
+  <String index="242">
+    <ToTranslate>Казуто$"Это потому... потому что это приятно."@</ToTranslate>
+  </String>
+  <String index="243">
+    <ToTranslate>chor0318</ToTranslate>
+  </String>
+  <String index="244">
+    <ToTranslate>Чёрьё$"Ох... приятно, да? Эхе-хе... я рада услышать это от тебя."@</ToTranslate>
+  </String>
+  <String index="245">
+    <ToTranslate>Казуто$"Рада?"@</ToTranslate>
+  </String>
+  <String index="246">
+    <ToTranslate>chor0319</ToTranslate>
+  </String>
+  <String index="247">
+    <ToTranslate>Чёрьё$"Мм. Чувствую, что отдаю себя тебе... как настоящая женщина. Вот почему."@</ToTranslate>
+  </String>
+  <String index="248">
+    <ToTranslate>Казуто$"Я рад что смог родиться мужчиной."@</ToTranslate>
+  </String>
+  <String index="249">
+    <ToTranslate>chor0320</ToTranslate>
+  </String>
+  <String index="250">
+    <ToTranslate>Чёрьё$"Тебе ведь правда приятно?"@</ToTranslate>
+  </String>
+  <String index="251">
+    <ToTranslate>Казуто$"Ещё бы..."@</ToTranslate>
+  </String>
+  <String index="252">
+    <ToTranslate>chor0321</ToTranslate>
+  </String>
+  <String index="253">
+    <ToTranslate>Чёрьё$"Эхе-хе... значит, мне нужно больше стараться."@</ToTranslate>
+  </String>
+  <String index="254">
+    <ToTranslate>$Застенчиво улыбнувшись, Сия продолжила ублажать меня своими сиськами.@</ToTranslate>
+  </String>
+  <String index="255">
+    <ToTranslate>$Её влажная грудь плавно гладит мой член. Чувство ни с чем не сравнимое.@</ToTranslate>
+  </String>
+  <String index="256">
+    <ToTranslate>chor0322</ToTranslate>
+  </String>
+  <String index="257">
+    <ToTranslate>Чёрьё$"А-а... из него что-то выходит."@</ToTranslate>
+  </String>
+  <String index="258">
+    <ToTranslate>Казуто$"Так всегда бывает когда мужчина возбуждается."@</ToTranslate>
+  </String>
+  <String index="259">
+    <ToTranslate>chor0323</ToTranslate>
+  </String>
+  <String index="260">
+    <ToTranslate>Чёрьё$"Значит это доказательство того что ты доволен... тогда, Господин, я хочу больше."@</ToTranslate>
+  </String>
+  <String index="261">
+    <ToTranslate>Казуто$"Увы, я не в состоянии контролировать это..."@</ToTranslate>
+  </String>
+  <String index="262">
+    <ToTranslate>chor0324</ToTranslate>
+  </String>
+  <String index="263">
+    <ToTranslate>Чёрьё$"Значит я заставлю тебя получить ещё больше удовольствия... чтобы сделать тебя ещё возбуждённее."@</ToTranslate>
+  </String>
+  <String index="264">
+    <ToTranslate>Казуто$"Хорошо... но я уже нервничаю..."@</ToTranslate>
+  </String>
+  <String index="265">
+    <ToTranslate>chor0325</ToTranslate>
+  </String>
+  <String index="266">
+    <ToTranslate>Чёрьё$"Эхе-хе... ещё бы."@</ToTranslate>
+  </String>
+  <String index="267">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="268">
+    <ToTranslate>ecg_cry03b</ToTranslate>
+  </String>
+  <String index="269">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="270">
+    <ToTranslate>chor0326</ToTranslate>
+  </String>
+  <String index="271">
+    <ToTranslate>Чёрьё$"Хм... ум, у-у.... м-м... аа..."@</ToTranslate>
+  </String>
+  <String index="272">
+    <ToTranslate>$Она зажала мой член между грудями и начала двигаться всем телом.@</ToTranslate>
+  </String>
+  <String index="273">
+    <ToTranslate>$Её белая, гладкая грудь построянно тёрлась о мой инструмент.@</ToTranslate>
+  </String>
+  <String index="274">
+    <ToTranslate>$Её пот и моя липкость беспорядочно смешались, сделав грудь скользкой, но чего-то по-прежнему не хватает.@</ToTranslate>
+  </String>
+  <String index="275">
+    <ToTranslate>Казуто$"Сия..."@</ToTranslate>
+  </String>
+  <String index="276">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="277">
+    <ToTranslate>ecg_cry03a</ToTranslate>
+  </String>
+  <String index="278">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="279">
+    <ToTranslate>chor0327</ToTranslate>
+  </String>
+  <String index="280">
+    <ToTranslate>Чёрьё$"Ха-а, а-а, м-м... что-то не так?"@</ToTranslate>
+  </String>
+  <String index="281">
+    <ToTranslate>Казуто$"Здесь... не хватает слюны."@</ToTranslate>
+  </String>
+  <String index="282">
+    <ToTranslate>chor0328</ToTranslate>
+  </String>
+  <String index="283">
+    <ToTranslate>Чёрьё$"Слюны? Где?"@</ToTranslate>
+  </String>
+  <String index="284">
+    <ToTranslate>Казуто$"Здесь..."@</ToTranslate>
+  </String>
+  <String index="285">
+    <ToTranslate>$Я ткнул членом в её грудь чтобы показать что я имею в виду.@</ToTranslate>
+  </String>
+  <String index="286">
+    <ToTranslate>chor0329</ToTranslate>
+  </String>
+  <String index="287">
+    <ToTranslate>Чёрьё$"Э-э... разве она не станет противной?"@</ToTranslate>
+  </String>
+  <String index="288">
+    <ToTranslate>Казуто$"Совсем нет. Она станет гладкой и..."@</ToTranslate>
+  </String>
+  <String index="289">
+    <ToTranslate>chor0330</ToTranslate>
+  </String>
+  <String index="290">
+    <ToTranslate>Чёрьё$"Господин, разве так правда станет лучше?"@</ToTranslate>
+  </String>
+  <String index="291">
+    <ToTranslate>Казуто$"Да..."@</ToTranslate>
+  </String>
+  <String index="292">
+    <ToTranslate>chor0331</ToTranslate>
+  </String>
+  <String index="293">
+    <ToTranslate>Чёрьё$"Эхе... изврат."@</ToTranslate>
+  </String>
+  <String index="294">
+    <ToTranslate>Казуто$"Молчать..."@</ToTranslate>
+  </String>
+  <String index="295">
+    <ToTranslate>chor0332</ToTranslate>
+  </String>
+  <String index="296">
+    <ToTranslate>Чёрьё$"Аха-ха, покраснел. Ты ведь можешь быть таким милым, Господин."@</ToTranslate>
+  </String>
+  <String index="297">
+    <ToTranslate>$Чёрьё улыбнулась, совсем как школьница из игры.@</ToTranslate>
+  </String>
+  <String index="298">
+    <ToTranslate>chor0333</ToTranslate>
+  </String>
+  <String index="299">
+    <ToTranslate>Чёрьё$"Что ж. Значит используем слюни... заранее извиняюсь если будет противно..."@</ToTranslate>
+  </String>
+  <String index="300">
+    <ToTranslate>$Она открыла рот.@</ToTranslate>
+  </String>
+  <String index="301">
+    <ToTranslate>chor0334</ToTranslate>
+  </String>
+  <String index="302">
+    <ToTranslate>Чёрьё$"А-а-а..."@</ToTranslate>
+  </String>
+  <String index="303">
+    <ToTranslate>$И начлаа цедить слюну на мой член.@</ToTranslate>
+  </String>
+  <String index="304">
+    <ToTranslate>Казуто$"О... она такая горячая... он так скоро сгорит."@</ToTranslate>
+  </String>
+  <String index="305">
+    <ToTranslate>chor0335</ToTranslate>
+  </String>
+  <String index="306">
+    <ToTranslate>Чёрьё$"Правда? Значит всё потому что я возбуждена..."@</ToTranslate>
+  </String>
+  <String index="307">
+    <ToTranslate>Казуто$"А ты возбуждена?"@</ToTranslate>
+  </String>
+  <String index="308">
+    <ToTranslate>chor0336</ToTranslate>
+  </String>
+  <String index="309">
+    <ToTranslate>Чёрьё$"Разумеется, а что мне остаётся, не каждый день делаешь что-то пободное."@</ToTranslate>
+  </String>
+  <String index="310">
+    <ToTranslate>$Изображая обиду она резко надула щёки.@</ToTranslate>
+  </String>
+  <String index="311">
+    <ToTranslate>Казуто$"Ты права..."@</ToTranslate>
+  </String>
+  <String index="312">
+    <ToTranslate>chor0337</ToTranslate>
+  </String>
+  <String index="313">
+    <ToTranslate>Чёрьё$"Разумется... но не волнуйся, я не стану останавливаться."@</ToTranslate>
+  </String>
+  <String index="314">
+    <ToTranslate>Казуто$"Лады... я тоже рад, потому... я с ума сойду если ты остановишься."@</ToTranslate>
+  </String>
+  <String index="315">
+    <ToTranslate>chor0338</ToTranslate>
+  </String>
+  <String index="316">
+    <ToTranslate>Чёрьё$"Аха-ха. Ещё бы, ведь твой член говорит мне тоже самое. Он настолько сильно дрожит и это так мило."@</ToTranslate>
+  </String>
+  <String index="317">
+    <ToTranslate>$Говоря это она нежно улыбнулась.@</ToTranslate>
+  </String>
+  <String index="318">
+    <ToTranslate>chor0339</ToTranslate>
+  </String>
+  <String index="319">
+    <ToTranslate>Чёрьё$"Что ж, следует побыстрее заставить тебя кончить... ведь... после ты поможешь мне сделать тоже самое...?"@</ToTranslate>
+  </String>
+  <String index="320">
+    <ToTranslate>Казуто$"Да. Я не успокоюсь после первого залпа, не волнуйся."@</ToTranslate>
+  </String>
+  <String index="321">
+    <ToTranslate>chor0340</ToTranslate>
+  </String>
+  <String index="322">
+    <ToTranslate>Чёрьё$"Ясно... ну тогда я постараюсь."@</ToTranslate>
+  </String>
+  <String index="323">
+    <ToTranslate>chor0341</ToTranslate>
+  </String>
+  <String index="324">
+    <ToTranslate>Чёрьё$"Но позже ты обязательно должен вознаградить меня."@</ToTranslate>
+  </String>
+  <String index="325">
+    <ToTranslate>Казуто$"Конечно же, разумеется."@</ToTranslate>
+  </String>
+  <String index="326">
+    <ToTranslate>chor0342</ToTranslate>
+  </String>
+  <String index="327">
+    <ToTranslate>Чёрьё$"Буду ждать с нетерпением."@</ToTranslate>
+  </String>
+  <String index="328">
+    <ToTranslate>$Чёрьё хихикнула, и начала перемешивать меня своими шарами.@</ToTranslate>
+  </String>
+  <String index="329">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="330">
+    <ToTranslate>ecg_cry03b</ToTranslate>
+  </String>
+  <String index="331">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="332">
+    <ToTranslate>chor0343</ToTranslate>
+  </String>
+  <String index="333">
+    <ToTranslate>Чёрьё$"М-м.... ум, м-м-м.... ум... м-м..."@</ToTranslate>
+  </String>
+  <String index="334">
+    <ToTranslate>$Чувствую тёплое дыхание идущее из её носа.@</ToTranslate>
+  </String>
+  <String index="335">
+    <ToTranslate>$С каждым её выдохом тёплый воздух обдувал мой лобок.@</ToTranslate>
+  </String>
+  <String index="336">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="337">
+    <ToTranslate>ecg_cry03a</ToTranslate>
+  </String>
+  <String index="338">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="339">
+    <ToTranslate>chor0344</ToTranslate>
+  </String>
+  <String index="340">
+    <ToTranslate>Чёрьё$"Ум... апчхи! Гу-у... эти волосы щекочут мой нос."@</ToTranslate>
+  </String>
+  <String index="341">
+    <ToTranslate>Казуто$"Ум-м... я здесь не в силах ничего изменить..."@</ToTranslate>
+  </String>
+  <String index="342">
+    <ToTranslate>chor0345</ToTranslate>
+  </String>
+  <String index="343">
+    <ToTranslate>Чёрьё$"Возможно сейчас и да, но... почему бы тогда не сбрить их?"@</ToTranslate>
+  </String>
+  <String index="344">
+    <ToTranslate>Казуто$"Ну нет. Не хочу выглядеть как пацан юных лет..."@</ToTranslate>
+  </String>
+  <String index="345">
+    <ToTranslate>chor0346</ToTranslate>
+  </String>
+  <String index="346">
+    <ToTranslate>Чёрьё$"Ты мог бы выглядеть крайне мило."@</ToTranslate>
+  </String>
+  <String index="347">
+    <ToTranslate>Казуто$"Умоляю... даже думать о таком не хочу."@</ToTranslate>
+  </String>
+  <String index="348">
+    <ToTranslate>chor0347</ToTranslate>
+  </String>
+  <String index="349">
+    <ToTranslate>Чёрьё$"А я хочу..."@</ToTranslate>
+  </String>
+  <String index="350">
+    <ToTranslate>Казуто$"Эм, Сия, можно немного сильнее...?"@</ToTranslate>
+  </String>
+  <String index="351">
+    <ToTranslate>chor0348</ToTranslate>
+  </String>
+  <String index="352">
+    <ToTranslate>Чёрьё$"Аха-ха, прости. С тобой так весело разговаривать, что я просто забыла обо всём."@</ToTranslate>
+  </String>
+  <String index="353">
+    <ToTranslate>$Она снова застенчиво улыбнулась.@</ToTranslate>
+  </String>
+  <String index="354">
+    <ToTranslate>chor0349</ToTranslate>
+  </String>
+  <String index="355">
+    <ToTranslate>Чёрьё$"Ты ведь не сможешь кончить если я не сделаю тебе приятно, да...? Тогда..."@</ToTranslate>
+  </String>
+  <String index="356">
+    <ToTranslate>$После она начала двигаться торсом, стимулируя и придавая былую твёрдость моему стержню.@</ToTranslate>
+  </String>
+  <String index="357">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="358">
+    <ToTranslate>ecg_cry03b</ToTranslate>
+  </String>
+  <String index="359">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="360">
+    <ToTranslate>chor0350</ToTranslate>
+  </String>
+  <String index="361">
+    <ToTranslate>Чёрьё$"Хм-м... ум, м-м-м... м-м, хм..."@</ToTranslate>
+  </String>
+  <String index="362">
+    <ToTranslate>$Её слюна растекается и перебирается с меня в долину грудей.@</ToTranslate>
+  </String>
+  <String index="363">
+    <ToTranslate>Казуто$"М-м-м-м-м..."@</ToTranslate>
+  </String>
+  <String index="364">
+    <ToTranslate>$Её огромные груди оказались настолько мягкими... от этой мысли озноб пробегает по моей спине.@</ToTranslate>
+  </String>
+  <String index="365">
+    <ToTranslate>$С каждым движением уровень возбуждения нарастает и член выделяет всё больше и больше жидкости.@</ToTranslate>
+  </String>
+  <String index="366">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="367">
+    <ToTranslate>ecg_cry03a</ToTranslate>
+  </String>
+  <String index="368">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="369">
+    <ToTranslate>chor0351</ToTranslate>
+  </String>
+  <String index="370">
+    <ToTranslate>Чёрьё$"Эхе-е... вот и оно, первые слёзы твоего возбуждения."@</ToTranslate>
+  </String>
+  <String index="371">
+    <ToTranslate>Казуто$"Ур... что-то мне по себе от того как ты это называешь."@</ToTranslate>
+  </String>
+  <String index="372">
+    <ToTranslate>chor0352</ToTranslate>
+  </String>
+  <String index="373">
+    <ToTranslate>Чёрьё$"Э-э... не понравилось?"@</ToTranslate>
+  </String>
+  <String index="374">
+    <ToTranslate>Казуто$"Совсем не понравилось..."@</ToTranslate>
+  </String>
+  <String index="375">
+    <ToTranslate>chor0353</ToTranslate>
+  </String>
+  <String index="376">
+    <ToTranslate>Чёрьё$"А-а? Совсем...? Ой, ито так. Он уменьшается..."@</ToTranslate>
+  </String>
+  <String index="377">
+    <ToTranslate>$В миг когда я услышал её сравнения меня посетил дядя ступор.@</ToTranslate>
+  </String>
+  <String index="378">
+    <ToTranslate>chor0354</ToTranslate>
+  </String>
+  <String index="379">
+    <ToTranslate>Чёрьё$"У-у... он так станет совсем маленьким... ну же, пенис-чан, стань большим как раньше!"@</ToTranslate>
+  </String>
+  <String index="380">
+    <ToTranslate>Казуто$"Хм-м... тогда, может попробуешь коснуться его языком?"@</ToTranslate>
+  </String>
+  <String index="381">
+    <ToTranslate>chor0355</ToTranslate>
+  </String>
+  <String index="382">
+    <ToTranslate>Чёрьё$"Уа-а? Неужели, он хочет, чтобы я сосала его?"@</ToTranslate>
+  </String>
+  <String index="383">
+    <ToTranslate>Казуто$"Ты ведь знаешь как это делаеть...? Верно, я хочу, чтобы ты лизала его до тех пор, пока он снова не решит твёрдым стать снова."@</ToTranslate>
+  </String>
+  <String index="384">
+    <ToTranslate>chor0356</ToTranslate>
+  </String>
+  <String index="385">
+    <ToTranslate>Чёрьё$"У-у... чувствую, что не очень охотно соглашусь сделать это..."@</ToTranslate>
+  </String>
+  <String index="386">
+    <ToTranslate>Казуто$"Ясно... ну, возможно это вполне естественно."@</ToTranslate>
+  </String>
+  <String index="387">
+    <ToTranslate>chor0357</ToTranslate>
+  </String>
+  <String index="388">
+    <ToTranslate>Чёрьё$"Но Господин... ты ведь хочешь этого?"@</ToTranslate>
+  </String>
+  <String index="389">
+    <ToTranslate>Казуто$"Да... потому что уверен, это очень приятно..."@</ToTranslate>
+  </String>
+  <String index="390">
+    <ToTranslate>chor0358</ToTranslate>
+  </String>
+  <String index="391">
+    <ToTranslate>Чёрьё$"Хорошо, я всё сделаю. Ведь я обещала что заставлю тебя кончить."@</ToTranslate>
+  </String>
+  <String index="392">
+    <ToTranslate>$Сия выглядит куда уверенее. @</ToTranslate>
+  </String>
+  <String index="393">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="394">
+    <ToTranslate>ecg_cry03b</ToTranslate>
+  </String>
+  <String index="395">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="396">
+    <ToTranslate>chor0359</ToTranslate>
+  </String>
+  <String index="397">
+    <ToTranslate>Чёрьё$"А-мм.... *лизь...* ум... м-м-м."@</ToTranslate>
+  </String>
+  <String index="398">
+    <ToTranslate>fse_cry01a</ToTranslate>
+  </String>
+  <String index="399">
+    <ToTranslate>$Сия принялась облизывать вершину вала.@</ToTranslate>
+  </String>
+  <String index="400">
+    <ToTranslate>Казуто$"Ум-м!"@</ToTranslate>
+  </String>
+  <String index="401">
+    <ToTranslate>$На ощупь её язычок весь мягкий и липкий.@</ToTranslate>
+  </String>
+  <String index="402">
+    <ToTranslate>$Это оказалось настолько приятно что я не смог смолчать.@</ToTranslate>
+  </String>
+  <String index="403">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="404">
+    <ToTranslate>ecg_cry03a</ToTranslate>
+  </String>
+  <String index="405">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="406">
+    <ToTranslate>chor0360</ToTranslate>
+  </String>
+  <String index="407">
+    <ToTranslate>Чёрьё$"Ая? Я сделала что-то не так!?"@</ToTranslate>
+  </String>
+  <String index="408">
+    <ToTranslate>Казуто$"Н-нет... у тебя очень даже хорошо получается..."@</ToTranslate>
+  </String>
+  <String index="409">
+    <ToTranslate>chor0361</ToTranslate>
+  </String>
+  <String index="410">
+    <ToTranslate>Чёрьё$"Ха-а... значит всё правильно... ты напугал меня когда начал хрипеть."@</ToTranslate>
+  </String>
+  <String index="411">
+    <ToTranslate>Казуто$"Виноват... Сия. Продолжай."@</ToTranslate>
+  </String>
+  <String index="412">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="413">
+    <ToTranslate>ecg_cry03b</ToTranslate>
+  </String>
+  <String index="414">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="415">
+    <ToTranslate>chor0362</ToTranslate>
+  </String>
+  <String index="416">
+    <ToTranslate>Чёрьё$"Да... *плям...* м-м, *лизь,* м-м, *лизь...* ум-м."@</ToTranslate>
+  </String>
+  <String index="417">
+    <ToTranslate>fse_cry01b</ToTranslate>
+  </String>
+  <String index="418">
+    <ToTranslate>$Движения её языка вдоль вершины вызывают ни с чем не сравнимые ощущения.@</ToTranslate>
+  </String>
+  <String index="419">
+    <ToTranslate>Казуто$"Сия, теперь добавь движения грудью..."@</ToTranslate>
+  </String>
+  <String index="420">
+    <ToTranslate>chor0363</ToTranslate>
+  </String>
+  <String index="421">
+    <ToTranslate>Чёрьё$"Ум-м, ладно. М-м... *лизь, лизь....* м-м... а-а-а... ум... *лизь...*"@</ToTranslate>
+  </String>
+  <String index="422">
+    <ToTranslate>fse_cry01c</ToTranslate>
+  </String>
+  <String index="423">
+    <ToTranslate>$Одновременно с движениями языка вдоль вершины, она начала двигать грудью по всему валу.@</ToTranslate>
+  </String>
+  <String index="424">
+    <ToTranslate>$Брызг-брызг-брызг...@</ToTranslate>
+  </String>
+  <String index="425">
+    <ToTranslate>$Под влиянием её слюны мой член начал издавать влажные звуки.@</ToTranslate>
+  </String>
+  <String index="426">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="427">
+    <ToTranslate>ecg_cry03a</ToTranslate>
+  </String>
+  <String index="428">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="429">
+    <ToTranslate>chor0364</ToTranslate>
+  </String>
+  <String index="430">
+    <ToTranslate>Чёрьё$"Ухты... м-м, *лизь...* сколько же из него появляется липкой жидкости..." @</ToTranslate>
+  </String>
+  <String index="431">
+    <ToTranslate>chor0365</ToTranslate>
+  </String>
+  <String index="432">
+    <ToTranslate>Чёрьё$"И ещё... кажется он стал ещё больше... и ещё горячее..."@</ToTranslate>
+  </String>
+  <String index="433">
+    <ToTranslate>chor0366</ToTranslate>
+  </String>
+  <String index="434">
+    <ToTranslate>Чёрьё$"Он что, м-м... *лизь...* ум-м... после всего должен оказаться во мне?"@</ToTranslate>
+  </String>
+  <String index="435">
+    <ToTranslate>Казуто$"Да. Позже я обязательно поближе познакомлю тебя с ним."@</ToTranslate>
+  </String>
+  <String index="436">
+    <ToTranslate>chor0367</ToTranslate>
+  </String>
+  <String index="437">
+    <ToTranslate>Чёрьё$"Хорошо... хи-хи, хм-м, *лизь...* но я немного волнуюсь... а-а, *лизь...*"@</ToTranslate>
+  </String>
+  <String index="438">
+    <ToTranslate>fse_cry01a</ToTranslate>
+  </String>
+  <String index="439">
+    <ToTranslate>$Полным восхищения взглядом, Сия посмотрела мне прямо глаза.@</ToTranslate>
+  </String>
+  <String index="440">
+    <ToTranslate>chor0368</ToTranslate>
+  </String>
+  <String index="441">
+    <ToTranslate>Чёрьё$"Ум-м.... м-м-м, *лизь-лизь... плям...* уа-а... мой рот полностью пропитался запахом твоего члена..."@</ToTranslate>
+  </String>
+  <String index="442">
+    <ToTranslate>chor0369</ToTranslate>
+  </String>
+  <String index="443">
+    <ToTranslate>Чёрьё$"А ещё... вся грудь пропитана твоим соком... это так... волнующе..."@</ToTranslate>
+  </String>
+  <String index="444">
+    <ToTranslate>chor0370</ToTranslate>
+  </String>
+  <String index="445">
+    <ToTranslate>Чёрьё$"Хотя, кажется... *лизь...* мне... *лизь...* начинает нравиться... ум-м... *лизь...*"@</ToTranslate>
+  </String>
+  <String index="446">
+    <ToTranslate>fse_cry01c</ToTranslate>
+  </String>
+  <String index="447">
+    <ToTranslate>Казуто$"Начало нравится значит?"@</ToTranslate>
+  </String>
+  <String index="448">
+    <ToTranslate>chor0371</ToTranslate>
+  </String>
+  <String index="449">
+    <ToTranslate>Чёрьё$"Ум... думаю, мне нравится ухаживать за мужчиной подобным образом... ха-ха, возможно и я могу быть покорной..."@</ToTranslate>
+  </String>
+  <String index="450">
+    <ToTranslate>fse_cry01a</ToTranslate>
+  </String>
+  <String index="451">
+    <ToTranslate>Казуто$"Ох... я прям смущаюсь, когда ты так говоришь."@</ToTranslate>
+  </String>
+  <String index="452">
+    <ToTranslate>chor0372</ToTranslate>
+  </String>
+  <String index="453">
+    <ToTranslate>Чёрьё$"Всего лишь смущение? А ведь прям сейчас твой член дрожит как сумашедший."@</ToTranslate>
+  </String>
+  <String index="454">
+    <ToTranslate>fse_cry01b</ToTranslate>
+  </String>
+  <String index="455">
+    <ToTranslate>Казуто$"Ни один мужчина не сможет остаться равнодушным когда девушка признает его доминатором."@</ToTranslate>
+  </String>
+  <String index="456">
+    <ToTranslate>chor0373</ToTranslate>
+  </String>
+  <String index="457">
+    <ToTranslate>Чёрьё$"Значит, ты уже скоро кончишь?"@</ToTranslate>
+  </String>
+  <String index="458">
+    <ToTranslate>fse_cry01a</ToTranslate>
+  </String>
+  <String index="459">
+    <ToTranslate>Казуто$"Да, если ты не остановишься."@</ToTranslate>
+  </String>
+  <String index="460">
+    <ToTranslate>$Я начал гладить её шелковистые волосы.@</ToTranslate>
+  </String>
+  <String index="461">
+    <ToTranslate>chor0374</ToTranslate>
+  </String>
+  <String index="462">
+    <ToTranslate>Чёрьё$"Эхе-хе... твои руки такие большие."@</ToTranslate>
+  </String>
+  <String index="463">
+    <ToTranslate>Казуто$"Да ну... я же мужчина."@</ToTranslate>
+  </String>
+  <String index="464">
+    <ToTranslate>chor0375</ToTranslate>
+  </String>
+  <String index="465">
+    <ToTranslate>Чёрьё$"Точно-точно. Всё происходящее только сильнее доказывает, что ты настоящий мужчина..."@</ToTranslate>
+  </String>
+  <String index="466">
+    <ToTranslate>$Брызг-брызг...@</ToTranslate>
+  </String>
+  <String index="467">
+    <ToTranslate>$Приподняв груди, она сжала его ещё сильнее.@</ToTranslate>
+  </String>
+  <String index="468">
+    <ToTranslate>$И в этот миг струйка мутной жидкости стала просачиваться из моего напухшего вала.@</ToTranslate>
+  </String>
+  <String index="469">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="470">
+    <ToTranslate>ecg_cry03b</ToTranslate>
+  </String>
+  <String index="471">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="472">
+    <ToTranslate>chor0376</ToTranslate>
+  </String>
+  <String index="473">
+    <ToTranslate>Чёрьё$"А-а... на этот раз цвет уже немного другой..."@</ToTranslate>
+  </String>
+  <String index="474">
+    <ToTranslate>Казуто$"Всё потому что я скоро кончу..."@</ToTranslate>
+  </String>
+  <String index="475">
+    <ToTranslate>chor0377</ToTranslate>
+  </String>
+  <String index="476">
+    <ToTranslate>Чёрьё$"Вот как.... *плям...* ой, горько."@</ToTranslate>
+  </String>
+  <String index="477">
+    <ToTranslate>Казуто$"Я и сам не уверен в его вкусовых качествах..."@</ToTranslate>
+  </String>
+  <String index="478">
+    <ToTranslate>chor0378</ToTranslate>
+  </String>
+  <String index="479">
+    <ToTranslate>Чёрьё$"Во рту прямо зудит... отчего, почему? Но, мне нравится... *лизь... лизь... лизь...*"@</ToTranslate>
+  </String>
+  <String index="480">
+    <ToTranslate>fse_cry01a</ToTranslate>
+  </String>
+  <String index="481">
+    <ToTranslate>$Она лижет мой член точно трубочку от газировки.@</ToTranslate>
+  </String>
+  <String index="482">
+    <ToTranslate>$Влажные губы нежно гладят головку моего члена. Ощущения, будто я весь наэлектрифицирован.@</ToTranslate>
+  </String>
+  <String index="483">
+    <ToTranslate>chor0379</ToTranslate>
+  </String>
+  <String index="484">
+    <ToTranslate>Чёрьё$"Ум... *лизь...* ум-м, м-м-м... это.. м-м-м, *лизь...* так странно..."@</ToTranslate>
+  </String>
+  <String index="485">
+    <ToTranslate>chor0380</ToTranslate>
+  </String>
+  <String index="486">
+    <ToTranslate>Чёрьё$"Немного горький... хм, *лизь...* но когда я пытаюсь распробовать... м-м, *лизь...* голова начинает кружиться... *плям...*"@</ToTranslate>
+  </String>
+  <String index="487">
+    <ToTranslate>chor0381</ToTranslate>
+  </String>
+  <String index="488">
+    <ToTranslate>Чёрьё$"Не могу... м-м-м... остановиться... м-м-м, *лизь...*"@</ToTranslate>
+  </String>
+  <String index="489">
+    <ToTranslate>fse_cry01b</ToTranslate>
+  </String>
+  <String index="490">
+    <ToTranslate>$Сия продолжает жадно слизывать мои преждевременные выделения.@</ToTranslate>
+  </String>
+  <String index="491">
+    <ToTranslate>Казуто$"Я больше... не могу..."@</ToTranslate>
+  </String>
+  <String index="492">
+    <ToTranslate>$Чувствую, как вожделение скапливается в моём члене.@</ToTranslate>
+  </String>
+  <String index="493">
+    <ToTranslate>chor0382</ToTranslate>
+  </String>
+  <String index="494">
+    <ToTranslate>Чёрьё$"Ум-м, *лизь...* я заставлю тебя кончить много-много."@</ToTranslate>
+  </String>
+  <String index="495">
+    <ToTranslate>$Улыбнувшись, и посмотрев на меня помутневшими глазами, Сия уткнулась лицом в собственную ложбину чтобы сосать мой член ещё сильнее.@</ToTranslate>
+  </String>
+  <String index="496">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="497">
+    <ToTranslate>ecg_cry03e</ToTranslate>
+  </String>
+  <String index="498">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="499">
+    <ToTranslate>chor0383</ToTranslate>
+  </String>
+  <String index="500">
+    <ToTranslate>Чёрьё$"Ум-м... м-м-м... м-м-м... *лизь...* м-м... м-м-м."@</ToTranslate>
+  </String>
+  <String index="501">
+    <ToTranslate>fse_cry02a</ToTranslate>
+  </String>
+  <String index="502">
+    <ToTranslate>$Двигая головой она ещё сильнее стала сосать всю вершину.@</ToTranslate>
+  </String>
+  <String index="503">
+    <ToTranslate>chor0384</ToTranslate>
+  </String>
+  <String index="504">
+    <ToTranslate>Чёрьё$"Ум-м... м-м... хм-м... *сёрб...*"@</ToTranslate>
+  </String>
+  <String index="505">
+    <ToTranslate>chor0385</ToTranslate>
+  </String>
+  <String index="506">
+    <ToTranslate>Чёрьё$"Ума-а... а-а... хе-хе, теперь твой член прямо сверкает."@</ToTranslate>
+  </String>
+  <String index="507">
+    <ToTranslate>$Сия начала удовлетворённо смотреть на сияющий от слюны член. @</ToTranslate>
+  </String>
+  <String index="508">
+    <ToTranslate>$Её удовлетворённое выражение провоцирует меня ещё больше.@</ToTranslate>
+  </String>
+  <String index="509">
+    <ToTranslate>Казуто$"Больше жидкости..."@</ToTranslate>
+  </String>
+  <String index="510">
+    <ToTranslate>chor0386</ToTranslate>
+  </String>
+  <String index="511">
+    <ToTranslate>Чёрьё$"Хорошо..."@</ToTranslate>
+  </String>
+  <String index="512">
+    <ToTranslate>fse_cry02b</ToTranslate>
+  </String>
+  <String index="513">
+    <ToTranslate>$Сия кивнула и я ощутил теплоту её дыхания. Закрыв рот, она стала собирать в нём больше слюны.@</ToTranslate>
+  </String>
+  <String index="514">
+    <ToTranslate>chor0387</ToTranslate>
+  </String>
+  <String index="515">
+    <ToTranslate>Чёрьё$"*Лизь... плям...* ум-м..."@</ToTranslate>
+  </String>
+  <String index="516">
+    <ToTranslate>fse_cry02c</ToTranslate>
+  </String>
+  <String index="517">
+    <ToTranslate>$Ощущаю как тёплая слюна сбегает из её рта по моему члену.@</ToTranslate>
+  </String>
+  <String index="518">
+    <ToTranslate>Казуто$"О-о... совсем горячая..."@</ToTranslate>
+  </String>
+  <String index="519">
+    <ToTranslate>$Сия продолжает обмазывать меня ещё большим количетсвом слюны.@</ToTranslate>
+  </String>
+  <String index="520">
+    <ToTranslate>$Чувствую, как что-то мягкое, тёплое и липкое обволакивает меня внутри её рта.@</ToTranslate>
+  </String>
+  <String index="521">
+    <ToTranslate>chor0388</ToTranslate>
+  </String>
+  <String index="522">
+    <ToTranslate>Чёрьё$"Уху-ху... *сёрб... ум-м... м-м... м-м... м-м... м-м... плям...*"@</ToTranslate>
+  </String>
+  <String index="523">
+    <ToTranslate>fse_cry02a</ToTranslate>
+  </String>
+  <String index="524">
+    <ToTranslate>$Усмехнувшись, она начала медленно водить головой чтобы не проливать жидкость изо рта.@</ToTranslate>
+  </String>
+  <String index="525">
+    <ToTranslate>chor0389</ToTranslate>
+  </String>
+  <String index="526">
+    <ToTranslate>Чёрьё$"*Сёрб... сёрб...* м-м, *сёрб... сёрб...* ум-м-м..."@</ToTranslate>
+  </String>
+  <String index="527">
+    <ToTranslate>fse_cry02b</ToTranslate>
+  </String>
+  <String index="528">
+    <ToTranslate>$Чувствую на себе какждый теплых выдох, вырывающийся с её крошечного носа.@</ToTranslate>
+  </String>
+  <String index="529">
+    <ToTranslate>$В то же время, прорвавшаяся слюна сбегает по подбородку и струится на её грудь.@</ToTranslate>
+  </String>
+  <String index="530">
+    <ToTranslate>$Её сиськи начинают тереться о вал с большей лёгкостью.@</ToTranslate>
+  </String>
+  <String index="531">
+    <ToTranslate>$Ощущения почти такие же, будто я в её киске.@</ToTranslate>
+  </String>
+  <String index="532">
+    <ToTranslate>$Сейчас её груди уже не сжимают а мягко гладят мой член.@</ToTranslate>
+  </String>
+  <String index="533">
+    <ToTranslate>$Два различных стимула заставляют мой член выбросить ещё больше жидкости.@</ToTranslate>
+  </String>
+  <String index="534">
+    <ToTranslate>chor0390</ToTranslate>
+  </String>
+  <String index="535">
+    <ToTranslate>Чёрьё$"*Сёрб, сёрб, сёрб...* ум, ум-м... м-м... м-м, *сёрб... сёрб...*"@</ToTranslate>
+  </String>
+  <String index="536">
+    <ToTranslate>chor0391</ToTranslate>
+  </String>
+  <String index="537">
+    <ToTranslate>Чёрьё$"Твой член... м-м... тает... во рту... ум, м-м, *сёрб...*"@</ToTranslate>
+  </String>
+  <String index="538">
+    <ToTranslate>chor0392</ToTranslate>
+  </String>
+  <String index="539">
+    <ToTranslate>Чёрьё$"Кажется... ум-м, *сёрб...* что я занимаюсь сексом через рот... ум, м-м-м, *сёрб...*" @</ToTranslate>
+  </String>
+  <String index="540">
+    <ToTranslate>fse_cry02a</ToTranslate>
+  </String>
+  <String index="541">
+    <ToTranslate>$Взгляд Сии умолял меня кончить совсем как сирота вымаливающий еду.@</ToTranslate>
+  </String>
+  <String index="542">
+    <ToTranslate>Казуто$"Ха-а, а-а, а-а, а-а-а..."@</ToTranslate>
+  </String>
+  <String index="543">
+    <ToTranslate>chor0393</ToTranslate>
+  </String>
+  <String index="544">
+    <ToTranslate>Чёрьё$"Господин, вам приятно...? *Сёрб...сёрб...* Вам уже захотелось кончить? *Плям* Ответьте, *сёрб...*"@</ToTranslate>
+  </String>
+  <String index="545">
+    <ToTranslate>fse_cry02c</ToTranslate>
+  </String>
+  <String index="546">
+    <ToTranslate>Казуто$"О да... ещё как...!"@</ToTranslate>
+  </String>
+  <String index="547">
+    <ToTranslate>chor0394</ToTranslate>
+  </String>
+  <String index="548">
+    <ToTranslate>Чёрьё$"Тогда, настало время для этого..."@</ToTranslate>
+  </String>
+  <String index="549">
+    <ToTranslate>$Её загадочная улыбка заставила меня содрогнуться.@</ToTranslate>
+  </String>
+  <String index="550">
+    <ToTranslate>chor0395</ToTranslate>
+  </String>
+  <String index="551">
+    <ToTranslate>Чёрьё$"Хе-хе..."@</ToTranslate>
+  </String>
+  <String index="552">
+    <ToTranslate>$Эта улыбка будто--@</ToTranslate>
+  </String>
+  <String index="553">
+    <ToTranslate>$Эта улыбка точно знала о чём я подумал...@</ToTranslate>
+  </String>
+  <String index="554">
+    <ToTranslate>chor0396</ToTranslate>
+  </String>
+  <String index="555">
+    <ToTranslate>Чёрьё$"А-а... а-а-ам... *лизь*!"@</ToTranslate>
+  </String>
+  <String index="556">
+    <ToTranslate>fse_cry03a</ToTranslate>
+  </String>
+  <String index="557">
+    <ToTranslate>$Она открыла рот и захватила самую головку между зубами, затем закрыв рот, с громким присёрбываем стала сосать.@</ToTranslate>
+  </String>
+  <String index="558">
+    <ToTranslate>Казуто$"Гх-х!?"@</ToTranslate>
+  </String>
+  <String index="559">
+    <ToTranslate>chor0397</ToTranslate>
+  </String>
+  <String index="560">
+    <ToTranslate>Чёрьё$"Ум, ум, ум-м, *сёрб-сёрб-сёрб*! *Ум, ум-ум...*!"@</ToTranslate>
+  </String>
+  <String index="561">
+    <ToTranslate>chor0398</ToTranslate>
+  </String>
+  <String index="562">
+    <ToTranslate>Чёрьё$"Уа-а, м-м-м, *сёрб! М-м-м! Ум-м! М-м-м-м-м!*"@</ToTranslate>
+  </String>
+  <String index="563">
+    <ToTranslate>chor0399</ToTranslate>
+  </String>
+  <String index="564">
+    <ToTranslate>Чёрьё$"*Сёрб! М-м! Ум! Сёрб... сёрб! Сёрб!*"@</ToTranslate>
+  </String>
+  <String index="565">
+    <ToTranslate>fse_cry03b</ToTranslate>
+  </String>
+  <String index="566">
+    <ToTranslate>Казуто$"Ух, гх-х... Сия! Слишком сильно...!" @</ToTranslate>
+  </String>
+  <String index="567">
+    <ToTranslate>chor0400</ToTranslate>
+  </String>
+  <String index="568">
+    <ToTranslate>Чёрьё$"Уху-ху... *сёрб*, м-м, *плям! Плям-плям...!*"@</ToTranslate>
+  </String>
+  <String index="569">
+    <ToTranslate>chor0401</ToTranslate>
+  </String>
+  <String index="570">
+    <ToTranslate>Чёрьё$"Уа-а, а-ам! *Сёрб! Сёрб! Сёрб! Плям! Плям!*" @</ToTranslate>
+  </String>
+  <String index="571">
+    <ToTranslate>fse_cry03c</ToTranslate>
+  </String>
+  <String index="572">
+    <ToTranslate>$Одновременно сдавливая грудью мой  член от основания и до вершины она стала сосать сильнее чем когда-либо, вместе с тем её волосы всё больше распутываются.@</ToTranslate>
+  </String>
+  <String index="573">
+    <ToTranslate>$Используя всю верхнюю часть тела она выдавливает с меня последние силы сопротивляться.@</ToTranslate>
+  </String>
+  <String index="574">
+    <ToTranslate>Казуто$"Ух... а-а-а...!"@</ToTranslate>
+  </String>
+  <String index="575">
+    <ToTranslate>$Чувствую, как всё тело немеет от нахлынувшего восхищения.@</ToTranslate>
+  </String>
+  <String index="576">
+    <ToTranslate>$Вся моя сущность стремиться собраться в моих шарах дабы потом извергнуться подобно вулкану.@</ToTranslate>
+  </String>
+  <String index="577">
+    <ToTranslate>chor0402</ToTranslate>
+  </String>
+  <String index="578">
+    <ToTranslate>Чёрьё$"Ум, м-м, ум, ум, *сёрб! Сёрб*! Ум-м-м-м-м! *Сёрб-сёрб-сёрб*!"@</ToTranslate>
+  </String>
+  <String index="579">
+    <ToTranslate>chor0403</ToTranslate>
+  </String>
+  <String index="580">
+    <ToTranslate>Чёрьё$"*Сёрб-сёрб-сёрб! Сёрб! Сёрб! М-м-м...* ум-м! *Сёрб*!"@</ToTranslate>
+  </String>
+  <String index="581">
+    <ToTranslate>fse_cry03a</ToTranslate>
+  </String>
+  <String index="582">
+    <ToTranslate>Казуто$"Сия, я...!"@</ToTranslate>
+  </String>
+  <String index="583">
+    <ToTranslate>chor0404</ToTranslate>
+  </String>
+  <String index="584">
+    <ToTranslate>Чёрьё$"М-м-м, ум, ничего... *сёрб*, можешь кончить.. хм... прямо мне в рот... *сёрб!*"@</ToTranslate>
+  </String>
+  <String index="585">
+    <ToTranslate>chor0405</ToTranslate>
+  </String>
+  <String index="586">
+    <ToTranslate>Чёрьё$"*Плям, плям...* ум-м, м-м-м... м-м... ум, *сёрб.... сёрб...*"@</ToTranslate>
+  </String>
+  <String index="587">
+    <ToTranslate>chor0406</ToTranslate>
+  </String>
+  <String index="588">
+    <ToTranslate>Чёрьё$"Ум-м-м, быстрее... хм, *лизь...* дай мне... своё семя... *лизь..* прямо в рот!"@</ToTranslate>
+  </String>
+  <String index="589">
+    <ToTranslate>fse_cry03b</ToTranslate>
+  </String>
+  <String index="590">
+    <ToTranslate>$Её голос переполнен отчаянием.@</ToTranslate>
+  </String>
+  <String index="591">
+    <ToTranslate>$Она пристально держиться за вершину, будто пытаясь пресечь все попытки побега.@</ToTranslate>
+  </String>
+  <String index="592">
+    <ToTranslate>chor0407</ToTranslate>
+  </String>
+  <String index="593">
+    <ToTranslate>Чёрьё$"*Сёрб*! Хм, *сёрб-сёрб!*"@</ToTranslate>
+  </String>
+  <String index="594">
+    <ToTranslate>flash</ToTranslate>
+  </String>
+  <String index="595">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="596">
+    <ToTranslate>ecg_cry03c</ToTranslate>
+  </String>
+  <String index="597">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="598">
+    <ToTranslate>chor0408</ToTranslate>
+  </String>
+  <String index="599">
+    <ToTranslate>Чёрьё$"У-у-у!? Ум-м!? М-м-м!"@</ToTranslate>
+  </String>
+  <String index="600">
+    <ToTranslate>$Яростно пульсируя, мой член выстрелил струёй жидкости в её рот.@</ToTranslate>
+  </String>
+  <String index="601">
+    <ToTranslate>$Испуг и неожиданность заставили Сию испустить громкий крик подобный долгому стону.@</ToTranslate>
+  </String>
+  <String index="602">
+    <ToTranslate>chor0409</ToTranslate>
+  </String>
+  <String index="603">
+    <ToTranslate>Чёрьё$"Уи-и!? Кх-х, как... много... кх..."@</ToTranslate>
+  </String>
+  <String index="604">
+    <ToTranslate>Казуто$"Прости... но будет ещё..."@</ToTranslate>
+  </String>
+  <String index="605">
+    <ToTranslate>$Несмотря на её жалобы я не способен остановить извержение.@</ToTranslate>
+  </String>
+  <String index="606">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="607">
+    <ToTranslate>ecg_cry03d</ToTranslate>
+  </String>
+  <String index="608">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="609">
+    <ToTranslate>chor0410</ToTranslate>
+  </String>
+  <String index="610">
+    <ToTranslate>Чёрьё$"Уа-а,в а-а-а... рот переполнен... твоим теплом... хе-хе..."@</ToTranslate>
+  </String>
+  <String index="611">
+    <ToTranslate>Казуто$"Ум-м... ещё..."@</ToTranslate>
+  </String>
+  <String index="612">
+    <ToTranslate>$Тело дёрнулось, и все остатки с каналов потекли в её рот.@</ToTranslate>
+  </String>
+  <String index="613">
+    <ToTranslate>chor0411</ToTranslate>
+  </String>
+  <String index="614">
+    <ToTranslate>Чёрьё$"*Сёрб... глоток...* ум-м, м-м-м... *глоток-глоток-глоток...*"@</ToTranslate>
+  </String>
+  <String index="615">
+    <ToTranslate>chor0412</ToTranslate>
+  </String>
+  <String index="616">
+    <ToTranslate>Чёрьё$"Ум-м... фух..."@</ToTranslate>
+  </String>
+  <String index="617">
+    <ToTranslate>$Струя начала стремительно уменьшаться.@</ToTranslate>
+  </String>
+  <String index="618">
+    <ToTranslate>$Сия глотала каждую попавшую в её рот каплю, будто не желая расставаться с ними.@</ToTranslate>
+  </String>
+  <String index="619">
+    <ToTranslate>chor0413</ToTranslate>
+  </String>
+  <String index="620">
+    <ToTranslate>Чёрьё$"Ха-а... всё горло горит... как сперма смогла оказаться настолько горячей...?"@</ToTranslate>
+  </String>
+  <String index="621">
+    <ToTranslate>chor0414</ToTranslate>
+  </String>
+  <String index="622">
+    <ToTranslate>Чёрьё$"Ещё немного и я потеряю себя..."@</ToTranslate>
+  </String>
+  <String index="623">
+    <ToTranslate>$Языком она слизала все остатки с краёв рта.@</ToTranslate>
+  </String>
+  <String index="624">
+    <ToTranslate>chor0415</ToTranslate>
+  </String>
+  <String index="625">
+    <ToTranslate>Чёрьё$"Неужели... здесь ещё что-то осталось. Я всё почищу."@</ToTranslate>
+  </String>
+  <String index="626">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="627">
+    <ToTranslate>ecg_cry03f</ToTranslate>
+  </String>
+  <String index="628">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="629">
+    <ToTranslate>$Липким язычком она стала слизывать сперму с моего вала.@</ToTranslate>
+  </String>
+  <String index="630">
+    <ToTranslate>chor0416</ToTranslate>
+  </String>
+  <String index="631">
+    <ToTranslate>Чёрьё$"*Плям...* хм-м, *лизь... лизь... лизь...* ум, а-а-а..."@</ToTranslate>
+  </String>
+  <String index="632">
+    <ToTranslate>chor0417</ToTranslate>
+  </String>
+  <String index="633">
+    <ToTranslate>Чёрьё$"*Сёрб...* м-м, *лизь-лизь...* ум... м-м-м... ха-а-а... всё ещё грязный..."@</ToTranslate>
+  </String>
+  <String index="634">
+    <ToTranslate>chor0418</ToTranslate>
+  </String>
+  <String index="635">
+    <ToTranslate>Чёрьё$"*Сёрб...* ум, *лизь-лизь-лизь... лизь... м-м-м... ум-м... сёрб.*"@</ToTranslate>
+  </String>
+  <String index="636">
+    <ToTranslate>chor0419</ToTranslate>
+  </String>
+  <String index="637">
+    <ToTranslate>Чёрьё$"*Сёрб....* м-м-м, весь рот горит от твоего запаха... хе-хе... *сёрб... лизь...* ум, м-м.... *лизь.*"@</ToTranslate>
+  </String>
+  <String index="638">
+    <ToTranslate>chor0420</ToTranslate>
+  </String>
+  <String index="639">
+    <ToTranslate>Чёрьё$"*Ум, лизь, лизь... сёрб!*"@</ToTranslate>
+  </String>
+  <String index="640">
+    <ToTranslate>chor0421</ToTranslate>
+  </String>
+  <String index="641">
+    <ToTranslate>Чёрьё$"Ва-а-а! А-а, а-а, а-а... хе-хе, так лучше. Господин, теперь ты совсем чистый."@</ToTranslate>
+  </String>
+  <String index="642">
+    <ToTranslate>Казуто$"Спасибо, но... ты настолько старательно его вылизала, что он снова..."@</ToTranslate>
+  </String>
+  <String index="643">
+    <ToTranslate>chor0422</ToTranslate>
+  </String>
+  <String index="644">
+    <ToTranslate>Чёрьё$"Ум, снова вырос... ненасытный."@</ToTranslate>
+  </String>
+  <String index="645">
+    <ToTranslate>$Сия захихикала.@</ToTranslate>
+  </String>
+  <String index="646">
+    <ToTranslate>Казуто$"Мужчины, такими уж мы созданы... я должен был раньше об этом сказать."@</ToTranslate>
+  </String>
+  <String index="647">
+    <ToTranslate>chor0423</ToTranslate>
+  </String>
+  <String index="648">
+    <ToTranslate>Чёрьё$"Ни капли не сомневаюсь... я ведь сама такая." @</ToTranslate>
+  </String>
+  <String index="649">
+    <ToTranslate>chor0424</ToTranslate>
+  </String>
+  <String index="650">
+    <ToTranslate>Чёрьё$"Господин, с тех пор как я попробовала твоё семя, всё тело будто зудит..."@</ToTranslate>
+  </String>
+  <String index="651">
+    <ToTranslate>chor0425</ToTranslate>
+  </String>
+  <String index="652">
+    <ToTranslate>Чёрьё$"Твои флюиды должны оказаться внутри меня..."@</ToTranslate>
+  </String>
+  <String index="653">
+    <ToTranslate>$Взяв мою руку, Сия поднесла её к своей киске.@</ToTranslate>
+  </String>
+  <String index="654">
+    <ToTranslate>Казуто$"Неплохо... да ты совсем мокрая."@</ToTranslate>
+  </String>
+  <String index="655">
+    <ToTranslate>chor0426</ToTranslate>
+  </String>
+  <String index="656">
+    <ToTranslate>Чёрьё$"Да... так само получилось, когда я сосала твой член..."@</ToTranslate>
+  </String>
+  <String index="657">
+    <ToTranslate>chor0427</ToTranslate>
+  </String>
+  <String index="658">
+    <ToTranslate>Чёрьё$"Господин... моё тело ждёт... тело жаждет тебя... я просто не могу совладать с этим чувством..."@</ToTranslate>
+  </String>
+  <String index="659">
+    <ToTranslate>chor0428</ToTranslate>
+  </String>
+  <String index="660">
+    <ToTranslate>Чёрьё$"Поэтому... ты обязан сделать это со мной..."@</ToTranslate>
+  </String>
+  <String index="661">
+    <ToTranslate>Казуто$"Сия..."@</ToTranslate>
+  </String>
+  <String index="662">
+    <ToTranslate>chor0429</ToTranslate>
+  </String>
+  <String index="663">
+    <ToTranslate>Чёрьё$"У-у... не смотри мне в глаза... от этого я начинаю течь только сильнее..."@</ToTranslate>
+  </String>
+  <String index="664">
+    <ToTranslate>Казуто$"Что ж... я прослежу чтобы этого не случилось."@</ToTranslate>
+  </String>
+  <String index="665">
+    <ToTranslate>chor0430</ToTranslate>
+  </String>
+  <String index="666">
+    <ToTranslate>Чёрьё$"Каким образом...?"@</ToTranslate>
+  </String>
+  <String index="667">
+    <ToTranslate>Казуто$"Просто встань и предоставь всё остальное мне..."@</ToTranslate>
+  </String>
+  <String index="668">
+    <ToTranslate>chor0431</ToTranslate>
+  </String>
+  <String index="669">
+    <ToTranslate>Чёрьё$"Хорошо. Положусь на тебя..."@</ToTranslate>
+  </String>
+  <String index="670">
+    <ToTranslate>$Сия улыбнулась и медленно встала на ноги.@</ToTranslate>
+  </String>
+  <String index="671">
+    <ToTranslate>$Я взял её за руку и повел к ближайшему камню, после заставив упереться в него обеими руками.@</ToTranslate>
+  </String>
+  <String index="672">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="673">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="674">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="675">
+    <ToTranslate>chor0432</ToTranslate>
+  </String>
+  <String index="676">
+    <ToTranslate>Чёрьё$"Что-то я нервничаю..."@</ToTranslate>
+  </String>
+  <String index="677">
+    <ToTranslate>Казуто$"Боишься?"@</ToTranslate>
+  </String>
+  <String index="678">
+    <ToTranslate>chor0433</ToTranslate>
+  </String>
+  <String index="679">
+    <ToTranslate>Чёрьё$"Не то что бы боюсь... просто немного нервничаю."@</ToTranslate>
+  </String>
+  <String index="680">
+    <ToTranslate>chor0434</ToTranslate>
+  </String>
+  <String index="681">
+    <ToTranslate>Чёрьё$"Это у меня впервые... раньше даже не думала что стану трусишкой."@</ToTranslate>
+  </String>
+  <String index="682">
+    <ToTranslate>Казуто$"Все боятся впервые... это вполне естественно, и нельзя считать подобное трусостью."@</ToTranslate>
+  </String>
+  <String index="683">
+    <ToTranslate>chor0435</ToTranslate>
+  </String>
+  <String index="684">
+    <ToTranslate>Чёрьё$"Ты это серьёзно?"@</ToTranslate>
+  </String>
+  <String index="685">
+    <ToTranslate>Казуто$"Вполне."@</ToTranslate>
+  </String>
+  <String index="686">
+    <ToTranslate>chor0436</ToTranslate>
+  </String>
+  <String index="687">
+    <ToTranslate>Чёрьё$"Эхе-хе... странно, но после твоих слов мне стало спокойно." @</ToTranslate>
+  </String>
+  <String index="688">
+    <ToTranslate>chor0437</ToTranslate>
+  </String>
+  <String index="689">
+    <ToTranslate>Чёрьё$"Думаю, что знаю за что Айша любит тебя." @</ToTranslate>
+  </String>
+  <String index="690">
+    <ToTranslate>Казуто$"Возможно я не понимаю всего, но... ты не должна упоминать имён других девушек в подобное время."@</ToTranslate>
+  </String>
+  <String index="691">
+    <ToTranslate>chor0438</ToTranslate>
+  </String>
+  <String index="692">
+    <ToTranslate>Чёрьё$"А, ой, прости... твоя правда. Сейчас я и сама поняла."@</ToTranslate>
+  </String>
+  <String index="693">
+    <ToTranslate>$Сия изобразила кривую улыбку.@</ToTranslate>
+  </String>
+  <String index="694">
+    <ToTranslate>chor0439</ToTranslate>
+  </String>
+  <String index="695">
+    <ToTranslate>Чёрьё$"Тогда... будь со мной нежен?"@</ToTranslate>
+  </String>
+  <String index="696">
+    <ToTranslate>$И сразу после её бёдра уткнулись в меня.@</ToTranslate>
+  </String>
+  <String index="697">
+    <ToTranslate>$Я нежно провёл руками по ним.@</ToTranslate>
+  </String>
+  <String index="698">
+    <ToTranslate>Казуто$"Хорошо... тогда я начну."@</ToTranslate>
+  </String>
+  <String index="699">
+    <ToTranslate>$Сперва я начал медленно массировать её вход своим членом. После столь тщательного вылизывания языком он снова был готов к действию.@</ToTranslate>
+  </String>
+  <String index="700">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="701">
+    <ToTranslate>ecg_cry04a</ToTranslate>
+  </String>
+  <String index="702">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="703">
+    <ToTranslate>$Брызг...@</ToTranslate>
+  </String>
+  <String index="704">
+    <ToTranslate>$Я начал открывать отверстие своим закаменевшим удилищем.@</ToTranslate>
+  </String>
+  <String index="705">
+    <ToTranslate>chor0440</ToTranslate>
+  </String>
+  <String index="706">
+    <ToTranslate>Чёрьё$"И-и-и?!"@</ToTranslate>
+  </String>
+  <String index="707">
+    <ToTranslate>chor0441</ToTranslate>
+  </String>
+  <String index="708">
+    <ToTranslate>Чёрьё$"Уа-а, больно..."@</ToTranslate>
+  </String>
+  <String index="709">
+    <ToTranslate>Казуто$"Ты как?"@</ToTranslate>
+  </String>
+  <String index="710">
+    <ToTranslate>chor0442</ToTranslate>
+  </String>
+  <String index="711">
+    <ToTranslate>Чёрьё$"Гх... не знаю... не представляла, что будет настолько больно..."@</ToTranslate>
+  </String>
+  <String index="712">
+    <ToTranslate>chor0443</ToTranslate>
+  </String>
+  <String index="713">
+    <ToTranslate>Чёрьё$"Но... я выдержу. Я справлюсь с этим."@</ToTranslate>
+  </String>
+  <String index="714">
+    <ToTranslate>Казуто$"Судя по-твоему внешнему виду... тебе очень больно." @</ToTranslate>
+  </String>
+  <String index="715">
+    <ToTranslate>chor0444</ToTranslate>
+  </String>
+  <String index="716">
+    <ToTranslate>Чёрьё$"У-у-у... прости, мне действительно больно..."@</ToTranslate>
+  </String>
+  <String index="717">
+    <ToTranslate>Казуто$"Хорошо, лучше будет чуточку подождать."@</ToTranslate>
+  </String>
+  <String index="718">
+    <ToTranslate>chor0445</ToTranslate>
+  </String>
+  <String index="719">
+    <ToTranslate>Чёрьё$"Пасиб..."@</ToTranslate>
+  </String>
+  <String index="720">
+    <ToTranslate>$Ожидая момента когда тело привыкнет к боли, Сия то и дело тихонько похныкивает. @</ToTranslate>
+  </String>
+  <String index="721">
+    <ToTranslate>$затем--@</ToTranslate>
+  </String>
+  <String index="722">
+    <ToTranslate>chor0446</ToTranslate>
+  </String>
+  <String index="723">
+    <ToTranslate>Чёрьё$"Ах, а-а-а-а-а... так... теперья  в порядке..."@</ToTranslate>
+  </String>
+  <String index="724">
+    <ToTranslate>$Пусть так, но в её голосе всё ещё присутствует дрожь.@</ToTranslate>
+  </String>
+  <String index="725">
+    <ToTranslate>Казуто$"Уверена? Мы можем ещё подождать..."@</ToTranslate>
+  </String>
+  <String index="726">
+    <ToTranslate>chor0447</ToTranslate>
+  </String>
+  <String index="727">
+    <ToTranslate>Чёрьё$"Я в полном порядке... такая боль не сравнима с пережитою мною в сражениях." @</ToTranslate>
+  </String>
+  <String index="728">
+    <ToTranslate>Казуто$"Тогда если что сразу говори мне, лады?"@</ToTranslate>
+  </String>
+  <String index="729">
+    <ToTranslate>chor0448</ToTranslate>
+  </String>
+  <String index="730">
+    <ToTranslate>Чёрьё$"Да... эхе-хе, весьма бладорна за беспокойство."@</ToTranslate>
+  </String>
+  <String index="731">
+    <ToTranslate>$Сия задиристо улыбнулась, чувствую, как крепчает моё влечение к ней.@</ToTranslate>
+  </String>
+  <String index="732">
+    <ToTranslate>chor0449</ToTranslate>
+  </String>
+  <String index="733">
+    <ToTranslate>Чёрьё$"Ая...? Похоже, что твой пенис растёт в моей киске."@</ToTranslate>
+  </String>
+  <String index="734">
+    <ToTranslate>Казуто$"Это потому что ты кажешся крайне милой."@</ToTranslate>
+  </String>
+  <String index="735">
+    <ToTranslate>chor0450</ToTranslate>
+  </String>
+  <String index="736">
+    <ToTranslate>Чёрьё$"Аха-ха... значит это моё достижение? Достойная лесть."@</ToTranslate>
+  </String>
+  <String index="737">
+    <ToTranslate>$Кажись, ей пришлись по нраву такие слова.@</ToTranslate>
+  </String>
+  <String index="738">
+    <ToTranslate>$Она усмехнулась.@</ToTranslate>
+  </String>
+  <String index="739">
+    <ToTranslate>chor0451</ToTranslate>
+  </String>
+  <String index="740">
+    <ToTranslate>Чёрьё$"Достаточно, Господин, я готова... прошу, любите меня..."@</ToTranslate>
+  </String>
+  <String index="741">
+    <ToTranslate>$С покрасневшим лицом она попросила меня о продолжении.@</ToTranslate>
+  </String>
+  <String index="742">
+    <ToTranslate>Казуто$"Хорошо, Сия, тогда я начну."@</ToTranslate>
+  </String>
+  <String index="743">
+    <ToTranslate>chor0452</ToTranslate>
+  </String>
+  <String index="744">
+    <ToTranslate>Чёрьё$"Да..."@</ToTranslate>
+  </String>
+  <String index="745">
+    <ToTranslate>$Сия кивнула и я медленно начал двигать бёдрами.@</ToTranslate>
+  </String>
+  <String index="746">
+    <ToTranslate>$Хлюп... хлюп...@</ToTranslate>
+  </String>
+  <String index="747">
+    <ToTranslate>$Силой я заставил её тугую киску открыться.@</ToTranslate>
+  </String>
+  <String index="748">
+    <ToTranslate>chor0453</ToTranslate>
+  </String>
+  <String index="749">
+    <ToTranslate>Чёрьё$"Ек, я чувствую... как ваш член... входит в меня..."@</ToTranslate>
+  </String>
+  <String index="750">
+    <ToTranslate>$Всё её тело дрожит.@</ToTranslate>
+  </String>
+  <String index="751">
+    <ToTranslate>$Не уверен, от страха это или из-за радости, но она храбро приняла моё мужское начала в своей утробе.@</ToTranslate>
+  </String>
+  <String index="752">
+    <ToTranslate>chor0454</ToTranslate>
+  </String>
+  <String index="753">
+    <ToTranslate>Чёрьё$"Печёт... какой он горячий... он будто сжигает меня изнутри..."@</ToTranslate>
+  </String>
+  <String index="754">
+    <ToTranslate>Казуто$"Я крайне возбуждён... и всё благодаря тебе..."@</ToTranslate>
+  </String>
+  <String index="755">
+    <ToTranslate>chor0455</ToTranslate>
+  </String>
+  <String index="756">
+    <ToTranslate>Чёрьё$"Я правда вас возбуждаю? Хе-хе... значит, я и правда привлекательна..."@</ToTranslate>
+  </String>
+  <String index="757">
+    <ToTranslate>Казуто$"Теперь то мне веришь?"@</ToTranslate>
+  </String>
+  <String index="758">
+    <ToTranslate>chor0456</ToTranslate>
+  </String>
+  <String index="759">
+    <ToTranslate>Чёрьё$"Да... теперь через него я могу ощутить всё ваше тепло..." @</ToTranslate>
+  </String>
+  <String index="760">
+    <ToTranslate>$С этими словами она нежно погладила свой живот...@</ToTranslate>
+  </String>
+  <String index="761">
+    <ToTranslate>chor0457</ToTranslate>
+  </String>
+  <String index="762">
+    <ToTranslate>Чёрьё$"А... он сильнее входит в меня..."@</ToTranslate>
+  </String>
+  <String index="763">
+    <ToTranslate>$Она пробормотала эти слова с улыбкой.@</ToTranslate>
+  </String>
+  <String index="764">
+    <ToTranslate>Казуто$"Верно, сейчас он вошёл полностью... чувствуешь его?"@</ToTranslate>
+  </String>
+  <String index="765">
+    <ToTranslate>$Я слегка потрусил поясницей, чтобы сильнее прочувствовать глубину её матки. @</ToTranslate>
+  </String>
+  <String index="766">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="767">
+    <ToTranslate>ecg_cry04b</ToTranslate>
+  </String>
+  <String index="768">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="769">
+    <ToTranslate>chor0458</ToTranslate>
+  </String>
+  <String index="770">
+    <ToTranslate>Чёрьё$"Эк, м-м... я чувствую... твой член упирается прямо в меня..."@</ToTranslate>
+  </String>
+  <String index="771">
+    <ToTranslate>Казуто$"А теперь..."@</ToTranslate>
+  </String>
+  <String index="772">
+    <ToTranslate>$Брызг...@</ToTranslate>
+  </String>
+  <String index="773">
+    <ToTranslate>$Я медленно стал отводить свои бёдра.@</ToTranslate>
+  </String>
+  <String index="774">
+    <ToTranslate>chor0459</ToTranslate>
+  </String>
+  <String index="775">
+    <ToTranslate>Чёрьё$"Ха-а-а... кажется, будто меня выворачивает наизнанку..."@</ToTranslate>
+  </String>
+  <String index="776">
+    <ToTranslate>$Сия начала резко извиваться когда вал начал драть внутренние стенки её киски.@</ToTranslate>
+  </String>
+  <String index="777">
+    <ToTranslate>Казуто$"Как ты себя чувстуешь...?"@</ToTranslate>
+  </String>
+  <String index="778">
+    <ToTranslate>chor0460</ToTranslate>
+  </String>
+  <String index="779">
+    <ToTranslate>Чёрьё$"Ум-м... больно конечно, но в то же время это начинает доставлять удовольствие..."@</ToTranslate>
+  </String>
+  <String index="780">
+    <ToTranslate>Казуто$"Я могу начать двигаться немного быстрее?"@</ToTranslate>
+  </String>
+  <String index="781">
+    <ToTranslate>chor0461</ToTranslate>
+  </String>
+  <String index="782">
+    <ToTranslate>Чёрьё$"Хорошо, прошу, мой господин..."@</ToTranslate>
+  </String>
+  <String index="783">
+    <ToTranslate>$Она кивнула, и я крепко обхватил рукой её стройную талию.@</ToTranslate>
+  </String>
+  <String index="784">
+    <ToTranslate>Казуто$"Тогда я начну..."@</ToTranslate>
+  </String>
+  <String index="785">
+    <ToTranslate>$Стимулируя привыкание, я медленно начал подаваться взад и вперёд.@</ToTranslate>
+  </String>
+  <String index="786">
+    <ToTranslate>$Хлюп... брызг...@</ToTranslate>
+  </String>
+  <String index="787">
+    <ToTranslate>$С каждым движением, её киска выбрызгивала струю сока, в перемешку с хлюпающим звуком. @</ToTranslate>
+  </String>
+  <String index="788">
+    <ToTranslate>chor0462</ToTranslate>
+  </String>
+  <String index="789">
+    <ToTranslate>Чёрьё$"Уа-а... это... м-м, незабываемо... твой пенис такой твёрдый... а-ах..."@</ToTranslate>
+  </String>
+  <String index="790">
+    <ToTranslate>chor0463</ToTranslate>
+  </String>
+  <String index="791">
+    <ToTranslate>Чёрьё$"Не могу остановить дрожь внутри себя... потрясающе..."@</ToTranslate>
+  </String>
+  <String index="792">
+    <ToTranslate>Казуто$"Тебе нравится?"@</ToTranslate>
+  </String>
+  <String index="793">
+    <ToTranslate>chor0464</ToTranslate>
+  </String>
+  <String index="794">
+    <ToTranslate>Чёрьё$"Да, а-а... это... аха-а... так здорово... с каждым его движением... а-а, а-а-а... в голове белеет... а-а-а..."@</ToTranslate>
+  </String>
+  <String index="795">
+    <ToTranslate>chor0465</ToTranslate>
+  </String>
+  <String index="796">
+    <ToTranslate>Чёрьё$"Прекрасно... а-а, никогда не знала ничего подобного... уа-а..."@</ToTranslate>
+  </String>
+  <String index="797">
+    <ToTranslate>chor0466</ToTranslate>
+  </String>
+  <String index="798">
+    <ToTranslate>Чёрьё$"Господин... сильнее... хочу, чтобы вы перевернули всё внутри меня..."@</ToTranslate>
+  </String>
+  <String index="799">
+    <ToTranslate>Казуто$"Хорошо... тогда."@</ToTranslate>
+  </String>
+  <String index="800">
+    <ToTranslate>$Хлоп!@</ToTranslate>
+  </String>
+  <String index="801">
+    <ToTranslate>$Я силой вошёл в неё единым движением, и остановился только после удара моих бёдер о её задницу.@</ToTranslate>
+  </String>
+  <String index="802">
+    <ToTranslate>chor0467</ToTranslate>
+  </String>
+  <String index="803">
+    <ToTranslate>Чёрьё$"Уа-а-а! А-а, ха... ха-а-а..."@</ToTranslate>
+  </String>
+  <String index="804">
+    <ToTranslate>$Всё её дело задёргалось в удовольствии.@</ToTranslate>
+  </String>
+  <String index="805">
+    <ToTranslate>chor0468</ToTranslate>
+  </String>
+  <String index="806">
+    <ToTranslate>Чёрьё$"Когда ты так жаждешь меня, всё моё тело прямо в огне... это что-то невероятное..."@</ToTranslate>
+  </String>
+  <String index="807">
+    <ToTranslate>chor0469</ToTranslate>
+  </String>
+  <String index="808">
+    <ToTranslate>Чёрьё$"Ну же, Господин... ещё..."@</ToTranslate>
+  </String>
+  <String index="809">
+    <ToTranslate>Казуто$"Хочешь, чтоб я продолжил?"@</ToTranslate>
+  </String>
+  <String index="810">
+    <ToTranslate>chor0470</ToTranslate>
+  </String>
+  <String index="811">
+    <ToTranslate>Чёрьё$"Хочу чтобы... ты жестко меня поимел..."@</ToTranslate>
+  </String>
+  <String index="812">
+    <ToTranslate>$Сия умоляет довести её до состояния иждивения.@</ToTranslate>
+  </String>
+  <String index="813">
+    <ToTranslate>$Её киска всё ещё дрожит, будто доказывая серьёзность её намерения.@</ToTranslate>
+  </String>
+  <String index="814">
+    <ToTranslate>$Я резко ощутил сильное желание кончить.@</ToTranslate>
+  </String>
+  <String index="815">
+    <ToTranslate>$Поддавшись желанию, я увеличиваю силу и скорость, как она и хотела.@</ToTranslate>
+  </String>
+  <String index="816">
+    <ToTranslate>$Громкий звук ударов нашей плоти смешивается с журчанием реки.@</ToTranslate>
+  </String>
+  <String index="817">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="818">
+    <ToTranslate>ecg_cry04c</ToTranslate>
+  </String>
+  <String index="819">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="820">
+    <ToTranslate>chor0471</ToTranslate>
+  </String>
+  <String index="821">
+    <ToTranslate>Чёрьё$"А-а-а! Га, а-а... насколько же... это.. а-а... приятно! Твой член просто прекрасен...!"@</ToTranslate>
+  </String>
+  <String index="822">
+    <ToTranslate>$Опрокинув голову она начинает громко стонать.@</ToTranslate>
+  </String>
+  <String index="823">
+    <ToTranslate>chor0472</ToTranslate>
+  </String>
+  <String index="824">
+    <ToTranslate>Чёрьё$"А-а-а, а-а, а-а... Господин... всё плывёт... а-а... перед глазами..."@</ToTranslate>
+  </String>
+  <String index="825">
+    <ToTranslate>chor0473</ToTranslate>
+  </String>
+  <String index="826">
+    <ToTranslate>Чёрьё$"Почему так...? А-а-а, я начинаю... а-а, а-а, бояться этого..."@</ToTranslate>
+  </String>
+  <String index="827">
+    <ToTranslate>Казуто$"Хочешь чтобы остановился?"@</ToTranslate>
+  </String>
+  <String index="828">
+    <ToTranslate>chor0474</ToTranslate>
+  </String>
+  <String index="829">
+    <ToTranslate>Чёрьё$"Совсем нет..."@</ToTranslate>
+  </String>
+  <String index="830">
+    <ToTranslate>Казуто$"Тогда продержись ещё немного... я хочу кончить вместе с тобой..."@</ToTranslate>
+  </String>
+  <String index="831">
+    <ToTranslate>chor0475</ToTranslate>
+  </String>
+  <String index="832">
+    <ToTranslate>Чёрьё$"Да, я справлюсь... сделаем это вместе..."@</ToTranslate>
+  </String>
+  <String index="833">
+    <ToTranslate>$Сия кивнула, стала раскачивать бёдрами, чтобы усилить своё удовольствие.@</ToTranslate>
+  </String>
+  <String index="834">
+    <ToTranslate>$Её действия, голос, выражение её лица, всё только сильнее заводит меня.@</ToTranslate>
+  </String>
+  <String index="835">
+    <ToTranslate>$Шлёп! Шлёп! Шлёп!@</ToTranslate>
+  </String>
+  <String index="836">
+    <ToTranslate>$Движимый похотью, я с силой пронзаюсь в её глубины на всю длину своего члена.@</ToTranslate>
+  </String>
+  <String index="837">
+    <ToTranslate>chor0476</ToTranslate>
+  </String>
+  <String index="838">
+    <ToTranslate>Чёрьё$"Уа, а-а, а-а-а! Я чувствую его.. а-а, он бьёт меня изнутри, а-а...!"@</ToTranslate>
+  </String>
+  <String index="839">
+    <ToTranslate>$К этому моменту её тело начало резко выгибаться.@</ToTranslate>
+  </String>
+  <String index="840">
+    <ToTranslate>$Вижу, как пот начал пробегать по её телу.@</ToTranslate>
+  </String>
+  <String index="841">
+    <ToTranslate>$Запах её волос только усиливает моё желание сильно оттрахать её.@</ToTranslate>
+  </String>
+  <String index="842">
+    <ToTranslate>chor0477</ToTranslate>
+  </String>
+  <String index="843">
+    <ToTranslate>Чёрьё$"А-а, а-, а-а, а-а-а... а-ах... моя киска... не слушается меня.... уа-а... я будто схожу с ума... ха-а!" @</ToTranslate>
+  </String>
+  <String index="844">
+    <ToTranslate>$Её киска начинает выплёскивать белые струйки сока, к тому же её стоны только усиливаются. @</ToTranslate>
+  </String>
+  <String index="845">
+    <ToTranslate>$Выглядело, будто всплески с фонтана выплескиваются наружу с явным намерением намочить наши ноги.@</ToTranslate>
+  </String>
+  <String index="846">
+    <ToTranslate>Казуто$"Совсем потелка... ручаюсь, что ты уже на пределе. Да ты вся дрожишь..."@</ToTranslate>
+  </String>
+  <String index="847">
+    <ToTranslate>chor0478</ToTranslate>
+  </String>
+  <String index="848">
+    <ToTranslate>Чёрьё$"Уа, а-а, а-а-а... ничего не могу с этим сделать..."@</ToTranslate>
+  </String>
+  <String index="849">
+    <ToTranslate>Казуто$"Собралась кончить?"@</ToTranslate>
+  </String>
+  <String index="850">
+    <ToTranslate>chor0479</ToTranslate>
+  </String>
+  <String index="851">
+    <ToTranslate>Чёрьё$"У-у, а-а-а... да, я хочу... кончить..."@</ToTranslate>
+  </String>
+  <String index="852">
+    <ToTranslate>chor0480</ToTranslate>
+  </String>
+  <String index="853">
+    <ToTranslate>Чёрьё$"Я не могу... больше сдерживаться... прошу... заставь меня кончить..."@</ToTranslate>
+  </String>
+  <String index="854">
+    <ToTranslate>Казуто$"Хорошо, я тоже уже на пределе... тогда давай сделаем это вместе."@</ToTranslate>
+  </String>
+  <String index="855">
+    <ToTranslate>chor0481</ToTranslate>
+  </String>
+  <String index="856">
+    <ToTranslate>Чёрьё$"Да... хе-хе, буду только рада, если мы сможем кончить вместе."@</ToTranslate>
+  </String>
+  <String index="857">
+    <ToTranslate>Казуто$"Точно..."@</ToTranslate>
+  </String>
+  <String index="858">
+    <ToTranslate>$Её улыбка была такой милой, что заставила меня покраснеть, и чтобы скрыть смущение мой ответ стал максимально бесстрастным. @</ToTranslate>
+  </String>
+  <String index="859">
+    <ToTranslate>$Хлоп! Хлоп! Хлоп!@</ToTranslate>
+  </String>
+  <String index="860">
+    <ToTranslate>$Поспешно перемешивая складки я всё сильнее перемешиваю её сокращающуюся киску.@</ToTranslate>
+  </String>
+  <String index="861">
+    <ToTranslate>$Липкие хлюпающие звуки вызывают у меня дополнительное усердие. @</ToTranslate>
+  </String>
+  <String index="862">
+    <ToTranslate>Казуто$"А-ха, уф-уф..."@</ToTranslate>
+  </String>
+  <String index="863">
+    <ToTranslate>$С каждым новым движением член начинает выбрасывать всё больше предварительной жидкости в её киску.@</ToTranslate>
+  </String>
+  <String index="864">
+    <ToTranslate>$Не обращая внимая на нахлынувшую на меня массу непреодолимых ощущений я продожаю неистовствовать внутри.@</ToTranslate>
+  </String>
+  <String index="865">
+    <ToTranslate>chor0482</ToTranslate>
+  </String>
+  <String index="866">
+    <ToTranslate>Чёрьё$"Уа-а, а-а, а-а, а-а, а-а! Господин, а-а, Господин!"@</ToTranslate>
+  </String>
+  <String index="867">
+    <ToTranslate>chor0483</ToTranslate>
+  </String>
+  <String index="868">
+    <ToTranslate>Чёрьё$"Я... ум, а-а, а-а-а! Я кончаю... уа-а!"@</ToTranslate>
+  </String>
+  <String index="869">
+    <ToTranslate>chor0484</ToTranslate>
+  </String>
+  <String index="870">
+    <ToTranslate>Чёрьё$"Ха-а, м-м, м-м-м, можно... а-а, можно уже? Ведь можно же?"@</ToTranslate>
+  </String>
+  <String index="871">
+    <ToTranslate>Казуто$"Уже можно..."@</ToTranslate>
+  </String>
+  <String index="872">
+    <ToTranslate>chor0485</ToTranslate>
+  </String>
+  <String index="873">
+    <ToTranslate>Чёрьё$"А-а-а... я... не могу больше...!"@</ToTranslate>
+  </String>
+  <String index="874">
+    <ToTranslate>$Сразу после этих слов её киска дёрнулась, будто пытаясь из меня что-то выжать.@</ToTranslate>
+  </String>
+  <String index="875">
+    <ToTranslate>Казуто$"Гх-х-х...!"@</ToTranslate>
+  </String>
+  <String index="876">
+    <ToTranslate>$От удовольствия меня всего передёрнуло, и собственная похоть, обрела возможность вырваться наружу.@</ToTranslate>
+  </String>
+  <String index="877">
+    <ToTranslate>Казуто$"Я... тоже кончаю...!"@</ToTranslate>
+  </String>
+  <String index="878">
+    <ToTranslate>chor0486</ToTranslate>
+  </String>
+  <String index="879">
+    <ToTranslate>Чёрьё$"А-а-а! Хорошо... а-а, а-а, тогда вместе! Кончи вместе со мной!"@</ToTranslate>
+  </String>
+  <String index="880">
+    <ToTranslate>$Сия сдавленно закричала.@</ToTranslate>
+  </String>
+  <String index="881">
+    <ToTranslate>$Зачарованный этим криком я вошёл в неё что есть силы.@</ToTranslate>
+  </String>
+  <String index="882">
+    <ToTranslate>chor0487</ToTranslate>
+  </String>
+  <String index="883">
+    <ToTranslate>Чёрьё$"Уа-а-а, мой живот... уи-и... я... я больше... не могу!"@</ToTranslate>
+  </String>
+  <String index="884">
+    <ToTranslate>chor0488</ToTranslate>
+  </String>
+  <String index="885">
+    <ToTranslate>Чёрьё$"Кончаю...! А-а, кончаю... и-и-и.... а-а... а-а-а-а-а!"@</ToTranslate>
+  </String>
+  <String index="886">
+    <ToTranslate>Казуто$"Ур-р, я тоже!"@</ToTranslate>
+  </String>
+  <String index="887">
+    <ToTranslate>flash</ToTranslate>
+  </String>
+  <String index="888">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="889">
+    <ToTranslate>ecg_cry04e</ToTranslate>
+  </String>
+  <String index="890">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="891">
+    <ToTranslate>$В сопровождении громкого крика Сия резко откинула голову, и её киска крепко обжала меня. @</ToTranslate>
+  </String>
+  <String index="892">
+    <ToTranslate>$Быстрыми рывками, мой член начал извергаться в её утробе.@</ToTranslate>
+  </String>
+  <String index="893">
+    <ToTranslate>chor0489</ToTranslate>
+  </String>
+  <String index="894">
+    <ToTranslate>Чёрьё$"Хнык! Ау-у-у-у! Твой член, а-а-а, бушует внутри меня...!"@</ToTranslate>
+  </String>
+  <String index="895">
+    <ToTranslate>chor0490</ToTranslate>
+  </String>
+  <String index="896">
+    <ToTranslate>Чёрьё$"А, а, а, вот снова... кончаю... и-и!"@</ToTranslate>
+  </String>
+  <String index="897">
+    <ToTranslate>Казуто$"Гх-х... я тоже... всё ещё...!"@</ToTranslate>
+  </String>
+  <String index="898">
+    <ToTranslate>chor0491</ToTranslate>
+  </String>
+  <String index="899">
+    <ToTranslate>Чёрьё$"Нет, не могу... а-а, больше... я сойду с ума если... ха-а-а... это продолжиться... а-а-а!"@</ToTranslate>
+  </String>
+  <String index="900">
+    <ToTranslate>$Мотая головой она будто протестует против того чтобы мой крем наполнял её внутренности.@</ToTranslate>
+  </String>
+  <String index="901">
+    <ToTranslate>chor0492</ToTranslate>
+  </String>
+  <String index="902">
+    <ToTranslate>Чёрьё$"Мне жарко, ха-а.... ты всё ещё наполняешь... мой живот..." @</ToTranslate>
+  </String>
+  <String index="903">
+    <ToTranslate>$Подобно фонтану член продолжает распылять моё семя, и спустя ещё пару подёргиваний уже начинает успокаиваться.@</ToTranslate>
+  </String>
+  <String index="904">
+    <ToTranslate>Казуто$"Фух... а-а... а-а... а-а..."@</ToTranslate>
+  </String>
+  <String index="905">
+    <ToTranslate>$Чувствуя одновремённо и усталость и удовлетворение я прислоняюсь к заднице Сии.@</ToTranslate>
+  </String>
+  <String index="906">
+    <ToTranslate>Казуто$"Сия прости... я потратил все свои силы..." @</ToTranslate>
+  </String>
+  <String index="907">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="908">
+    <ToTranslate>ecg_cry04d</ToTranslate>
+  </String>
+  <String index="909">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="910">
+    <ToTranslate>chor0493</ToTranslate>
+  </String>
+  <String index="911">
+    <ToTranslate>Чёрьё$"Эм-м... ничего. Ты можешь отдохнуть на моей спине..."@</ToTranslate>
+  </String>
+  <String index="912">
+    <ToTranslate>$Глубоко вздохнув, Сия приложила руку к своему животу.@</ToTranslate>
+  </String>
+  <String index="913">
+    <ToTranslate>chor0494</ToTranslate>
+  </String>
+  <String index="914">
+    <ToTranslate>Чёрьё$"А-ах... здесь... хм... твоё семя... такое горячее...м-м, и так много..."@</ToTranslate>
+  </String>
+  <String index="915">
+    <ToTranslate>chor0495</ToTranslate>
+  </String>
+  <String index="916">
+    <ToTranslate>Чёрьё$"Я так счастлива... фух... что ты дал мне так много..."@</ToTranslate>
+  </String>
+  <String index="917">
+    <ToTranslate>$Мой взгляд приклеился к её нежной улыбке, и я даже начинаю ощущать тепло, идущее от неё.@</ToTranslate>
+  </String>
+  <String index="918">
+    <ToTranslate>$Ещё какое-то время мы наслаждались теплом друг друга...@</ToTranslate>
+  </String>
+  <String index="919">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="920">
+    <ToTranslate>bb</ToTranslate>
+  </String>
+  <String index="921">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="922">
+    <ToTranslate>bb</ToTranslate>
+  </String>
+  <String index="923">
+    <ToTranslate>bcg_river_a</ToTranslate>
+  </String>
+  <String index="924">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="925">
+    <ToTranslate>bgm03</ToTranslate>
+  </String>
+  <String index="926">
+    <ToTranslate>tcg_cry21ea</ToTranslate>
+  </String>
+  <String index="927">
+    <ToTranslate>tcg_cry21m</ToTranslate>
+  </String>
+  <String index="928">
+    <ToTranslate>chor0496</ToTranslate>
+  </String>
+  <String index="929">
+    <ToTranslate>Чёрьё$"А-ах... вся одежда теперь липкая..."@</ToTranslate>
+  </String>
+  <String index="930">
+    <ToTranslate>Казуто$"Прости..."@</ToTranslate>
+  </String>
+  <String index="931">
+    <ToTranslate>chor0497</ToTranslate>
+  </String>
+  <String index="932">
+    <ToTranslate>Чёрьё$"Не думаю, что запах так скоро выветрится... что же делать? Солдаты ведь могут заметить." @</ToTranslate>
+  </String>
+  <String index="933">
+    <ToTranslate>Казуто$"Думаю, они уже могли всё заметить..."@</ToTranslate>
+  </String>
+  <String index="934">
+    <ToTranslate>tcg_cry31ja</ToTranslate>
+  </String>
+  <String index="935">
+    <ToTranslate>tcg_cry31m</ToTranslate>
+  </String>
+  <String index="936">
+    <ToTranslate>chor0498</ToTranslate>
+  </String>
+  <String index="937">
+    <ToTranslate>Чёрьё$"Ух... правда так думаешь?"@</ToTranslate>
+  </String>
+  <String index="938">
+    <ToTranslate>Казуто$"Да..."@</ToTranslate>
+  </String>
+  <String index="939">
+    <ToTranslate>tcg_cry11oa</ToTranslate>
+  </String>
+  <String index="940">
+    <ToTranslate>tcg_cry11m</ToTranslate>
+  </String>
+  <String index="941">
+    <ToTranslate>chor0499</ToTranslate>
+  </String>
+  <String index="942">
+    <ToTranslate>Чёрьё$"Ну и пусть, я всего лишь женщина. И не так уж странно, что у меня будет секс с мужчиной."@</ToTranslate>
+  </String>
+  <String index="943">
+    <ToTranslate>$Громким смехом Сия напрочь развеяла все свои переживания.@</ToTranslate>
+  </String>
+  <String index="944">
+    <ToTranslate>tcg_cry21da</ToTranslate>
+  </String>
+  <String index="945">
+    <ToTranslate>tcg_cry21m</ToTranslate>
+  </String>
+  <String index="946">
+    <ToTranslate>chor0500</ToTranslate>
+  </String>
+  <String index="947">
+    <ToTranslate>Чёрьё$"Так, а теперь, когда точно известно что я очаровательная женщина, настало время соблазнять Айшу."@</ToTranslate>
+  </String>
+  <String index="948">
+    <ToTranslate>$Не ожидал, что она скажет подобное.@</ToTranslate>
+  </String>
+  <String index="949">
+    <ToTranslate>Казуто$"Собираешься преследовать Айшу?"@</ToTranslate>
+  </String>
+  <String index="950">
+    <ToTranslate>chor0501</ToTranslate>
+  </String>
+  <String index="951">
+    <ToTranslate>Чёрьё$"Да-да. Она должна узнать насколько я очаровательна, и тогда точно не сможет противостоять мне. Хе-хе, я так волнуюсь!"@</ToTranslate>
+  </String>
+  <String index="952">
+    <ToTranslate>$Говоря это Сия выглядела по-настоящему счастливо, настолько, что я просто не смог сдержать улыбки.@</ToTranslate>
+  </String>
+  <String index="953">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="954">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+</DBS>
+
+</poem>
+[[Koihime Musou/Прогресс перевода/Сюжет|[Назад]]]

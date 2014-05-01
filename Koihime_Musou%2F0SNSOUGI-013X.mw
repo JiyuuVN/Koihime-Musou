@@ -1,0 +1,129 @@
+[[Koihime Musou/Прогресс перевода/Сюжет|[Назад]]]
+<poem>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<DBS>
+  <String index="0">
+    <ToTranslate>bcg_sisuikan_a</ToTranslate>
+  </String>
+  <String index="1">
+    <ToTranslate>tcg_ton14ca</ToTranslate>
+  </String>
+  <String index="2">
+    <ToTranslate>tcg_ton14m</ToTranslate>
+  </String>
+  <String index="3">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="4">
+    <ToTranslate>kato0383</ToTranslate>
+  </String>
+  <String index="5">
+    <ToTranslate>Какотон$"Не позволяйте врагу обойти вас! Сражайтесь с гордостью настоящего воина Вэй и храбро умрите!"@</ToTranslate>
+  </String>
+  <String index="6">
+    <ToTranslate>kato0384</ToTranslate>
+  </String>
+  <String index="7">
+    <ToTranslate>Какотон$"Всем силам, в наступление! Им хватит обычного шага и махания меча перед собой!"@</ToTranslate>
+  </String>
+  <String index="8">
+    <ToTranslate>kato0385</ToTranslate>
+  </String>
+  <String index="9">
+    <ToTranslate>Какотон$"Не бойтесь погибнуть! Бойтесь потерять свою честь воина! Превратите своё тело в оружие и снесите головы всем, кто осмелился выступить против нас!"@</ToTranslate>
+  </String>
+  <String index="10">
+    <ToTranslate>kato0386</ToTranslate>
+  </String>
+  <String index="11">
+    <ToTranslate>Какотон$"Отряд Какотон, в атаку!"@</ToTranslate>
+  </String>
+  <String index="12">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="13">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="14">
+    <ToTranslate>bcg_sisuikan_a</ToTranslate>
+  </String>
+  <String index="15">
+    <ToTranslate>tcg_en12fa</ToTranslate>
+  </String>
+  <String index="16">
+    <ToTranslate>tcg_en12m</ToTranslate>
+  </String>
+  <String index="17">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="18">
+    <ToTranslate>kaen0219</ToTranslate>
+  </String>
+  <String index="19">
+    <ToTranslate>Какоэн$"Цель авангард противника. Залп по команде."@</ToTranslate>
+  </String>
+  <String index="20">
+    <ToTranslate>SE014</ToTranslate>
+  </String>
+  <String index="21">
+    <ToTranslate>kaen0220</ToTranslate>
+  </String>
+  <String index="22">
+    <ToTranslate>Какоэн$"Покажите им силу отряда Какоэн! Каждая стрела это чья-то жизнь! Не жалейте стрел!"@</ToTranslate>
+  </String>
+  <String index="23">
+    <ToTranslate>kaen0221</ToTranslate>
+  </String>
+  <String index="24">
+    <ToTranslate>Какоэн$"Отряд, стреляй!"@</ToTranslate>
+  </String>
+  <String index="25">
+    <ToTranslate>SE019</ToTranslate>
+  </String>
+  <String index="26">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="27">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="28">
+    <ToTranslate>bcg_sisuikan_a</ToTranslate>
+  </String>
+  <String index="29">
+    <ToTranslate>tcg_jun21ia</ToTranslate>
+  </String>
+  <String index="30">
+    <ToTranslate>tcg_jun21m</ToTranslate>
+  </String>
+  <String index="31">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="32">
+    <ToTranslate>jyun0179</ToTranslate>
+  </String>
+  <String index="33">
+    <ToTranslate>Джунику$"Хех-хех-хех...... вы все молодцы что так красиво собрались."@</ToTranslate>
+  </String>
+  <String index="34">
+    <ToTranslate>jyun0180</ToTranslate>
+  </String>
+  <String index="35">
+    <ToTranslate>Джунику$"Узрите мою силу! Горите в адском пламени и пусть грядущее поражение окропит огнём ваши тела!"@</ToTranslate>
+  </String>
+  <String index="36">
+    <ToTranslate>SE052</ToTranslate>
+  </String>
+  <String index="37">
+    <ToTranslate>SE045</ToTranslate>
+  </String>
+  <String index="38">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="39">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+</DBS>
+
+</poem>
+[[Koihime Musou/Прогресс перевода/Сюжет|[Назад]]]

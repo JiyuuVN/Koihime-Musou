@@ -1,0 +1,46 @@
+	{|class="wikitable"
+		! !!Перевод!!Правка!!Тест
+		|-
+		|[[Koihime Musou/_BTL_ASKSKIP|_BTL_ASKSKIP]]||{{OK}}||{{OK}}||{{No}}
+		|-
+		|[[Koihime Musou/_BTL_BATTLE|_BTL_BATTLE]]||{{X}}||{{OK}}||{{No}}
+		|-
+		|[[Koihime Musou/_BTL_COVERINGFIRE|_BTL_COVERINGFIRE]]||{{X}}||{{No}}||{{No}}
+		|-
+		|[[Koihime Musou/_BTL_COVERINGFIREENEMY|_BTL_COVERINGFIREENEMY]]||{{X}}||{{No}}||{{No}}
+		|-
+		|[[Koihime Musou/_BTL_HUKUHEIENEMY|_BTL_HUKUHEIENEMY]]||{{X}}||{{No}}||{{No}}
+		|-
+		|[[Koihime Musou/_BTL_ISEXITBATTLE|_BTL_ISEXITBATTLE]]||{{X}}||{{No}}||{{No}}
+		|-
+		|[[Koihime Musou/_BTL_WAZA|_BTL_WAZA]]||{{X}}||{{No}}||{{No}}
+		|-
+		|[[Koihime Musou/_BTL_WAZA_CHOUN|_BTL_WAZA_CHOUN]]||{{X}}||{{No}}||{{No}}
+		|-
+		|[[Koihime Musou/_BTL_WAZA_KOCHU|_BTL_WAZA_KOCHU]]||{{X}}||{{No}}||{{No}}
+		|-
+		|[[Koihime Musou/_BTL_WAZAENEMY|_BTL_WAZAENEMY]]||{{X}}||{{No}}||{{No}}
+		|-
+		|[[Koihime Musou/_BTL_WAZAENEMY_BUFFATK|_BTL_WAZAENEMY_BUFFATK]]||{{X}}||{{No}}||{{No}}
+		|-
+		|[[Koihime Musou/_BTL_WAZAENEMY_BUFFDEF|_BTL_WAZAENEMY_BUFFDEF]]||{{X}}||{{No}}||{{No}}
+		|-
+		|[[Koihime Musou/_BTL_WAZAENEMY_CONT|_BTL_WAZAENEMY_CONT]]||{{X}}||{{No}}||{{No}}
+		|-
+		|[[Koihime Musou/_BTL_WAZAENEMY_REF|_BTL_WAZAENEMY_REF]]||{{X}}||{{No}}||{{No}}
+		|-
+		|[[Koihime Musou/_BTL_WAZAENEMY_RENATK|_BTL_WAZAENEMY_RENATK]]||{{X}}||{{No}}||{{No}}
+		|-
+		|[[Koihime Musou/_LOADATTITLE|_LOADATTITLE]]||{{Work}}||{{No}}||{{No}}
+		|-
+		|[[Koihime Musou/_TITLE|_TITLE]]||{{Work}}||{{No}}||{{No}}
+		|-
+		|[[Koihime Musou/H_PANTU|H_PANTU]]||{{Work}}||{{No}}||{{No}}
+		|-
+		|[[Koihime Musou/INIT|INIT]]||{{Work}}||{{No}}||{{No}}
+		|-
+		|[[Koihime Musou/RCLICK|RCLICK]]||{{Work}}||{{No}}||{{No}}
+		|-
+		|[[Koihime Musou/RCSL|RCSL]]||{{Work}}||{{No}}||{{No}}
+	|}
+''(21)''

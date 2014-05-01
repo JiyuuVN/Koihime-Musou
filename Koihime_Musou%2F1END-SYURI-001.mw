@@ -1,0 +1,624 @@
+[[Koihime Musou/Прогресс перевода/Сюжет|[Назад]]]
+<poem>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<DBS>
+  <String index="0">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="1">
+    <ToTranslate>bcg_mir_impseat_a</ToTranslate>
+  </String>
+  <String index="2">
+    <ToTranslate>SE042</ToTranslate>
+  </String>
+  <String index="3">
+    <ToTranslate>bcg_edeff</ToTranslate>
+  </String>
+  <String index="4">
+    <ToTranslate>bcg_edeffmask2</ToTranslate>
+  </String>
+  <String index="5">
+    <ToTranslate>_msg_black</ToTranslate>
+  </String>
+  <String index="6">
+    <ToTranslate>_msg_mask</ToTranslate>
+  </String>
+  <String index="7">
+    <ToTranslate>sounyu_vom</ToTranslate>
+  </String>
+  <String index="8">
+    <ToTranslate>%$Зеркальце засияло ярко-бледным светом.</ToTranslate>
+  </String>
+  <String index="9">
+    <ToTranslate>%$В точь таким же светом, что и раньше, после чего всё началось.</ToTranslate>
+  </String>
+  <String index="10">
+    <ToTranslate>%$Всё сильнее погружаясь в свет, я понимаю, что прощаюсь с этим миром.</ToTranslate>
+  </String>
+  <String index="11">
+    <ToTranslate>%$Мои помыслы породили этот мир из моего существования.</ToTranslate>
+  </String>
+  <String index="12">
+    <ToTranslate>%$Чувствуя, как всё вокруг исчезает, я мысленно представил того кого так люблю.</ToTranslate>
+  </String>
+  <String index="13">
+    <ToTranslate>%$Шури...</ToTranslate>
+  </String>
+  <String index="14">
+    <ToTranslate>%$Изящная дева, которая всегда была рядом со мной.</ToTranslate>
+  </String>
+  <String index="15">
+    <ToTranslate>%$Она стала моей второй половинкой, направляя, поощряя и поддерживая меня в эпоху непрерывных сражений.</ToTranslate>
+  </String>
+  <String index="16">
+    <ToTranslate>%$Время нашей разлуки всё ближе.</ToTranslate>
+  </String>
+  <String index="17">
+    <ToTranslate>%Казуто$"Шу... ри...!"</ToTranslate>
+  </String>
+  <String index="18">
+    <ToTranslate>%$Я что, просто исчезну из этого мира...?</ToTranslate>
+  </String>
+  <String index="19">
+    <ToTranslate>%$Моё время заканчивается и связь с этим миром быстро слабеет, я сжимаю зубы из-за собственной неспособности что-либо сделать.</ToTranslate>
+  </String>
+  <String index="20">
+    <ToTranslate>%$Сердце болит а сам я так зол на себя что эмоции берут верх надо мной и управляют собственным голосом.</ToTranslate>
+  </String>
+  <String index="21">
+    <ToTranslate>%Казуто$"Шу... ри!"</ToTranslate>
+  </String>
+  <String index="22">
+    <ToTranslate>%$Хочу увидеть её.</ToTranslate>
+  </String>
+  <String index="23">
+    <ToTranslate>%$Это моё единственное желание.</ToTranslate>
+  </String>
+  <String index="24">
+    <ToTranslate>%$С единственной эмоцией в сердце я собираю все свои силы попутно сражаясь с исчезновением моего существования.</ToTranslate>
+  </String>
+  <String index="25">
+    <ToTranslate>%Казуто$"Шу... ри...!"</ToTranslate>
+  </String>
+  <String index="26">
+    <ToTranslate>%$Свет тащит меня к завершению этой альтернативной истории.</ToTranslate>
+  </String>
+  <String index="27">
+    <ToTranslate>%$Неужели это мой конец...?</ToTranslate>
+  </String>
+  <String index="28">
+    <ToTranslate>%$В этот миг отчаяние задело меня--</ToTranslate>
+  </String>
+  <String index="29">
+    <ToTranslate>ecg_syo98c</ToTranslate>
+  </String>
+  <String index="30">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="31">
+    <ToTranslate>syur0534</ToTranslate>
+  </String>
+  <String index="32">
+    <ToTranslate>%Шури$"Господин!"</ToTranslate>
+  </String>
+  <String index="33">
+    <ToTranslate>%$ Но неведомый голос куда-то тянет моё гаснущее сознание.</ToTranslate>
+  </String>
+  <String index="34">
+    <ToTranslate>syur0535</ToTranslate>
+  </String>
+  <String index="35">
+    <ToTranslate>%Шури$"Господин, не сдавайтесь!"</ToTranslate>
+  </String>
+  <String index="36">
+    <ToTranslate>%Казуто$"Шу... ри!"</ToTranslate>
+  </String>
+  <String index="37">
+    <ToTranslate>%$До меня доносится голос который я так хотел услышать.</ToTranslate>
+  </String>
+  <String index="38">
+    <ToTranslate>%$Голос, которым я дорожу превыше всего, прекрасный голос, за которым спрятана сильная воля.</ToTranslate>
+  </String>
+  <String index="39">
+    <ToTranslate>bcg_edeff</ToTranslate>
+  </String>
+  <String index="40">
+    <ToTranslate>bcg_edeffmask1</ToTranslate>
+  </String>
+  <String index="41">
+    <ToTranslate>%$Даже если этот голос зовёт меня, я не способен сдвинуться ни на дюйм.</ToTranslate>
+  </String>
+  <String index="42">
+    <ToTranslate>%$Моё существование исчезает.</ToTranslate>
+  </String>
+  <String index="43">
+    <ToTranslate>%$И помыслы привязаны к этому существованию исчезают вместе с ним.</ToTranslate>
+  </String>
+  <String index="44">
+    <ToTranslate>ecg_syo98e</ToTranslate>
+  </String>
+  <String index="45">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="46">
+    <ToTranslate>%$Пока мои воспоминания рушатся как падающие домино я пытаюсь представить Шури как можно ярче. </ToTranslate>
+  </String>
+  <String index="47">
+    <ToTranslate>%$Чтобы не забыть её.</ToTranslate>
+  </String>
+  <String index="48">
+    <ToTranslate>%$Чтобы не лишиться всех воспоминаний о ней...</ToTranslate>
+  </String>
+  <String index="49">
+    <ToTranslate>%Казуто$"Гх..."</ToTranslate>
+  </String>
+  <String index="50">
+    <ToTranslate>%$Я не могу сдаться...</ToTranslate>
+  </String>
+  <String index="51">
+    <ToTranslate>%$Даже если это часть данной истории я не могу просто стать её жертвой!</ToTranslate>
+  </String>
+  <String index="52">
+    <ToTranslate>bcg_edeff</ToTranslate>
+  </String>
+  <String index="53">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="54">
+    <ToTranslate>%Казуто$"А-а-а-а-а!"</ToTranslate>
+  </String>
+  <String index="55">
+    <ToTranslate>%$Я ору на собственную судьбу, и что есть силы тяну руку в дрожащий свет.</ToTranslate>
+  </String>
+  <String index="56">
+    <ToTranslate>%$В поисках связи с девушкой которую я люблю......</ToTranslate>
+  </String>
+  <String index="57">
+    <ToTranslate>ecg_syo98c</ToTranslate>
+  </String>
+  <String index="58">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="59">
+    <ToTranslate>syur0536</ToTranslate>
+  </String>
+  <String index="60">
+    <ToTranslate>%Шури$"Прошу вас держитесь! Я обязательно спасу вас!"</ToTranslate>
+  </String>
+  <String index="61">
+    <ToTranslate>syur0537</ToTranslate>
+  </String>
+  <String index="62">
+    <ToTranslate>%$Жизненное пламя моего Господина угасает и свет поглощает его.</ToTranslate>
+  </String>
+  <String index="63">
+    <ToTranslate>syur0538</ToTranslate>
+  </String>
+  <String index="64">
+    <ToTranslate>%Шури$"Не исчезайте...! Обещаю что спасу вас! Пожалуйста не уходите!"</ToTranslate>
+  </String>
+  <String index="65">
+    <ToTranslate>syur0539</ToTranslate>
+  </String>
+  <String index="66">
+    <ToTranslate>%$Господин уходит от нас......</ToTranslate>
+  </String>
+  <String index="67">
+    <ToTranslate>syur0540</ToTranslate>
+  </String>
+  <String index="68">
+    <ToTranslate>%$Ноги слабеют а собственные мысли парализуют мой ум.</ToTranslate>
+  </String>
+  <String index="69">
+    <ToTranslate>syur0541</ToTranslate>
+  </String>
+  <String index="70">
+    <ToTranslate>%Шури$"Хавава..."</ToTranslate>
+  </String>
+  <String index="71">
+    <ToTranslate>syur0542</ToTranslate>
+  </String>
+  <String index="72">
+    <ToTranslate>%$Самый важный для меня человек исчезает...</ToTranslate>
+  </String>
+  <String index="73">
+    <ToTranslate>syur0543</ToTranslate>
+  </String>
+  <String index="74">
+    <ToTranslate>%$Я злюсь на собственные ноги дрожащие от страха.</ToTranslate>
+  </String>
+  <String index="75">
+    <ToTranslate>syur0544</ToTranslate>
+  </String>
+  <String index="76">
+    <ToTranslate>%$В мои обязанности входит защита своего Господина.</ToTranslate>
+  </String>
+  <String index="77">
+    <ToTranslate>syur0545</ToTranslate>
+  </String>
+  <String index="78">
+    <ToTranslate>%$Шури, тебе придётся сделать это самой.</ToTranslate>
+  </String>
+  <String index="79">
+    <ToTranslate>ecg_syo98f</ToTranslate>
+  </String>
+  <String index="80">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="81">
+    <ToTranslate>syur0546</ToTranslate>
+  </String>
+  <String index="82">
+    <ToTranslate>%$Я должна собрать все силы в ногах, оттолкнуться от земли и прыгнуть к своему Господину.</ToTranslate>
+  </String>
+  <String index="83">
+    <ToTranslate>syur0547</ToTranslate>
+  </String>
+  <String index="84">
+    <ToTranslate>%Шури$"Пожалуйста не уходите...! Вы обещали... вы обещали остаться со мной навечно!"</ToTranslate>
+  </String>
+  <String index="85">
+    <ToTranslate>syur0548</ToTranslate>
+  </String>
+  <String index="86">
+    <ToTranslate>%Шури$"Умоляю вернитесь...!"</ToTranslate>
+  </String>
+  <String index="87">
+    <ToTranslate>syur0549</ToTranslate>
+  </String>
+  <String index="88">
+    <ToTranslate>%Шури$"Не... уходите без меня..."</ToTranslate>
+  </String>
+  <String index="89">
+    <ToTranslate>syur0550</ToTranslate>
+  </String>
+  <String index="90">
+    <ToTranslate>ecg_syo98d</ToTranslate>
+  </String>
+  <String index="91">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="92">
+    <ToTranslate>%Шури$"Господин!"</ToTranslate>
+  </String>
+  <String index="93">
+    <ToTranslate>syur0551</ToTranslate>
+  </String>
+  <String index="94">
+    <ToTranslate>%$Господин, я люблю вас, я люблю вас больше всех......</ToTranslate>
+  </String>
+  <String index="95">
+    <ToTranslate>syur0552</ToTranslate>
+  </String>
+  <String index="96">
+    <ToTranslate>%$Чтобы ни случилось я спасу вас...</ToTranslate>
+  </String>
+  <String index="97">
+    <ToTranslate>SE025a</ToTranslate>
+  </String>
+  <String index="98">
+    <ToTranslate>tcg_saj21ea</ToTranslate>
+  </String>
+  <String index="99">
+    <ToTranslate>tcg_saj21m</ToTranslate>
+  </String>
+  <String index="100">
+    <ToTranslate>saji0136</ToTranslate>
+  </String>
+  <String index="101">
+    <ToTranslate>%Саджи$"Хм. Если он так важен для тебя я убью вас обоих!"</ToTranslate>
+  </String>
+  <String index="102">
+    <ToTranslate>ef_tuki01a</ToTranslate>
+  </String>
+  <String index="103">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="104">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="105">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="106">
+    <ToTranslate>ef_tuki01a_m</ToTranslate>
+  </String>
+  <String index="107">
+    <ToTranslate>BSE02</ToTranslate>
+  </String>
+  <String index="108">
+    <ToTranslate>bg_white</ToTranslate>
+  </String>
+  <String index="109">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="110">
+    <ToTranslate>bg_white</ToTranslate>
+  </String>
+  <String index="111">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="112">
+    <ToTranslate>SE031</ToTranslate>
+  </String>
+  <String index="113">
+    <ToTranslate>tcg_saj51aa</ToTranslate>
+  </String>
+  <String index="114">
+    <ToTranslate>tcg_saj51m</ToTranslate>
+  </String>
+  <String index="115">
+    <ToTranslate>tcg_koc51aa</ToTranslate>
+  </String>
+  <String index="116">
+    <ToTranslate>tcg_koc51m</ToTranslate>
+  </String>
+  <String index="117">
+    <ToTranslate>_msg_black</ToTranslate>
+  </String>
+  <String index="118">
+    <ToTranslate>_msg_mask</ToTranslate>
+  </String>
+  <String index="119">
+    <ToTranslate>shio0134</ToTranslate>
+  </String>
+  <String index="120">
+    <ToTranslate>%Сион$"......мы не позволим тебе вмешиваться в дела влюблённых."</ToTranslate>
+  </String>
+  <String index="121">
+    <ToTranslate>tcg_saj21da</ToTranslate>
+  </String>
+  <String index="122">
+    <ToTranslate>tcg_saj21m</ToTranslate>
+  </String>
+  <String index="123">
+    <ToTranslate>saji0137</ToTranslate>
+  </String>
+  <String index="124">
+    <ToTranslate>%Саджи$"Фырк...... пытаетесь помешать мне, марионетки, обречённые на смерть?!"</ToTranslate>
+  </String>
+  <String index="125">
+    <ToTranslate>tcg_cun41aa</ToTranslate>
+  </String>
+  <String index="126">
+    <ToTranslate>tcg_cun41m</ToTranslate>
+  </String>
+  <String index="127">
+    <ToTranslate>sei_0376</ToTranslate>
+  </String>
+  <String index="128">
+    <ToTranslate>%Сэй$"Если нам суждено умереть, то наше желание только станет сильнее. Мы готовы отдать жизни ради своих друзей."</ToTranslate>
+  </String>
+  <String index="129">
+    <ToTranslate>tcg_bac41aa</ToTranslate>
+  </String>
+  <String index="130">
+    <ToTranslate>tcg_bac41m</ToTranslate>
+  </String>
+  <String index="131">
+    <ToTranslate>sui_0281</ToTranslate>
+  </String>
+  <String index="132">
+    <ToTranslate>%Суй$"Верно... мы защитим Шури собственными жизнями!"</ToTranslate>
+  </String>
+  <String index="133">
+    <ToTranslate>tcg_saj11ha</ToTranslate>
+  </String>
+  <String index="134">
+    <ToTranslate>tcg_saj11m</ToTranslate>
+  </String>
+  <String index="135">
+    <ToTranslate>saji0138</ToTranslate>
+  </String>
+  <String index="136">
+    <ToTranslate>%Саджи$"Сразу три героя на меня одного? Хех, кажись это конец для меня."</ToTranslate>
+  </String>
+  <String index="137">
+    <ToTranslate>tcg_saj11ia</ToTranslate>
+  </String>
+  <String index="138">
+    <ToTranslate>tcg_saj11m</ToTranslate>
+  </String>
+  <String index="139">
+    <ToTranslate>tcg_koc51aa</ToTranslate>
+  </String>
+  <String index="140">
+    <ToTranslate>tcg_koc51m</ToTranslate>
+  </String>
+  <String index="141">
+    <ToTranslate>shio0135</ToTranslate>
+  </String>
+  <String index="142">
+    <ToTranslate>%Сион$"Именно... мы отнимем твою жизнь."</ToTranslate>
+  </String>
+  <String index="143">
+    <ToTranslate>tcg_saj11ga</ToTranslate>
+  </String>
+  <String index="144">
+    <ToTranslate>tcg_saj11m</ToTranslate>
+  </String>
+  <String index="145">
+    <ToTranslate>saji0139</ToTranslate>
+  </String>
+  <String index="146">
+    <ToTranslate>%Саджи$"......достаточно. Нападайте! Устроим же последний наш танец! В этой поддельной истории!"</ToTranslate>
+  </String>
+  <String index="147">
+    <ToTranslate>tcg_saj21ea</ToTranslate>
+  </String>
+  <String index="148">
+    <ToTranslate>tcg_saj21m</ToTranslate>
+  </String>
+  <String index="149">
+    <ToTranslate>tcg_cun41aa</ToTranslate>
+  </String>
+  <String index="150">
+    <ToTranslate>tcg_cun41m</ToTranslate>
+  </String>
+  <String index="151">
+    <ToTranslate>sei_0377</ToTranslate>
+  </String>
+  <String index="152">
+    <ToTranslate>%Сэй$"Готовься, Саджи! Стань же свидетелем нашей гордыни и доблести!"</ToTranslate>
+  </String>
+  <String index="153">
+    <ToTranslate>SE014</ToTranslate>
+  </String>
+  <String index="154">
+    <ToTranslate>tcg_bac41aa</ToTranslate>
+  </String>
+  <String index="155">
+    <ToTranslate>tcg_bac41m</ToTranslate>
+  </String>
+  <String index="156">
+    <ToTranslate>sui_0282</ToTranslate>
+  </String>
+  <String index="157">
+    <ToTranslate>%Суй$"Я буду первой!"</ToTranslate>
+  </String>
+  <String index="158">
+    <ToTranslate>ef_kiriage03a</ToTranslate>
+  </String>
+  <String index="159">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="160">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="161">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="162">
+    <ToTranslate>tcg_bac91aa</ToTranslate>
+  </String>
+  <String index="163">
+    <ToTranslate>tcg_bac91m</ToTranslate>
+  </String>
+  <String index="164">
+    <ToTranslate>ef_kiriage01a_m</ToTranslate>
+  </String>
+  <String index="165">
+    <ToTranslate>BSE08</ToTranslate>
+  </String>
+  <String index="166">
+    <ToTranslate>bg_white</ToTranslate>
+  </String>
+  <String index="167">
+    <ToTranslate>bg_white</ToTranslate>
+  </String>
+  <String index="168">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="169">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="170">
+    <ToTranslate>ecg_syo98a</ToTranslate>
+  </String>
+  <String index="171">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="172">
+    <ToTranslate>_msg_black</ToTranslate>
+  </String>
+  <String index="173">
+    <ToTranslate>_msg_mask</ToTranslate>
+  </String>
+  <String index="174">
+    <ToTranslate>%$Столкновение лезвий заблестело искрами чтобы защитить девушку.</ToTranslate>
+  </String>
+  <String index="175">
+    <ToTranslate>%$Не останавливаясь перед звуками битвы позади ней девушка отчаянно рвётся к парню. </ToTranslate>
+  </String>
+  <String index="176">
+    <ToTranslate>syur0553</ToTranslate>
+  </String>
+  <String index="177">
+    <ToTranslate>%Шури$"Господин!"</ToTranslate>
+  </String>
+  <String index="178">
+    <ToTranslate>%Казуто$"Шу... ри!"</ToTranslate>
+  </String>
+  <String index="179">
+    <ToTranslate>%$Реагируя на её крики парень вытягивает руку, его существование в этом мире колеблется как мираж на краю горизонта.</ToTranslate>
+  </String>
+  <String index="180">
+    <ToTranslate>%$Он стремится к своей любви... всем сердцем.</ToTranslate>
+  </String>
+  <String index="181">
+    <ToTranslate>%$И разделяя его позывы девушка стремится к нему.</ToTranslate>
+  </String>
+  <String index="182">
+    <ToTranslate>%$Насколько возможно она тянет вперёд свою маленькую ручку чтобы ухватить руку парня.</ToTranslate>
+  </String>
+  <String index="183">
+    <ToTranslate>syur0554</ToTranslate>
+  </String>
+  <String index="184">
+    <ToTranslate>%Шури$"Казуто-сама...!"</ToTranslate>
+  </String>
+  <String index="185">
+    <ToTranslate>%$Они смотрят друг на друга, ищут друг друга с криком о воспоминаниях в их сердцах.</ToTranslate>
+  </String>
+  <String index="186">
+    <ToTranslate>%$С радостью их первой встречи...</ToTranslate>
+  </String>
+  <String index="187">
+    <ToTranslate>%$Волнением первого поцелуя...</ToTranslate>
+  </String>
+  <String index="188">
+    <ToTranslate>%$Любовью в момент когда они стали едины...</ToTranslate>
+  </String>
+  <String index="189">
+    <ToTranslate>%$И многими другими воспоминаниями с течением времени, проведённого в их сердцах они произносят имена друг-друга.</ToTranslate>
+  </String>
+  <String index="190">
+    <ToTranslate>%Казуто$"Шури-и-и!"</ToTranslate>
+  </String>
+  <String index="191">
+    <ToTranslate>syur0555</ToTranslate>
+  </String>
+  <String index="192">
+    <ToTranslate>%Шури$"Господин!"</ToTranslate>
+  </String>
+  <String index="193">
+    <ToTranslate>%$Их чувства кипят и они оба тянут руки чтобы встретить свою половину, </ToTranslate>
+  </String>
+  <String index="194">
+    <ToTranslate>%$и--</ToTranslate>
+  </String>
+  <String index="195">
+    <ToTranslate>ecg_syo98b</ToTranslate>
+  </String>
+  <String index="196">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="197">
+    <ToTranslate>_msg_black</ToTranslate>
+  </String>
+  <String index="198">
+    <ToTranslate>_msg_mask</ToTranslate>
+  </String>
+  <String index="199">
+    <ToTranslate>%$их узы снова тесно переплетены.</ToTranslate>
+  </String>
+  <String index="200">
+    <ToTranslate>%</ToTranslate>
+  </String>
+  <String index="201">
+    <ToTranslate>bg_white</ToTranslate>
+  </String>
+  <String index="202">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="203">
+    <ToTranslate>bg_white</ToTranslate>
+  </String>
+  <String index="204">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+</DBS>
+
+</poem>
+[[Koihime Musou/Прогресс перевода/Сюжет|[Назад]]]

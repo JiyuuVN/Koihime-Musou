@@ -1,0 +1,696 @@
+<poem>
+<?xml version="1.0" encoding="UTF-8"?>
+<DBS>
+  <String index="0">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="1">
+    <ToTranslate>bcg_castcorrid_c</ToTranslate>
+  </String>
+  <String index="2">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="3">
+    <ToTranslate>bgm23</ToTranslate>
+  </String>
+  <String index="4">
+    <ToTranslate>$Я всё ещё не способен решать политические вопросы. Не важно, сколько бы я ни старался, я никогда не справлялся раньше, чем сегодня.@</ToTranslate>
+  </String>
+  <String index="5">
+    <ToTranslate>$Я весь день что-то подписывал, голова болит а руки дрожат.@</ToTranslate>
+  </String>
+  <String index="6">
+    <ToTranslate>$Даже Айша сказала мне что я бледный. Ещё рановато, но думаю, что я должен идти спать.@</ToTranslate>
+  </String>
+  <String index="7">
+    <ToTranslate>$Я бесполезен. Должно быть, я только обременяю Шури, позволяя ей делать часть моей работы.@</ToTranslate>
+  </String>
+  <String index="8">
+    <ToTranslate>$Я всё понимаю...... но самому мне не справиться.@</ToTranslate>
+  </String>
+  <String index="9">
+    <ToTranslate>$Но это не может длиться вечно.@</ToTranslate>
+  </String>
+  <String index="10">
+    <ToTranslate>syur0862</ToTranslate>
+  </String>
+  <String index="11">
+    <ToTranslate>???$"И-я......! Та!"@</ToTranslate>
+  </String>
+  <String index="12">
+    <ToTranslate>Казуто$"А?"@</ToTranslate>
+  </String>
+  <String index="13">
+    <ToTranslate>$В моём тусклом сознании только что пролетели мысли о ней, поэтому я решил, что мне показалось.@</ToTranslate>
+  </String>
+  <String index="14">
+    <ToTranslate>syur0863</ToTranslate>
+  </String>
+  <String index="15">
+    <ToTranslate>Шури$"Ии-и......!"@</ToTranslate>
+  </String>
+  <String index="16">
+    <ToTranslate>$Теперь я точно уверен. Я точно слышал Шури. Я осторожно осмотрелся вокруг и... вот же она!@</ToTranslate>
+  </String>
+  <String index="17">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="18">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="19">
+    <ToTranslate>bcg_castgurden_c</ToTranslate>
+  </String>
+  <String index="20">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="21">
+    <ToTranslate>tcg_syo11ec</ToTranslate>
+  </String>
+  <String index="22">
+    <ToTranslate>tcg_syo11m</ToTranslate>
+  </String>
+  <String index="23">
+    <ToTranslate>syur0864</ToTranslate>
+  </String>
+  <String index="24">
+    <ToTranslate>Шури$"И-и-я!"@</ToTranslate>
+  </String>
+  <String index="25">
+    <ToTranslate>$Что за странный танец? Нет, виноват, ошибался, я заметил в её руках меч, слабо поблёскивающий в лунном свете.@</ToTranslate>
+  </String>
+  <String index="26">
+    <ToTranslate>$Она обучается фехтованию?@</ToTranslate>
+  </String>
+  <String index="27">
+    <ToTranslate>tcg_syo21cc</ToTranslate>
+  </String>
+  <String index="28">
+    <ToTranslate>tcg_syo21m</ToTranslate>
+  </String>
+  <String index="29">
+    <ToTranslate>syur0865</ToTranslate>
+  </String>
+  <String index="30">
+    <ToTranslate>Шури$"Э-э-э, это было опасно!"@</ToTranslate>
+  </String>
+  <String index="31">
+    <ToTranslate>$Это точно. Её движения не вселяют в меня уверенности, что она умеет это делать. Я начинаю волноваться, просто наблюдая за ней.@</ToTranslate>
+  </String>
+  <String index="32">
+    <ToTranslate>$Она вполне способна навредить себе даже во время тренировки.@</ToTranslate>
+  </String>
+  <String index="33">
+    <ToTranslate>tcg_syo11ec</ToTranslate>
+  </String>
+  <String index="34">
+    <ToTranslate>tcg_syo11m</ToTranslate>
+  </String>
+  <String index="35">
+    <ToTranslate>syur0866</ToTranslate>
+  </String>
+  <String index="36">
+    <ToTranslate>Шури$"Ие-е-ей!"@</ToTranslate>
+  </String>
+  <String index="37">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="38">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="39">
+    <ToTranslate>bcg_castcorrid_c</ToTranslate>
+  </String>
+  <String index="40">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="41">
+    <ToTranslate>Казуто$"Пожалуй, мне следует последовать её примеру......"@</ToTranslate>
+  </String>
+  <String index="42">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="43">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="44">
+    <ToTranslate>aa</ToTranslate>
+  </String>
+  <String index="45">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="46">
+    <ToTranslate>aa</ToTranslate>
+  </String>
+  <String index="47">
+    <ToTranslate>bcg_castgurden_c</ToTranslate>
+  </String>
+  <String index="48">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="49">
+    <ToTranslate>$Холодный ночной воздух заставил меня чихнуть. Высморкавшись, я начал пробираться ближе к тому месту где была Шури.@</ToTranslate>
+  </String>
+  <String index="50">
+    <ToTranslate>tcg_syo41gc</ToTranslate>
+  </String>
+  <String index="51">
+    <ToTranslate>tcg_syo41m</ToTranslate>
+  </String>
+  <String index="52">
+    <ToTranslate>syur0867</ToTranslate>
+  </String>
+  <String index="53">
+    <ToTranslate>Шури$"Йа-а! Фух, фух...... такой тяжёлый. И как Айша и Ринрин управляются с ним......?"@</ToTranslate>
+  </String>
+  <String index="54">
+    <ToTranslate>$Вообще-то никто из них не специализируется на мечах. Похоже, Шури сильно устала, раз забыла об этом.@</ToTranslate>
+  </String>
+  <String index="55">
+    <ToTranslate>$Думаю, я нашёл её как раз вовремя.@</ToTranslate>
+  </String>
+  <String index="56">
+    <ToTranslate>tcg_syo21jc</ToTranslate>
+  </String>
+  <String index="57">
+    <ToTranslate>tcg_syo21m</ToTranslate>
+  </String>
+  <String index="58">
+    <ToTranslate>syur0868</ToTranslate>
+  </String>
+  <String index="59">
+    <ToTranslate>Шури$"Ум...... ой! Уа-а."@</ToTranslate>
+  </String>
+  <String index="60">
+    <ToTranslate>Казуто$"Не пытайся размахивать мечом, который не подходит тебе. Ты просто упадёшь под его весом и покалечишь себя."@</ToTranslate>
+  </String>
+  <String index="61">
+    <ToTranslate>tcg_syo21cc</ToTranslate>
+  </String>
+  <String index="62">
+    <ToTranslate>tcg_syo21m</ToTranslate>
+  </String>
+  <String index="63">
+    <ToTranslate>syur0869</ToTranslate>
+  </String>
+  <String index="64">
+    <ToTranslate>Шури$"Хавава? Э-это вы, Господин!?"@</ToTranslate>
+  </String>
+  <String index="65">
+    <ToTranslate>$В её голосе заметна паника. Забыв о мече в руках, она резко повернула голову, чтобы посмотреть на меня.@</ToTranslate>
+  </String>
+  <String index="66">
+    <ToTranslate>Казуто$"Осторожно!"@</ToTranslate>
+  </String>
+  <String index="67">
+    <ToTranslate>tcg_syo21jc</ToTranslate>
+  </String>
+  <String index="68">
+    <ToTranslate>tcg_syo21m</ToTranslate>
+  </String>
+  <String index="69">
+    <ToTranslate>syur0870</ToTranslate>
+  </String>
+  <String index="70">
+    <ToTranslate>Шури$"А-а!"@</ToTranslate>
+  </String>
+  <String index="71">
+    <ToTranslate>SE021</ToTranslate>
+  </String>
+  <String index="72">
+    <ToTranslate>$Весьма неуклюже она попыталась скрыть меч за своей спиной, и мне пришлось её остановить. Падающий меч издал громкий звон.@</ToTranslate>
+  </String>
+  <String index="73">
+    <ToTranslate>bgm05</ToTranslate>
+  </String>
+  <String index="74">
+    <ToTranslate>Казуто $"Не стоит таким образом хвататься за обоюдоострый меч. Так ты можешь порезаться."@</ToTranslate>
+  </String>
+  <String index="75">
+    <ToTranslate>tcg_syo21tc</ToTranslate>
+  </String>
+  <String index="76">
+    <ToTranslate>tcg_syo21m</ToTranslate>
+  </String>
+  <String index="77">
+    <ToTranslate>syur0871</ToTranslate>
+  </String>
+  <String index="78">
+    <ToTranslate>Шури$"У-у....простите! Простите меня!"@</ToTranslate>
+  </String>
+  <String index="79">
+    <ToTranslate>$Да не за что здесь извиняться. Я пожал плечами в знак того что я не сержусь.@</ToTranslate>
+  </String>
+  <String index="80">
+    <ToTranslate>Казуто$"Но признаться, я был удивлён когда увидел что ты практикуешься здесь по ночам. Впечатляет."@</ToTranslate>
+  </String>
+  <String index="81">
+    <ToTranslate>tcg_syo21pc</ToTranslate>
+  </String>
+  <String index="82">
+    <ToTranslate>tcg_syo21m</ToTranslate>
+  </String>
+  <String index="83">
+    <ToTranslate>syur0872</ToTranslate>
+  </String>
+  <String index="84">
+    <ToTranslate>Шури$"Меня похвалили......"@</ToTranslate>
+  </String>
+  <String index="85">
+    <ToTranslate>$Я... лучше сделаю вид что не заметил того что она вся в ссадинах.@</ToTranslate>
+  </String>
+  <String index="86">
+    <ToTranslate>Казуто$"Похоже, ты не слишком хорошо справляешься с мечом. Я, конечно, восхищён твоей тягой к практике, но не хочу чтобы ты покалечилась."@</ToTranslate>
+  </String>
+  <String index="87">
+    <ToTranslate>tcg_syo21tc</ToTranslate>
+  </String>
+  <String index="88">
+    <ToTranslate>tcg_syo21m</ToTranslate>
+  </String>
+  <String index="89">
+    <ToTranslate>syur0873</ToTranslate>
+  </String>
+  <String index="90">
+    <ToTranslate>Шури$"Простите, пожалуйста, простите меня...... но, но это была просто навязчивая идея."@</ToTranslate>
+  </String>
+  <String index="91">
+    <ToTranslate>Казуто$"Я не ругаю тебя, я восхищаюсь тобой."@</ToTranslate>
+  </String>
+  <String index="92">
+    <ToTranslate>$Шури по-прежнему продолжает ёжиться, поэтому я решил, что сам пойду и подберу меч.@</ToTranslate>
+  </String>
+  <String index="93">
+    <ToTranslate>tcg_syo21jc</ToTranslate>
+  </String>
+  <String index="94">
+    <ToTranslate>tcg_syo21m</ToTranslate>
+  </String>
+  <String index="95">
+    <ToTranslate>syur0874</ToTranslate>
+  </String>
+  <String index="96">
+    <ToTranslate>Шури$"Ох...... сожалею, что побеспокоила вас."@</ToTranslate>
+  </String>
+  <String index="97">
+    <ToTranslate>Казуто$"Ты слишком часто извиняешься."@</ToTranslate>
+  </String>
+  <String index="98">
+    <ToTranslate>$Мне следует немного подождать, прежде чем вернуть ей меч.@</ToTranslate>
+  </String>
+  <String index="99">
+    <ToTranslate>Казуто$"Ты практикуешься по ночам потому что не хочешь чтобы тебя видели? Думаю, будет быстрее, если Айша или Ринрин поучат тебя."@</ToTranslate>
+  </String>
+  <String index="100">
+    <ToTranslate>tcg_syo11gc</ToTranslate>
+  </String>
+  <String index="101">
+    <ToTranslate>tcg_syo11m</ToTranslate>
+  </String>
+  <String index="102">
+    <ToTranslate>syur0875</ToTranslate>
+  </String>
+  <String index="103">
+    <ToTranslate>Шури$"Ну...... возможно и так, но это отчасти неловко."@</ToTranslate>
+  </String>
+  <String index="104">
+    <ToTranslate>Казуто$"Я так не думаю."@</ToTranslate>
+  </String>
+  <String index="105">
+    <ToTranslate>tcg_syo41gc</ToTranslate>
+  </String>
+  <String index="106">
+    <ToTranslate>tcg_syo41m</ToTranslate>
+  </String>
+  <String index="107">
+    <ToTranslate>syur0876</ToTranslate>
+  </String>
+  <String index="108">
+    <ToTranslate>Шури$"Если я обращусь к ним за помощью, баланс сил между нами будет нарушен." @</ToTranslate>
+  </String>
+  <String index="109">
+    <ToTranslate>$Прозвучало как то напыщенно. В Шури проснулась гордыня......?@</ToTranslate>
+  </String>
+  <String index="110">
+    <ToTranslate>syur0877</ToTranslate>
+  </String>
+  <String index="111">
+    <ToTranslate>Шури$"А ещё я боюсь учиться у них, со стороны они выглядят очень опасными."@</ToTranslate>
+  </String>
+  <String index="112">
+    <ToTranslate>Казуто$"......а-а, так вот где собака зарыта."@</ToTranslate>
+  </String>
+  <String index="113">
+    <ToTranslate>tcg_syo11ac</ToTranslate>
+  </String>
+  <String index="114">
+    <ToTranslate>tcg_syo11m</ToTranslate>
+  </String>
+  <String index="115">
+    <ToTranslate>syur0878</ToTranslate>
+  </String>
+  <String index="116">
+    <ToTranslate>Шури$"Что?"@</ToTranslate>
+  </String>
+  <String index="117">
+    <ToTranslate>Казуто$"Эм, ничего. В любом случае, это заблуждение, сильные люди способны контролировать свою силу и это снижает возможность причинить боль кому-либо."@</ToTranslate>
+  </String>
+  <String index="118">
+    <ToTranslate>tcg_syo41gc</ToTranslate>
+  </String>
+  <String index="119">
+    <ToTranslate>tcg_syo41m</ToTranslate>
+  </String>
+  <String index="120">
+    <ToTranslate>syur0879</ToTranslate>
+  </String>
+  <String index="121">
+    <ToTranslate>Шури$"Логически я понимаю это......"@</ToTranslate>
+  </String>
+  <String index="122">
+    <ToTranslate>Казуто$"Гораздо опаснее, если кто-то неподготовленный вроде тебя занимается самостоятельно. Ты ведь только что чуть не поранилась?"@</ToTranslate>
+  </String>
+  <String index="123">
+    <ToTranslate>tcg_syo21jc</ToTranslate>
+  </String>
+  <String index="124">
+    <ToTranslate>tcg_syo21m</ToTranslate>
+  </String>
+  <String index="125">
+    <ToTranslate>syur0880</ToTranslate>
+  </String>
+  <String index="126">
+    <ToTranslate>Шури$"У-у-у......"@</ToTranslate>
+  </String>
+  <String index="127">
+    <ToTranslate>$Шури стала ещё подавленнее. Она схожа с ребёнком, которого отчитывают, хотя я и не пытался упрекать её.@</ToTranslate>
+  </String>
+  <String index="128">
+    <ToTranslate>Казуто$"Не думаю, что ты сходу овладеешь мечом. В конце концов, ты же не солдат, верно?"@</ToTranslate>
+  </String>
+  <String index="129">
+    <ToTranslate>tcg_syo21cc</ToTranslate>
+  </String>
+  <String index="130">
+    <ToTranslate>tcg_syo21m</ToTranslate>
+  </String>
+  <String index="131">
+    <ToTranslate>syur0881</ToTranslate>
+  </String>
+  <String index="132">
+    <ToTranslate>Шури$"Аа......? Э-это правда...... но мои навыки просто ужасны."@</ToTranslate>
+  </String>
+  <String index="133">
+    <ToTranslate>$Не могу отрицать только что сказанного. Невозможно даже представить врага, который добровольно напорется на её меч.@</ToTranslate>
+  </String>
+  <String index="134">
+    <ToTranslate>tcg_syo11gc</ToTranslate>
+  </String>
+  <String index="135">
+    <ToTranslate>tcg_syo11m</ToTranslate>
+  </String>
+  <String index="136">
+    <ToTranslate>syur0882</ToTranslate>
+  </String>
+  <String index="137">
+    <ToTranslate>Шури $"Но...... я не хочу быть просто обузой на поле боя. Я хочу быть в состоянии защитить хотя бы себя."@</ToTranslate>
+  </String>
+  <String index="138">
+    <ToTranslate>Казуто$"Да, я разделяю твои чувства......"@</ToTranslate>
+  </String>
+  <String index="139">
+    <ToTranslate>tcg_syo21jc</ToTranslate>
+  </String>
+  <String index="140">
+    <ToTranslate>tcg_syo21m</ToTranslate>
+  </String>
+  <String index="141">
+    <ToTranslate>syur0883</ToTranslate>
+  </String>
+  <String index="142">
+    <ToTranslate>Шури$"Я знаю, это странно...что я занимаюсь подобным..."@</ToTranslate>
+  </String>
+  <String index="143">
+    <ToTranslate>Казуто$"Только не унывай!"@</ToTranslate>
+  </String>
+  <String index="144">
+    <ToTranslate>tcg_syo21mc</ToTranslate>
+  </String>
+  <String index="145">
+    <ToTranslate>tcg_syo21m</ToTranslate>
+  </String>
+  <String index="146">
+    <ToTranslate>syur0884</ToTranslate>
+  </String>
+  <String index="147">
+    <ToTranslate>Шури$"А-аа?! Простите, простите, простите меня."@</ToTranslate>
+  </String>
+  <String index="148">
+    <ToTranslate>$Она извинилась уже столько раз...... хмм, возможно, позже я ещё пожалею об этом.@</ToTranslate>
+  </String>
+  <String index="149">
+    <ToTranslate>$Похвально, что она пытается научиться обращаться с мечом.@</ToTranslate>
+  </String>
+  <String index="150">
+    <ToTranslate>Казуто$"Только не пытайся сходу стать кем-то вроде Айши или Ринрин, ладно? Итак, почему бы тебе не начать с уровня начинающего?"@</ToTranslate>
+  </String>
+  <String index="151">
+    <ToTranslate>tcg_syo21dc</ToTranslate>
+  </String>
+  <String index="152">
+    <ToTranslate>tcg_syo21m</ToTranslate>
+  </String>
+  <String index="153">
+    <ToTranslate>syur0885</ToTranslate>
+  </String>
+  <String index="154">
+    <ToTranslate>Шури $"Уровня начинающего?"@</ToTranslate>
+  </String>
+  <String index="155">
+    <ToTranslate>$Шури перестала кланяться и подняла голову. Я взял её за руку......@</ToTranslate>
+  </String>
+  <String index="156">
+    <ToTranslate>tcg_syo21fc</ToTranslate>
+  </String>
+  <String index="157">
+    <ToTranslate>tcg_syo21m</ToTranslate>
+  </String>
+  <String index="158">
+    <ToTranslate>syur0886</ToTranslate>
+  </String>
+  <String index="159">
+    <ToTranslate>Шури $"Ой......"@</ToTranslate>
+  </String>
+  <String index="160">
+    <ToTranslate>$Я показываю ей как правильно браться за рукоять. Положив свою руку сверху, я собираюсь научить её держаться за меч.@</ToTranslate>
+  </String>
+  <String index="161">
+    <ToTranslate>Казуто$"Если что, я мог бы обучить тебя основам. Хочешь попробовать?"@</ToTranslate>
+  </String>
+  <String index="162">
+    <ToTranslate>tcg_syo21pc</ToTranslate>
+  </String>
+  <String index="163">
+    <ToTranslate>tcg_syo21m</ToTranslate>
+  </String>
+  <String index="164">
+    <ToTranslate>syur0887</ToTranslate>
+  </String>
+  <String index="165">
+    <ToTranslate>Шури$"Господин будет учить меня? Ой, как же......"@</ToTranslate>
+  </String>
+  <String index="166">
+    <ToTranslate>$Я бодро кивнул в ответ на её бормотания 'если это приемлемо'.@</ToTranslate>
+  </String>
+  <String index="167">
+    <ToTranslate>Казуто$"Я и сам знаю только то, чему научился в клубе...... то есть, в настоящих боях я не участвовал. Зато могу показать, как правильно держать меч."@</ToTranslate>
+  </String>
+  <String index="168">
+    <ToTranslate>tcg_syo21mc</ToTranslate>
+  </String>
+  <String index="169">
+    <ToTranslate>tcg_syo21m</ToTranslate>
+  </String>
+  <String index="170">
+    <ToTranslate>syur0888</ToTranslate>
+  </String>
+  <String index="171">
+    <ToTranslate>Шури$"Д-да. Я-я согласна, согласна...... пожалуйста, научите меня."@</ToTranslate>
+  </String>
+  <String index="172">
+    <ToTranslate>Казуто$"Что не так? Ты заикаешься. Не стоит если не......"@</ToTranslate>
+  </String>
+  <String index="173">
+    <ToTranslate>tcg_syo21fc</ToTranslate>
+  </String>
+  <String index="174">
+    <ToTranslate>tcg_syo21m</ToTranslate>
+  </String>
+  <String index="175">
+    <ToTranslate>syur0889</ToTranslate>
+  </String>
+  <String index="176">
+    <ToTranslate>Шури$"Рука, ваша......"@</ToTranslate>
+  </String>
+  <String index="177">
+    <ToTranslate>$А?!@</ToTranslate>
+  </String>
+  <String index="178">
+    <ToTranslate>Казуто$"Ой прости! Я не пытался...... ну знаешь..."@</ToTranslate>
+  </String>
+  <String index="179">
+    <ToTranslate>tcg_syo21mc</ToTranslate>
+  </String>
+  <String index="180">
+    <ToTranslate>tcg_syo21m</ToTranslate>
+  </String>
+  <String index="181">
+    <ToTranslate>syur0890</ToTranslate>
+  </String>
+  <String index="182">
+    <ToTranslate>Шури$"Хавава. Мне очень жаль. Я не хотела...... не то чтобы я была против, просто...... это так смущает!"@</ToTranslate>
+  </String>
+  <String index="183">
+    <ToTranslate>$Сразу я не обратил внимания, но сейчас, я начал отчётливо, совершенно по иному ощущать её прикосновения.@</ToTranslate>
+  </String>
+  <String index="184">
+    <ToTranslate>tcg_syo11kc</ToTranslate>
+  </String>
+  <String index="185">
+    <ToTranslate>tcg_syo11m</ToTranslate>
+  </String>
+  <String index="186">
+    <ToTranslate>syur0891</ToTranslate>
+  </String>
+  <String index="187">
+    <ToTranslate>Шури$"Я не против этого...... правда."@</ToTranslate>
+  </String>
+  <String index="188">
+    <ToTranslate>$Её пальцы невероятно эластичны. А её рука тёплая, мягкая и очень крохотная......@</ToTranslate>
+  </String>
+  <String index="189">
+    <ToTranslate>tcg_syo21fc</ToTranslate>
+  </String>
+  <String index="190">
+    <ToTranslate>tcg_syo21m</ToTranslate>
+  </String>
+  <String index="191">
+    <ToTranslate>syur0892</ToTranslate>
+  </String>
+  <String index="192">
+    <ToTranslate>Шури$"Это......?"@</ToTranslate>
+  </String>
+  <String index="193">
+    <ToTranslate>Казуто$"Так, начинаем! Только не отвлекайся!"@</ToTranslate>
+  </String>
+  <String index="194">
+    <ToTranslate>tcg_syo21cc</ToTranslate>
+  </String>
+  <String index="195">
+    <ToTranslate>tcg_syo21m</ToTranslate>
+  </String>
+  <String index="196">
+    <ToTranslate>syur0893</ToTranslate>
+  </String>
+  <String index="197">
+    <ToTranslate>Шури$"Д-да?!"@</ToTranslate>
+  </String>
+  <String index="198">
+    <ToTranslate>$Хотя я и сказал её следить за мечом, теперь уже я сам отвлекаю её.@</ToTranslate>
+  </String>
+  <String index="199">
+    <ToTranslate>Казуто$"Хм... что ж, начнём с основных движений. Не стоит просто махать им выше своей головы, просто вот так вот двигай запястьем."@</ToTranslate>
+  </String>
+  <String index="200">
+    <ToTranslate>tcg_syo11ac</ToTranslate>
+  </String>
+  <String index="201">
+    <ToTranslate>tcg_syo11m</ToTranslate>
+  </String>
+  <String index="202">
+    <ToTranslate>syur0894</ToTranslate>
+  </String>
+  <String index="203">
+    <ToTranslate>Шури$"Вот так?"@</ToTranslate>
+  </String>
+  <String index="204">
+    <ToTranslate>SE007</ToTranslate>
+  </String>
+  <String index="205">
+    <ToTranslate>Казуто$"Да, хорошо получается. Хорошая пальце-дробилка...... то есть, представить, что бьёшь врага по рукам и заноси меч."@</ToTranslate>
+  </String>
+  <String index="206">
+    <ToTranslate>tcg_syo11bc</ToTranslate>
+  </String>
+  <String index="207">
+    <ToTranslate>tcg_syo11m</ToTranslate>
+  </String>
+  <String index="208">
+    <ToTranslate>syur0895</ToTranslate>
+  </String>
+  <String index="209">
+    <ToTranslate>Шури$"Удар по рукам противника... кажется логичным. Хей! Эй!"@</ToTranslate>
+  </String>
+  <String index="210">
+    <ToTranslate>SE007</ToTranslate>
+  </String>
+  <String index="211">
+    <ToTranslate>Казуто$"Не целься по моим рукам!"@</ToTranslate>
+  </String>
+  <String index="212">
+    <ToTranslate>tcg_syo21cc</ToTranslate>
+  </String>
+  <String index="213">
+    <ToTranslate>tcg_syo21m</ToTranslate>
+  </String>
+  <String index="214">
+    <ToTranslate>syur0896</ToTranslate>
+  </String>
+  <String index="215">
+    <ToTranslate>Шури$"Простите меня! Вы правы...... я должна направлять меч более осторожно......"@</ToTranslate>
+  </String>
+  <String index="216">
+    <ToTranslate>$Я зашёл Шури за спину, тому как находиться спереди сейчас очень опасно.@</ToTranslate>
+  </String>
+  <String index="217">
+    <ToTranslate>tcg_syo11ac</ToTranslate>
+  </String>
+  <String index="218">
+    <ToTranslate>tcg_syo11m</ToTranslate>
+  </String>
+  <String index="219">
+    <ToTranslate>syur0897</ToTranslate>
+  </String>
+  <String index="220">
+    <ToTranslate>Шури$"Ия! Ей! Хей!"@</ToTranslate>
+  </String>
+  <String index="221">
+    <ToTranslate>Казуто$"Делаешь успехи. Продолжай также и руки сами скоро привыкнут."@</ToTranslate>
+  </String>
+  <String index="222">
+    <ToTranslate>tcg_syo11bc</ToTranslate>
+  </String>
+  <String index="223">
+    <ToTranslate>tcg_syo11m</ToTranslate>
+  </String>
+  <String index="224">
+    <ToTranslate>syur0898</ToTranslate>
+  </String>
+  <String index="225">
+    <ToTranslate>Шури$"Есть!"@</ToTranslate>
+  </String>
+  <String index="226">
+    <ToTranslate>$Сердце бьётся быстрее...... не думаю что только потому что я только что чуть не лишился руки...@</ToTranslate>
+  </String>
+  <String index="227">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="228">
+    <ToTranslate>kyara_kesi</ToTranslate>
+  </String>
+  <String index="229">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+</DBS>
+
+</poem>

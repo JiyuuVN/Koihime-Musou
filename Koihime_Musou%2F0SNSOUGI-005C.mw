@@ -1,0 +1,303 @@
+[[Koihime Musou/Прогресс перевода/Сюжет|[Назад]]]
+<poem>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<DBS>
+  <String index="0">
+    <ToTranslate>bcg_gi_outcast_a</ToTranslate>
+  </String>
+  <String index="1">
+    <ToTranslate>tcg_ton14ca</ToTranslate>
+  </String>
+  <String index="2">
+    <ToTranslate>tcg_ton14m</ToTranslate>
+  </String>
+  <String index="3">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="4">
+    <ToTranslate>bgm13</ToTranslate>
+  </String>
+  <String index="5">
+    <ToTranslate>kato0295</ToTranslate>
+  </String>
+  <String index="6">
+    <ToTranslate>Какотон$Кхх!.. Неужели я... Неужели я снова проиграю?@</ToTranslate>
+  </String>
+  <String index="7">
+    <ToTranslate>tcg_en12aa</ToTranslate>
+  </String>
+  <String index="8">
+    <ToTranslate>tcg_en12m</ToTranslate>
+  </String>
+  <String index="9">
+    <ToTranslate>kaen0139</ToTranslate>
+  </String>
+  <String index="10">
+    <ToTranslate>Какоэн$Сестра, мы отступаем.@</ToTranslate>
+  </String>
+  <String index="11">
+    <ToTranslate>tcg_ton14ja</ToTranslate>
+  </String>
+  <String index="12">
+    <ToTranslate>tcg_ton14m</ToTranslate>
+  </String>
+  <String index="13">
+    <ToTranslate>kato0296</ToTranslate>
+  </String>
+  <String index="14">
+    <ToTranslate>Какотон$А я - нет!@</ToTranslate>
+  </String>
+  <String index="15">
+    <ToTranslate>tcg_kyo12ca</ToTranslate>
+  </String>
+  <String index="16">
+    <ToTranslate>tcg_kyo12m</ToTranslate>
+  </String>
+  <String index="17">
+    <ToTranslate>kii_0058</ToTranslate>
+  </String>
+  <String index="18">
+    <ToTranslate>Кёчё$Что вы говорите? Если так пойдёт дальше, противник захватит вас в плен! Это на вас не похоже, Шунран-сама!@</ToTranslate>
+  </String>
+  <String index="19">
+    <ToTranslate>tcg_ton14ca</ToTranslate>
+  </String>
+  <String index="20">
+    <ToTranslate>tcg_ton14m</ToTranslate>
+  </String>
+  <String index="21">
+    <ToTranslate>kato0297</ToTranslate>
+  </String>
+  <String index="22">
+    <ToTranslate>Какотон$Но я уже несколько раз проиграла им! Лучше ворваться во вражеский лагерь и умереть смертью воина, чем жить в позоре!@</ToTranslate>
+  </String>
+  <String index="23">
+    <ToTranslate>tcg_en12ja</ToTranslate>
+  </String>
+  <String index="24">
+    <ToTranslate>tcg_en12m</ToTranslate>
+  </String>
+  <String index="25">
+    <ToTranslate>kaen0140</ToTranslate>
+  </String>
+  <String index="26">
+    <ToTranslate>Какоэн$Я не позволю тебе это сделать. За нами Карин-сама. Мы ещё не окончательно проиграли.@</ToTranslate>
+  </String>
+  <String index="27">
+    <ToTranslate>tcg_jun21ha</ToTranslate>
+  </String>
+  <String index="28">
+    <ToTranslate>tcg_jun21m</ToTranslate>
+  </String>
+  <String index="29">
+    <ToTranslate>jyun0148</ToTranslate>
+  </String>
+  <String index="30">
+    <ToTranslate>Джунику$Шууран права, Шунран.@</ToTranslate>
+  </String>
+  <String index="31">
+    <ToTranslate>tcg_ton14da</ToTranslate>
+  </String>
+  <String index="32">
+    <ToTranslate>tcg_ton14m</ToTranslate>
+  </String>
+  <String index="33">
+    <ToTranslate>kato0298</ToTranslate>
+  </String>
+  <String index="34">
+    <ToTranslate>Какотон$Кейфа...@</ToTranslate>
+  </String>
+  <String index="35">
+    <ToTranslate>jyun0149</ToTranslate>
+  </String>
+  <String index="36">
+    <ToTranslate>Джунику$Сейчас наша задача - соединиться с отрядом Карин-сама.@</ToTranslate>
+  </String>
+  <String index="37">
+    <ToTranslate>tcg_kyo22ha</ToTranslate>
+  </String>
+  <String index="38">
+    <ToTranslate>tcg_kyo22m</ToTranslate>
+  </String>
+  <String index="39">
+    <ToTranslate>kii_0059</ToTranslate>
+  </String>
+  <String index="40">
+    <ToTranslate>Кёчё$Кейфа-тян права. Основному войску не хватает командования. Кроме того, армия Цао Вей плохо выглядит без генерала Какотон.@</ToTranslate>
+  </String>
+  <String index="41">
+    <ToTranslate>tcg_en12aa</ToTranslate>
+  </String>
+  <String index="42">
+    <ToTranslate>tcg_en12m</ToTranslate>
+  </String>
+  <String index="43">
+    <ToTranslate>kaen0141</ToTranslate>
+  </String>
+  <String index="44">
+    <ToTranslate>Какоэн$Верно. Я ещё раз тебе говорю, сестра - мы отступаем.@</ToTranslate>
+  </String>
+  <String index="45">
+    <ToTranslate>tcg_ton14ea</ToTranslate>
+  </String>
+  <String index="46">
+    <ToTranslate>tcg_ton14m</ToTranslate>
+  </String>
+  <String index="47">
+    <ToTranslate>kato0299</ToTranslate>
+  </String>
+  <String index="48">
+    <ToTranslate>Какотон$...Хорошо.@</ToTranslate>
+  </String>
+  <String index="49">
+    <ToTranslate>tcg_en22ga</ToTranslate>
+  </String>
+  <String index="50">
+    <ToTranslate>tcg_en22m</ToTranslate>
+  </String>
+  <String index="51">
+    <ToTranslate>kaen0142</ToTranslate>
+  </String>
+  <String index="52">
+    <ToTranslate>Какоэн$Что, опять глаза на мокром месте?@</ToTranslate>
+  </String>
+  <String index="53">
+    <ToTranslate>tcg_ton14ca</ToTranslate>
+  </String>
+  <String index="54">
+    <ToTranslate>tcg_ton14m</ToTranslate>
+  </String>
+  <String index="55">
+    <ToTranslate>kato0300</ToTranslate>
+  </String>
+  <String index="56">
+    <ToTranslate>Какотон$Ничего подобного!@</ToTranslate>
+  </String>
+  <String index="57">
+    <ToTranslate>tcg_en12ba</ToTranslate>
+  </String>
+  <String index="58">
+    <ToTranslate>tcg_en12m</ToTranslate>
+  </String>
+  <String index="59">
+    <ToTranslate>kaen0143</ToTranslate>
+  </String>
+  <String index="60">
+    <ToTranslate>Какоэн$Хмф, ну, это же моя сестра. Давай отступим и присоединимся к Карин-сама.@</ToTranslate>
+  </String>
+  <String index="61">
+    <ToTranslate>tcg_jun11da</ToTranslate>
+  </String>
+  <String index="62">
+    <ToTranslate>tcg_jun11m</ToTranslate>
+  </String>
+  <String index="63">
+    <ToTranslate>jyun0150</ToTranslate>
+  </String>
+  <String index="64">
+    <ToTranslate>Джунику$Всем войскам отступать! Мы должны покинуть крепость!@</ToTranslate>
+  </String>
+  <String index="65">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="66">
+    <ToTranslate>aa</ToTranslate>
+  </String>
+  <String index="67">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="68">
+    <ToTranslate>aa</ToTranslate>
+  </String>
+  <String index="69">
+    <ToTranslate>bcg_gi_outcast_a</ToTranslate>
+  </String>
+  <String index="70">
+    <ToTranslate>tcg_bac12aa</ToTranslate>
+  </String>
+  <String index="71">
+    <ToTranslate>tcg_bac12m</ToTranslate>
+  </String>
+  <String index="72">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="73">
+    <ToTranslate>bgm08</ToTranslate>
+  </String>
+  <String index="74">
+    <ToTranslate>sui_0147</ToTranslate>
+  </String>
+  <String index="75">
+    <ToTranslate>Суй$Противник отступает!@</ToTranslate>
+  </String>
+  <String index="76">
+    <ToTranslate>tcg_cho31ba</ToTranslate>
+  </String>
+  <String index="77">
+    <ToTranslate>tcg_cho31m</ToTranslate>
+  </String>
+  <String index="78">
+    <ToTranslate>rinr0472</ToTranslate>
+  </String>
+  <String index="79">
+    <ToTranslate>Ринрин$Мы победили!@</ToTranslate>
+  </String>
+  <String index="80">
+    <ToTranslate>tcg_kan11ma</ToTranslate>
+  </String>
+  <String index="81">
+    <ToTranslate>tcg_kan11m</ToTranslate>
+  </String>
+  <String index="82">
+    <ToTranslate>aisy0853</ToTranslate>
+  </String>
+  <String index="83">
+    <ToTranslate>Айша$Отлично! Давайте отпразднуем победу!@</ToTranslate>
+  </String>
+  <String index="84">
+    <ToTranslate>tcg_cun21ca</ToTranslate>
+  </String>
+  <String index="85">
+    <ToTranslate>tcg_cun21m</ToTranslate>
+  </String>
+  <String index="86">
+    <ToTranslate>sei_0209</ToTranslate>
+  </String>
+  <String index="87">
+    <ToTranslate>Сэй$Мы выиграли!@</ToTranslate>
+  </String>
+  <String index="88">
+    <ToTranslate>SE048</ToTranslate>
+  </String>
+  <String index="89">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="90">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="91">
+    <ToTranslate>_MsgBoxMain_On</ToTranslate>
+  </String>
+  <String index="92">
+    <ToTranslate>$...Итак.@</ToTranslate>
+  </String>
+  <String index="93">
+    <ToTranslate>$Несмотря на все неприятности, мы умудрились захватить крепость.@</ToTranslate>
+  </String>
+  <String index="94">
+    <ToTranslate>$Но при преследовании противника мы понесли большие потери, так что мы поскорее начали приводить в порядок вооружение и продовольствие.@</ToTranslate>
+  </String>
+  <String index="95">
+    <ToTranslate>_MsgBoxMain_Off</ToTranslate>
+  </String>
+  <String index="96">
+    <ToTranslate>bg_black</ToTranslate>
+  </String>
+  <String index="97">
+    <ToTranslate>_kyotenphase</ToTranslate>
+  </String>
+</DBS>
+
+</poem>
+[[Koihime Musou/Прогресс перевода/Сюжет|[Назад]]]
